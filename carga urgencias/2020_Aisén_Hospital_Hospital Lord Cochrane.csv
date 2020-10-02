@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,-,-,-,-,-,-,-,-,-,0,-,-,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2504,60,69,73,78,63,99,87,51,58,84,70,94,83,58,74,60,51,65,79,46,64,40,40,-,15,82,69,80,61,83,77,61,7,100,82,61,48,54,72,6,2020,Aisén,Hospital,Hospital Lord Cochrane
+TOTAL CAUSAS SISTEMA RESPIRATORIO,255,2,9,2,4,6,12,4,6,7,15,17,50,28,7,5,6,4,6,8,3,2,1,5,-,0,6,3,6,4,2,4,3,1,2,6,1,0,1,6,1,2020,Aisén,Hospital,Hospital Lord Cochrane
+IRA Alta (J00-J06),158,1,7,0,3,3,11,3,5,4,10,12,32,17,4,5,3,2,3,4,0,1,0,5,-,0,2,2,4,0,1,1,2,1,1,2,1,0,1,4,1,2020,Aisén,Hospital,Hospital Lord Cochrane
+Influenza (J09-J11),3,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Neumonía (J12-J18),7,0,0,0,0,0,0,0,1,1,0,1,2,0,1,0,0,0,1,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Bronquitis/bronquiolitis aguda (J20-J21),45,1,2,0,0,1,1,0,0,1,3,1,10,7,2,0,0,2,1,1,2,1,1,0,-,0,1,1,0,0,1,3,1,0,1,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Crisis obstructiva bronquial (J40-J46),16,0,0,0,0,1,0,1,0,0,1,1,2,0,0,0,1,0,1,2,0,0,0,0,-,0,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,0,0,2,1,1,0,0,0,0,1,1,3,4,0,0,2,0,0,1,1,0,0,0,-,0,3,0,2,2,0,0,0,0,0,2,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+COVID 19 Sospechoso (U072),0,0,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+COVID 19 Confirmado (U071),0,0,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+TOTAL CAUSAS SISTEMA CIRCULATORIO,63,1,0,1,0,2,3,0,0,1,2,2,1,3,3,0,1,2,0,12,1,0,2,3,-,0,4,1,1,0,1,3,4,0,0,4,2,1,1,1,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Infarto agudo miocardio,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Accidente vascular encefálico,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Crisis hipertensiva,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Arritmia grave,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+Otras causas circulatorias,56,0,0,1,0,2,2,0,0,1,2,2,0,3,3,0,1,2,0,11,1,0,2,3,-,0,4,1,1,0,1,3,3,0,0,4,1,0,1,1,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,603,23,26,32,25,13,23,28,19,20,21,19,7,20,20,23,17,25,14,20,5,23,11,4,-,5,12,11,11,21,16,12,17,3,4,16,5,4,12,13,3,2020,Aisén,Hospital,Hospital Lord Cochrane
+Accidentes del tránsito,466,22,26,26,25,10,21,22,14,11,12,19,3,13,16,23,17,12,13,11,5,10,7,4,-,0,10,11,8,2,16,12,17,3,3,16,5,2,3,13,3,2020,Aisén,Hospital,Hospital Lord Cochrane
+Otras causas externas,137,1,0,6,0,3,2,6,5,9,9,0,4,7,4,0,0,13,1,9,0,13,4,0,-,5,2,0,3,19,0,0,0,0,1,0,0,2,9,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+DIARREA AGUDA (A00-A09),137,7,9,5,8,5,7,9,6,6,12,3,4,1,2,1,3,1,4,2,2,6,0,2,-,1,5,0,1,3,2,1,1,0,6,1,1,3,6,1,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+TOTAL DEMÁS CAUSAS,1446,27,25,33,41,37,54,46,20,24,34,29,32,31,26,45,33,19,41,37,35,33,26,26,-,9,55,54,61,33,62,57,36,3,88,55,52,40,34,51,2,2020,Aisén,Hospital,Hospital Lord Cochrane
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,94,1,2,4,2,2,2,2,3,1,5,5,1,1,1,1,3,2,0,2,1,0,3,1,-,1,1,3,3,0,5,5,16,0,0,7,4,1,0,3,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+- CAUSAS SISTEMA CIRCULATORIO,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,-,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+- CAUSAS SISTEMA RESPIRATORIO,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+- CORONAVIRUS (U071),0,0,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+- TRAUMATISMOS Y ENVENENAMIENTOS,8,0,1,2,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,-,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+- LAS DEMÁS CAUSAS,76,1,1,2,2,1,2,2,2,1,4,4,1,1,0,1,2,2,0,1,0,0,2,1,-,1,1,3,3,0,5,5,15,0,0,5,3,0,0,2,0,2020,Aisén,Hospital,Hospital Lord Cochrane
+CIRUGÍAS DE URGENCIA,9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2020,Aisén,Hospital,Hospital Lord Cochrane

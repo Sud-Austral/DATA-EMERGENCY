@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,176,176,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+TOTAL CAUSAS SISTEMA RESPIRATORIO,56,56,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+IRA Alta (J00-J06),38,38,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Neumonía (J12-J18),8,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Bronquitis/bronquiolitis aguda (J20-J21),4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Crisis obstructiva bronquial (J40-J46),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Accidente vascular encefálico,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Crisis hipertensiva,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Otras causas circulatorias,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+Otras causas externas,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+DIARREA AGUDA (A00-A09),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+TOTAL DEMÁS CAUSAS,120,120,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Metropolitano Sur,SAPU,Centro de Salud Familiar Santa Laura

@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Influenza (J09-J11),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Crisis hipertensiva,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Arritmia grave,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Otras causas circulatorias,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Accidentes del tránsito,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Otras causas externas,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga

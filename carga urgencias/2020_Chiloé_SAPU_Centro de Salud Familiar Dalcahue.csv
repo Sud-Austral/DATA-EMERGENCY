@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,57,57,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,14,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+IRA Alta (J00-J06),10,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Neumonía (J12-J18),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Bronquitis/bronquiolitis aguda (J20-J21),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Crisis obstructiva bronquial (J40-J46),2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Accidente vascular encefálico,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Crisis hipertensiva,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Otras causas circulatorias,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Otras causas externas,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+DIARREA AGUDA (A00-A09),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL DEMÁS CAUSAS,40,40,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Familiar Dalcahue

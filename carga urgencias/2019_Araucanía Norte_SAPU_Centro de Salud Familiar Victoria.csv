@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,197,197,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+TOTAL CAUSAS SISTEMA RESPIRATORIO,59,59,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+IRA Alta (J00-J06),41,41,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Neumonía (J12-J18),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Bronquitis/bronquiolitis aguda (J20-J21),13,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Crisis obstructiva bronquial (J40-J46),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+TOTAL CAUSAS SISTEMA CIRCULATORIO,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Accidente vascular encefálico,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Crisis hipertensiva,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Otras causas circulatorias,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,21,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+Otras causas externas,21,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+DIARREA AGUDA (A00-A09),21,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+TOTAL DEMÁS CAUSAS,94,94,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Araucanía Norte,SAPU,Centro de Salud Familiar Victoria

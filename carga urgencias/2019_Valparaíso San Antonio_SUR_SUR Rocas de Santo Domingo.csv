@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Influenza (J09-J11),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Crisis hipertensiva,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Arritmia grave,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Otras causas circulatorias,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Accidentes del tránsito,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+Otras causas externas,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Valparaíso San Antonio,SUR,SUR Rocas de Santo Domingo

@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,67,67,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+TOTAL CAUSAS SISTEMA RESPIRATORIO,13,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+IRA Alta (J00-J06),8,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Neumonía (J12-J18),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Bronquitis/bronquiolitis aguda (J20-J21),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Crisis obstructiva bronquial (J40-J46),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Accidente vascular encefálico,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Crisis hipertensiva,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Otras causas circulatorias,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+Otras causas externas,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+DIARREA AGUDA (A00-A09),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+TOTAL DEMÁS CAUSAS,54,54,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Chiloé,SAPU,Centro de Salud Rural Quemchi

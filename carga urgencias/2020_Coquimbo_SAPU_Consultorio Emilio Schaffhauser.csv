@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,62,62,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+TOTAL CAUSAS SISTEMA RESPIRATORIO,14,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+IRA Alta (J00-J06),13,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Neumonía (J12-J18),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Bronquitis/bronquiolitis aguda (J20-J21),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Crisis obstructiva bronquial (J40-J46),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+COVID 19 Sospechoso (U072),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+COVID 19 Confirmado (U071),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+TOTAL CAUSAS SISTEMA CIRCULATORIO,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Accidente vascular encefálico,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Crisis hipertensiva,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Otras causas circulatorias,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,7,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+Otras causas externas,7,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+DIARREA AGUDA (A00-A09),7,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+TOTAL DEMÁS CAUSAS,33,33,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+- CORONAVIRUS (U071),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Consultorio Emilio Schaffhauser

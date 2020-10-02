@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5464,256,225,227,262,203,206,202,193,193,250,256,202,135,94,116,97,111,107,93,78,96,107,103,111,83,66,91,88,92,83,80,100,88,98,127,127,92,126,141,59,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+TOTAL CAUSAS SISTEMA RESPIRATORIO,852,47,49,38,41,26,30,37,42,39,74,62,92,36,24,16,18,16,11,7,11,7,14,10,14,14,7,7,5,8,4,7,3,2,7,2,9,3,5,5,3,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+IRA Alta (J00-J06),713,43,42,34,33,23,26,32,34,34,64,53,79,30,23,13,15,15,8,7,9,4,9,9,8,10,6,5,4,8,3,3,2,2,7,1,6,1,5,1,2,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Influenza (J09-J11),5,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Neumonía (J12-J18),10,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Bronquitis/bronquiolitis aguda (J20-J21),70,3,4,2,4,2,2,4,7,2,7,7,5,5,1,1,2,0,1,0,1,2,2,1,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Crisis obstructiva bronquial (J40-J46),24,0,2,0,2,1,1,0,0,2,1,0,4,0,0,0,1,1,1,0,1,0,2,0,1,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,0,1,1,1,0,0,0,0,0,0,1,4,1,0,2,0,0,1,0,0,1,1,0,3,0,0,2,0,0,0,2,1,0,0,1,1,2,0,4,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+COVID 19 Sospechoso (U072),369,-,-,-,-,-,0,0,0,0,0,0,0,0,0,2,0,1,4,1,3,16,15,21,21,18,21,25,30,21,18,16,15,11,17,18,11,12,17,23,12,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+COVID 19 Confirmado (U071),19,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,0,1,1,0,0,0,3,3,0,0,2,1,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+TOTAL CAUSAS SISTEMA CIRCULATORIO,78,3,1,1,4,2,0,1,2,1,5,1,1,2,2,1,2,4,4,3,1,2,2,2,1,0,3,4,0,2,1,0,1,1,3,5,2,0,3,4,1,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Infarto agudo miocardio,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Accidente vascular encefálico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Crisis hipertensiva,50,1,1,0,1,2,0,1,1,0,3,1,1,0,1,1,0,3,3,1,0,2,2,2,1,0,2,3,0,2,1,0,1,1,3,2,1,0,1,4,1,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Arritmia grave,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Otras causas circulatorias,23,1,0,1,2,0,0,0,1,1,2,0,0,2,1,0,2,1,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,2,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,742,43,37,30,44,27,33,26,32,27,39,33,12,22,4,18,21,13,15,17,11,13,8,10,10,8,5,5,10,14,13,5,14,11,11,12,20,17,27,18,7,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Accidentes del tránsito,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+Otras causas externas,741,43,37,30,44,27,33,26,31,27,39,33,12,22,4,18,21,13,15,17,11,13,8,10,10,8,5,5,10,14,13,5,14,11,11,12,20,17,27,18,7,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+DIARREA AGUDA (A00-A09),325,20,22,34,35,23,14,8,17,11,10,26,11,11,4,5,6,8,8,2,1,2,1,1,2,1,1,2,1,2,0,2,1,5,2,2,7,4,7,6,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+TOTAL DEMÁS CAUSAS,3079,143,116,124,138,125,129,130,100,115,122,134,86,64,60,74,50,69,65,63,51,56,67,59,63,42,28,43,40,45,46,49,66,58,58,85,75,56,67,83,35,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+- CORONAVIRUS (U071),0,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Libertador B. O'Higgins,SAPU,SAPU-Abel Zapata

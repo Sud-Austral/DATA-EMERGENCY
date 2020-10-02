@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,205,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8,0,0,20,-,-,-,-,-,-,0,22,18,49,13,21,18,8,28,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,205,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8,0,0,20,-,-,-,-,-,-,0,22,18,49,13,21,18,8,28,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,82,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,4,0,0,8,-,-,-,-,-,-,0,7,5,30,8,3,7,6,4,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+IRA Alta (J00-J06),54,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,2,0,0,6,-,-,-,-,-,-,0,4,2,24,7,0,2,5,2,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Influenza (J09-J11),1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,1,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Neumonía (J12-J18),3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,1,0,1,0,0,0,1,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Bronquitis/bronquiolitis aguda (J20-J21),5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,1,0,0,0,-,-,-,-,-,-,0,1,2,1,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Crisis obstructiva bronquial (J40-J46),9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,1,0,0,2,-,-,-,-,-,-,0,0,0,3,1,0,0,0,2,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,1,0,1,0,3,5,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+COVID 19 Sospechoso (U072),103,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,4,0,0,9,-,-,-,-,-,-,0,10,10,19,5,14,6,2,24,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+COVID 19 Confirmado (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Infarto agudo miocardio,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Accidente vascular encefálico,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Crisis hipertensiva,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Arritmia grave,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Otras causas circulatorias,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Accidentes del tránsito,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Otras causas externas,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+DIARREA AGUDA (A00-A09),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL DEMÁS CAUSAS,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,3,-,-,-,-,-,-,0,5,3,0,0,4,5,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- CORONAVIRUS (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- LAS DEMÁS CAUSAS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+CIRUGÍAS DE URGENCIA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,2020,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue

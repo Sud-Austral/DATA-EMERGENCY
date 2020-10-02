@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Antofagasta,SAPU,Consultorio María Elena
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4220,80,85,80,78,73,75,78,71,88,82,70,98,113,98,87,110,108,88,110,75,95,73,87,92,81,55,58,79,60,89,84,92,104,93,92,80,91,76,68,96,89,78,55,45,51,59,88,73,55,89,69,77,2016,Antofagasta,SAPU,Consultorio María Elena
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1240,14,13,18,8,20,13,20,21,17,16,18,22,35,26,23,28,29,25,31,25,33,22,22,28,42,21,30,28,32,46,31,31,34,30,30,31,35,33,19,30,33,26,14,6,4,24,25,15,12,15,18,18,2016,Antofagasta,SAPU,Consultorio María Elena
+IRA Alta (J00-J06),1177,14,13,18,8,20,13,20,21,17,15,17,22,33,26,21,28,28,25,31,23,33,22,22,27,37,20,29,24,32,43,29,29,32,26,28,31,33,29,18,26,33,23,13,6,3,22,22,12,12,14,16,18,2016,Antofagasta,SAPU,Consultorio María Elena
+Influenza (J09-J11),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Neumonía (J12-J18),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Bronquitis/bronquiolitis aguda (J20-J21),8,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Crisis obstructiva bronquial (J40-J46),12,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,1,0,2016,Antofagasta,SAPU,Consultorio María Elena
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,3,0,3,2,2,1,4,2,0,2,4,0,2,0,3,1,0,1,2,1,3,0,1,1,0,2016,Antofagasta,SAPU,Consultorio María Elena
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Antofagasta,SAPU,Consultorio María Elena
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Antofagasta,SAPU,Consultorio María Elena
+TOTAL CAUSAS SISTEMA CIRCULATORIO,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Accidente vascular encefálico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Crisis hipertensiva,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Arritmia grave,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Otras causas circulatorias,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,171,0,0,1,4,0,2,1,2,0,1,3,4,2,2,6,8,5,3,6,4,11,6,7,6,4,2,3,0,0,5,0,5,5,1,3,0,4,0,4,8,3,5,4,6,7,4,4,5,0,5,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Accidentes del tránsito,56,0,0,1,1,0,2,1,2,0,0,0,2,0,0,0,4,1,3,3,0,5,4,3,1,1,0,0,0,0,0,0,1,2,0,0,0,1,0,1,0,0,2,0,3,1,1,3,2,0,5,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+Otras causas externas,115,0,0,0,3,0,0,0,0,0,1,3,2,2,2,6,4,4,0,3,4,6,2,4,5,3,2,3,0,0,5,0,4,3,1,3,0,3,0,3,8,3,3,4,3,6,3,1,3,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+DIARREA AGUDA (A00-A09),625,15,15,18,10,11,9,16,18,18,13,2,15,16,20,9,20,9,13,15,7,12,5,10,14,10,4,2,13,3,8,12,13,20,23,17,12,14,9,11,13,20,12,6,14,8,9,5,14,8,19,4,12,2016,Antofagasta,SAPU,Consultorio María Elena
+TOTAL DEMÁS CAUSAS,2181,51,57,43,56,42,51,41,30,53,52,47,57,60,50,49,54,65,47,58,39,39,40,48,44,25,28,23,38,25,30,41,42,45,39,42,37,38,34,34,45,32,35,31,19,32,22,53,39,35,50,47,47,2016,Antofagasta,SAPU,Consultorio María Elena
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Antofagasta,SAPU,Consultorio María Elena
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Antofagasta,SAPU,Consultorio María Elena
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Antofagasta,SAPU,Consultorio María Elena

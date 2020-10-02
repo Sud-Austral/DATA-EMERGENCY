@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,187,187,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,38,38,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+IRA Alta (J00-J06),27,27,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Neumonía (J12-J18),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Bronquitis/bronquiolitis aguda (J20-J21),7,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Crisis obstructiva bronquial (J40-J46),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Accidente vascular encefálico,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Crisis hipertensiva,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Otras causas circulatorias,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,26,26,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+Otras causas externas,26,26,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+DIARREA AGUDA (A00-A09),15,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+TOTAL DEMÁS CAUSAS,107,107,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Coquimbo,SAPU,Centro de Salud Familiar Cardenal Caro

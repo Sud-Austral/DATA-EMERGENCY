@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1035,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,372,563,100,2020,Araucanía Sur,SAR,SAR Conun Huenu
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1035,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,372,563,100,2020,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL CAUSAS SISTEMA RESPIRATORIO,88,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,33,47,8,2020,Araucanía Sur,SAR,SAR Conun Huenu
+IRA Alta (J00-J06),48,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,18,23,7,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Influenza (J09-J11),9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,6,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Neumonía (J12-J18),1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Bronquitis/bronquiolitis aguda (J20-J21),3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Crisis obstructiva bronquial (J40-J46),9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,6,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,7,10,1,2020,Araucanía Sur,SAR,SAR Conun Huenu
+COVID 19 Sospechoso (U072),53,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,13,36,4,2020,Araucanía Sur,SAR,SAR Conun Huenu
+COVID 19 Confirmado (U071),1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,1,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL CAUSAS SISTEMA CIRCULATORIO,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6,10,4,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Infarto agudo miocardio,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Accidente vascular encefálico,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,2,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Crisis hipertensiva,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,4,3,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Arritmia grave,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Otras causas circulatorias,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,4,1,2020,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,159,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,63,83,13,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Accidentes del tránsito,136,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,54,71,11,2020,Araucanía Sur,SAR,SAR Conun Huenu
+Otras causas externas,23,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,9,12,2,2020,Araucanía Sur,SAR,SAR Conun Huenu
+DIARREA AGUDA (A00-A09),98,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,34,55,9,2020,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL DEMÁS CAUSAS,616,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,223,331,62,2020,Araucanía Sur,SAR,SAR Conun Huenu
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+- CORONAVIRUS (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+- LAS DEMÁS CAUSAS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu
+CIRUGÍAS DE URGENCIA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,2020,Araucanía Sur,SAR,SAR Conun Huenu

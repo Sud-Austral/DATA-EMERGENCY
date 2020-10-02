@@ -1,0 +1,149 @@
+2020_Iquique_SAPU_SAPU-Pedro Pulgar Melgarejo.csv
+2020_Iquique_SAPU_SAPU-Cirujano Aguirre.csv
+2019_Araucanía Sur_Hospital_Hospital Makewe (D).csv
+2019_Araucanía Sur_Hospital_Hospital de Gorbea.csv
+2019_Araucanía Sur_Hospital_Hospital Dr. Abraham Godoy Peña de Lautaro.csv
+2019_Araucanía Sur_Hospital_Hospital de Galvarino.csv
+2019_Araucanía Sur_SAPU_Centro de Salud Familiar Pedro de Valdivia (Temuco).csv
+2019_Araucanía Sur_SAPU_SAPU-Miraflores (Temuco).csv
+2019_Araucanía Sur_SAPU_SAPU-Padre Las Casas.csv
+2019_Araucanía Sur_SAPU_SAPU-Santa Rosa.csv
+2019_Araucanía Sur_SAPU_Consultorio Curarrehue.csv
+2019_Araucanía Sur_SAPU_SAPU Pulmahue.csv
+2019_Araucanía Sur_SAPU_SAPU Nueva Imperial.csv
+2019_Araucanía Sur_SAPU_SAPU Pucón.csv
+2019_Araucanía Sur_SAPU_SAPU Amanecer.csv
+2019_Araucanía Sur_SAPU_SAPU Los Volcanes.csv
+2019_Araucanía Sur_SAPU_SAPU Pueblo Nuevo.csv
+2019_Araucanía Sur_SAPU_SAPU Freire.csv
+2019_Araucanía Sur_SAPU_SAPU Villarica.csv
+2019_Araucanía Sur_SAPU_SAPU Villa Alegre.csv
+2019_Araucanía Sur_SAR_SAR Miraflores.csv
+2019_Araucanía Sur_SAR_SAR Lautaro.csv
+2019_Araucanía Sur_SAR_SAR Labranza.csv
+2019_Araucanía Sur_SAR_SAR Conun Huenu.csv
+2019_Valdivia_Hospital_Hospital de Los Lagos.csv
+2019_Valdivia_Hospital_Hospital Clínico Regional (Valdivia).csv
+2019_Valdivia_Hospital_Hospital Juan Morey (La Unión).csv
+2019_Valdivia_Hospital_Hospital Santa Elisa (Mariquina).csv
+2019_Osorno_SUR_SUR Entre Lagos.csv
+2018_Arica_SAPU_SAPU Marco Antonio Carvajal Moreno.csv
+2018_Arica_SAPU_Centro de Salud Familiar Iris Véliz Hume (Ex Oriente).csv
+2018_Iquique_SUR_SUR Camiña.csv
+2018_Coquimbo_SAPU_SAPU Cardenal Caro.csv
+2018_Metropolitano Sur_Hospital_Hospital Barros Luco Trudeau (Santiago, San Miguel).csv
+2018_Metropolitano Sur_Hospital_Hospital El Pino (Santiago, San Bernardo).csv
+2018_Metropolitano Sur_SAPU_SAPU-Julio Acuña Pinzón.csv
+2018_Metropolitano Sur_SAPU_Servicio de Atención Primaria de Urgencia Buin.csv
+2018_Metropolitano Suroriente_SAPU_SAPU-Bernardo Leighton.csv
+2016_Metropolitano Suroriente_SAPU_SAPU-Cardenal Silva Henríquez de Puente Alto.csv
+2016_Metropolitano Suroriente_SAPU_SAPU Karol Wojtyla.csv
+2016_Metropolitano Suroriente_SAPU_SAPU-Bernardo Leighton.csv
+2016_Metropolitano Suroriente_SAPU_SAPU-Villa O'Higgins.csv
+2016_Metropolitano Suroriente_SAPU_Centro de Salud Familiar Jose Alvo.csv
+2016_Metropolitano Suroriente_SAPU_SAPU Trinidad.csv
+2016_Metropolitano Suroriente_SAPU_SAPU José Alvo.csv
+2016_Metropolitano Suroriente_SAR_SAR Padre Manuel Villaseca.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Nancagua.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital Dr. Ricardo Valenzuela Sáez (Rengo).csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Santa Cruz.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Pichilemu.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital Santa Filomena (Graneros).csv
+2016_Libertador B. O'Higgins_Hospital_Hospital San Juan de Dios (San Fernando).csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Lolol.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital Del Salvador (Peumo).csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Litueche.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital Regional de Rancagua.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Pichidegua.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital San Vicente de Tagua-Tagua.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Coínco.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital de Marchigüe.csv
+2016_Libertador B. O'Higgins_Hospital_Hospital Mercedes (Chimbarongo).csv
+2016_Libertador B. O'Higgins_SAPU_Consultorio Navidad.csv
+2016_Libertador B. O'Higgins_SAPU_SAPU-Abel Zapata.csv
+2016_Libertador B. O'Higgins_SAPU_SAPU-Maria Latiffe.csv
+2016_Libertador B. O'Higgins_SAPU_Centro de Salud Familiar Requínoa.csv
+2016_Libertador B. O'Higgins_SAPU_SAPU-Oriente de San Fernando.csv
+2016_Libertador B. O'Higgins_SAPU_Centro de Salud Familiar Doñihue.csv
+2016_Libertador B. O'Higgins_SAPU_Centro de Salud Familiar N° 6.csv
+2016_Libertador B. O'Higgins_SAPU_Centro de Salud Familiar Chacabuco.csv
+2016_Libertador B. O'Higgins_SAPU_SAPU-Enrique Dintrans.csv
+2016_Libertador B. O'Higgins_SAPU_SAPU-Machalí.csv
+2016_Libertador B. O'Higgins_SAPU_SAPU-Eduardo de Geyter.csv
+
+---------------------------------------------------------------------------
+WebDriverException                        Traceback (most recent call last)
+<ipython-input-12-3da004f2ce9d> in <module>
+     56 
+---> 57                     saveCSV(getTable(dr,i,j,k,l),nombreArchivo)
+     58 
+
+<ipython-input-10-6fc4a980f893> in getTable(dr, i, j, k, l)
+     59 
+---> 60     selectAnios.select_by_visible_text(i.text)
+     61     selectregiones.select_by_visible_text(j.text)
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py in text(self)
+     75         """The text of the element."""
+---> 76         return self._execute(Command.GET_ELEMENT_TEXT)['value']
+     77 
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py in _execute(self, command, params)
+    632         params['id'] = self._id
+--> 633         return self._parent.execute(command, params)
+    634 
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py in execute(self, driver_command, params)
+    320         if response:
+--> 321             self.error_handler.check_response(response)
+    322             response['value'] = self._unwrap_value(
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py in check_response(self, response)
+    241             raise exception_class(message, screen, stacktrace, alert_text)
+--> 242         raise exception_class(message, screen, stacktrace)
+    243 
+
+WebDriverException: Message: Failed to decode response from marionette
+
+
+During handling of the above exception, another exception occurred:
+
+InvalidSessionIdException                 Traceback (most recent call last)
+<ipython-input-12-3da004f2ce9d> in <module>
+     59                     dr.close()
+     60                 except:
+---> 61                     anio = i.text
+     62                     region = j.text
+     63                     tipo_Establecimiento = k.text
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py in text(self)
+     74     def text(self):
+     75         """The text of the element."""
+---> 76         return self._execute(Command.GET_ELEMENT_TEXT)['value']
+     77 
+     78     def click(self):
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webelement.py in _execute(self, command, params)
+    631             params = {}
+    632         params['id'] = self._id
+--> 633         return self._parent.execute(command, params)
+    634 
+    635     def find_element(self, by=By.ID, value=None):
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py in execute(self, driver_command, params)
+    319         response = self.command_executor.execute(driver_command, params)
+    320         if response:
+--> 321             self.error_handler.check_response(response)
+    322             response['value'] = self._unwrap_value(
+    323                 response.get('value', None))
+
+C:\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py in check_response(self, response)
+    240                 alert_text = value['alert'].get('text')
+    241             raise exception_class(message, screen, stacktrace, alert_text)
+--> 242         raise exception_class(message, screen, stacktrace)
+    243 
+    244     def _value_or_default(self, obj, key, default):
+
+InvalidSessionIdException: Message: Tried to run command without establishing a connection
+
+

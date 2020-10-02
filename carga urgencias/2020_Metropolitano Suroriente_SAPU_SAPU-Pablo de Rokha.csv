@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,-,-,-,-,0,0,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,15436,597,613,383,551,573,308,522,509,585,593,761,665,321,349,312,271,256,351,396,363,396,454,370,293,248,244,265,235,284,295,286,286,272,250,269,349,382,408,478,93,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+TOTAL CAUSAS SISTEMA RESPIRATORIO,4639,178,183,101,135,167,65,130,135,180,174,292,379,172,163,136,109,115,83,103,67,168,185,122,119,76,116,86,36,50,56,44,53,36,43,47,71,71,66,105,22,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+IRA Alta (J00-J06),3759,166,151,91,124,148,56,109,102,167,138,258,347,161,143,121,98,96,68,93,18,109,91,102,95,68,88,63,34,48,51,35,31,20,25,19,59,33,46,65,22,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Influenza (J09-J11),12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Neumonía (J12-J18),30,0,1,0,0,1,3,0,7,2,3,1,1,0,2,1,1,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Bronquitis/bronquiolitis aguda (J20-J21),233,10,17,5,7,7,2,13,22,7,17,21,24,6,15,11,5,2,2,3,4,2,5,2,0,2,1,0,0,0,2,3,0,3,1,7,2,0,1,2,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Crisis obstructiva bronquial (J40-J46),73,0,6,3,3,2,3,4,4,2,4,5,3,2,0,3,3,0,2,0,3,2,4,0,0,1,0,4,1,0,0,0,4,0,2,1,1,0,1,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",532,2,8,2,1,9,1,4,0,2,12,7,4,3,3,0,2,10,11,7,39,55,85,18,22,2,27,19,1,2,2,6,17,13,15,19,9,37,18,38,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+COVID 19 Sospechoso (U072),1565,-,-,-,-,0,0,0,0,0,0,0,5,2,12,17,17,22,31,89,84,96,121,107,102,57,61,72,51,61,82,67,40,44,40,36,63,70,46,59,11,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+COVID 19 Confirmado (U071),0,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+TOTAL CAUSAS SISTEMA CIRCULATORIO,152,2,5,6,9,4,1,4,6,9,4,6,6,3,4,3,3,1,7,0,8,0,2,1,0,3,2,1,1,4,4,1,7,12,3,5,7,4,2,2,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Infarto agudo miocardio,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Accidente vascular encefálico,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Crisis hipertensiva,69,1,2,1,5,1,0,2,3,8,1,3,3,2,3,1,1,0,6,0,7,0,2,1,0,2,1,0,1,3,0,0,2,3,2,0,0,0,0,2,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Arritmia grave,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Otras causas circulatorias,75,1,3,5,3,3,1,1,3,0,3,3,3,1,1,2,2,0,1,0,1,0,0,0,0,1,0,1,0,0,4,1,4,8,1,5,7,4,2,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,909,55,38,45,49,41,36,62,39,33,60,30,38,20,12,12,12,10,27,10,18,6,9,7,4,8,3,8,12,9,11,9,11,20,22,19,16,37,30,21,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Accidentes del tránsito,20,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+Otras causas externas,889,55,38,45,49,30,36,62,39,33,60,30,38,20,12,12,12,4,27,10,18,6,9,7,4,8,3,8,12,9,11,9,11,20,22,19,16,36,30,19,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+DIARREA AGUDA (A00-A09),314,21,18,16,44,5,23,19,28,23,18,24,7,9,4,4,2,6,8,3,3,1,1,0,0,4,1,2,1,0,1,4,2,1,5,4,1,0,1,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+TOTAL DEMÁS CAUSAS,7866,341,369,215,314,356,183,307,301,340,337,409,235,117,156,140,128,102,195,191,183,125,136,133,68,100,61,96,134,160,141,161,173,159,137,158,191,200,263,291,60,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,0,0,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+- CORONAVIRUS (U071),0,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-Pablo de Rokha

@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,381,381,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+TOTAL CAUSAS SISTEMA RESPIRATORIO,122,122,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+IRA Alta (J00-J06),106,106,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Influenza (J09-J11),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Neumonía (J12-J18),3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Bronquitis/bronquiolitis aguda (J20-J21),9,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Crisis obstructiva bronquial (J40-J46),3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+COVID 19 Sospechoso (U072),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+COVID 19 Confirmado (U071),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+TOTAL CAUSAS SISTEMA CIRCULATORIO,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Accidente vascular encefálico,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Crisis hipertensiva,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Otras causas circulatorias,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,25,25,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+Otras causas externas,25,25,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+DIARREA AGUDA (A00-A09),6,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+TOTAL DEMÁS CAUSAS,224,224,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+- CORONAVIRUS (U071),0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Occidente,SAPU,Centro de Salud Familiar Dr. Francisco Boris Soler

@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,80,4,-,5,-,-,-,-,-,-,-,-,17,-,19,12,-,-,-,0,-,-,-,-,-,23,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+TOTAL CAUSAS SISTEMA RESPIRATORIO,38,0,-,0,-,-,-,-,-,-,-,-,10,-,12,3,-,-,-,0,-,-,-,-,-,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+IRA Alta (J00-J06),20,0,-,0,-,-,-,-,-,-,-,-,6,-,8,2,-,-,-,0,-,-,-,-,-,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Influenza (J09-J11),3,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Neumonía (J12-J18),3,0,-,0,-,-,-,-,-,-,-,-,0,-,1,1,-,-,-,0,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Bronquitis/bronquiolitis aguda (J20-J21),10,0,-,0,-,-,-,-,-,-,-,-,3,-,2,0,-,-,-,0,-,-,-,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Crisis obstructiva bronquial (J40-J46),2,0,-,0,-,-,-,-,-,-,-,-,1,-,1,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+TOTAL CAUSAS SISTEMA CIRCULATORIO,3,1,-,1,-,-,-,-,-,-,-,-,0,-,1,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Infarto agudo miocardio,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Accidente vascular encefálico,1,1,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Crisis hipertensiva,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Arritmia grave,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Otras causas circulatorias,2,0,-,1,-,-,-,-,-,-,-,-,0,-,1,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Accidentes del tránsito,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+Otras causas externas,1,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+DIARREA AGUDA (A00-A09),6,0,-,0,-,-,-,-,-,-,-,-,1,-,2,2,-,-,-,0,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+TOTAL DEMÁS CAUSAS,32,3,-,4,-,-,-,-,-,-,-,-,6,-,4,7,-,-,-,0,-,-,-,-,-,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+- LAS DEMÁS CAUSAS,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya
+CIRUGÍAS DE URGENCIA,0,0,-,0,-,-,-,-,-,-,-,-,0,-,0,0,-,-,-,0,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2019,Coquimbo,SAPU,Consultorio Cerrillos Tamaya

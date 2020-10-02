@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,22531,397,381,348,333,354,329,307,304,363,355,438,469,485,399,348,401,403,403,390,402,455,325,367,365,356,381,397,357,365,350,366,437,511,436,436,422,400,445,360,364,512,620,572,557,565,595,618,599,553,611,574,651,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+TOTAL CAUSAS SISTEMA RESPIRATORIO,6297,69,50,42,48,53,55,55,62,84,85,157,164,166,88,87,110,89,139,107,139,149,128,136,129,120,153,172,136,157,117,115,150,199,182,151,129,137,151,89,108,145,164,193,137,143,119,152,132,102,132,110,111,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+IRA Alta (J00-J06),5252,61,47,34,38,47,51,43,47,75,77,140,150,138,76,63,97,81,108,95,120,129,104,111,104,90,119,132,101,131,94,97,122,160,155,131,104,118,129,76,94,123,130,153,106,134,94,136,106,80,119,91,91,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Influenza (J09-J11),11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,4,1,0,0,0,0,0,0,1,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Neumonía (J12-J18),103,1,0,2,1,1,0,1,7,0,0,2,2,3,2,4,0,1,2,0,0,6,1,2,1,3,2,2,2,0,2,1,0,7,2,2,0,3,4,1,0,0,7,3,6,0,5,2,3,1,2,1,3,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Bronquitis/bronquiolitis aguda (J20-J21),644,4,2,3,8,4,3,7,7,4,5,12,5,20,7,11,9,1,19,7,15,12,18,18,17,11,16,34,23,15,15,15,18,25,21,13,14,11,12,9,9,18,14,25,15,8,8,12,19,14,6,12,14,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Crisis obstructiva bronquial (J40-J46),65,1,0,2,1,1,0,2,0,2,0,2,0,0,1,1,0,0,0,0,0,0,1,4,1,4,1,2,0,8,1,0,1,0,1,2,0,0,1,0,0,0,2,2,4,0,1,0,2,4,3,4,3,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",222,2,1,1,0,0,1,2,1,3,3,1,7,5,2,8,4,6,10,5,3,2,4,1,6,12,15,2,10,3,5,2,7,7,3,3,11,5,5,3,4,3,11,6,5,1,11,2,2,3,2,1,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+TOTAL CAUSAS SISTEMA CIRCULATORIO,66,3,0,0,0,0,1,0,0,0,0,0,2,0,2,0,2,0,0,0,3,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,1,0,1,0,2,1,7,0,0,0,3,9,5,11,8,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Infarto agudo miocardio,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Accidente vascular encefálico,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Crisis hipertensiva,28,2,0,0,0,0,1,0,0,0,0,0,0,0,2,0,2,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,1,0,1,0,0,0,2,0,0,0,0,2,1,4,3,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Arritmia grave,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Otras causas circulatorias,26,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,0,0,0,2,4,2,4,4,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,18,29,60,10,0,0,19,102,86,77,78,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Accidentes del tránsito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+Otras causas externas,481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,18,29,60,10,0,0,19,102,86,77,78,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+DIARREA AGUDA (A00-A09),181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,11,12,4,0,0,9,32,25,31,49,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+TOTAL DEMÁS CAUSAS,15506,325,331,306,285,301,273,252,242,279,270,281,303,319,309,261,289,314,264,283,260,305,197,231,236,236,228,225,221,206,233,251,287,312,254,285,291,263,293,271,253,367,428,338,341,408,476,466,436,308,363,345,405,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2018,Libertador B. O'Higgins,SAPU,SAPU-Maria Latiffe

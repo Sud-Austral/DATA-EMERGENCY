@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Influenza (J09-J11),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Crisis hipertensiva,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Arritmia grave,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Otras causas circulatorias,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Accidentes del tránsito,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Otras causas externas,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2018,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta

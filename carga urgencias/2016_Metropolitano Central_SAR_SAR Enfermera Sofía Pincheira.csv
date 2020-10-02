@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,9034,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,167,548,652,688,722,652,557,558,565,583,604,595,590,554,488,511,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2851,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,62,223,233,246,241,198,197,179,165,191,157,189,174,144,125,127,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+IRA Alta (J00-J06),1983,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,36,146,174,186,172,142,135,109,115,147,124,129,109,92,77,90,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Influenza (J09-J11),3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Neumonía (J12-J18),52,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,6,5,5,3,6,4,5,3,3,0,3,1,0,5,1,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Bronquitis/bronquiolitis aguda (J20-J21),297,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,7,28,19,20,30,12,25,26,21,6,12,15,29,24,10,13,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Crisis obstructiva bronquial (J40-J46),109,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,11,10,9,11,14,7,2,7,6,4,12,6,5,3,1,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",407,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,16,32,24,26,25,24,26,37,19,28,16,30,29,23,30,22,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL CAUSAS SISTEMA CIRCULATORIO,158,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,8,7,13,12,12,4,15,10,12,8,14,16,9,9,5,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Infarto agudo miocardio,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,3,1,0,0,0,0,0,0,1,1,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Accidente vascular encefálico,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,2,1,0,1,0,1,0,1,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Crisis hipertensiva,103,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,8,5,9,8,8,3,2,10,4,8,8,9,6,8,4,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Arritmia grave,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Otras causas circulatorias,37,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,3,1,2,1,6,0,7,0,6,6,2,1,1,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,765,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,27,24,36,55,57,56,40,59,39,39,46,61,68,58,58,42,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Accidentes del tránsito,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Otras causas externas,760,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,27,24,36,54,57,56,39,59,39,39,46,61,68,57,58,40,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+DIARREA AGUDA (A00-A09),739,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6,35,46,40,43,68,58,50,33,51,44,62,55,36,54,58,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL DEMÁS CAUSAS,4521,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,68,258,330,334,369,318,258,255,318,290,349,269,277,307,242,279,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- LAS DEMÁS CAUSAS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+CIRUGÍAS DE URGENCIA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2016,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira

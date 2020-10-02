@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,23636,1143,1042,995,994,944,872,839,890,896,1011,1089,810,546,458,373,304,336,419,457,508,529,505,471,437,425,371,370,480,523,393,429,416,382,405,397,456,517,508,597,99,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,5063,242,254,189,171,212,189,164,215,209,237,393,436,216,162,96,75,60,73,142,130,122,99,73,67,63,40,45,64,58,53,34,46,36,52,69,58,79,59,71,10,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+IRA Alta (J00-J06),3433,168,164,111,115,147,133,99,154,141,169,296,337,174,121,74,49,46,49,93,70,94,53,46,38,32,18,25,34,43,39,18,23,21,35,40,32,37,40,50,5,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Influenza (J09-J11),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Neumonía (J12-J18),86,4,3,2,1,1,2,0,2,1,3,2,7,4,1,0,1,0,3,10,4,0,0,3,2,1,3,1,4,2,3,3,2,1,2,1,1,3,1,2,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Bronquitis/bronquiolitis aguda (J20-J21),344,10,35,22,16,20,18,9,9,16,18,14,15,8,8,5,6,7,4,8,13,8,6,6,7,2,3,4,5,1,1,1,2,7,3,5,6,8,2,3,3,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Crisis obstructiva bronquial (J40-J46),367,20,14,19,12,8,7,15,16,15,12,12,14,7,13,10,9,4,10,12,8,8,8,5,3,7,3,6,9,6,3,7,9,5,11,6,6,9,9,9,1,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",830,40,38,35,27,36,29,41,34,36,35,69,63,23,19,7,10,3,7,19,35,11,32,13,17,21,13,9,12,6,7,4,10,2,1,17,12,22,7,7,1,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+COVID 19 Sospechoso (U072),1707,0,0,0,0,0,0,0,0,0,0,0,0,0,6,14,6,8,23,47,131,145,137,198,155,111,22,68,69,80,72,33,70,39,52,30,38,26,60,60,7,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+COVID 19 Confirmado (U071),514,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,0,0,0,0,20,29,120,22,66,32,13,52,11,20,3,13,39,32,7,29,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,446,6,14,10,19,7,6,7,10,18,13,9,5,10,10,8,8,9,7,9,13,16,18,8,9,10,6,14,9,15,14,17,11,7,13,21,11,17,14,15,3,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Infarto agudo miocardio,8,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Accidente vascular encefálico,42,1,1,1,1,0,0,0,0,2,2,0,0,1,2,1,0,2,0,0,1,1,5,1,0,2,2,2,0,1,1,0,1,1,1,3,0,4,1,1,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Crisis hipertensiva,166,1,6,3,10,0,3,5,5,7,6,6,1,3,3,4,1,1,3,3,4,6,2,3,2,6,0,8,2,7,3,11,6,2,5,4,9,7,4,4,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Arritmia grave,59,1,2,2,5,5,0,0,2,3,1,2,0,0,1,0,1,2,0,3,3,1,2,1,1,2,0,1,0,3,3,1,2,0,1,2,1,1,1,2,1,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Otras causas circulatorias,171,2,5,4,3,2,3,2,3,6,3,1,3,6,4,2,6,4,4,3,4,8,9,3,5,0,4,2,7,4,7,5,2,4,6,12,1,5,8,7,2,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,390,15,18,12,12,10,10,8,18,17,10,13,5,6,11,2,6,11,4,6,7,5,5,2,26,4,7,10,5,10,1,9,8,13,6,2,14,21,16,18,7,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Accidentes del tránsito,9,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+Otras causas externas,381,11,18,12,11,10,10,8,18,17,10,13,5,6,11,2,6,11,4,6,7,5,5,2,25,4,6,10,5,10,1,9,8,13,6,2,14,19,16,18,7,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+DIARREA AGUDA (A00-A09),487,35,39,15,17,22,30,20,29,98,22,32,9,54,1,1,17,3,0,2,5,0,2,3,0,2,1,1,2,1,2,1,0,2,0,2,1,0,3,12,1,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+TOTAL DEMÁS CAUSAS,15032,845,717,769,775,693,637,640,618,554,729,642,355,260,270,252,191,244,310,250,222,241,244,187,160,206,175,210,265,327,238,283,270,265,279,260,295,342,349,392,71,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+- SOSPECHA CORONAVIRUS (U072),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+- CORONAVIRUS (U071),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Metropolitano Suroriente,SAPU,SAPU-San Gerónimo

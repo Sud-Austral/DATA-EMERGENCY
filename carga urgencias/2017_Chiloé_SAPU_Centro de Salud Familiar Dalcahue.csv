@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8837,164,167,170,171,161,172,141,183,142,120,206,160,173,201,176,185,228,187,200,173,204,152,190,154,158,175,180,171,143,118,131,129,165,187,164,194,190,204,186,157,206,200,156,190,149,151,152,164,163,158,154,162,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,3602,45,40,43,33,45,51,34,35,41,34,100,73,85,87,86,88,123,92,109,90,103,85,99,82,87,91,87,90,62,42,55,51,67,79,63,73,89,69,73,66,92,77,51,71,48,54,57,81,73,56,48,47,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+IRA Alta (J00-J06),2812,33,29,27,23,42,45,28,31,35,27,87,62,73,73,64,68,98,76,72,77,84,61,67,61,58,70,59,74,44,31,39,37,42,60,48,59,75,53,64,48,74,68,42,60,41,49,45,60,55,36,39,39,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Influenza (J09-J11),69,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,13,2,3,2,4,1,7,1,6,2,1,0,1,0,3,1,1,3,0,1,0,1,3,1,0,0,0,1,1,0,0,2,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Neumonía (J12-J18),105,2,2,4,1,1,0,2,3,1,1,0,0,3,0,3,2,4,2,4,2,6,1,5,0,3,1,4,2,4,3,1,2,3,4,4,3,0,1,1,3,2,2,1,3,0,0,2,2,1,3,1,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Bronquitis/bronquiolitis aguda (J20-J21),393,4,2,4,4,0,1,2,1,4,5,7,9,7,8,8,9,16,3,17,5,4,14,12,12,14,13,16,7,10,5,10,9,9,7,5,6,12,8,4,8,8,5,6,8,7,4,4,13,13,11,8,5,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Crisis obstructiva bronquial (J40-J46),12,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,6,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",211,6,7,8,5,2,5,2,0,1,1,6,1,0,5,11,8,3,7,3,4,6,7,11,2,3,6,2,4,3,3,4,3,10,7,5,2,2,6,4,6,5,1,2,0,0,0,5,6,4,4,0,3,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,261,2,6,9,11,10,10,11,8,6,4,4,1,1,5,6,5,6,9,5,4,8,5,6,3,1,5,4,4,4,0,7,2,4,5,7,2,6,3,2,4,5,6,6,6,3,9,4,1,3,1,6,6,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Infarto agudo miocardio,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Accidente vascular encefálico,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Crisis hipertensiva,44,0,0,1,3,1,2,1,1,1,0,1,0,1,0,1,1,0,4,0,0,1,1,2,0,0,1,1,0,1,0,1,0,0,2,1,0,3,2,2,1,0,0,1,0,1,2,0,0,0,0,1,2,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Arritmia grave,16,1,1,1,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,1,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Otras causas circulatorias,192,1,5,7,7,8,8,10,6,4,4,2,1,0,4,5,4,6,5,5,4,7,4,4,1,0,3,3,4,3,0,4,2,3,3,6,2,2,0,0,2,5,5,5,4,2,5,4,1,3,1,4,4,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,523,0,13,13,17,22,20,11,19,19,4,10,0,10,14,14,6,11,14,8,13,12,11,2,9,1,13,10,4,13,4,4,9,12,10,4,9,5,0,1,5,6,10,6,10,11,17,17,8,13,11,17,21,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Accidentes del tránsito,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+Otras causas externas,517,0,13,13,17,22,20,11,19,19,4,10,0,10,12,14,6,10,14,8,13,12,11,2,7,1,13,10,4,13,4,4,9,11,10,4,9,5,0,1,5,6,10,6,10,11,17,17,8,13,11,17,21,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+DIARREA AGUDA (A00-A09),180,1,2,8,8,1,0,0,1,4,8,4,2,3,11,6,7,8,6,2,3,0,2,4,1,1,0,1,2,1,1,0,0,2,3,3,9,6,2,2,3,5,1,6,1,4,2,5,0,5,7,2,14,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+TOTAL DEMÁS CAUSAS,4271,116,106,97,102,83,91,85,120,72,70,88,84,74,84,64,79,80,66,76,63,81,49,79,59,68,66,78,71,63,71,65,67,80,90,87,101,84,130,108,79,98,106,87,102,83,69,69,74,69,83,81,74,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Chiloé,SAPU,Centro de Salud Familiar Dalcahue

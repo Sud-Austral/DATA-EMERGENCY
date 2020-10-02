@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1308,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,31,74,68,72,53,75,85,77,98,87,95,51,51,71,63,82,64,106,5,2020,Del Maule,SUR,SUR Sarmiento
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1271,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,31,73,68,70,51,74,97,85,88,87,74,51,50,60,63,80,63,101,5,2020,Del Maule,SUR,SUR Sarmiento
+TOTAL CAUSAS SISTEMA RESPIRATORIO,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,2,1,4,0,0,1,0,1,3,0,0,1,2,0,2020,Del Maule,SUR,SUR Sarmiento
+IRA Alta (J00-J06),7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,2,0,1,0,0,1,0,0,2,0,0,1,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Influenza (J09-J11),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Neumonía (J12-J18),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Bronquitis/bronquiolitis aguda (J20-J21),3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,2020,Del Maule,SUR,SUR Sarmiento
+Crisis obstructiva bronquial (J40-J46),1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2020,Del Maule,SUR,SUR Sarmiento
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+COVID 19 Sospechoso (U072),1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+COVID 19 Confirmado (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,1,1,1,2,4,2,0,0,0,1,0,0,0,0,1,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Infarto agudo miocardio,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Accidente vascular encefálico,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Crisis hipertensiva,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Arritmia grave,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Otras causas circulatorias,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,177,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,1,6,6,3,2,10,17,8,11,15,20,11,11,3,12,16,13,11,1,2020,Del Maule,SUR,SUR Sarmiento
+Accidentes del tránsito,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+Otras causas externas,177,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,1,6,6,3,2,10,17,8,11,15,20,11,11,3,12,16,13,11,1,2020,Del Maule,SUR,SUR Sarmiento
+DIARREA AGUDA (A00-A09),16,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,1,0,0,3,0,1,0,1,1,0,0,7,0,1,1,0,0,2020,Del Maule,SUR,SUR Sarmiento
+TOTAL DEMÁS CAUSAS,1049,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,30,66,60,66,47,55,77,72,77,71,51,40,37,47,51,62,48,88,4,2020,Del Maule,SUR,SUR Sarmiento
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+- CORONAVIRUS (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+- LAS DEMÁS CAUSAS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento
+CIRUGÍAS DE URGENCIA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Del Maule,SUR,SUR Sarmiento

@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Antofagasta,Hospital,Hospital de Mejillones
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,22036,410,377,505,504,391,383,434,473,357,356,456,424,456,470,458,419,432,447,599,496,477,399,342,396,410,438,404,391,399,392,409,409,449,443,417,440,408,399,421,396,423,443,408,385,424,468,393,448,362,398,389,409,2017,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL CAUSAS SISTEMA RESPIRATORIO,4543,80,75,98,99,73,77,79,92,65,63,67,53,81,95,114,109,135,150,211,163,178,98,84,102,123,139,96,101,73,81,72,67,85,72,71,94,105,83,63,68,66,63,79,38,57,76,69,59,30,58,53,61,2017,Antofagasta,Hospital,Hospital de Mejillones
+IRA Alta (J00-J06),763,64,64,86,87,65,71,66,75,55,47,22,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,13,3,0,0,0,0,0,0,21,0,3,2,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+Influenza (J09-J11),79,0,0,0,0,0,0,1,1,4,0,1,0,0,1,2,6,9,4,7,3,3,3,1,0,0,2,2,1,0,1,0,4,1,0,3,1,1,0,0,0,0,0,3,0,4,2,1,2,2,0,0,3,2017,Antofagasta,Hospital,Hospital de Mejillones
+Neumonía (J12-J18),98,2,0,2,0,0,0,2,4,0,1,1,1,2,3,4,7,0,3,3,2,5,0,2,0,1,1,0,0,3,1,1,2,2,9,3,3,2,0,4,1,2,1,1,2,2,3,6,2,1,1,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+Bronquitis/bronquiolitis aguda (J20-J21),524,8,6,8,3,5,2,4,10,0,6,9,5,4,14,10,13,10,9,12,14,35,6,6,15,20,17,9,9,17,7,19,10,17,10,7,18,14,9,11,16,12,13,10,9,7,9,11,10,6,8,2,3,2017,Antofagasta,Hospital,Hospital de Mejillones
+Crisis obstructiva bronquial (J40-J46),66,2,4,0,7,2,4,5,2,5,0,0,1,0,3,1,0,1,4,0,1,1,1,0,1,0,2,0,2,1,0,0,0,0,7,3,0,1,0,0,0,0,0,0,0,2,1,0,1,0,0,1,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3013,4,1,2,2,1,0,1,0,1,9,34,28,75,74,97,83,115,130,189,143,134,88,75,86,102,117,85,89,52,72,52,50,65,46,42,69,87,74,48,51,52,49,44,27,39,59,51,44,21,49,50,55,2017,Antofagasta,Hospital,Hospital de Mejillones
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Antofagasta,Hospital,Hospital de Mejillones
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL CAUSAS SISTEMA CIRCULATORIO,338,7,6,5,6,5,0,12,7,2,7,6,6,6,10,7,3,2,6,2,8,11,48,4,6,8,5,2,1,11,3,9,9,6,4,10,5,3,4,6,7,4,3,6,5,7,3,7,10,1,3,9,5,2017,Antofagasta,Hospital,Hospital de Mejillones
+Infarto agudo miocardio,19,3,0,0,0,1,0,0,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,2017,Antofagasta,Hospital,Hospital de Mejillones
+Accidente vascular encefálico,10,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+Crisis hipertensiva,93,2,3,4,4,1,0,3,2,0,3,3,2,3,2,0,1,1,3,1,3,3,3,1,1,2,1,0,1,6,2,4,4,3,0,5,2,0,0,0,0,1,0,1,2,0,0,4,5,0,0,0,1,2017,Antofagasta,Hospital,Hospital de Mejillones
+Arritmia grave,21,0,1,1,0,1,0,1,1,0,0,0,1,1,2,0,1,1,0,0,0,0,5,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+Otras causas circulatorias,195,1,2,0,2,2,0,8,1,0,3,2,3,2,5,7,1,0,3,1,5,8,40,2,4,3,3,2,0,4,1,4,1,3,3,3,3,3,4,6,6,3,3,5,3,7,2,3,3,1,3,8,3,2017,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,766,71,75,81,69,67,59,72,81,53,52,11,1,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,48,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+Accidentes del tránsito,19,3,4,1,2,2,2,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+Otras causas externas,747,68,71,80,67,65,57,70,81,50,52,11,1,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,48,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+DIARREA AGUDA (A00-A09),1173,87,71,94,88,68,62,86,100,74,41,31,10,5,18,11,6,19,15,8,25,8,11,4,13,6,5,7,5,8,4,2,3,8,5,18,3,2,15,2,10,16,4,19,3,7,3,4,8,7,15,12,17,2017,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL DEMÁS CAUSAS,15216,165,150,227,242,178,185,185,193,163,193,341,354,364,347,325,301,276,276,372,300,280,242,250,275,273,289,299,284,307,304,326,330,350,356,270,338,298,297,350,311,337,373,291,339,353,386,313,371,324,322,315,326,2017,Antofagasta,Hospital,Hospital de Mejillones
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,665,14,14,14,14,20,11,11,7,12,15,10,8,9,5,6,15,9,1,14,14,14,15,16,26,19,16,28,19,22,24,35,30,35,26,24,31,22,12,5,0,0,17,6,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+- CAUSAS SISTEMA CIRCULATORIO,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+- CAUSAS SISTEMA RESPIRATORIO,94,0,0,0,0,1,0,0,0,0,3,1,2,0,0,1,4,3,0,2,7,7,5,3,2,2,1,0,0,2,3,7,5,7,3,0,8,1,1,0,0,0,9,4,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Antofagasta,Hospital,Hospital de Mejillones
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2017,Antofagasta,Hospital,Hospital de Mejillones
+- TRAUMATISMOS Y ENVENENAMIENTOS,7,0,0,0,0,0,0,0,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+- LAS DEMÁS CAUSAS,553,14,14,14,14,19,11,11,7,12,9,7,4,9,5,5,11,6,1,12,7,7,9,13,20,12,14,28,19,20,21,28,25,28,23,24,23,21,11,5,0,0,8,2,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2017,Antofagasta,Hospital,Hospital de Mejillones

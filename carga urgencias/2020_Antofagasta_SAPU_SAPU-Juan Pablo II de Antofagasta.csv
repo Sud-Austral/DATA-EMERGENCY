@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4369,-,-,-,-,-,-,-,-,-,-,-,-,0,248,425,384,165,129,118,127,158,132,156,150,174,150,187,172,175,128,130,124,103,97,89,101,96,167,244,40,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,14125,733,738,720,732,690,800,747,714,745,764,961,784,492,467,421,378,159,125,115,120,154,129,153,149,170,144,181,164,172,126,129,120,99,97,101,100,94,162,237,39,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,5321,224,213,183,170,191,275,254,249,258,284,422,463,251,183,123,108,87,94,76,70,71,71,97,82,93,60,80,59,60,35,49,42,31,33,47,36,37,54,92,14,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+IRA Alta (J00-J06),4856,203,189,164,149,179,253,233,229,246,275,388,434,234,169,119,94,80,87,63,64,55,66,82,71,78,52,68,53,50,33,42,39,26,31,41,32,32,52,87,14,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Neumonía (J12-J18),28,0,1,0,0,1,2,2,1,1,0,0,2,1,0,0,2,2,1,0,2,0,0,1,1,0,0,1,2,0,0,0,0,1,0,2,1,0,1,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Bronquitis/bronquiolitis aguda (J20-J21),320,18,16,16,20,11,20,15,15,9,6,28,18,13,12,4,8,3,3,8,2,9,3,12,5,8,4,9,3,7,1,2,2,1,0,1,2,2,1,3,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Crisis obstructiva bronquial (J40-J46),50,0,2,0,1,0,0,3,1,1,2,4,2,1,0,0,1,1,1,1,0,2,1,1,1,5,1,2,1,2,0,4,0,3,1,2,1,2,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",67,3,5,3,0,0,0,1,3,1,1,2,7,2,2,0,3,1,2,4,2,5,1,1,4,2,3,0,0,1,1,1,1,0,1,1,0,1,0,2,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+COVID 19 Sospechoso (U072),920,-,-,-,-,-,0,0,0,0,0,0,4,4,0,3,3,4,16,16,19,38,33,32,30,46,57,72,70,76,62,49,47,41,38,27,37,27,34,29,6,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+COVID 19 Confirmado (U071),4,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,149,4,2,2,2,5,13,8,7,10,4,12,3,5,6,1,5,4,1,2,5,3,1,2,4,4,1,4,3,6,3,1,0,7,3,2,0,0,2,2,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Infarto agudo miocardio,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Crisis hipertensiva,37,1,1,0,0,3,2,0,2,0,2,0,0,3,1,1,0,0,0,0,1,2,1,1,0,2,0,3,0,3,1,1,0,4,1,1,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Arritmia grave,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Otras causas circulatorias,109,3,1,2,2,2,11,7,5,10,2,11,3,2,5,0,5,4,1,2,4,1,0,1,4,1,1,1,3,3,2,0,0,3,2,1,0,0,2,2,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,726,38,50,71,35,48,40,28,37,41,44,41,24,40,66,70,32,12,0,1,1,2,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Accidentes del tránsito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+Otras causas externas,726,38,50,71,35,48,40,28,37,41,44,41,24,40,66,70,32,12,0,1,1,2,1,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+DIARREA AGUDA (A00-A09),1207,90,109,79,92,71,103,93,93,90,95,105,57,23,27,21,28,1,1,2,0,1,1,1,1,1,1,0,0,2,2,1,1,1,1,1,2,0,3,7,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+TOTAL DEMÁS CAUSAS,5806,377,364,385,433,375,369,364,328,346,337,381,237,173,185,203,202,51,13,18,25,39,22,21,28,26,23,25,32,28,24,29,29,19,22,24,24,30,69,107,19,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+- CORONAVIRUS (U071),0,-,-,-,-,-,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020,Antofagasta,SAPU,SAPU-Juan Pablo II de Antofagasta

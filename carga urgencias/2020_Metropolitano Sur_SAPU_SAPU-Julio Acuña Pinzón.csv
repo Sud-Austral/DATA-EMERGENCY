@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,369,369,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,100,100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+IRA Alta (J00-J06),74,74,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Influenza (J09-J11),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Neumonía (J12-J18),3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Bronquitis/bronquiolitis aguda (J20-J21),3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Crisis obstructiva bronquial (J40-J46),3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,16,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Accidente vascular encefálico,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Crisis hipertensiva,4,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Arritmia grave,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Otras causas circulatorias,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,91,91,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Accidentes del tránsito,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+Otras causas externas,91,91,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+DIARREA AGUDA (A00-A09),1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+TOTAL DEMÁS CAUSAS,169,169,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+- SOSPECHA CORONAVIRUS (U072),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+- CORONAVIRUS (U071),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2020,Metropolitano Sur,SAPU,SAPU-Julio Acuña Pinzón

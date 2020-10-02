@@ -1,0 +1,31 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+IRA Alta (J00-J06),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Influenza (J09-J11),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Neumonía (J12-J18),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Bronquitis/bronquiolitis aguda (J20-J21),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Crisis obstructiva bronquial (J40-J46),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+COVID 19 Sospechoso (U072),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+COVID 19 Confirmado (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Infarto agudo miocardio,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Accidente vascular encefálico,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Crisis hipertensiva,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Arritmia grave,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Otras causas circulatorias,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Accidentes del tránsito,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+Otras causas externas,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+DIARREA AGUDA (A00-A09),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL DEMÁS CAUSAS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+- SOSPECHA CORONAVIRUS (U072),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+- CORONAVIRUS (U071),0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+- LAS DEMÁS CAUSAS,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
+CIRUGÍAS DE URGENCIA,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,0,-,-,-,-,-,-,-,-,-,-,-,2020,Araucanía Sur,SAPU,SAPU Amanecer
