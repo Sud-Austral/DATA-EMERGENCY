@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5016,535,617,644,738,971,865,646,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3758,428,475,470,521,684,685,495,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+TOTAL CAUSAS SISTEMA RESPIRATORIO,311,22,28,34,50,38,64,75,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+IRA Alta (J00-J06),249,13,18,28,43,32,55,60,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Neumonía (J12-J18),4,2,1,0,1,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Bronquitis/bronquiolitis aguda (J20-J21),34,2,5,2,4,3,6,12,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Crisis obstructiva bronquial (J40-J46),12,2,3,2,1,2,1,1,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,3,1,2,1,1,2,2,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+COVID 19 Sospechoso (U072),1165,77,68,105,142,318,278,177,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+COVID 19 Confirmado (U071),41,0,0,0,1,0,0,40,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+TOTAL CAUSAS SISTEMA CIRCULATORIO,45,0,10,13,3,7,9,3,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Infarto agudo miocardio,1,0,0,0,0,0,0,1,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Accidente vascular encefálico,16,0,3,4,0,3,4,2,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Crisis hipertensiva,7,0,0,3,0,2,2,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Arritmia grave,2,0,0,0,1,0,1,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Otras causas circulatorias,19,0,7,6,2,2,2,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1490,329,369,318,240,233,1,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,0,0,0,1,1,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Otras causas externas,1488,329,369,318,240,232,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),12,0,0,0,0,6,2,4,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Ideación Suicida (R458),1,0,0,0,0,1,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,0,0,0,0,3,1,1,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,0,0,2,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,0,0,0,0,1,1,1,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,1,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+DIARREA AGUDA (A00-A09),38,0,0,0,5,5,15,13,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+TOTAL DEMÁS CAUSAS,656,0,0,0,80,77,316,183,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,81,0,13,15,15,13,7,18,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- CAUSAS SISTEMA RESPIRATORIO,21,0,2,3,5,3,1,7,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- CAUSAS SISTEMA CIRCULATORIO,9,0,1,2,3,2,1,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,0,1,0,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),3,0,0,0,0,0,1,2,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+- LAS DEMÁS CAUSAS,47,0,10,9,7,8,4,9,2022,Bíobío,Hospital,Hospital de Santa Bárbara
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Santa Bárbara

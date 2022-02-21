@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,443,28,84,81,101,30,69,50,2022,Iquique,SUR,SUR Colchane
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1,0,0,0,0,1,0,0,2022,Iquique,SUR,SUR Colchane
+IRA Alta (J00-J06),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,0,0,0,1,0,0,2022,Iquique,SUR,SUR Colchane
+COVID 19 Sospechoso (U072),10,0,0,0,0,10,0,0,2022,Iquique,SUR,SUR Colchane
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,0,0,2,0,3,2,1,2022,Iquique,SUR,SUR Colchane
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Crisis hipertensiva,6,0,0,2,0,2,1,1,2022,Iquique,SUR,SUR Colchane
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Otras causas circulatorias,2,0,0,0,0,1,1,0,2022,Iquique,SUR,SUR Colchane
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,59,2,0,0,0,2,13,42,2022,Iquique,SUR,SUR Colchane
+Accidentes del tránsito,56,0,0,0,0,2,13,41,2022,Iquique,SUR,SUR Colchane
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Otras causas externas,3,2,0,0,0,0,0,1,2022,Iquique,SUR,SUR Colchane
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,0,0,0,0,0,2,0,2022,Iquique,SUR,SUR Colchane
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,0,0,0,0,2,0,2022,Iquique,SUR,SUR Colchane
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+DIARREA AGUDA (A00-A09),29,0,0,0,0,0,29,0,2022,Iquique,SUR,SUR Colchane
+TOTAL DEMÁS CAUSAS,334,26,84,79,101,14,23,7,2022,Iquique,SUR,SUR Colchane
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Iquique,SUR,SUR Colchane

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5743,1327,460,734,1025,836,714,647,2022,Iquique,SAPU,SAPU Cirujano Videla
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4961,1009,427,509,906,794,696,620,2022,Iquique,SAPU,SAPU Cirujano Videla
+TOTAL CAUSAS SISTEMA RESPIRATORIO,683,156,85,86,204,60,57,35,2022,Iquique,SAPU,SAPU Cirujano Videla
+IRA Alta (J00-J06),588,133,75,79,180,51,45,25,2022,Iquique,SAPU,SAPU Cirujano Videla
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Neumonía (J12-J18),15,2,1,5,6,1,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Bronquitis/bronquiolitis aguda (J20-J21),37,14,2,1,7,4,5,4,2022,Iquique,SAPU,SAPU Cirujano Videla
+Crisis obstructiva bronquial (J40-J46),34,6,7,0,9,1,5,6,2022,Iquique,SAPU,SAPU Cirujano Videla
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,1,0,1,2,3,2,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+COVID 19 Sospechoso (U072),1782,307,201,342,368,276,165,123,2022,Iquique,SAPU,SAPU Cirujano Videla
+COVID 19 Confirmado (U071),101,2,3,2,49,31,7,7,2022,Iquique,SAPU,SAPU Cirujano Videla
+TOTAL CAUSAS SISTEMA CIRCULATORIO,39,5,1,2,8,5,10,8,2022,Iquique,SAPU,SAPU Cirujano Videla
+Infarto agudo miocardio,5,0,0,1,0,0,3,1,2022,Iquique,SAPU,SAPU Cirujano Videla
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Crisis hipertensiva,22,1,0,1,6,5,4,5,2022,Iquique,SAPU,SAPU Cirujano Videla
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Otras causas circulatorias,12,4,1,0,2,0,3,2,2022,Iquique,SAPU,SAPU Cirujano Videla
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,362,66,21,8,39,64,80,84,2022,Iquique,SAPU,SAPU Cirujano Videla
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Otras causas externas,361,66,21,8,39,63,80,84,2022,Iquique,SAPU,SAPU Cirujano Videla
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,8,2,0,3,10,8,3,2022,Iquique,SAPU,SAPU Cirujano Videla
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,8,2,0,3,8,7,2,2022,Iquique,SAPU,SAPU Cirujano Videla
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,0,0,0,2,1,1,2022,Iquique,SAPU,SAPU Cirujano Videla
+DIARREA AGUDA (A00-A09),33,6,4,2,0,4,6,11,2022,Iquique,SAPU,SAPU Cirujano Videla
+TOTAL DEMÁS CAUSAS,1927,459,110,67,235,344,363,349,2022,Iquique,SAPU,SAPU Cirujano Videla
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Videla

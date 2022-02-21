@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,582,90,75,75,95,91,121,35,2022,Ñuble,SUR,SUR Cobquecura
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,370,46,37,51,68,57,81,30,2022,Ñuble,SUR,SUR Cobquecura
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+IRA Alta (J00-J06),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+COVID 19 Sospechoso (U072),103,8,6,11,26,21,27,4,2022,Ñuble,SUR,SUR Cobquecura
+COVID 19 Confirmado (U071),32,0,0,0,1,0,10,21,2022,Ñuble,SUR,SUR Cobquecura
+TOTAL CAUSAS SISTEMA CIRCULATORIO,4,0,0,0,2,0,2,0,2022,Ñuble,SUR,SUR Cobquecura
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Accidente vascular encefálico,2,0,0,0,0,0,2,0,2022,Ñuble,SUR,SUR Cobquecura
+Crisis hipertensiva,2,0,0,0,2,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,32,6,0,5,2,8,10,1,2022,Ñuble,SUR,SUR Cobquecura
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Otras causas externas,32,6,0,5,2,8,10,1,2022,Ñuble,SUR,SUR Cobquecura
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,0,1,0,2022,Ñuble,SUR,SUR Cobquecura
+Ideación Suicida (R458),1,0,0,0,0,0,1,0,2022,Ñuble,SUR,SUR Cobquecura
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+TOTAL DEMÁS CAUSAS,198,32,31,35,37,28,31,4,2022,Ñuble,SUR,SUR Cobquecura
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Cobquecura

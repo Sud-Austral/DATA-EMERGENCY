@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9631,1008,1027,1033,1773,1681,1833,1276,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,9631,1008,1027,1033,1773,1681,1833,1276,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1849,172,329,239,200,344,327,238,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+IRA Alta (J00-J06),1419,140,243,169,166,292,266,143,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Influenza (J09-J11),3,0,0,0,3,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Neumonía (J12-J18),7,3,0,0,0,1,3,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Bronquitis/bronquiolitis aguda (J20-J21),116,16,31,12,12,16,22,7,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Crisis obstructiva bronquial (J40-J46),15,1,1,4,0,1,5,3,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",289,12,54,54,19,34,31,85,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+COVID 19 Sospechoso (U072),2918,174,73,162,671,691,684,463,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+COVID 19 Confirmado (U071),1017,13,20,78,310,210,223,163,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+TOTAL CAUSAS SISTEMA CIRCULATORIO,49,8,16,5,4,7,3,6,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Infarto agudo miocardio,5,1,1,2,1,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Crisis hipertensiva,7,2,2,1,0,0,0,2,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Arritmia grave,2,0,1,0,0,1,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Otras causas circulatorias,34,5,11,2,3,6,3,4,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,246,47,52,30,24,36,23,34,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Otras causas externas,246,47,52,30,24,36,23,34,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+DIARREA AGUDA (A00-A09),282,62,45,39,41,31,40,24,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+TOTAL DEMÁS CAUSAS,3270,532,492,480,523,362,533,348,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Víctor Manuel Fernández

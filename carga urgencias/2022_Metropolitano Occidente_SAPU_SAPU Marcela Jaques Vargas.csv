@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2130,343,355,337,196,371,300,228,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1896,302,308,306,179,322,267,212,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,348,1,4,99,37,86,70,51,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+IRA Alta (J00-J06),334,1,3,94,35,84,66,51,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Influenza (J09-J11),3,0,0,0,0,0,3,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Neumonía (J12-J18),3,0,1,0,0,1,1,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Bronquitis/bronquiolitis aguda (J20-J21),5,0,0,3,1,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,0,0,2,1,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+COVID 19 Sospechoso (U072),167,0,0,24,37,39,26,41,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+COVID 19 Confirmado (U071),173,0,1,28,32,49,39,24,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,24,6,2,4,1,6,4,1,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Accidente vascular encefálico,1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Crisis hipertensiva,21,6,2,4,1,6,1,1,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Otras causas circulatorias,2,0,0,0,0,0,2,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,120,22,34,22,6,15,10,11,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Otras causas externas,120,22,34,22,6,15,10,11,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),27,6,9,1,0,7,1,3,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,1,0,0,2,0,1,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",19,5,7,1,0,4,1,1,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,1,0,0,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+DIARREA AGUDA (A00-A09),17,1,2,1,0,7,5,1,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+TOTAL DEMÁS CAUSAS,1020,266,256,127,66,113,112,80,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Marcela Jaques Vargas

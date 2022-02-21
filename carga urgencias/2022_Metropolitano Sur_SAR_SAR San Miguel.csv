@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9465,1094,1116,1551,1959,1784,1141,820,2022,Metropolitano Sur,SAR,SAR San Miguel
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8195,983,952,1279,1619,1522,1056,784,2022,Metropolitano Sur,SAR,SAR San Miguel
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1101,187,144,142,244,220,109,55,2022,Metropolitano Sur,SAR,SAR San Miguel
+IRA Alta (J00-J06),942,133,121,128,216,208,95,41,2022,Metropolitano Sur,SAR,SAR San Miguel
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+Neumonía (J12-J18),15,2,1,2,3,3,1,3,2022,Metropolitano Sur,SAR,SAR San Miguel
+Bronquitis/bronquiolitis aguda (J20-J21),98,40,13,4,17,6,9,9,2022,Metropolitano Sur,SAR,SAR San Miguel
+Crisis obstructiva bronquial (J40-J46),29,11,7,4,1,2,3,1,2022,Metropolitano Sur,SAR,SAR San Miguel
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,1,1,4,7,1,1,1,2022,Metropolitano Sur,SAR,SAR San Miguel
+COVID 19 Sospechoso (U072),3162,277,341,586,643,558,417,340,2022,Metropolitano Sur,SAR,SAR San Miguel
+COVID 19 Confirmado (U071),999,14,34,160,287,313,129,62,2022,Metropolitano Sur,SAR,SAR San Miguel
+TOTAL CAUSAS SISTEMA CIRCULATORIO,124,19,19,22,22,12,19,11,2022,Metropolitano Sur,SAR,SAR San Miguel
+Infarto agudo miocardio,5,0,0,4,1,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+Accidente vascular encefálico,9,0,2,3,2,0,1,1,2022,Metropolitano Sur,SAR,SAR San Miguel
+Crisis hipertensiva,64,13,11,10,9,7,9,5,2022,Metropolitano Sur,SAR,SAR San Miguel
+Arritmia grave,5,1,0,2,2,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+Otras causas circulatorias,41,5,6,3,8,5,9,5,2022,Metropolitano Sur,SAR,SAR San Miguel
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,479,94,77,61,66,66,60,55,2022,Metropolitano Sur,SAR,SAR San Miguel
+Accidentes del tránsito,1,0,1,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+Otras causas externas,478,94,76,61,66,66,60,55,2022,Metropolitano Sur,SAR,SAR San Miguel
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),62,16,8,7,4,7,10,10,2022,Metropolitano Sur,SAR,SAR San Miguel
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,2,0,0,0,0,0,1,2022,Metropolitano Sur,SAR,SAR San Miguel
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,1,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",56,14,7,6,4,7,9,9,2022,Metropolitano Sur,SAR,SAR San Miguel
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,0,0,0,1,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+DIARREA AGUDA (A00-A09),43,5,7,6,7,5,7,6,2022,Metropolitano Sur,SAR,SAR San Miguel
+TOTAL DEMÁS CAUSAS,2225,371,322,295,346,341,305,245,2022,Metropolitano Sur,SAR,SAR San Miguel
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR San Miguel

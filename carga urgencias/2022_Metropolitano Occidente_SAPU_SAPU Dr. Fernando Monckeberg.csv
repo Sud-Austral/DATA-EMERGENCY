@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5372,731,815,861,847,774,813,531,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5152,718,794,820,802,729,775,514,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1545,228,275,306,252,171,162,151,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+IRA Alta (J00-J06),1342,198,230,256,220,152,145,141,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Neumonía (J12-J18),21,5,6,4,2,1,1,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Bronquitis/bronquiolitis aguda (J20-J21),137,20,31,42,16,12,11,5,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Crisis obstructiva bronquial (J40-J46),27,2,5,2,6,6,4,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,3,3,2,8,0,1,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+COVID 19 Sospechoso (U072),583,19,42,52,128,114,163,65,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+COVID 19 Confirmado (U071),306,1,8,29,21,128,63,56,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+TOTAL CAUSAS SISTEMA CIRCULATORIO,51,11,7,9,7,5,7,5,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Crisis hipertensiva,29,7,4,6,4,4,4,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Arritmia grave,2,0,0,0,1,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Otras causas circulatorias,19,4,3,3,1,1,2,5,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,277,54,49,56,45,36,24,13,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Otras causas externas,276,54,49,56,45,35,24,13,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),40,6,9,6,5,4,6,4,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,0,0,0,3,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",29,2,8,5,5,3,3,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+Otros trastornos mentales no contenidos en las categorías anteriores,8,4,1,1,0,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+DIARREA AGUDA (A00-A09),81,10,8,8,9,6,40,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+TOTAL DEMÁS CAUSAS,2269,389,396,354,335,265,310,220,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Fernando Monckeberg

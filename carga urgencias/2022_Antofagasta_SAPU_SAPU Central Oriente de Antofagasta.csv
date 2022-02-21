@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2359,313,371,439,357,378,299,202,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2169,289,313,383,337,363,287,197,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,504,81,82,100,78,95,49,19,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+IRA Alta (J00-J06),446,65,71,89,73,84,49,15,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Bronquitis/bronquiolitis aguda (J20-J21),41,13,6,9,3,6,0,4,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Crisis obstructiva bronquial (J40-J46),6,0,2,0,1,3,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,3,3,2,1,2,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+COVID 19 Sospechoso (U072),597,42,102,155,136,105,33,24,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+COVID 19 Confirmado (U071),39,0,0,1,0,0,19,19,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,5,3,4,1,4,2,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Accidente vascular encefálico,1,0,0,1,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Crisis hipertensiva,9,2,2,2,1,2,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Arritmia grave,1,0,0,0,0,1,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Otras causas circulatorias,8,3,1,1,0,1,2,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,153,24,18,20,21,27,25,18,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Accidentes del tránsito,1,0,0,0,0,0,0,1,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,1,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Otras causas externas,151,24,18,20,21,27,24,17,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),20,3,2,1,2,3,5,4,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,2,2,1,2,2,3,4,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,0,0,1,1,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+DIARREA AGUDA (A00-A09),71,10,12,9,4,14,14,8,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+TOTAL DEMÁS CAUSAS,766,124,94,93,95,115,140,105,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Central Oriente de Antofagasta

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5110,786,770,701,785,687,745,636,2022,Del Maule,SAPU,SAPU Curicó Centro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4840,751,745,682,729,646,701,586,2022,Del Maule,SAPU,SAPU Curicó Centro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,69,13,12,11,9,9,8,7,2022,Del Maule,SAPU,SAPU Curicó Centro
+IRA Alta (J00-J06),45,10,9,9,4,4,5,4,2022,Del Maule,SAPU,SAPU Curicó Centro
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Bronquitis/bronquiolitis aguda (J20-J21),3,0,0,0,1,2,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Crisis obstructiva bronquial (J40-J46),9,1,1,0,2,1,1,3,2022,Del Maule,SAPU,SAPU Curicó Centro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,2,2,2,2,2,2,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+COVID 19 Sospechoso (U072),40,2,1,4,8,6,10,9,2022,Del Maule,SAPU,SAPU Curicó Centro
+COVID 19 Confirmado (U071),4,0,0,0,0,1,3,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,58,15,6,7,6,6,13,5,2022,Del Maule,SAPU,SAPU Curicó Centro
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Accidente vascular encefálico,2,1,0,0,0,0,1,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Crisis hipertensiva,12,4,1,3,0,1,2,1,2022,Del Maule,SAPU,SAPU Curicó Centro
+Arritmia grave,4,2,0,0,0,1,1,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Otras causas circulatorias,39,8,5,4,6,4,8,4,2022,Del Maule,SAPU,SAPU Curicó Centro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,677,99,95,103,89,89,101,101,2022,Del Maule,SAPU,SAPU Curicó Centro
+Accidentes del tránsito,9,2,3,1,1,2,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Lesiones autoinfligidas intencionalmente (X60-X84),3,1,0,1,0,0,1,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Otras causas externas,665,96,92,101,88,87,100,101,2022,Del Maule,SAPU,SAPU Curicó Centro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),122,11,27,15,14,18,24,13,2022,Del Maule,SAPU,SAPU Curicó Centro
+Ideación Suicida (R458),1,0,0,0,1,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,1,0,0,0,1,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+Trastornos del Humor (Afectivos) (F30-F39),3,0,1,0,0,0,1,1,2022,Del Maule,SAPU,SAPU Curicó Centro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",108,10,23,15,12,17,19,12,2022,Del Maule,SAPU,SAPU Curicó Centro
+Otros trastornos mentales no contenidos en las categorías anteriores,8,1,2,0,1,1,3,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+DIARREA AGUDA (A00-A09),64,11,5,9,11,17,6,5,2022,Del Maule,SAPU,SAPU Curicó Centro
+TOTAL DEMÁS CAUSAS,3806,600,599,533,592,500,536,446,2022,Del Maule,SAPU,SAPU Curicó Centro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Curicó Centro

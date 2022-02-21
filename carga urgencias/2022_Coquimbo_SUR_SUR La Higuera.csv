@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,20,-,-,0,-,20,0,0,2022,Coquimbo,SUR,SUR La Higuera
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,91,-,-,0,-,35,56,0,2022,Coquimbo,SUR,SUR La Higuera
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+IRA Alta (J00-J06),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Influenza (J09-J11),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Neumonía (J12-J18),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Bronquitis/bronquiolitis aguda (J20-J21),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Crisis obstructiva bronquial (J40-J46),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+COVID 19 Sospechoso (U072),39,-,-,0,-,17,22,0,2022,Coquimbo,SUR,SUR La Higuera
+COVID 19 Confirmado (U071),16,-,-,0,-,5,11,0,2022,Coquimbo,SUR,SUR La Higuera
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Infarto agudo miocardio,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Accidente vascular encefálico,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Crisis hipertensiva,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Arritmia grave,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Otras causas circulatorias,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Accidentes del tránsito,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Lesiones autoinfligidas intencionalmente (X60-X84),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Otras causas externas,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Ideación Suicida (R458),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Trastornos del Humor (Afectivos) (F30-F39),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+Otros trastornos mentales no contenidos en las categorías anteriores,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+DIARREA AGUDA (A00-A09),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+TOTAL DEMÁS CAUSAS,36,-,-,0,-,13,23,0,2022,Coquimbo,SUR,SUR La Higuera
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- COVID 19 SOSPECHOSO (U072),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- COVID 19 CONFIRMADO (U071),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+- LAS DEMÁS CAUSAS,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera
+CIRUGÍAS DE URGENCIA,0,-,-,0,-,0,0,0,2022,Coquimbo,SUR,SUR La Higuera

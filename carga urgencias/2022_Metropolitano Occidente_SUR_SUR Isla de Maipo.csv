@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4722,447,519,674,866,824,875,517,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4463,436,491,633,806,779,821,497,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,944,87,104,190,206,148,122,87,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+IRA Alta (J00-J06),856,70,96,166,193,138,117,76,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Influenza (J09-J11),1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Neumonía (J12-J18),13,2,3,1,2,1,2,2,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Bronquitis/bronquiolitis aguda (J20-J21),44,6,4,18,7,5,1,3,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Crisis obstructiva bronquial (J40-J46),13,3,1,3,2,2,1,1,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",17,5,0,2,2,2,1,5,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+COVID 19 Sospechoso (U072),553,28,33,23,107,124,160,78,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+COVID 19 Confirmado (U071),416,2,11,48,76,89,117,73,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,68,7,7,15,11,12,12,4,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Infarto agudo miocardio,2,0,0,0,1,0,0,1,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Accidente vascular encefálico,7,1,0,0,2,3,1,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Crisis hipertensiva,33,2,4,12,4,4,5,2,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Arritmia grave,7,1,0,2,0,1,3,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Otras causas circulatorias,19,3,3,1,4,4,3,1,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,301,44,47,43,53,36,46,32,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Accidentes del tránsito,2,0,0,0,0,0,2,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Otras causas externas,299,44,47,43,53,36,44,32,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),52,3,8,8,7,7,14,5,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",40,3,7,7,4,7,8,4,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+Otros trastornos mentales no contenidos en las categorías anteriores,11,0,1,1,2,0,6,1,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+DIARREA AGUDA (A00-A09),35,5,9,4,0,6,6,5,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+TOTAL DEMÁS CAUSAS,2094,260,272,302,346,357,344,213,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Isla de Maipo

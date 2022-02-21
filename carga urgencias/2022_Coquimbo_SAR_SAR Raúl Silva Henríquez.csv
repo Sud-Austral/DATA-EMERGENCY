@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6231,794,954,930,1078,1079,800,596,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5125,703,753,729,846,915,653,526,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+TOTAL CAUSAS SISTEMA RESPIRATORIO,601,92,93,140,125,70,39,42,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+IRA Alta (J00-J06),464,71,78,63,116,65,33,38,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Neumonía (J12-J18),17,4,3,2,3,1,1,3,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Bronquitis/bronquiolitis aguda (J20-J21),21,8,6,1,3,2,1,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Crisis obstructiva bronquial (J40-J46),7,5,1,0,0,0,0,1,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",92,4,5,74,3,2,4,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+COVID 19 Sospechoso (U072),1824,91,156,233,352,510,309,173,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+COVID 19 Confirmado (U071),358,4,25,39,105,52,56,77,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+TOTAL CAUSAS SISTEMA CIRCULATORIO,44,6,7,4,9,7,7,4,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Infarto agudo miocardio,2,0,0,0,0,0,1,1,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Accidente vascular encefálico,5,0,2,0,2,0,0,1,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Crisis hipertensiva,11,0,1,2,4,2,2,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Arritmia grave,6,4,1,0,0,1,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Otras causas circulatorias,20,2,3,2,3,4,4,2,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,595,135,124,88,63,74,53,58,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Accidentes del tránsito,5,1,0,1,0,0,1,2,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Otras causas externas,590,134,124,87,63,74,52,56,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),19,4,4,2,2,2,3,2,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,3,3,2,2,1,2,2,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,1,0,0,1,1,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+DIARREA AGUDA (A00-A09),26,5,4,1,3,3,7,3,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+TOTAL DEMÁS CAUSAS,1658,366,340,222,187,197,179,167,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Raúl Silva Henríquez

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3098,1013,1046,1039,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3098,1013,1046,1039,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+TOTAL CAUSAS SISTEMA RESPIRATORIO,332,120,140,72,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+IRA Alta (J00-J06),270,97,121,52,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Influenza (J09-J11),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Neumonía (J12-J18),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Bronquitis/bronquiolitis aguda (J20-J21),30,7,12,11,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Crisis obstructiva bronquial (J40-J46),14,5,4,5,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,11,3,4,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+COVID 19 Sospechoso (U072),893,256,210,427,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+COVID 19 Confirmado (U071),7,1,3,3,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+TOTAL CAUSAS SISTEMA CIRCULATORIO,37,10,16,11,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Infarto agudo miocardio,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Accidente vascular encefálico,2,1,0,1,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Crisis hipertensiva,16,4,5,7,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Arritmia grave,2,0,2,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Otras causas circulatorias,17,5,9,3,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Accidentes del tránsito,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Otras causas externas,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),31,13,9,9,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Ideación Suicida (R458),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,1,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",25,10,8,7,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+Otros trastornos mentales no contenidos en las categorías anteriores,4,2,1,1,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+DIARREA AGUDA (A00-A09),84,38,27,19,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+TOTAL DEMÁS CAUSAS,1714,575,641,498,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,-,-,2022,Bíobío,SAR,SAR Entre Ríos

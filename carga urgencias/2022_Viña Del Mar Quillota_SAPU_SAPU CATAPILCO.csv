@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2267,261,277,330,357,401,445,196,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2206,261,277,325,345,383,428,187,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+TOTAL CAUSAS SISTEMA RESPIRATORIO,380,50,61,44,66,55,67,37,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+IRA Alta (J00-J06),325,36,47,42,57,47,60,36,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Neumonía (J12-J18),2,0,1,0,1,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Bronquitis/bronquiolitis aguda (J20-J21),24,4,8,1,6,2,3,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Crisis obstructiva bronquial (J40-J46),7,3,1,0,1,1,1,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,7,4,1,1,5,3,1,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+COVID 19 Sospechoso (U072),319,13,28,56,57,83,61,21,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+COVID 19 Confirmado (U071),143,0,0,2,5,64,55,17,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+TOTAL CAUSAS SISTEMA CIRCULATORIO,52,9,12,13,6,6,5,1,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Crisis hipertensiva,22,2,3,5,5,3,3,1,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Arritmia grave,3,0,1,2,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Otras causas circulatorias,26,7,8,6,0,3,2,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,144,15,18,25,35,15,27,9,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Otras causas externas,144,15,18,25,35,15,27,9,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),53,27,5,2,7,3,7,2,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",28,3,5,2,7,3,7,1,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+Otros trastornos mentales no contenidos en las categorías anteriores,25,24,0,0,0,0,0,1,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+TOTAL DEMÁS CAUSAS,1115,147,153,183,169,157,206,100,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU CATAPILCO

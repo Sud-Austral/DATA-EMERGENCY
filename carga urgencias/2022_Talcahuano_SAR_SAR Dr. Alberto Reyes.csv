@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5156,519,789,819,886,839,1152,152,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5003,483,726,775,784,759,944,532,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+TOTAL CAUSAS SISTEMA RESPIRATORIO,437,43,70,108,65,48,82,21,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+IRA Alta (J00-J06),326,31,51,74,49,41,62,18,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Neumonía (J12-J18),26,1,6,6,3,2,6,2,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Bronquitis/bronquiolitis aguda (J20-J21),53,6,8,23,6,1,9,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Crisis obstructiva bronquial (J40-J46),17,4,3,2,2,3,2,1,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,1,2,3,5,1,3,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+COVID 19 Sospechoso (U072),1744,94,138,198,321,364,302,327,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+COVID 19 Confirmado (U071),274,0,0,4,18,44,171,37,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+TOTAL CAUSAS SISTEMA CIRCULATORIO,42,8,11,3,5,6,7,2,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Infarto agudo miocardio,2,0,1,0,0,1,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Accidente vascular encefálico,3,1,1,0,1,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Crisis hipertensiva,8,1,2,0,0,1,4,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Arritmia grave,3,1,0,0,0,1,0,1,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Otras causas circulatorias,26,5,7,3,4,3,3,1,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),72,6,14,17,10,5,14,6,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,0,2,1,2,0,1,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",60,6,12,15,8,5,12,2,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,0,1,0,0,0,4,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+DIARREA AGUDA (A00-A09),156,18,26,22,26,17,29,18,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+TOTAL DEMÁS CAUSAS,2278,314,467,423,339,275,339,121,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Dr. Alberto Reyes

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2311,293,283,366,459,363,375,172,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1719,234,219,250,261,286,319,150,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,550,86,63,78,77,100,113,33,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+IRA Alta (J00-J06),461,61,57,69,58,86,99,31,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Neumonía (J12-J18),8,2,1,0,2,1,2,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Bronquitis/bronquiolitis aguda (J20-J21),44,13,1,6,12,4,7,1,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Crisis obstructiva bronquial (J40-J46),16,2,3,2,1,4,3,1,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,8,1,1,4,5,2,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+COVID 19 Sospechoso (U072),348,17,23,32,63,53,98,62,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,17,3,0,3,3,3,3,2,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Accidente vascular encefálico,1,0,0,1,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Crisis hipertensiva,7,2,0,0,0,1,3,1,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Otras causas circulatorias,9,1,0,2,3,2,0,1,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,119,13,23,22,22,18,12,9,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Otras causas externas,119,13,23,22,22,18,12,9,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),8,0,3,1,2,1,0,1,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,1,0,2,1,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,2,1,0,0,0,1,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+DIARREA AGUDA (A00-A09),3,0,1,0,1,0,1,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+TOTAL DEMÁS CAUSAS,674,115,106,114,93,111,92,43,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Joan Crawford Astudillo

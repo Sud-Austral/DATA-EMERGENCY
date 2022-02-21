@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,13142,1937,1977,2066,2226,2048,1768,1120,2022,Metropolitano Occidente,SAR,SAR Renca
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,11382,1696,1758,1758,1814,1727,1595,1034,2022,Metropolitano Occidente,SAR,SAR Renca
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1570,335,293,287,317,199,66,73,2022,Metropolitano Occidente,SAR,SAR Renca
+IRA Alta (J00-J06),1402,292,259,261,290,181,56,63,2022,Metropolitano Occidente,SAR,SAR Renca
+Influenza (J09-J11),2,0,2,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+Neumonía (J12-J18),28,6,4,5,5,4,2,2,2022,Metropolitano Occidente,SAR,SAR Renca
+Bronquitis/bronquiolitis aguda (J20-J21),72,24,16,10,13,6,1,2,2022,Metropolitano Occidente,SAR,SAR Renca
+Crisis obstructiva bronquial (J40-J46),45,8,8,10,6,5,4,4,2022,Metropolitano Occidente,SAR,SAR Renca
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,5,4,1,3,3,3,2,2022,Metropolitano Occidente,SAR,SAR Renca
+COVID 19 Sospechoso (U072),3585,246,353,535,689,726,696,340,2022,Metropolitano Occidente,SAR,SAR Renca
+COVID 19 Confirmado (U071),393,22,15,28,124,140,31,33,2022,Metropolitano Occidente,SAR,SAR Renca
+TOTAL CAUSAS SISTEMA CIRCULATORIO,167,40,29,25,20,14,28,11,2022,Metropolitano Occidente,SAR,SAR Renca
+Infarto agudo miocardio,6,1,2,1,0,0,2,0,2022,Metropolitano Occidente,SAR,SAR Renca
+Accidente vascular encefálico,10,2,1,1,2,0,3,1,2022,Metropolitano Occidente,SAR,SAR Renca
+Crisis hipertensiva,69,19,15,7,9,6,10,3,2022,Metropolitano Occidente,SAR,SAR Renca
+Arritmia grave,16,1,2,1,3,4,3,2,2022,Metropolitano Occidente,SAR,SAR Renca
+Otras causas circulatorias,66,17,9,15,6,4,10,5,2022,Metropolitano Occidente,SAR,SAR Renca
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,920,168,182,136,125,114,112,83,2022,Metropolitano Occidente,SAR,SAR Renca
+Accidentes del tránsito,10,0,4,1,1,2,2,0,2022,Metropolitano Occidente,SAR,SAR Renca
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Metropolitano Occidente,SAR,SAR Renca
+Otras causas externas,909,168,178,135,124,112,110,82,2022,Metropolitano Occidente,SAR,SAR Renca
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),150,37,29,15,17,20,19,13,2022,Metropolitano Occidente,SAR,SAR Renca
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,4,0,0,0,0,2,0,2022,Metropolitano Occidente,SAR,SAR Renca
+Trastornos del Humor (Afectivos) (F30-F39),4,0,1,0,1,2,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",121,28,22,15,15,14,14,13,2022,Metropolitano Occidente,SAR,SAR Renca
+Otros trastornos mentales no contenidos en las categorías anteriores,19,5,6,0,1,4,3,0,2022,Metropolitano Occidente,SAR,SAR Renca
+DIARREA AGUDA (A00-A09),148,13,39,15,20,17,16,28,2022,Metropolitano Occidente,SAR,SAR Renca
+TOTAL DEMÁS CAUSAS,4449,835,818,717,502,497,627,453,2022,Metropolitano Occidente,SAR,SAR Renca
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Renca

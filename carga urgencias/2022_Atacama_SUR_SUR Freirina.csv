@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2713,358,359,414,452,378,401,351,2022,Atacama,SUR,SUR Freirina
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2591,343,353,390,410,370,390,335,2022,Atacama,SUR,SUR Freirina
+TOTAL CAUSAS SISTEMA RESPIRATORIO,95,17,10,27,12,14,10,5,2022,Atacama,SUR,SUR Freirina
+IRA Alta (J00-J06),80,15,7,23,12,11,7,5,2022,Atacama,SUR,SUR Freirina
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+Neumonía (J12-J18),2,0,0,1,0,0,1,0,2022,Atacama,SUR,SUR Freirina
+Bronquitis/bronquiolitis aguda (J20-J21),8,2,1,1,0,3,1,0,2022,Atacama,SUR,SUR Freirina
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5,0,2,2,0,0,1,0,2022,Atacama,SUR,SUR Freirina
+COVID 19 Sospechoso (U072),380,10,21,41,55,78,98,77,2022,Atacama,SUR,SUR Freirina
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,5,1,1,1,2,5,4,2022,Atacama,SUR,SUR Freirina
+Infarto agudo miocardio,2,1,0,0,0,0,1,0,2022,Atacama,SUR,SUR Freirina
+Accidente vascular encefálico,1,0,0,0,0,0,0,1,2022,Atacama,SUR,SUR Freirina
+Crisis hipertensiva,16,4,1,1,1,2,4,3,2022,Atacama,SUR,SUR Freirina
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,3,2,0,0,0,0,0,1,2022,Atacama,SUR,SUR Freirina
+Accidentes del tránsito,2,2,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+Otras causas externas,1,0,0,0,0,0,0,1,2022,Atacama,SUR,SUR Freirina
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,6,7,1,4,6,6,4,2022,Atacama,SUR,SUR Freirina
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,1,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,0,0,0,0,1,0,2022,Atacama,SUR,SUR Freirina
+Otros trastornos mentales no contenidos en las categorías anteriores,31,5,6,1,4,6,5,4,2022,Atacama,SUR,SUR Freirina
+DIARREA AGUDA (A00-A09),41,6,9,3,7,5,5,6,2022,Atacama,SUR,SUR Freirina
+TOTAL DEMÁS CAUSAS,2019,297,305,317,331,265,266,238,2022,Atacama,SUR,SUR Freirina
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Freirina

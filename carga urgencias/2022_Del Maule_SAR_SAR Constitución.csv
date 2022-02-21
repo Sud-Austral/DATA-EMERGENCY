@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5553,770,779,804,790,908,881,621,2022,Del Maule,SAR,SAR Constitución
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4839,693,683,719,685,798,757,504,2022,Del Maule,SAR,SAR Constitución
+TOTAL CAUSAS SISTEMA RESPIRATORIO,416,102,60,73,51,70,28,32,2022,Del Maule,SAR,SAR Constitución
+IRA Alta (J00-J06),357,94,52,57,44,56,25,29,2022,Del Maule,SAR,SAR Constitución
+Influenza (J09-J11),6,0,0,6,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Neumonía (J12-J18),8,0,2,2,2,1,0,1,2022,Del Maule,SAR,SAR Constitución
+Bronquitis/bronquiolitis aguda (J20-J21),26,3,2,3,4,12,0,2,2022,Del Maule,SAR,SAR Constitución
+Crisis obstructiva bronquial (J40-J46),6,1,3,1,0,1,0,0,2022,Del Maule,SAR,SAR Constitución
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",13,4,1,4,1,0,3,0,2022,Del Maule,SAR,SAR Constitución
+COVID 19 Sospechoso (U072),798,64,61,70,83,180,222,118,2022,Del Maule,SAR,SAR Constitución
+COVID 19 Confirmado (U071),79,0,2,0,10,25,11,31,2022,Del Maule,SAR,SAR Constitución
+TOTAL CAUSAS SISTEMA CIRCULATORIO,22,4,3,4,7,1,2,1,2022,Del Maule,SAR,SAR Constitución
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Crisis hipertensiva,1,0,0,1,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Arritmia grave,7,2,3,0,2,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Otras causas circulatorias,13,2,0,3,4,1,2,1,2022,Del Maule,SAR,SAR Constitución
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,410,87,75,56,60,66,42,24,2022,Del Maule,SAR,SAR Constitución
+Accidentes del tránsito,15,3,2,1,7,1,0,1,2022,Del Maule,SAR,SAR Constitución
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,1,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Otras causas externas,394,84,72,55,53,65,42,23,2022,Del Maule,SAR,SAR Constitución
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),74,18,5,2,10,17,14,8,2022,Del Maule,SAR,SAR Constitución
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),15,4,2,0,2,5,2,0,2022,Del Maule,SAR,SAR Constitución
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",56,13,3,2,8,11,12,7,2022,Del Maule,SAR,SAR Constitución
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,0,0,1,0,1,2022,Del Maule,SAR,SAR Constitución
+DIARREA AGUDA (A00-A09),31,5,3,7,3,10,3,0,2022,Del Maule,SAR,SAR Constitución
+TOTAL DEMÁS CAUSAS,3009,413,474,507,461,429,435,290,2022,Del Maule,SAR,SAR Constitución
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Constitución

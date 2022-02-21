@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3322,487,383,377,525,525,565,460,2022,Del Maule,SUR,SUR Río Claro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3734,478,375,366,505,518,557,935,2022,Del Maule,SUR,SUR Río Claro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,419,91,54,57,52,69,41,55,2022,Del Maule,SUR,SUR Río Claro
+IRA Alta (J00-J06),356,69,44,46,41,65,39,52,2022,Del Maule,SUR,SUR Río Claro
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Neumonía (J12-J18),2,0,1,0,0,1,0,0,2022,Del Maule,SUR,SUR Río Claro
+Bronquitis/bronquiolitis aguda (J20-J21),37,14,2,7,9,2,2,1,2022,Del Maule,SUR,SUR Río Claro
+Crisis obstructiva bronquial (J40-J46),5,2,1,0,1,1,0,0,2022,Del Maule,SUR,SUR Río Claro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,6,6,4,1,0,0,2,2022,Del Maule,SUR,SUR Río Claro
+COVID 19 Sospechoso (U072),1492,48,43,55,179,215,283,669,2022,Del Maule,SUR,SUR Río Claro
+COVID 19 Confirmado (U071),64,0,1,3,10,10,19,21,2022,Del Maule,SUR,SUR Río Claro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,12,4,1,1,1,1,3,1,2022,Del Maule,SUR,SUR Río Claro
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Accidente vascular encefálico,2,0,1,0,0,0,1,0,2022,Del Maule,SUR,SUR Río Claro
+Crisis hipertensiva,1,0,0,1,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Otras causas circulatorias,9,4,0,0,1,1,2,1,2022,Del Maule,SUR,SUR Río Claro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,210,43,32,22,37,26,21,29,2022,Del Maule,SUR,SUR Río Claro
+Accidentes del tránsito,28,4,4,2,0,3,3,12,2022,Del Maule,SUR,SUR Río Claro
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Otras causas externas,181,39,28,20,36,23,18,17,2022,Del Maule,SUR,SUR Río Claro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,8,2,4,4,5,4,7,2022,Del Maule,SUR,SUR Río Claro
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",31,7,2,4,3,4,4,7,2022,Del Maule,SUR,SUR Río Claro
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Río Claro
+DIARREA AGUDA (A00-A09),70,17,12,12,11,4,9,5,2022,Del Maule,SUR,SUR Río Claro
+TOTAL DEMÁS CAUSAS,1433,267,230,212,211,188,177,148,2022,Del Maule,SUR,SUR Río Claro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Río Claro

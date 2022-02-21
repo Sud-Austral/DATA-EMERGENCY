@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7699,1174,1193,1141,1197,1319,1000,675,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6633,970,959,862,888,1105,1047,802,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+TOTAL CAUSAS SISTEMA RESPIRATORIO,671,124,116,110,120,73,82,46,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+IRA Alta (J00-J06),518,86,91,94,103,61,51,32,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Neumonía (J12-J18),26,8,3,1,3,3,4,4,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Bronquitis/bronquiolitis aguda (J20-J21),31,10,3,3,4,2,6,3,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Crisis obstructiva bronquial (J40-J46),38,7,6,6,2,4,9,4,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",58,13,13,6,8,3,12,3,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+COVID 19 Sospechoso (U072),1980,166,238,281,288,433,358,216,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+COVID 19 Confirmado (U071),784,11,28,74,148,181,203,139,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+TOTAL CAUSAS SISTEMA CIRCULATORIO,143,38,15,25,18,19,13,15,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Infarto agudo miocardio,8,1,1,1,1,1,1,2,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Accidente vascular encefálico,21,9,1,5,4,1,1,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Crisis hipertensiva,50,9,7,8,5,7,5,9,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Arritmia grave,12,3,1,0,3,1,2,2,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Otras causas circulatorias,52,16,5,11,5,9,4,2,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,572,122,94,57,64,73,88,74,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,1,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Otras causas externas,571,122,94,57,64,73,87,74,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),127,21,28,20,10,15,16,17,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),19,5,3,2,1,2,4,2,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Trastornos del Humor (Afectivos) (F30-F39),12,2,2,3,1,1,0,3,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",88,13,22,14,7,12,10,10,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+Otros trastornos mentales no contenidos en las categorías anteriores,8,1,1,1,1,0,2,2,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+DIARREA AGUDA (A00-A09),129,32,29,6,43,7,7,5,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+TOTAL DEMÁS CAUSAS,2227,456,411,289,197,304,280,290,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Dr. Amador Neghme R.

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4507,590,566,571,745,638,794,603,2022,Concepción,SAPU,SAPU Loma Colorada
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4384,584,556,560,695,686,746,557,2022,Concepción,SAPU,SAPU Loma Colorada
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1116,162,137,143,129,176,187,182,2022,Concepción,SAPU,SAPU Loma Colorada
+IRA Alta (J00-J06),1044,157,119,135,124,162,174,173,2022,Concepción,SAPU,SAPU Loma Colorada
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Neumonía (J12-J18),4,1,0,1,0,1,0,1,2022,Concepción,SAPU,SAPU Loma Colorada
+Bronquitis/bronquiolitis aguda (J20-J21),47,3,12,3,4,11,8,6,2022,Concepción,SAPU,SAPU Loma Colorada
+Crisis obstructiva bronquial (J40-J46),14,1,6,3,1,0,1,2,2022,Concepción,SAPU,SAPU Loma Colorada
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,0,0,1,0,2,4,0,2022,Concepción,SAPU,SAPU Loma Colorada
+COVID 19 Sospechoso (U072),1041,51,46,103,274,221,210,136,2022,Concepción,SAPU,SAPU Loma Colorada
+COVID 19 Confirmado (U071),11,0,11,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43,9,7,3,8,8,3,5,2022,Concepción,SAPU,SAPU Loma Colorada
+Infarto agudo miocardio,2,1,0,0,1,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Accidente vascular encefálico,2,0,0,0,1,1,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Crisis hipertensiva,30,6,4,3,5,6,3,3,2022,Concepción,SAPU,SAPU Loma Colorada
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Otras causas circulatorias,9,2,3,0,1,1,0,2,2022,Concepción,SAPU,SAPU Loma Colorada
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,351,48,53,38,45,51,71,45,2022,Concepción,SAPU,SAPU Loma Colorada
+Accidentes del tránsito,1,0,0,1,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Otras causas externas,350,48,53,37,45,51,71,45,2022,Concepción,SAPU,SAPU Loma Colorada
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),32,2,4,4,5,4,7,6,2022,Concepción,SAPU,SAPU Loma Colorada
+Ideación Suicida (R458),1,0,0,1,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+Trastornos del Humor (Afectivos) (F30-F39),12,2,0,1,2,0,6,1,2022,Concepción,SAPU,SAPU Loma Colorada
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,0,3,2,1,4,1,5,2022,Concepción,SAPU,SAPU Loma Colorada
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,0,1,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+DIARREA AGUDA (A00-A09),252,36,40,32,36,35,44,29,2022,Concepción,SAPU,SAPU Loma Colorada
+TOTAL DEMÁS CAUSAS,1538,276,258,237,198,191,224,154,2022,Concepción,SAPU,SAPU Loma Colorada
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Loma Colorada

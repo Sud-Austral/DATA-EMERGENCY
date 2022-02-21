@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,676,130,97,107,148,51,71,72,2022,Araucanía Sur,SUR,SUR Curarrehue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,673,130,97,106,148,51,69,72,2022,Araucanía Sur,SUR,SUR Curarrehue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,131,23,15,18,29,11,12,23,2022,Araucanía Sur,SUR,SUR Curarrehue
+IRA Alta (J00-J06),99,17,12,16,21,7,7,19,2022,Araucanía Sur,SUR,SUR Curarrehue
+Influenza (J09-J11),1,0,0,0,0,0,0,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+Neumonía (J12-J18),7,1,2,1,1,1,0,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+Bronquitis/bronquiolitis aguda (J20-J21),17,4,1,1,3,1,5,2,2022,Araucanía Sur,SUR,SUR Curarrehue
+Crisis obstructiva bronquial (J40-J46),4,0,0,0,2,2,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,1,0,0,2,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+COVID 19 Sospechoso (U072),16,0,3,0,4,2,0,7,2022,Araucanía Sur,SUR,SUR Curarrehue
+COVID 19 Confirmado (U071),18,0,1,1,8,3,4,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,7,3,5,1,1,1,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Crisis hipertensiva,5,3,0,0,0,1,1,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Otras causas circulatorias,14,4,3,5,1,0,0,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,130,22,26,19,36,6,13,8,2022,Araucanía Sur,SUR,SUR Curarrehue
+Accidentes del tránsito,98,17,17,16,30,4,9,5,2022,Araucanía Sur,SUR,SUR Curarrehue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Otras causas externas,32,5,9,3,6,2,4,3,2022,Araucanía Sur,SUR,SUR Curarrehue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),10,3,3,1,2,0,0,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,3,1,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,0,2,1,2,0,0,1,2022,Araucanía Sur,SUR,SUR Curarrehue
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+DIARREA AGUDA (A00-A09),29,8,4,4,5,2,4,2,2022,Araucanía Sur,SUR,SUR Curarrehue
+TOTAL DEMÁS CAUSAS,320,67,42,58,63,26,35,29,2022,Araucanía Sur,SUR,SUR Curarrehue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SUR,SUR Curarrehue

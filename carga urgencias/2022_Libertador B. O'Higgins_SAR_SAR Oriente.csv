@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9034,1199,1244,1314,1477,1542,1430,828,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7222,1021,1104,1033,1126,1198,1139,601,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+TOTAL CAUSAS SISTEMA RESPIRATORIO,429,71,73,48,69,72,58,38,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+IRA Alta (J00-J06),326,56,62,40,54,45,44,25,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Influenza (J09-J11),14,0,0,0,0,14,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Neumonía (J12-J18),15,4,0,2,1,1,3,4,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Bronquitis/bronquiolitis aguda (J20-J21),21,4,5,1,6,2,1,2,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Crisis obstructiva bronquial (J40-J46),32,1,3,2,7,8,5,6,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,6,3,3,1,2,5,1,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+COVID 19 Sospechoso (U072),2338,214,254,337,412,440,457,224,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+TOTAL CAUSAS SISTEMA CIRCULATORIO,89,9,12,16,13,16,14,9,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Infarto agudo miocardio,13,2,2,0,1,3,5,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Accidente vascular encefálico,8,0,2,2,2,1,1,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Crisis hipertensiva,41,6,5,9,7,5,4,5,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Arritmia grave,7,1,1,2,0,1,0,2,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Otras causas circulatorias,20,0,2,3,3,6,4,2,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,2,0,0,0,1,1,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Otras causas externas,2,0,0,0,1,1,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),127,24,19,12,18,19,25,10,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Ideación Suicida (R458),12,0,0,2,7,3,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),20,4,6,1,1,2,4,2,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Trastornos del Humor (Afectivos) (F30-F39),6,1,1,0,0,0,2,2,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",87,18,12,9,10,14,19,5,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,0,0,0,0,1,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+DIARREA AGUDA (A00-A09),390,80,67,67,63,52,29,32,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+TOTAL DEMÁS CAUSAS,3847,623,679,553,550,598,556,288,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Oriente

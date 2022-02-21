@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3234,400,340,449,579,572,518,376,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+TOTAL CAUSAS SISTEMA RESPIRATORIO,339,38,44,56,59,61,50,31,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+IRA Alta (J00-J06),218,30,35,36,34,24,37,22,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Influenza (J09-J11),6,1,1,1,3,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Neumonía (J12-J18),22,2,2,4,2,6,3,3,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Bronquitis/bronquiolitis aguda (J20-J21),6,1,1,2,1,0,0,1,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Crisis obstructiva bronquial (J40-J46),3,1,0,1,0,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",84,3,5,12,19,31,9,5,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+COVID 19 Sospechoso (U072),1000,31,40,126,256,231,190,126,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+COVID 19 Confirmado (U071),25,0,2,2,7,4,2,8,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+TOTAL CAUSAS SISTEMA CIRCULATORIO,56,9,9,10,9,7,7,5,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Infarto agudo miocardio,2,1,0,0,1,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Crisis hipertensiva,30,7,5,7,4,3,2,2,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Otras causas circulatorias,22,1,3,3,4,4,4,3,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,58,0,13,8,0,0,6,31,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Accidentes del tránsito,8,0,8,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Otras causas externas,50,0,5,8,0,0,6,31,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),13,0,2,2,9,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Ideación Suicida (R458),1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),10,0,0,1,9,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,1,1,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+DIARREA AGUDA (A00-A09),34,0,6,0,2,24,0,2,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+TOTAL DEMÁS CAUSAS,1709,322,224,245,237,245,263,173,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Navidad

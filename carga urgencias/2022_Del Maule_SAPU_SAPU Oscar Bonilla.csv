@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2576,370,362,368,221,357,494,404,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2761,370,364,368,405,357,494,403,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+TOTAL CAUSAS SISTEMA RESPIRATORIO,566,97,84,105,85,66,85,44,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+IRA Alta (J00-J06),500,88,84,93,79,47,72,37,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Neumonía (J12-J18),1,0,0,0,1,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Bronquitis/bronquiolitis aguda (J20-J21),16,2,0,1,2,3,5,3,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Crisis obstructiva bronquial (J40-J46),13,4,0,5,0,2,2,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",36,3,0,6,3,14,6,4,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+COVID 19 Sospechoso (U072),706,8,14,47,131,129,193,184,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+COVID 19 Confirmado (U071),13,0,0,2,0,2,3,6,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+TOTAL CAUSAS SISTEMA CIRCULATORIO,58,2,6,12,10,7,17,4,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Accidente vascular encefálico,1,0,0,1,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Crisis hipertensiva,6,0,0,0,2,3,1,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Arritmia grave,3,0,1,1,0,1,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Otras causas circulatorias,48,2,5,10,8,3,16,4,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,119,26,23,7,10,10,22,21,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Accidentes del tránsito,21,0,0,3,9,1,6,2,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Otras causas externas,97,26,23,4,1,8,16,19,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),15,5,2,0,2,1,4,1,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,1,0,0,0,1,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",8,2,0,0,2,0,3,1,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+Otros trastornos mentales no contenidos en las categorías anteriores,5,3,1,0,0,1,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+DIARREA AGUDA (A00-A09),196,42,34,40,32,14,15,19,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+TOTAL DEMÁS CAUSAS,1088,190,201,155,135,128,155,124,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Oscar Bonilla

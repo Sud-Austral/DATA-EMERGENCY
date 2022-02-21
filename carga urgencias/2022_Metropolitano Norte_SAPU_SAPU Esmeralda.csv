@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9896,1455,1595,1757,823,1628,1554,1084,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8811,1307,1444,1538,704,1351,1449,1018,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1437,266,306,258,142,193,152,120,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+IRA Alta (J00-J06),1263,223,274,221,122,179,132,112,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Influenza (J09-J11),2,0,0,0,2,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Neumonía (J12-J18),20,5,3,2,1,2,5,2,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Bronquitis/bronquiolitis aguda (J20-J21),69,21,13,17,9,2,4,3,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Crisis obstructiva bronquial (J40-J46),29,4,7,5,4,4,4,1,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",54,13,9,13,4,6,7,2,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+COVID 19 Sospechoso (U072),1684,96,142,400,122,436,360,128,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+COVID 19 Confirmado (U071),793,19,28,100,104,180,175,187,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+TOTAL CAUSAS SISTEMA CIRCULATORIO,219,47,39,33,12,31,37,20,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Accidente vascular encefálico,11,3,0,1,2,2,1,2,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Crisis hipertensiva,45,6,7,8,1,10,9,4,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Arritmia grave,5,0,0,1,0,3,1,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Otras causas circulatorias,158,38,32,23,9,16,26,14,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,488,93,92,84,28,49,92,50,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Lesiones autoinfligidas intencionalmente (X60-X84),7,3,1,2,1,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Otras causas externas,481,90,91,82,27,49,92,50,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),126,27,32,27,7,14,11,8,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Ideación Suicida (R458),1,0,0,1,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+Otros trastornos mentales no contenidos en las categorías anteriores,124,26,32,26,7,14,11,8,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+DIARREA AGUDA (A00-A09),388,73,93,59,22,39,41,61,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+TOTAL DEMÁS CAUSAS,3676,686,712,577,267,409,581,444,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Esmeralda

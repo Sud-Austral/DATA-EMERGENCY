@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1700,274,237,265,290,203,230,201,2022,Araucanía Sur,Hospital,Hospital de Toltén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1676,274,233,263,285,199,221,201,2022,Araucanía Sur,Hospital,Hospital de Toltén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,243,39,39,43,47,24,26,25,2022,Araucanía Sur,Hospital,Hospital de Toltén
+IRA Alta (J00-J06),156,25,24,29,31,13,17,17,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Influenza (J09-J11),12,4,1,2,0,5,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Neumonía (J12-J18),24,2,5,6,5,1,2,3,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Bronquitis/bronquiolitis aguda (J20-J21),23,3,4,3,3,1,5,4,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Crisis obstructiva bronquial (J40-J46),18,5,1,2,5,3,1,1,2022,Araucanía Sur,Hospital,Hospital de Toltén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,0,4,1,3,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+COVID 19 Sospechoso (U072),61,0,2,5,6,15,19,14,2022,Araucanía Sur,Hospital,Hospital de Toltén
+COVID 19 Confirmado (U071),106,0,3,4,16,28,27,28,2022,Araucanía Sur,Hospital,Hospital de Toltén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,32,7,6,6,2,4,4,3,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Accidente vascular encefálico,3,0,1,1,0,0,0,1,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Crisis hipertensiva,9,2,1,3,0,1,2,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Arritmia grave,4,1,0,1,1,1,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Otras causas circulatorias,16,4,4,1,1,2,2,2,2022,Araucanía Sur,Hospital,Hospital de Toltén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,281,45,27,57,40,28,49,35,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Accidentes del tránsito,218,33,22,47,24,20,41,31,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Otras causas externas,63,12,5,10,16,8,8,4,2022,Araucanía Sur,Hospital,Hospital de Toltén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),51,10,4,9,12,5,7,4,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,3,2,2,1,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Trastornos del Humor (Afectivos) (F30-F39),4,0,0,1,1,1,0,1,2022,Araucanía Sur,Hospital,Hospital de Toltén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",35,6,1,6,10,4,5,3,2022,Araucanía Sur,Hospital,Hospital de Toltén
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,1,0,0,0,2,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+DIARREA AGUDA (A00-A09),113,20,18,18,21,17,10,9,2022,Araucanía Sur,Hospital,Hospital de Toltén
+TOTAL DEMÁS CAUSAS,789,153,134,121,141,78,79,83,2022,Araucanía Sur,Hospital,Hospital de Toltén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,29,5,10,5,6,2,0,1,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- CAUSAS SISTEMA RESPIRATORIO,3,1,0,0,2,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- COVID 19 SOSPECHOSO (U072),1,0,0,1,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- COVID 19 CONFIRMADO (U071),1,0,0,0,0,0,0,1,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- CAUSAS SISTEMA CIRCULATORIO,2,0,2,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,1,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),2,0,1,1,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+- LAS DEMÁS CAUSAS,19,4,6,3,4,2,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Toltén

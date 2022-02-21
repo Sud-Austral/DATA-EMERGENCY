@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,641,359,71,-,-,-,160,51,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,669,391,70,-,-,-,158,50,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,47,38,5,-,-,-,3,1,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+IRA Alta (J00-J06),37,28,5,-,-,-,3,1,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Influenza (J09-J11),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Neumonía (J12-J18),1,1,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Bronquitis/bronquiolitis aguda (J20-J21),4,4,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Crisis obstructiva bronquial (J40-J46),2,2,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,3,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+COVID 19 Sospechoso (U072),235,96,25,-,-,-,101,13,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+COVID 19 Confirmado (U071),11,3,0,-,-,-,8,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,9,7,1,-,-,-,0,1,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Infarto agudo miocardio,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Accidente vascular encefálico,1,1,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Crisis hipertensiva,3,2,1,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Arritmia grave,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Otras causas circulatorias,5,4,0,-,-,-,0,1,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,67,49,9,-,-,-,6,3,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Accidentes del tránsito,1,1,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Otras causas externas,66,48,9,-,-,-,6,3,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,3,1,-,-,-,0,1,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Ideación Suicida (R458),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,3,1,-,-,-,0,1,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+DIARREA AGUDA (A00-A09),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+TOTAL DEMÁS CAUSAS,295,195,29,-,-,-,40,31,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- COVID 19 SOSPECHOSO (U072),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- COVID 19 CONFIRMADO (U071),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+- LAS DEMÁS CAUSAS,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro
+CIRUGÍAS DE URGENCIA,0,0,0,-,-,-,0,0,2022,Coquimbo,SAPU,SAPU Cardenal Caro

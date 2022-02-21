@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,572,54,53,76,187,77,65,60,2022,Antofagasta,SUR,SUR Sierra Gorda
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,585,54,66,76,187,77,65,60,2022,Antofagasta,SUR,SUR Sierra Gorda
+TOTAL CAUSAS SISTEMA RESPIRATORIO,226,16,13,25,86,38,29,19,2022,Antofagasta,SUR,SUR Sierra Gorda
+IRA Alta (J00-J06),226,16,13,25,86,38,29,19,2022,Antofagasta,SUR,SUR Sierra Gorda
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+DIARREA AGUDA (A00-A09),49,0,0,0,19,0,0,30,2022,Antofagasta,SUR,SUR Sierra Gorda
+TOTAL DEMÁS CAUSAS,310,38,53,51,82,39,36,11,2022,Antofagasta,SUR,SUR Sierra Gorda
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SUR,SUR Sierra Gorda

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1748,238,492,487,463,68,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1319,217,429,399,216,58,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+TOTAL CAUSAS SISTEMA RESPIRATORIO,187,50,53,50,33,1,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+IRA Alta (J00-J06),151,34,47,43,26,1,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Influenza (J09-J11),3,0,0,0,3,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Neumonía (J12-J18),1,0,1,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Bronquitis/bronquiolitis aguda (J20-J21),1,1,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Crisis obstructiva bronquial (J40-J46),10,2,2,3,3,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,13,3,4,1,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+COVID 19 Sospechoso (U072),384,27,118,104,112,23,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+COVID 19 Confirmado (U071),6,1,3,0,1,1,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,6,8,7,4,1,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Infarto agudo miocardio,1,0,1,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Accidente vascular encefálico,2,0,0,0,1,1,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Crisis hipertensiva,3,0,2,1,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Arritmia grave,1,0,0,0,1,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Otras causas circulatorias,19,6,5,6,2,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,125,23,38,49,8,7,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Accidentes del tránsito,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Otras causas externas,125,23,38,49,8,7,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,6,4,11,1,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Ideación Suicida (R458),0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,6,3,6,1,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,0,5,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+DIARREA AGUDA (A00-A09),39,37,0,2,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+TOTAL DEMÁS CAUSAS,530,67,205,176,57,25,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU PUCHUNCAVÍ

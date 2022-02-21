@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,900,34,-,149,191,246,64,216,2022,Valdivia,SUR,SUR Coñaripe
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,900,34,-,149,191,246,64,216,2022,Valdivia,SUR,SUR Coñaripe
+TOTAL CAUSAS SISTEMA RESPIRATORIO,100,7,-,27,14,22,6,24,2022,Valdivia,SUR,SUR Coñaripe
+IRA Alta (J00-J06),80,4,-,24,11,17,5,19,2022,Valdivia,SUR,SUR Coñaripe
+Influenza (J09-J11),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Neumonía (J12-J18),3,0,-,0,0,1,0,2,2022,Valdivia,SUR,SUR Coñaripe
+Bronquitis/bronquiolitis aguda (J20-J21),9,2,-,3,1,2,0,1,2022,Valdivia,SUR,SUR Coñaripe
+Crisis obstructiva bronquial (J40-J46),7,1,-,0,2,1,1,2,2022,Valdivia,SUR,SUR Coñaripe
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,-,0,0,1,0,0,2022,Valdivia,SUR,SUR Coñaripe
+COVID 19 Sospechoso (U072),115,0,-,2,23,34,10,46,2022,Valdivia,SUR,SUR Coñaripe
+COVID 19 Confirmado (U071),42,0,-,3,3,25,1,10,2022,Valdivia,SUR,SUR Coñaripe
+TOTAL CAUSAS SISTEMA CIRCULATORIO,14,0,-,3,4,3,0,4,2022,Valdivia,SUR,SUR Coñaripe
+Infarto agudo miocardio,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Accidente vascular encefálico,2,0,-,0,1,1,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Crisis hipertensiva,7,0,-,3,1,1,0,2,2022,Valdivia,SUR,SUR Coñaripe
+Arritmia grave,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Otras causas circulatorias,5,0,-,0,2,1,0,2,2022,Valdivia,SUR,SUR Coñaripe
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,68,3,-,10,15,20,8,12,2022,Valdivia,SUR,SUR Coñaripe
+Accidentes del tránsito,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Otras causas externas,68,3,-,10,15,20,8,12,2022,Valdivia,SUR,SUR Coñaripe
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),6,0,-,2,0,2,1,1,2022,Valdivia,SUR,SUR Coñaripe
+Ideación Suicida (R458),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+Trastornos del Humor (Afectivos) (F30-F39),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,0,-,1,0,2,1,1,2022,Valdivia,SUR,SUR Coñaripe
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,-,1,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+DIARREA AGUDA (A00-A09),5,0,-,0,1,1,0,3,2022,Valdivia,SUR,SUR Coñaripe
+TOTAL DEMÁS CAUSAS,550,24,-,102,131,139,38,116,2022,Valdivia,SUR,SUR Coñaripe
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- COVID 19 SOSPECHOSO (U072),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- COVID 19 CONFIRMADO (U071),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+- LAS DEMÁS CAUSAS,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe
+CIRUGÍAS DE URGENCIA,0,0,-,0,0,0,0,0,2022,Valdivia,SUR,SUR Coñaripe

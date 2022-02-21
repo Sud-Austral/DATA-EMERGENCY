@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2590,341,316,367,450,413,459,244,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2397,313,300,341,417,384,419,223,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+TOTAL CAUSAS SISTEMA RESPIRATORIO,102,26,14,14,12,12,12,12,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+IRA Alta (J00-J06),72,18,8,9,8,8,10,11,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Influenza (J09-J11),2,2,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Neumonía (J12-J18),6,2,1,1,1,0,0,1,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Bronquitis/bronquiolitis aguda (J20-J21),5,1,0,1,1,1,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Crisis obstructiva bronquial (J40-J46),2,1,1,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,2,4,3,2,3,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+COVID 19 Sospechoso (U072),976,44,65,101,215,212,254,85,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+COVID 19 Confirmado (U071),46,1,0,0,2,10,5,28,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+TOTAL CAUSAS SISTEMA CIRCULATORIO,27,3,6,1,6,1,8,2,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Accidente vascular encefálico,1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Crisis hipertensiva,14,2,1,0,1,1,7,2,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Otras causas circulatorias,11,1,5,1,4,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,158,23,41,25,34,18,10,7,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Accidentes del tránsito,2,0,0,0,1,1,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Otras causas externas,156,23,41,25,33,17,10,7,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),6,3,1,0,0,2,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,3,1,0,0,2,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+DIARREA AGUDA (A00-A09),106,22,24,24,16,9,8,3,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+TOTAL DEMÁS CAUSAS,976,191,149,176,132,120,122,86,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Marcelo Mena

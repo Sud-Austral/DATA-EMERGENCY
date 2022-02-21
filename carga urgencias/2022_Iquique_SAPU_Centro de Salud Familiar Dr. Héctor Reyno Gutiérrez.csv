@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3567,821,1085,772,708,181,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2597,571,689,540,628,169,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+TOTAL CAUSAS SISTEMA RESPIRATORIO,526,69,161,128,128,40,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+IRA Alta (J00-J06),492,61,153,120,124,34,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Influenza (J09-J11),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Neumonía (J12-J18),5,1,2,0,1,1,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Bronquitis/bronquiolitis aguda (J20-J21),8,1,2,3,0,2,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Crisis obstructiva bronquial (J40-J46),13,4,3,3,1,2,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",8,2,1,2,2,1,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+COVID 19 Sospechoso (U072),652,160,173,147,149,23,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+COVID 19 Confirmado (U071),198,14,82,52,41,9,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+TOTAL CAUSAS SISTEMA CIRCULATORIO,23,14,3,3,2,1,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Infarto agudo miocardio,2,0,1,1,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Accidente vascular encefálico,1,1,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Crisis hipertensiva,11,9,0,0,2,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Arritmia grave,1,1,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Otras causas circulatorias,8,3,2,2,0,1,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,172,63,25,33,32,19,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Accidentes del tránsito,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Otras causas externas,171,63,25,33,31,19,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),20,9,4,1,6,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Ideación Suicida (R458),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",18,7,4,1,6,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+Otros trastornos mentales no contenidos en las categorías anteriores,2,2,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+DIARREA AGUDA (A00-A09),46,13,15,1,17,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+TOTAL DEMÁS CAUSAS,960,229,226,175,253,77,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,-,-,2022,Iquique,SAPU,Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez

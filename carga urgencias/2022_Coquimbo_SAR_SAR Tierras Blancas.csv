@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8401,1014,1163,1376,1535,1393,1094,826,2022,Coquimbo,SAR,SAR Tierras Blancas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5750,876,911,869,898,792,790,614,2022,Coquimbo,SAR,SAR Tierras Blancas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,691,141,186,131,104,55,33,41,2022,Coquimbo,SAR,SAR Tierras Blancas
+IRA Alta (J00-J06),561,114,154,111,90,42,22,28,2022,Coquimbo,SAR,SAR Tierras Blancas
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+Neumonía (J12-J18),17,5,1,1,4,2,1,3,2022,Coquimbo,SAR,SAR Tierras Blancas
+Bronquitis/bronquiolitis aguda (J20-J21),48,12,20,5,2,3,3,3,2022,Coquimbo,SAR,SAR Tierras Blancas
+Crisis obstructiva bronquial (J40-J46),40,6,6,7,8,4,6,3,2022,Coquimbo,SAR,SAR Tierras Blancas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",25,4,5,7,0,4,1,4,2022,Coquimbo,SAR,SAR Tierras Blancas
+COVID 19 Sospechoso (U072),2138,133,237,362,477,359,327,243,2022,Coquimbo,SAR,SAR Tierras Blancas
+COVID 19 Confirmado (U071),118,2,4,11,29,29,22,21,2022,Coquimbo,SAR,SAR Tierras Blancas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,109,24,21,12,12,15,14,11,2022,Coquimbo,SAR,SAR Tierras Blancas
+Infarto agudo miocardio,2,0,0,1,0,0,0,1,2022,Coquimbo,SAR,SAR Tierras Blancas
+Accidente vascular encefálico,6,0,0,1,0,2,3,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+Crisis hipertensiva,48,13,8,3,8,5,7,4,2022,Coquimbo,SAR,SAR Tierras Blancas
+Arritmia grave,13,2,4,1,2,1,1,2,2022,Coquimbo,SAR,SAR Tierras Blancas
+Otras causas circulatorias,40,9,9,6,2,7,3,4,2022,Coquimbo,SAR,SAR Tierras Blancas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,777,146,127,115,92,97,108,92,2022,Coquimbo,SAR,SAR Tierras Blancas
+Accidentes del tránsito,43,4,8,6,8,5,6,6,2022,Coquimbo,SAR,SAR Tierras Blancas
+Lesiones autoinfligidas intencionalmente (X60-X84),3,0,1,0,0,1,1,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+Otras causas externas,731,142,118,109,84,91,101,86,2022,Coquimbo,SAR,SAR Tierras Blancas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),70,17,9,7,12,13,9,3,2022,Coquimbo,SAR,SAR Tierras Blancas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,0,0,1,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+Trastornos del Humor (Afectivos) (F30-F39),5,0,0,3,0,1,1,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",58,15,9,3,10,11,7,3,2022,Coquimbo,SAR,SAR Tierras Blancas
+Otros trastornos mentales no contenidos en las categorías anteriores,5,1,0,1,2,1,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+DIARREA AGUDA (A00-A09),51,12,10,12,2,6,6,3,2022,Coquimbo,SAR,SAR Tierras Blancas
+TOTAL DEMÁS CAUSAS,1796,401,317,219,170,218,271,200,2022,Coquimbo,SAR,SAR Tierras Blancas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Tierras Blancas

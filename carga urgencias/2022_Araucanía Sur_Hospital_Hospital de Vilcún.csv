@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3250,500,501,561,556,333,431,368,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3193,498,495,544,548,318,422,368,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+TOTAL CAUSAS SISTEMA RESPIRATORIO,581,112,89,134,50,39,80,77,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+IRA Alta (J00-J06),443,77,61,109,40,27,63,66,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Influenza (J09-J11),17,3,5,6,0,3,0,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Neumonía (J12-J18),22,10,2,2,1,4,1,2,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Bronquitis/bronquiolitis aguda (J20-J21),55,17,13,11,2,1,8,3,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Crisis obstructiva bronquial (J40-J46),24,1,6,1,4,2,6,4,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,4,2,5,3,2,2,2,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+COVID 19 Sospechoso (U072),46,0,7,8,13,8,1,9,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+COVID 19 Confirmado (U071),236,4,16,52,93,31,20,20,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+TOTAL CAUSAS SISTEMA CIRCULATORIO,53,14,14,7,3,6,6,3,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Infarto agudo miocardio,3,0,0,2,0,0,1,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Accidente vascular encefálico,3,1,0,1,0,0,1,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Crisis hipertensiva,4,2,0,0,0,0,1,1,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Arritmia grave,11,1,4,1,2,2,1,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Otras causas circulatorias,32,10,10,3,1,4,2,2,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,548,80,98,86,94,66,60,64,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Accidentes del tránsito,289,50,53,46,38,33,38,31,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Otras causas externas,259,30,45,40,56,33,22,33,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),67,14,7,9,12,8,9,8,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),15,2,3,0,2,4,2,2,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Trastornos del Humor (Afectivos) (F30-F39),6,2,0,0,1,1,1,1,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",39,9,4,9,7,0,5,5,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+Otros trastornos mentales no contenidos en las categorías anteriores,7,1,0,0,2,3,1,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+DIARREA AGUDA (A00-A09),143,30,19,18,27,17,22,10,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+TOTAL DEMÁS CAUSAS,1519,244,245,230,256,143,224,177,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,58,16,8,6,7,9,12,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- CAUSAS SISTEMA RESPIRATORIO,14,3,3,2,0,4,2,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- COVID 19 CONFIRMADO (U071),1,0,0,0,0,0,1,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- CAUSAS SISTEMA CIRCULATORIO,8,2,2,1,0,1,2,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- TRAUMATISMOS Y ENVENENAMIENTOS,4,0,0,1,1,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),3,1,0,0,0,0,2,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+- LAS DEMÁS CAUSAS,28,10,3,2,6,3,4,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Vilcún

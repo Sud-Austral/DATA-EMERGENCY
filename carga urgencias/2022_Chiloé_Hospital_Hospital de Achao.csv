@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1569,208,211,204,215,279,255,197,2022,Chiloé,Hospital,Hospital de Achao
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1458,191,195,187,201,261,232,191,2022,Chiloé,Hospital,Hospital de Achao
+TOTAL CAUSAS SISTEMA RESPIRATORIO,164,33,20,13,26,35,23,14,2022,Chiloé,Hospital,Hospital de Achao
+IRA Alta (J00-J06),101,18,11,10,13,25,19,5,2022,Chiloé,Hospital,Hospital de Achao
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+Neumonía (J12-J18),9,3,2,0,1,1,2,0,2022,Chiloé,Hospital,Hospital de Achao
+Bronquitis/bronquiolitis aguda (J20-J21),33,9,4,2,9,4,2,3,2022,Chiloé,Hospital,Hospital de Achao
+Crisis obstructiva bronquial (J40-J46),12,3,1,0,2,3,0,3,2022,Chiloé,Hospital,Hospital de Achao
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,2,1,1,2,0,3,2022,Chiloé,Hospital,Hospital de Achao
+COVID 19 Sospechoso (U072),315,23,24,27,25,86,77,53,2022,Chiloé,Hospital,Hospital de Achao
+COVID 19 Confirmado (U071),32,2,1,1,3,8,8,9,2022,Chiloé,Hospital,Hospital de Achao
+TOTAL CAUSAS SISTEMA CIRCULATORIO,33,6,4,4,6,5,7,1,2022,Chiloé,Hospital,Hospital de Achao
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Chiloé,Hospital,Hospital de Achao
+Accidente vascular encefálico,3,1,1,0,0,0,1,0,2022,Chiloé,Hospital,Hospital de Achao
+Crisis hipertensiva,12,1,2,2,2,2,3,0,2022,Chiloé,Hospital,Hospital de Achao
+Arritmia grave,5,0,0,1,3,0,1,0,2022,Chiloé,Hospital,Hospital de Achao
+Otras causas circulatorias,12,4,1,1,1,3,1,1,2022,Chiloé,Hospital,Hospital de Achao
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,182,28,26,20,39,30,22,17,2022,Chiloé,Hospital,Hospital de Achao
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Chiloé,Hospital,Hospital de Achao
+Otras causas externas,181,28,26,20,39,30,22,16,2022,Chiloé,Hospital,Hospital de Achao
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),32,3,5,7,5,10,1,1,2022,Chiloé,Hospital,Hospital de Achao
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),11,1,3,4,1,2,0,0,2022,Chiloé,Hospital,Hospital de Achao
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",20,2,1,3,4,8,1,1,2022,Chiloé,Hospital,Hospital de Achao
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,1,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+DIARREA AGUDA (A00-A09),5,0,0,1,1,2,0,1,2022,Chiloé,Hospital,Hospital de Achao
+TOTAL DEMÁS CAUSAS,695,96,115,114,96,85,94,95,2022,Chiloé,Hospital,Hospital de Achao
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,15,2,1,0,3,4,5,0,2022,Chiloé,Hospital,Hospital de Achao
+- CAUSAS SISTEMA RESPIRATORIO,6,1,0,0,1,2,2,0,2022,Chiloé,Hospital,Hospital de Achao
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+- CAUSAS SISTEMA CIRCULATORIO,4,1,0,0,0,1,2,0,2022,Chiloé,Hospital,Hospital de Achao
+- TRAUMATISMOS Y ENVENENAMIENTOS,3,0,1,0,1,0,1,0,2022,Chiloé,Hospital,Hospital de Achao
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),2,0,0,0,1,1,0,0,2022,Chiloé,Hospital,Hospital de Achao
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Achao

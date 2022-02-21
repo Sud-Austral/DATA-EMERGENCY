@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4836,644,634,672,820,784,742,540,2022,Bíobío,Hospital,Hospital de Laja
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3598,544,484,538,648,544,476,364,2022,Bíobío,Hospital,Hospital de Laja
+TOTAL CAUSAS SISTEMA RESPIRATORIO,285,46,29,38,42,19,52,59,2022,Bíobío,Hospital,Hospital de Laja
+IRA Alta (J00-J06),182,30,7,17,26,13,42,47,2022,Bíobío,Hospital,Hospital de Laja
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Laja
+Neumonía (J12-J18),25,3,6,3,3,4,3,3,2022,Bíobío,Hospital,Hospital de Laja
+Bronquitis/bronquiolitis aguda (J20-J21),16,3,8,4,0,0,0,1,2022,Bíobío,Hospital,Hospital de Laja
+Crisis obstructiva bronquial (J40-J46),36,7,6,6,7,0,6,4,2022,Bíobío,Hospital,Hospital de Laja
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",25,3,1,8,6,2,1,4,2022,Bíobío,Hospital,Hospital de Laja
+COVID 19 Sospechoso (U072),765,62,63,120,170,190,96,64,2022,Bíobío,Hospital,Hospital de Laja
+COVID 19 Confirmado (U071),144,2,0,3,2,79,37,21,2022,Bíobío,Hospital,Hospital de Laja
+TOTAL CAUSAS SISTEMA CIRCULATORIO,87,16,12,20,13,12,11,3,2022,Bíobío,Hospital,Hospital de Laja
+Infarto agudo miocardio,3,2,0,0,1,0,0,0,2022,Bíobío,Hospital,Hospital de Laja
+Accidente vascular encefálico,9,1,3,0,0,1,3,1,2022,Bíobío,Hospital,Hospital de Laja
+Crisis hipertensiva,19,2,4,7,2,3,0,1,2022,Bíobío,Hospital,Hospital de Laja
+Arritmia grave,11,1,2,5,1,1,0,1,2022,Bíobío,Hospital,Hospital de Laja
+Otras causas circulatorias,45,10,3,8,9,7,8,0,2022,Bíobío,Hospital,Hospital de Laja
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,386,63,75,53,73,38,52,32,2022,Bíobío,Hospital,Hospital de Laja
+Accidentes del tránsito,32,0,17,3,3,1,8,0,2022,Bíobío,Hospital,Hospital de Laja
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Bíobío,Hospital,Hospital de Laja
+Otras causas externas,353,63,58,50,69,37,44,32,2022,Bíobío,Hospital,Hospital de Laja
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),66,8,12,12,16,6,7,5,2022,Bíobío,Hospital,Hospital de Laja
+Ideación Suicida (R458),4,0,1,1,1,0,0,1,2022,Bíobío,Hospital,Hospital de Laja
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),12,1,1,0,5,1,4,0,2022,Bíobío,Hospital,Hospital de Laja
+Trastornos del Humor (Afectivos) (F30-F39),2,0,1,0,1,0,0,0,2022,Bíobío,Hospital,Hospital de Laja
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",39,5,8,7,7,5,3,4,2022,Bíobío,Hospital,Hospital de Laja
+Otros trastornos mentales no contenidos en las categorías anteriores,9,2,1,4,2,0,0,0,2022,Bíobío,Hospital,Hospital de Laja
+DIARREA AGUDA (A00-A09),167,34,29,24,23,11,24,22,2022,Bíobío,Hospital,Hospital de Laja
+TOTAL DEMÁS CAUSAS,1698,313,264,268,309,189,197,158,2022,Bíobío,Hospital,Hospital de Laja
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,95,26,11,10,17,7,13,11,2022,Bíobío,Hospital,Hospital de Laja
+- CAUSAS SISTEMA RESPIRATORIO,19,5,3,1,2,2,4,2,2022,Bíobío,Hospital,Hospital de Laja
+- COVID 19 SOSPECHOSO (U072),1,1,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Laja
+- COVID 19 CONFIRMADO (U071),1,0,0,0,0,0,0,1,2022,Bíobío,Hospital,Hospital de Laja
+- CAUSAS SISTEMA CIRCULATORIO,10,3,1,0,2,1,3,0,2022,Bíobío,Hospital,Hospital de Laja
+- TRAUMATISMOS Y ENVENENAMIENTOS,2,0,0,0,0,1,1,0,2022,Bíobío,Hospital,Hospital de Laja
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,0,1,0,2022,Bíobío,Hospital,Hospital de Laja
+- LAS DEMÁS CAUSAS,61,17,7,9,13,3,4,8,2022,Bíobío,Hospital,Hospital de Laja
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Laja

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,13307,1415,1538,1947,2464,2324,2214,1405,2022,Ñuble,SAR,SAR Violeta Parra
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,11951,1327,1437,1831,2084,2079,1889,1304,2022,Ñuble,SAR,SAR Violeta Parra
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1002,90,142,316,186,105,102,61,2022,Ñuble,SAR,SAR Violeta Parra
+IRA Alta (J00-J06),884,81,125,290,170,87,86,45,2022,Ñuble,SAR,SAR Violeta Parra
+Influenza (J09-J11),2,0,1,1,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+Neumonía (J12-J18),17,0,1,0,5,9,1,1,2022,Ñuble,SAR,SAR Violeta Parra
+Bronquitis/bronquiolitis aguda (J20-J21),31,3,5,6,6,1,5,5,2022,Ñuble,SAR,SAR Violeta Parra
+Crisis obstructiva bronquial (J40-J46),44,3,7,15,2,6,6,5,2022,Ñuble,SAR,SAR Violeta Parra
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",24,3,3,4,3,2,4,5,2022,Ñuble,SAR,SAR Violeta Parra
+COVID 19 Sospechoso (U072),3994,386,388,505,578,875,739,523,2022,Ñuble,SAR,SAR Violeta Parra
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+TOTAL CAUSAS SISTEMA CIRCULATORIO,130,16,21,15,12,17,31,18,2022,Ñuble,SAR,SAR Violeta Parra
+Infarto agudo miocardio,7,0,2,0,1,2,2,0,2022,Ñuble,SAR,SAR Violeta Parra
+Accidente vascular encefálico,13,2,2,2,0,3,4,0,2022,Ñuble,SAR,SAR Violeta Parra
+Crisis hipertensiva,44,5,5,5,8,8,8,5,2022,Ñuble,SAR,SAR Violeta Parra
+Arritmia grave,9,1,3,0,0,1,1,3,2022,Ñuble,SAR,SAR Violeta Parra
+Otras causas circulatorias,57,8,9,8,3,3,16,10,2022,Ñuble,SAR,SAR Violeta Parra
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,381,61,60,81,48,50,55,26,2022,Ñuble,SAR,SAR Violeta Parra
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+Otras causas externas,381,61,60,81,48,50,55,26,2022,Ñuble,SAR,SAR Violeta Parra
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),105,12,15,15,16,17,17,13,2022,Ñuble,SAR,SAR Violeta Parra
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,2,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,0,0,2,0,1,2022,Ñuble,SAR,SAR Violeta Parra
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",89,11,15,12,14,13,14,10,2022,Ñuble,SAR,SAR Violeta Parra
+Otros trastornos mentales no contenidos en las categorías anteriores,11,1,0,1,2,2,3,2,2022,Ñuble,SAR,SAR Violeta Parra
+DIARREA AGUDA (A00-A09),182,27,37,29,24,28,22,15,2022,Ñuble,SAR,SAR Violeta Parra
+TOTAL DEMÁS CAUSAS,6157,735,774,870,1220,987,923,648,2022,Ñuble,SAR,SAR Violeta Parra
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SAR,SAR Violeta Parra

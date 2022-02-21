@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,943,107,137,126,125,144,181,123,2022,Bíobío,SUR,SUR Ralco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,943,107,137,126,125,144,181,123,2022,Bíobío,SUR,SUR Ralco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,157,14,11,21,30,31,35,15,2022,Bíobío,SUR,SUR Ralco
+IRA Alta (J00-J06),137,12,9,19,26,30,29,12,2022,Bíobío,SUR,SUR Ralco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Neumonía (J12-J18),6,0,0,1,0,0,2,3,2022,Bíobío,SUR,SUR Ralco
+Bronquitis/bronquiolitis aguda (J20-J21),6,0,0,0,3,0,3,0,2022,Bíobío,SUR,SUR Ralco
+Crisis obstructiva bronquial (J40-J46),7,2,2,0,1,1,1,0,2022,Bíobío,SUR,SUR Ralco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,0,1,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+COVID 19 Sospechoso (U072),221,10,18,30,24,31,45,63,2022,Bíobío,SUR,SUR Ralco
+COVID 19 Confirmado (U071),45,0,0,3,4,8,15,15,2022,Bíobío,SUR,SUR Ralco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,4,0,1,0,2,0,1,0,2022,Bíobío,SUR,SUR Ralco
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Accidente vascular encefálico,1,0,0,0,0,0,1,0,2022,Bíobío,SUR,SUR Ralco
+Crisis hipertensiva,1,0,1,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Otras causas circulatorias,1,0,0,0,1,0,0,0,2022,Bíobío,SUR,SUR Ralco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,65,3,19,16,9,7,10,1,2022,Bíobío,SUR,SUR Ralco
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Otras causas externas,65,3,19,16,9,7,10,1,2022,Bíobío,SUR,SUR Ralco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,3,2,0,0,0,2,0,2022,Bíobío,SUR,SUR Ralco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,1,1,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,1,0,0,0,2,0,2022,Bíobío,SUR,SUR Ralco
+DIARREA AGUDA (A00-A09),17,2,3,1,7,0,4,0,2022,Bíobío,SUR,SUR Ralco
+TOTAL DEMÁS CAUSAS,427,75,83,55,49,67,69,29,2022,Bíobío,SUR,SUR Ralco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,SUR,SUR Ralco

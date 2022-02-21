@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4843,744,751,685,721,646,759,537,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4843,744,751,685,721,646,759,537,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,5,4,0,0,1,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+IRA Alta (J00-J06),1,0,0,0,1,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Crisis obstructiva bronquial (J40-J46),3,3,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+COVID 19 Sospechoso (U072),1,0,0,0,1,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,127,16,34,15,18,19,18,7,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Infarto agudo miocardio,2,0,0,0,1,0,0,1,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Accidente vascular encefálico,3,0,0,0,2,0,0,1,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Crisis hipertensiva,99,13,21,13,15,18,17,2,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Arritmia grave,13,0,11,2,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Otras causas circulatorias,10,3,2,0,0,1,1,3,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,113,28,11,23,1,7,19,24,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Accidentes del tránsito,17,2,3,4,1,0,2,5,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Otras causas externas,96,26,8,19,0,7,17,19,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),69,12,2,13,8,5,14,15,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,0,1,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Trastornos del Humor (Afectivos) (F30-F39),46,6,0,12,0,2,14,12,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,1,0,1,3,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+Otros trastornos mentales no contenidos en las categorías anteriores,16,4,2,0,5,2,0,3,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+DIARREA AGUDA (A00-A09),510,38,132,89,69,102,70,10,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+TOTAL DEMÁS CAUSAS,4018,646,572,545,623,513,638,481,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Tabo

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6025,822,898,1040,1123,885,880,377,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6027,821,897,1045,1123,884,882,375,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,716,145,98,136,148,85,64,40,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+IRA Alta (J00-J06),572,103,80,111,126,73,48,31,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Neumonía (J12-J18),7,0,0,0,3,0,2,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Bronquitis/bronquiolitis aguda (J20-J21),49,15,6,5,7,9,4,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Crisis obstructiva bronquial (J40-J46),20,4,4,4,3,3,2,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",68,23,8,16,9,0,8,4,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+COVID 19 Sospechoso (U072),1953,113,274,388,429,316,299,134,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+COVID 19 Confirmado (U071),410,7,13,58,118,117,73,24,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,54,8,9,13,8,9,5,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Crisis hipertensiva,22,3,3,9,3,2,0,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Arritmia grave,6,0,0,0,3,2,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Otras causas circulatorias,24,5,6,4,1,5,3,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,382,71,71,48,46,66,56,24,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Accidentes del tránsito,1,0,1,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Otras causas externas,380,70,70,48,46,66,56,24,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),52,7,9,6,9,4,9,8,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Trastornos del Humor (Afectivos) (F30-F39),2,1,1,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",46,5,7,5,9,4,9,7,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,1,1,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+DIARREA AGUDA (A00-A09),72,20,17,8,6,3,17,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+TOTAL DEMÁS CAUSAS,2388,450,406,388,359,284,359,142,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Edelberto Elgueta

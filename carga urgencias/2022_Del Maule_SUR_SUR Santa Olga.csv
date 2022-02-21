@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,70,11,8,4,16,16,15,0,2022,Del Maule,SUR,SUR Santa Olga
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,70,11,8,4,16,16,15,0,2022,Del Maule,SUR,SUR Santa Olga
+TOTAL CAUSAS SISTEMA RESPIRATORIO,26,4,6,2,2,6,6,0,2022,Del Maule,SUR,SUR Santa Olga
+IRA Alta (J00-J06),16,2,6,0,1,4,3,0,2022,Del Maule,SUR,SUR Santa Olga
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Neumonía (J12-J18),4,2,0,0,0,2,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Bronquitis/bronquiolitis aguda (J20-J21),3,0,0,2,1,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,0,0,0,0,0,3,0,2022,Del Maule,SUR,SUR Santa Olga
+COVID 19 Sospechoso (U072),11,0,0,1,2,3,5,0,2022,Del Maule,SUR,SUR Santa Olga
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,13,2,0,0,0,7,4,0,2022,Del Maule,SUR,SUR Santa Olga
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Otras causas externas,13,2,0,0,0,7,4,0,2022,Del Maule,SUR,SUR Santa Olga
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+DIARREA AGUDA (A00-A09),1,1,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+TOTAL DEMÁS CAUSAS,19,4,2,1,12,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Santa Olga

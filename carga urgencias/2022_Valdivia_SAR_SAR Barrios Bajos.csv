@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,11509,1343,1405,1444,1797,2062,1999,1459,2022,Valdivia,SAR,SAR Barrios Bajos
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,10254,1219,1265,1237,1533,1815,1925,1260,2022,Valdivia,SAR,SAR Barrios Bajos
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1863,329,311,317,162,158,355,231,2022,Valdivia,SAR,SAR Barrios Bajos
+IRA Alta (J00-J06),1451,247,258,249,135,134,242,186,2022,Valdivia,SAR,SAR Barrios Bajos
+Influenza (J09-J11),17,1,0,5,3,2,2,4,2022,Valdivia,SAR,SAR Barrios Bajos
+Neumonía (J12-J18),38,9,5,6,6,4,6,2,2022,Valdivia,SAR,SAR Barrios Bajos
+Bronquitis/bronquiolitis aguda (J20-J21),95,35,17,23,6,6,5,3,2022,Valdivia,SAR,SAR Barrios Bajos
+Crisis obstructiva bronquial (J40-J46),47,7,10,3,2,6,18,1,2022,Valdivia,SAR,SAR Barrios Bajos
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",215,30,21,31,10,6,82,35,2022,Valdivia,SAR,SAR Barrios Bajos
+COVID 19 Sospechoso (U072),92,19,29,26,11,5,1,1,2022,Valdivia,SAR,SAR Barrios Bajos
+COVID 19 Confirmado (U071),2573,44,88,148,373,629,759,532,2022,Valdivia,SAR,SAR Barrios Bajos
+TOTAL CAUSAS SISTEMA CIRCULATORIO,83,15,16,17,17,7,7,4,2022,Valdivia,SAR,SAR Barrios Bajos
+Infarto agudo miocardio,3,2,0,1,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Accidente vascular encefálico,4,0,1,2,0,0,1,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Crisis hipertensiva,23,1,5,4,6,4,3,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Arritmia grave,7,2,2,1,0,1,0,1,2022,Valdivia,SAR,SAR Barrios Bajos
+Otras causas circulatorias,46,10,8,9,11,2,3,3,2022,Valdivia,SAR,SAR Barrios Bajos
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,891,138,197,129,142,98,115,72,2022,Valdivia,SAR,SAR Barrios Bajos
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Otras causas externas,891,138,197,129,142,98,115,72,2022,Valdivia,SAR,SAR Barrios Bajos
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),67,19,15,8,12,6,6,1,2022,Valdivia,SAR,SAR Barrios Bajos
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,2,1,1,0,1,2,0,2022,Valdivia,SAR,SAR Barrios Bajos
+Trastornos del Humor (Afectivos) (F30-F39),6,0,2,0,0,2,2,0,2022,Valdivia,SAR,SAR Barrios Bajos
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",51,15,12,7,11,3,2,1,2022,Valdivia,SAR,SAR Barrios Bajos
+Otros trastornos mentales no contenidos en las categorías anteriores,3,2,0,0,1,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+DIARREA AGUDA (A00-A09),230,49,60,45,21,18,19,18,2022,Valdivia,SAR,SAR Barrios Bajos
+TOTAL DEMÁS CAUSAS,4455,606,549,547,795,894,663,401,2022,Valdivia,SAR,SAR Barrios Bajos
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR Barrios Bajos

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8925,1165,1184,1211,1414,1402,1455,1094,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7559,1003,1008,1053,1157,1200,1211,927,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1568,206,186,209,246,311,256,154,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+IRA Alta (J00-J06),1359,167,151,161,217,285,235,143,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Neumonía (J12-J18),21,10,2,4,1,0,3,1,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Bronquitis/bronquiolitis aguda (J20-J21),130,22,20,30,22,18,11,7,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Crisis obstructiva bronquial (J40-J46),34,4,10,7,2,5,4,2,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",24,3,3,7,4,3,3,1,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+COVID 19 Sospechoso (U072),1920,83,135,236,341,361,393,371,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+COVID 19 Confirmado (U071),54,1,1,6,2,7,11,26,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+TOTAL CAUSAS SISTEMA CIRCULATORIO,63,6,13,9,9,5,11,10,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Infarto agudo miocardio,1,0,0,0,0,0,0,1,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Accidente vascular encefálico,3,0,0,1,1,0,0,1,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Crisis hipertensiva,14,1,2,1,3,2,4,1,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Arritmia grave,15,1,4,3,2,1,0,4,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Otras causas circulatorias,30,4,7,4,3,2,7,3,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,610,115,133,81,68,81,72,60,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Accidentes del tránsito,21,2,6,8,1,3,1,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Otras causas externas,589,113,127,73,67,78,71,60,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),109,21,19,16,9,19,13,12,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,5,1,0,0,2,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",94,14,17,16,7,17,13,10,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+Otros trastornos mentales no contenidos en las categorías anteriores,7,2,1,0,2,0,0,2,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+DIARREA AGUDA (A00-A09),347,71,50,55,57,42,48,24,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+TOTAL DEMÁS CAUSAS,2888,500,471,441,425,374,407,270,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Juan de Dios de Linares

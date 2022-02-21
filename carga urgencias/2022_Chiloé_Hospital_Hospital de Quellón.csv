@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4931,655,620,718,814,851,780,493,2022,Chiloé,Hospital,Hospital de Quellón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4061,564,546,620,647,693,627,364,2022,Chiloé,Hospital,Hospital de Quellón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,432,78,84,88,69,52,38,23,2022,Chiloé,Hospital,Hospital de Quellón
+IRA Alta (J00-J06),338,57,57,76,60,43,28,17,2022,Chiloé,Hospital,Hospital de Quellón
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Quellón
+Neumonía (J12-J18),24,4,6,3,0,2,5,4,2022,Chiloé,Hospital,Hospital de Quellón
+Bronquitis/bronquiolitis aguda (J20-J21),29,8,9,4,2,4,1,1,2022,Chiloé,Hospital,Hospital de Quellón
+Crisis obstructiva bronquial (J40-J46),20,3,6,1,4,3,2,1,2022,Chiloé,Hospital,Hospital de Quellón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,6,6,4,3,0,2,0,2022,Chiloé,Hospital,Hospital de Quellón
+COVID 19 Sospechoso (U072),945,21,15,79,159,289,271,111,2022,Chiloé,Hospital,Hospital de Quellón
+COVID 19 Confirmado (U071),206,7,8,38,48,55,35,15,2022,Chiloé,Hospital,Hospital de Quellón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,58,14,8,4,8,10,7,7,2022,Chiloé,Hospital,Hospital de Quellón
+Infarto agudo miocardio,3,0,0,1,1,1,0,0,2022,Chiloé,Hospital,Hospital de Quellón
+Accidente vascular encefálico,17,4,2,2,0,2,4,3,2022,Chiloé,Hospital,Hospital de Quellón
+Crisis hipertensiva,9,1,2,1,2,0,1,2,2022,Chiloé,Hospital,Hospital de Quellón
+Arritmia grave,4,1,0,0,0,2,1,0,2022,Chiloé,Hospital,Hospital de Quellón
+Otras causas circulatorias,25,8,4,0,5,5,1,2,2022,Chiloé,Hospital,Hospital de Quellón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,516,81,87,89,81,65,63,50,2022,Chiloé,Hospital,Hospital de Quellón
+Accidentes del tránsito,33,7,6,7,0,11,1,1,2022,Chiloé,Hospital,Hospital de Quellón
+Lesiones autoinfligidas intencionalmente (X60-X84),6,2,0,1,0,3,0,0,2022,Chiloé,Hospital,Hospital de Quellón
+Otras causas externas,477,72,81,81,81,51,62,49,2022,Chiloé,Hospital,Hospital de Quellón
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),96,16,15,19,12,11,15,8,2022,Chiloé,Hospital,Hospital de Quellón
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Quellón
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),37,5,6,12,6,3,3,2,2022,Chiloé,Hospital,Hospital de Quellón
+Trastornos del Humor (Afectivos) (F30-F39),4,1,0,0,1,0,1,1,2022,Chiloé,Hospital,Hospital de Quellón
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",44,9,6,4,4,7,9,5,2022,Chiloé,Hospital,Hospital de Quellón
+Otros trastornos mentales no contenidos en las categorías anteriores,11,1,3,3,1,1,2,0,2022,Chiloé,Hospital,Hospital de Quellón
+DIARREA AGUDA (A00-A09),238,56,42,39,41,26,21,13,2022,Chiloé,Hospital,Hospital de Quellón
+TOTAL DEMÁS CAUSAS,1570,291,287,264,229,185,177,137,2022,Chiloé,Hospital,Hospital de Quellón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,161,20,20,28,28,23,21,21,2022,Chiloé,Hospital,Hospital de Quellón
+- CAUSAS SISTEMA RESPIRATORIO,14,0,5,2,2,1,3,1,2022,Chiloé,Hospital,Hospital de Quellón
+- COVID 19 SOSPECHOSO (U072),5,0,0,1,1,2,1,0,2022,Chiloé,Hospital,Hospital de Quellón
+- COVID 19 CONFIRMADO (U071),14,0,0,1,2,3,3,5,2022,Chiloé,Hospital,Hospital de Quellón
+- CAUSAS SISTEMA CIRCULATORIO,6,1,1,1,0,0,1,2,2022,Chiloé,Hospital,Hospital de Quellón
+- TRAUMATISMOS Y ENVENENAMIENTOS,9,3,0,1,1,2,0,2,2022,Chiloé,Hospital,Hospital de Quellón
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),4,1,0,2,0,1,0,0,2022,Chiloé,Hospital,Hospital de Quellón
+- LAS DEMÁS CAUSAS,109,15,14,20,22,14,13,11,2022,Chiloé,Hospital,Hospital de Quellón
+CIRUGÍAS DE URGENCIA,11,4,0,1,2,2,0,2,2022,Chiloé,Hospital,Hospital de Quellón

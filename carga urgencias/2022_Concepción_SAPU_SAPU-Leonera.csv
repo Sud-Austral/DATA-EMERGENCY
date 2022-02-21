@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6132,728,565,800,1017,1078,987,957,2022,Concepción,SAPU,SAPU-Leonera
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5924,718,550,786,981,1024,953,912,2022,Concepción,SAPU,SAPU-Leonera
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1452,138,132,155,193,213,305,316,2022,Concepción,SAPU,SAPU-Leonera
+IRA Alta (J00-J06),1092,105,109,130,126,166,226,230,2022,Concepción,SAPU,SAPU-Leonera
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Neumonía (J12-J18),3,0,0,0,1,0,1,1,2022,Concepción,SAPU,SAPU-Leonera
+Bronquitis/bronquiolitis aguda (J20-J21),52,15,12,6,3,2,8,6,2022,Concepción,SAPU,SAPU-Leonera
+Crisis obstructiva bronquial (J40-J46),11,2,1,2,1,0,0,5,2022,Concepción,SAPU,SAPU-Leonera
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",294,16,10,17,62,45,70,74,2022,Concepción,SAPU,SAPU-Leonera
+COVID 19 Sospechoso (U072),1329,107,78,149,293,327,182,193,2022,Concepción,SAPU,SAPU-Leonera
+COVID 19 Confirmado (U071),95,0,0,0,2,9,44,40,2022,Concepción,SAPU,SAPU-Leonera
+TOTAL CAUSAS SISTEMA CIRCULATORIO,22,9,1,2,0,4,4,2,2022,Concepción,SAPU,SAPU-Leonera
+Infarto agudo miocardio,2,1,0,0,0,0,0,1,2022,Concepción,SAPU,SAPU-Leonera
+Accidente vascular encefálico,2,0,0,1,0,1,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Crisis hipertensiva,9,5,0,0,0,2,2,0,2022,Concepción,SAPU,SAPU-Leonera
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Otras causas circulatorias,9,3,1,1,0,1,2,1,2022,Concepción,SAPU,SAPU-Leonera
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),77,13,9,14,14,10,9,8,2022,Concepción,SAPU,SAPU-Leonera
+Ideación Suicida (R458),2,0,1,0,0,1,0,0,2022,Concepción,SAPU,SAPU-Leonera
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,1,1,0,0,1,0,1,2022,Concepción,SAPU,SAPU-Leonera
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",55,11,2,8,11,8,9,6,2022,Concepción,SAPU,SAPU-Leonera
+Otros trastornos mentales no contenidos en las categorías anteriores,16,1,5,6,3,0,0,1,2022,Concepción,SAPU,SAPU-Leonera
+DIARREA AGUDA (A00-A09),141,70,13,6,19,9,24,0,2022,Concepción,SAPU,SAPU-Leonera
+TOTAL DEMÁS CAUSAS,2808,381,317,460,460,452,385,353,2022,Concepción,SAPU,SAPU-Leonera
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Leonera

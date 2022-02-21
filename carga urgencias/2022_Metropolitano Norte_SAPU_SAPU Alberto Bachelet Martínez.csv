@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4114,589,525,662,716,715,571,336,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3738,577,506,623,595,602,522,313,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1298,217,167,236,233,222,159,64,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+IRA Alta (J00-J06),1159,195,151,204,214,201,136,58,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Neumonía (J12-J18),29,4,3,6,3,3,10,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Bronquitis/bronquiolitis aguda (J20-J21),61,12,6,15,10,5,8,5,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Crisis obstructiva bronquial (J40-J46),20,5,0,3,4,4,3,1,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,1,7,8,2,9,2,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+COVID 19 Sospechoso (U072),321,19,23,41,82,82,45,29,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+COVID 19 Confirmado (U071),163,3,5,10,47,43,41,14,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+TOTAL CAUSAS SISTEMA CIRCULATORIO,78,11,10,12,8,16,8,13,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Accidente vascular encefálico,3,1,1,0,0,0,1,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Crisis hipertensiva,40,5,5,11,6,9,2,2,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Arritmia grave,3,0,1,0,1,0,0,1,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Otras causas circulatorias,32,5,3,1,1,7,5,10,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,196,34,36,41,24,15,27,19,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Accidentes del tránsito,3,0,0,0,0,0,2,1,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Otras causas externas,193,34,36,41,24,15,25,18,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),35,7,4,7,3,5,6,3,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",31,7,4,6,2,4,5,3,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,1,1,1,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+DIARREA AGUDA (A00-A09),5,2,0,1,1,1,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+TOTAL DEMÁS CAUSAS,1642,284,261,275,197,218,236,171,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Alberto Bachelet Martínez

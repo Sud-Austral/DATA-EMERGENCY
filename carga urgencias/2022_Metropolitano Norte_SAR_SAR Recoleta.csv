@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10437,1738,1656,1945,2015,1238,815,1030,2022,Metropolitano Norte,SAR,SAR Recoleta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8557,1433,1403,1420,1596,1039,727,939,2022,Metropolitano Norte,SAR,SAR Recoleta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1402,338,292,224,195,138,89,126,2022,Metropolitano Norte,SAR,SAR Recoleta
+IRA Alta (J00-J06),1192,276,233,205,170,122,74,112,2022,Metropolitano Norte,SAR,SAR Recoleta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+Neumonía (J12-J18),22,5,2,1,5,2,4,3,2022,Metropolitano Norte,SAR,SAR Recoleta
+Bronquitis/bronquiolitis aguda (J20-J21),113,37,31,10,15,10,7,3,2022,Metropolitano Norte,SAR,SAR Recoleta
+Crisis obstructiva bronquial (J40-J46),57,15,22,5,3,4,2,6,2022,Metropolitano Norte,SAR,SAR Recoleta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,5,4,3,2,0,2,2,2022,Metropolitano Norte,SAR,SAR Recoleta
+COVID 19 Sospechoso (U072),1700,174,177,309,428,266,155,191,2022,Metropolitano Norte,SAR,SAR Recoleta
+COVID 19 Confirmado (U071),1186,24,37,158,415,265,141,146,2022,Metropolitano Norte,SAR,SAR Recoleta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,157,39,22,27,10,15,16,28,2022,Metropolitano Norte,SAR,SAR Recoleta
+Infarto agudo miocardio,4,0,1,1,0,1,0,1,2022,Metropolitano Norte,SAR,SAR Recoleta
+Accidente vascular encefálico,5,1,1,0,0,1,1,1,2022,Metropolitano Norte,SAR,SAR Recoleta
+Crisis hipertensiva,68,18,5,14,7,5,8,11,2022,Metropolitano Norte,SAR,SAR Recoleta
+Arritmia grave,15,5,2,1,0,2,1,4,2022,Metropolitano Norte,SAR,SAR Recoleta
+Otras causas circulatorias,65,15,13,11,3,6,6,11,2022,Metropolitano Norte,SAR,SAR Recoleta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,579,129,125,90,43,47,59,86,2022,Metropolitano Norte,SAR,SAR Recoleta
+Accidentes del tránsito,11,1,3,3,2,2,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+Otras causas externas,568,128,122,87,41,45,59,86,2022,Metropolitano Norte,SAR,SAR Recoleta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),68,17,17,11,5,3,7,8,2022,Metropolitano Norte,SAR,SAR Recoleta
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),10,2,3,1,1,1,1,1,2022,Metropolitano Norte,SAR,SAR Recoleta
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,1,0,0,1,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",52,15,11,9,4,2,4,7,2022,Metropolitano Norte,SAR,SAR Recoleta
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,3,0,0,0,1,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+DIARREA AGUDA (A00-A09),113,28,36,17,11,7,5,9,2022,Metropolitano Norte,SAR,SAR Recoleta
+TOTAL DEMÁS CAUSAS,3352,684,697,584,489,298,255,345,2022,Metropolitano Norte,SAR,SAR Recoleta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAR,SAR Recoleta

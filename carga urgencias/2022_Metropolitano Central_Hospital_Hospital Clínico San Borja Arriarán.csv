@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,722,133,131,107,137,98,63,53,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,628,132,129,86,105,68,63,45,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+TOTAL CAUSAS SISTEMA RESPIRATORIO,7,3,2,0,0,0,0,2,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+IRA Alta (J00-J06),5,2,2,0,0,0,0,1,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Bronquitis/bronquiolitis aguda (J20-J21),1,0,0,0,0,0,0,1,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Crisis obstructiva bronquial (J40-J46),1,1,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+TOTAL CAUSAS SISTEMA CIRCULATORIO,2,0,0,0,0,0,0,2,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Otras causas circulatorias,2,0,0,0,0,0,0,2,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,138,21,22,7,21,17,29,21,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Otras causas externas,138,21,22,7,21,17,29,21,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),13,1,1,6,4,1,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,0,0,4,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+Otros trastornos mentales no contenidos en las categorías anteriores,8,0,1,6,0,1,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+DIARREA AGUDA (A00-A09),1,0,1,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+TOTAL DEMÁS CAUSAS,467,107,103,73,80,50,34,20,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico San Borja Arriarán

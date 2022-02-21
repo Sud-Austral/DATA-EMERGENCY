@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,153,153,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,149,149,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,12,12,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+IRA Alta (J00-J06),12,12,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Influenza (J09-J11),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Neumonía (J12-J18),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Crisis obstructiva bronquial (J40-J46),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+COVID 19 Sospechoso (U072),25,25,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+COVID 19 Confirmado (U071),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,7,7,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Infarto agudo miocardio,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Accidente vascular encefálico,1,1,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Crisis hipertensiva,2,2,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Arritmia grave,1,1,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Otras causas circulatorias,3,3,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Accidentes del tránsito,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Otras causas externas,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,4,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Ideación Suicida (R458),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,4,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+DIARREA AGUDA (A00-A09),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+TOTAL DEMÁS CAUSAS,101,101,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- COVID 19 SOSPECHOSO (U072),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- COVID 19 CONFIRMADO (U071),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,-,-,2022,Valparaíso San Antonio,SUR,SUR El Quisco

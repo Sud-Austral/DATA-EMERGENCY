@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5305,625,666,705,840,954,902,613,2022,Talcahuano,SAR,SAR Los Cerros
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4979,613,661,690,784,848,834,549,2022,Talcahuano,SAR,SAR Los Cerros
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1030,163,152,151,167,196,122,79,2022,Talcahuano,SAR,SAR Los Cerros
+IRA Alta (J00-J06),918,140,135,130,149,179,113,72,2022,Talcahuano,SAR,SAR Los Cerros
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Neumonía (J12-J18),9,2,2,0,1,4,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Bronquitis/bronquiolitis aguda (J20-J21),56,9,9,11,11,7,7,2,2022,Talcahuano,SAR,SAR Los Cerros
+Crisis obstructiva bronquial (J40-J46),31,8,5,3,6,4,2,3,2022,Talcahuano,SAR,SAR Los Cerros
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,4,1,7,0,2,0,2,2022,Talcahuano,SAR,SAR Los Cerros
+COVID 19 Sospechoso (U072),817,39,43,67,170,165,188,145,2022,Talcahuano,SAR,SAR Los Cerros
+COVID 19 Confirmado (U071),461,6,4,19,39,134,144,115,2022,Talcahuano,SAR,SAR Los Cerros
+TOTAL CAUSAS SISTEMA CIRCULATORIO,30,6,10,1,4,4,4,1,2022,Talcahuano,SAR,SAR Los Cerros
+Infarto agudo miocardio,3,2,0,0,1,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Crisis hipertensiva,4,0,3,0,0,1,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Arritmia grave,3,1,1,0,0,0,1,0,2022,Talcahuano,SAR,SAR Los Cerros
+Otras causas circulatorias,19,3,5,1,3,3,3,1,2022,Talcahuano,SAR,SAR Los Cerros
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,12,3,3,0,2,2,2,0,2022,Talcahuano,SAR,SAR Los Cerros
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Otras causas externas,12,3,3,0,2,2,2,0,2022,Talcahuano,SAR,SAR Los Cerros
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),43,4,7,6,9,8,7,2,2022,Talcahuano,SAR,SAR Los Cerros
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,2,0,1,0,0,1,0,2022,Talcahuano,SAR,SAR Los Cerros
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",38,2,7,5,9,7,6,2,2022,Talcahuano,SAR,SAR Los Cerros
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+DIARREA AGUDA (A00-A09),159,22,27,31,23,24,17,15,2022,Talcahuano,SAR,SAR Los Cerros
+TOTAL DEMÁS CAUSAS,2427,370,415,415,370,315,350,192,2022,Talcahuano,SAR,SAR Los Cerros
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Los Cerros

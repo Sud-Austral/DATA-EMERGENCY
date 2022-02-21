@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2844,366,368,438,463,479,511,219,2022,Araucanía Norte,Hospital,Hospital de Purén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1962,247,227,303,348,333,343,161,2022,Araucanía Norte,Hospital,Hospital de Purén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,294,38,27,43,33,52,70,31,2022,Araucanía Norte,Hospital,Hospital de Purén
+IRA Alta (J00-J06),227,26,18,35,22,42,56,28,2022,Araucanía Norte,Hospital,Hospital de Purén
+Influenza (J09-J11),6,2,0,0,0,0,4,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Neumonía (J12-J18),16,1,2,2,5,4,2,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Bronquitis/bronquiolitis aguda (J20-J21),27,7,4,2,2,4,6,2,2022,Araucanía Norte,Hospital,Hospital de Purén
+Crisis obstructiva bronquial (J40-J46),6,1,1,1,2,0,0,1,2022,Araucanía Norte,Hospital,Hospital de Purén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,1,2,3,2,2,2,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+COVID 19 Sospechoso (U072),713,43,44,105,144,144,164,69,2022,Araucanía Norte,Hospital,Hospital de Purén
+COVID 19 Confirmado (U071),46,2,8,0,27,0,9,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,41,10,4,8,7,8,2,2,2022,Araucanía Norte,Hospital,Hospital de Purén
+Infarto agudo miocardio,1,1,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Accidente vascular encefálico,5,0,0,3,2,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Crisis hipertensiva,14,4,2,0,2,3,1,2,2022,Araucanía Norte,Hospital,Hospital de Purén
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Otras causas circulatorias,20,5,2,5,3,5,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,2,0,0,1,0,0,1,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Accidentes del tránsito,2,0,0,1,0,0,1,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,8,2,3,2,2,2,3,2022,Araucanía Norte,Hospital,Hospital de Purén
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,1,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",17,6,2,3,0,2,1,3,2022,Araucanía Norte,Hospital,Hospital de Purén
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,0,1,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+DIARREA AGUDA (A00-A09),94,11,16,17,9,28,10,3,2022,Araucanía Norte,Hospital,Hospital de Purén
+TOTAL DEMÁS CAUSAS,750,135,126,126,126,99,85,53,2022,Araucanía Norte,Hospital,Hospital de Purén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,39,8,5,8,5,6,5,2,2022,Araucanía Norte,Hospital,Hospital de Purén
+- CAUSAS SISTEMA RESPIRATORIO,7,1,2,1,1,0,2,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+- COVID 19 SOSPECHOSO (U072),1,0,0,0,0,0,1,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+- CAUSAS SISTEMA CIRCULATORIO,1,0,0,0,0,1,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+- TRAUMATISMOS Y ENVENENAMIENTOS,5,2,0,0,0,2,1,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén
+- LAS DEMÁS CAUSAS,25,5,3,7,4,3,1,2,2022,Araucanía Norte,Hospital,Hospital de Purén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Purén

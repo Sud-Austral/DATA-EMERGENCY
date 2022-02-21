@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,16048,2333,2290,2215,2640,2606,2392,1572,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,16048,2333,2290,2215,2640,2606,2392,1572,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1073,160,171,155,161,182,160,84,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+IRA Alta (J00-J06),805,112,119,106,122,150,126,70,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Influenza (J09-J11),5,0,1,1,0,1,1,1,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Neumonía (J12-J18),40,3,11,6,6,4,9,1,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Bronquitis/bronquiolitis aguda (J20-J21),65,21,13,9,7,6,8,1,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Crisis obstructiva bronquial (J40-J46),34,5,7,7,3,5,5,2,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",124,19,20,26,23,16,11,9,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+COVID 19 Sospechoso (U072),3353,206,229,376,822,854,537,329,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+TOTAL CAUSAS SISTEMA CIRCULATORIO,479,75,77,71,68,67,66,55,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Infarto agudo miocardio,26,3,2,3,3,6,7,2,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Accidente vascular encefálico,76,8,12,12,5,20,7,12,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Crisis hipertensiva,31,4,3,7,7,6,3,1,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Arritmia grave,55,11,8,7,9,4,8,8,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Otras causas circulatorias,291,49,52,42,44,31,41,32,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,2416,397,384,350,349,335,347,254,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Accidentes del tránsito,5,0,2,1,0,0,0,2,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Lesiones autoinfligidas intencionalmente (X60-X84),6,0,2,2,1,0,0,1,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Otras causas externas,2405,397,380,347,348,335,347,251,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),277,56,48,46,34,40,33,20,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),35,4,4,8,5,8,3,3,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Trastornos del Humor (Afectivos) (F30-F39),62,10,9,14,10,10,5,4,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",132,33,28,19,12,10,18,12,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+Otros trastornos mentales no contenidos en las categorías anteriores,48,9,7,5,7,12,7,1,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+DIARREA AGUDA (A00-A09),256,55,56,31,40,29,21,24,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+TOTAL DEMÁS CAUSAS,8194,1384,1325,1186,1166,1099,1228,806,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,443,58,78,64,62,82,66,33,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- CAUSAS SISTEMA RESPIRATORIO,20,1,4,4,4,4,1,2,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- COVID 19 SOSPECHOSO (U072),66,3,9,9,6,19,15,5,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- CAUSAS SISTEMA CIRCULATORIO,48,7,15,6,6,7,5,2,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- TRAUMATISMOS Y ENVENENAMIENTOS,59,8,9,10,10,8,10,4,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),7,1,1,0,1,3,1,0,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+- LAS DEMÁS CAUSAS,243,38,40,35,35,41,34,20,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada
+CIRUGÍAS DE URGENCIA,140,20,15,24,12,26,29,14,2022,Metropolitano Central,Hospital,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada

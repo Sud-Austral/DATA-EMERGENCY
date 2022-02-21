@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3782,528,520,558,604,615,533,424,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3769,525,517,557,603,615,528,424,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+TOTAL CAUSAS SISTEMA RESPIRATORIO,336,56,57,61,59,47,25,31,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+IRA Alta (J00-J06),91,21,18,16,12,7,6,11,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Neumonía (J12-J18),4,0,0,1,0,0,0,3,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Bronquitis/bronquiolitis aguda (J20-J21),11,2,3,4,2,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Crisis obstructiva bronquial (J40-J46),3,1,1,0,0,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",227,32,35,40,45,39,19,17,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+COVID 19 Sospechoso (U072),1081,47,63,141,230,244,197,159,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+COVID 19 Confirmado (U071),12,0,0,1,1,2,5,3,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+TOTAL CAUSAS SISTEMA CIRCULATORIO,82,13,11,16,6,12,7,17,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Accidente vascular encefálico,3,1,0,0,1,0,0,1,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Crisis hipertensiva,24,4,1,2,2,6,2,7,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Otras causas circulatorias,55,8,10,14,3,6,5,9,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,273,56,57,34,32,42,28,24,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Accidentes del tránsito,18,11,2,0,0,4,0,1,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Otras causas externas,255,45,55,34,32,38,28,23,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),20,5,7,2,1,1,2,2,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Ideación Suicida (R458),10,2,4,2,0,0,0,2,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,3,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,0,3,0,0,1,2,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,1,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+TOTAL DEMÁS CAUSAS,1965,348,322,302,274,267,264,188,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Requínoa

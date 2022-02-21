@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3782,501,521,550,590,643,550,427,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3578,469,505,517,535,614,522,416,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+TOTAL CAUSAS SISTEMA RESPIRATORIO,321,54,46,47,40,39,41,54,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+IRA Alta (J00-J06),242,47,35,38,29,26,29,38,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Influenza (J09-J11),3,1,2,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Neumonía (J12-J18),22,0,1,4,6,4,4,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Bronquitis/bronquiolitis aguda (J20-J21),22,3,5,2,1,2,5,4,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Crisis obstructiva bronquial (J40-J46),20,1,3,3,4,3,3,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,2,0,0,0,4,0,6,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+COVID 19 Sospechoso (U072),814,30,49,109,177,209,160,80,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+COVID 19 Confirmado (U071),31,0,0,1,1,6,11,12,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+TOTAL CAUSAS SISTEMA CIRCULATORIO,28,3,2,2,5,2,4,10,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Accidente vascular encefálico,2,0,0,0,1,0,1,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Crisis hipertensiva,8,2,0,1,0,1,2,2,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Arritmia grave,4,1,0,0,0,0,1,2,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Otras causas circulatorias,14,0,2,1,4,1,0,6,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,417,77,77,56,50,55,60,42,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Accidentes del tránsito,13,3,0,0,1,0,3,6,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Otras causas externas,404,74,77,56,49,55,57,36,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),74,11,13,12,8,8,15,7,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Ideación Suicida (R458),2,0,0,0,0,0,2,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,2,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,0,0,0,0,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",66,9,13,12,8,8,13,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+DIARREA AGUDA (A00-A09),220,45,41,34,17,42,18,23,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+TOTAL DEMÁS CAUSAS,1673,249,277,256,237,253,213,188,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,24,2,4,3,4,3,2,6,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- CAUSAS SISTEMA RESPIRATORIO,3,0,1,0,0,1,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- CAUSAS SISTEMA CIRCULATORIO,4,0,0,0,1,0,1,2,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- TRAUMATISMOS Y ENVENENAMIENTOS,3,0,1,0,0,1,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),2,0,0,0,1,0,1,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+- LAS DEMÁS CAUSAS,12,2,2,3,2,1,0,2,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Pichidegua

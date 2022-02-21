@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3289,431,370,391,469,502,597,529,2022,Chiloé,SUR,SUR Chonchi
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2913,418,336,359,427,462,491,420,2022,Chiloé,SUR,SUR Chonchi
+TOTAL CAUSAS SISTEMA RESPIRATORIO,362,36,34,40,55,44,69,84,2022,Chiloé,SUR,SUR Chonchi
+IRA Alta (J00-J06),297,28,23,25,42,36,61,82,2022,Chiloé,SUR,SUR Chonchi
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+Neumonía (J12-J18),8,2,0,1,1,2,2,0,2022,Chiloé,SUR,SUR Chonchi
+Bronquitis/bronquiolitis aguda (J20-J21),13,3,3,3,2,1,0,1,2022,Chiloé,SUR,SUR Chonchi
+Crisis obstructiva bronquial (J40-J46),22,1,4,7,5,2,3,0,2022,Chiloé,SUR,SUR Chonchi
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,2,4,4,5,3,3,1,2022,Chiloé,SUR,SUR Chonchi
+COVID 19 Sospechoso (U072),582,34,33,36,57,146,164,112,2022,Chiloé,SUR,SUR Chonchi
+COVID 19 Confirmado (U071),40,1,0,0,1,10,12,16,2022,Chiloé,SUR,SUR Chonchi
+TOTAL CAUSAS SISTEMA CIRCULATORIO,71,5,9,12,12,16,12,5,2022,Chiloé,SUR,SUR Chonchi
+Infarto agudo miocardio,2,0,0,1,0,0,1,0,2022,Chiloé,SUR,SUR Chonchi
+Accidente vascular encefálico,2,0,0,0,1,0,0,1,2022,Chiloé,SUR,SUR Chonchi
+Crisis hipertensiva,47,5,7,4,7,11,10,3,2022,Chiloé,SUR,SUR Chonchi
+Arritmia grave,4,0,0,1,0,1,1,1,2022,Chiloé,SUR,SUR Chonchi
+Otras causas circulatorias,16,0,2,6,4,4,0,0,2022,Chiloé,SUR,SUR Chonchi
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,400,76,60,56,62,58,56,32,2022,Chiloé,SUR,SUR Chonchi
+Accidentes del tránsito,3,0,0,0,0,0,3,0,2022,Chiloé,SUR,SUR Chonchi
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+Otras causas externas,397,76,60,56,62,58,53,32,2022,Chiloé,SUR,SUR Chonchi
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),59,16,7,8,10,7,8,3,2022,Chiloé,SUR,SUR Chonchi
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,1,2,0,0,0,1,0,2022,Chiloé,SUR,SUR Chonchi
+Trastornos del Humor (Afectivos) (F30-F39),3,1,0,0,0,2,0,0,2022,Chiloé,SUR,SUR Chonchi
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",44,14,5,6,7,5,5,2,2022,Chiloé,SUR,SUR Chonchi
+Otros trastornos mentales no contenidos en las categorías anteriores,8,0,0,2,3,0,2,1,2022,Chiloé,SUR,SUR Chonchi
+DIARREA AGUDA (A00-A09),10,2,0,1,5,1,1,0,2022,Chiloé,SUR,SUR Chonchi
+TOTAL DEMÁS CAUSAS,1389,248,193,206,225,180,169,168,2022,Chiloé,SUR,SUR Chonchi
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chonchi

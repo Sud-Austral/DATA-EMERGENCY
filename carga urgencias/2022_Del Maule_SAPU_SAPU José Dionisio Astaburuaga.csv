@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4237,355,279,359,686,950,829,779,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3597,318,334,352,582,740,797,474,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+TOTAL CAUSAS SISTEMA RESPIRATORIO,621,63,66,47,140,89,94,122,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+IRA Alta (J00-J06),570,56,57,43,136,80,85,113,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Neumonía (J12-J18),6,1,0,1,0,2,0,2,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Bronquitis/bronquiolitis aguda (J20-J21),16,3,2,2,1,1,4,3,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Crisis obstructiva bronquial (J40-J46),15,1,1,1,1,6,2,3,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,2,6,0,2,0,3,1,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+COVID 19 Sospechoso (U072),877,26,16,65,51,327,335,57,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+COVID 19 Confirmado (U071),247,0,0,0,60,20,26,141,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+TOTAL CAUSAS SISTEMA CIRCULATORIO,55,0,2,12,8,3,27,3,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Crisis hipertensiva,11,0,1,0,6,0,2,2,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Arritmia grave,8,0,0,2,0,1,4,1,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Otras causas circulatorias,35,0,1,10,2,1,21,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,161,32,24,22,24,26,19,14,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Accidentes del tránsito,5,0,0,2,0,1,1,1,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Otras causas externas,156,32,24,20,24,25,18,13,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),21,7,2,3,1,4,1,3,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,0,1,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",20,7,2,3,1,4,1,2,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+DIARREA AGUDA (A00-A09),52,6,5,7,4,13,12,5,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+TOTAL DEMÁS CAUSAS,1563,184,219,196,294,258,283,129,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU José Dionisio Astaburuaga

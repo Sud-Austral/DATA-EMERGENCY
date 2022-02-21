@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2434,302,325,335,356,383,464,269,2022,Ñuble,SUR,SUR Quillón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2314,285,316,310,339,355,453,256,2022,Ñuble,SUR,SUR Quillón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,269,30,21,40,30,70,49,29,2022,Ñuble,SUR,SUR Quillón
+IRA Alta (J00-J06),205,17,18,27,19,63,36,25,2022,Ñuble,SUR,SUR Quillón
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+Neumonía (J12-J18),1,0,1,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+Bronquitis/bronquiolitis aguda (J20-J21),30,7,0,6,4,3,9,1,2022,Ñuble,SUR,SUR Quillón
+Crisis obstructiva bronquial (J40-J46),18,3,2,3,3,2,3,2,2022,Ñuble,SUR,SUR Quillón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,3,0,4,4,2,1,1,2022,Ñuble,SUR,SUR Quillón
+COVID 19 Sospechoso (U072),52,5,1,1,21,3,5,16,2022,Ñuble,SUR,SUR Quillón
+COVID 19 Confirmado (U071),10,1,0,0,1,0,6,2,2022,Ñuble,SUR,SUR Quillón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43,5,6,9,5,13,4,1,2022,Ñuble,SUR,SUR Quillón
+Infarto agudo miocardio,3,0,0,0,0,3,0,0,2022,Ñuble,SUR,SUR Quillón
+Accidente vascular encefálico,6,0,3,1,0,2,0,0,2022,Ñuble,SUR,SUR Quillón
+Crisis hipertensiva,20,2,0,5,5,5,3,0,2022,Ñuble,SUR,SUR Quillón
+Arritmia grave,6,1,1,0,0,2,1,1,2022,Ñuble,SUR,SUR Quillón
+Otras causas circulatorias,8,2,2,3,0,1,0,0,2022,Ñuble,SUR,SUR Quillón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,314,46,45,48,45,49,50,31,2022,Ñuble,SUR,SUR Quillón
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+Otras causas externas,314,46,45,48,45,49,50,31,2022,Ñuble,SUR,SUR Quillón
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),40,7,7,5,0,4,12,5,2022,Ñuble,SUR,SUR Quillón
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",35,7,6,4,0,4,9,5,2022,Ñuble,SUR,SUR Quillón
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,1,1,0,0,3,0,2022,Ñuble,SUR,SUR Quillón
+DIARREA AGUDA (A00-A09),5,0,1,2,1,0,0,1,2022,Ñuble,SUR,SUR Quillón
+TOTAL DEMÁS CAUSAS,1581,191,235,205,236,216,327,171,2022,Ñuble,SUR,SUR Quillón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Quillón

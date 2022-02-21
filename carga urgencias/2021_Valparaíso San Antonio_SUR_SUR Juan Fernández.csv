@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,795,14,20,12,11,15,13,22,15,24,9,20,9,26,13,16,13,19,11,16,14,9,20,11,16,16,20,8,25,18,14,10,10,12,12,16,16,39,31,15,19,21,17,10,10,16,12,10,11,9,7,9,14,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,664,14,20,12,11,15,12,22,15,23,9,20,9,26,13,16,13,19,11,16,14,9,20,11,16,16,19,5,18,13,11,9,10,10,9,8,6,36,21,6,9,10,9,2,8,13,8,4,9,5,6,7,11,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL CAUSAS SISTEMA RESPIRATORIO,46,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,0,0,2,0,0,1,1,1,0,3,0,0,3,3,0,0,0,0,1,1,13,3,0,0,1,0,0,0,2,0,0,2,0,0,1,2,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+IRA Alta (J00-J06),26,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,2,0,0,1,1,0,0,0,0,0,1,10,3,0,0,1,0,0,0,1,0,0,1,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Influenza (J09-J11),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Neumonía (J12-J18),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Bronquitis/bronquiolitis aguda (J20-J21),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Crisis obstructiva bronquial (J40-J46),10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL CAUSAS SISTEMA CIRCULATORIO,10,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Accidente vascular encefálico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Crisis hipertensiva,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Arritmia grave,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Otras causas circulatorias,5,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,143,2,3,3,3,0,4,7,3,10,3,4,1,6,1,4,3,6,3,2,1,2,4,1,5,1,5,2,8,5,3,2,1,4,2,1,0,8,2,3,3,2,1,1,1,2,3,1,1,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Accidentes del tránsito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Otras causas externas,143,2,3,3,3,0,4,7,3,10,3,4,1,6,1,4,3,6,3,2,1,2,4,1,5,1,5,2,8,5,3,2,1,4,2,1,0,8,2,3,3,2,1,1,1,2,3,1,1,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,0,0,2,1,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,0,0,2,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+DIARREA AGUDA (A00-A09),42,0,1,1,0,0,0,1,2,0,0,1,0,4,4,5,2,1,0,1,0,0,3,0,0,1,1,0,0,1,0,0,2,1,1,0,0,2,2,0,0,2,0,0,0,1,0,1,0,0,1,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL DEMÁS CAUSAS,401,10,16,6,7,14,8,13,10,9,5,13,8,16,8,5,5,12,8,11,13,7,12,9,10,10,9,3,8,4,5,5,7,4,5,5,5,12,13,3,6,5,8,1,6,7,4,2,5,5,5,6,8,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,Valparaíso San Antonio,SUR,SUR Juan Fernández

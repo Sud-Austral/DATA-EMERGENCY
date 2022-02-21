@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2584,519,473,486,477,151,262,216,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2627,481,449,431,410,375,288,193,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+TOTAL CAUSAS SISTEMA RESPIRATORIO,314,61,66,58,44,37,27,21,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+IRA Alta (J00-J06),276,52,58,50,40,35,24,17,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Neumonía (J12-J18),6,1,1,3,0,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Bronquitis/bronquiolitis aguda (J20-J21),13,2,3,2,2,0,2,2,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Crisis obstructiva bronquial (J40-J46),11,5,2,1,2,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",8,1,2,2,0,1,1,1,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+COVID 19 Sospechoso (U072),886,110,109,158,208,162,93,46,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+COVID 19 Confirmado (U071),4,1,1,0,0,2,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,6,2,4,1,1,1,4,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Crisis hipertensiva,11,2,2,3,1,0,0,3,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Otras causas circulatorias,6,3,0,1,0,1,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,174,46,35,31,20,14,12,16,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Accidentes del tránsito,1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Otras causas externas,173,45,35,31,20,14,12,16,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),24,4,6,5,2,3,1,3,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",22,4,6,5,2,1,1,3,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+DIARREA AGUDA (A00-A09),23,0,0,0,0,4,19,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+TOTAL DEMÁS CAUSAS,1183,253,230,175,135,152,135,103,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santo Tomás

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4240,631,673,623,612,610,601,490,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3998,603,620,583,588,557,574,473,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+TOTAL CAUSAS SISTEMA RESPIRATORIO,83,15,10,14,17,8,8,11,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+IRA Alta (J00-J06),48,8,4,10,10,4,5,7,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Influenza (J09-J11),1,0,0,0,1,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Neumonía (J12-J18),8,1,1,0,2,3,1,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Bronquitis/bronquiolitis aguda (J20-J21),4,0,2,1,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Crisis obstructiva bronquial (J40-J46),12,4,2,1,1,1,1,2,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,2,1,2,3,0,0,2,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+COVID 19 Sospechoso (U072),12,2,1,0,1,3,3,2,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+TOTAL CAUSAS SISTEMA CIRCULATORIO,113,17,21,8,16,12,22,17,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Infarto agudo miocardio,4,0,0,1,1,0,0,2,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Accidente vascular encefálico,6,2,0,0,2,1,0,1,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Crisis hipertensiva,44,9,7,2,6,2,8,10,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Arritmia grave,9,1,2,0,1,2,2,1,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Otras causas circulatorias,50,5,12,5,6,7,12,3,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,740,101,105,104,151,101,98,80,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Accidentes del tránsito,1,1,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Otras causas externas,739,100,105,104,151,101,98,80,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),108,13,23,8,19,16,13,16,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),10,1,3,0,2,4,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Trastornos del Humor (Afectivos) (F30-F39),3,0,3,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",90,11,16,8,17,11,12,15,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+Otros trastornos mentales no contenidos en las categorías anteriores,5,1,1,0,0,1,1,1,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+DIARREA AGUDA (A00-A09),42,15,3,8,1,6,2,7,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+TOTAL DEMÁS CAUSAS,2900,440,457,441,383,411,428,340,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Cóndores de Chile

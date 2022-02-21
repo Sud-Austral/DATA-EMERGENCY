@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2222,343,304,313,418,372,369,103,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2232,327,296,299,390,351,350,219,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+TOTAL CAUSAS SISTEMA RESPIRATORIO,623,90,90,77,128,84,112,42,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+IRA Alta (J00-J06),529,69,73,63,112,78,99,35,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Neumonía (J12-J18),1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Bronquitis/bronquiolitis aguda (J20-J21),61,14,11,10,14,3,7,2,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Crisis obstructiva bronquial (J40-J46),16,4,3,2,0,2,2,3,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,3,3,2,2,1,3,2,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+COVID 19 Sospechoso (U072),376,27,15,44,77,100,60,53,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+COVID 19 Confirmado (U071),9,0,4,0,1,0,3,1,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,6,2,4,1,2,3,1,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Crisis hipertensiva,12,4,0,3,1,1,2,1,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Arritmia grave,2,0,1,0,0,0,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Otras causas circulatorias,5,2,1,1,0,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,176,34,30,26,17,24,23,22,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Otras causas externas,176,34,30,26,17,24,23,22,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,0,0,0,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+DIARREA AGUDA (A00-A09),69,11,8,12,22,4,8,4,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+TOTAL DEMÁS CAUSAS,959,159,147,136,144,136,141,96,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Ignacio Caroca

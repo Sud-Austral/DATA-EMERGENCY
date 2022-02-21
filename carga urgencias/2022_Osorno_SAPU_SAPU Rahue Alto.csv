@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3567,479,400,467,553,624,590,454,2022,Osorno,SAPU,SAPU Rahue Alto
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3567,479,400,467,553,624,590,454,2022,Osorno,SAPU,SAPU Rahue Alto
+TOTAL CAUSAS SISTEMA RESPIRATORIO,347,56,46,49,44,61,36,55,2022,Osorno,SAPU,SAPU Rahue Alto
+IRA Alta (J00-J06),257,36,35,39,35,51,27,34,2022,Osorno,SAPU,SAPU Rahue Alto
+Influenza (J09-J11),2,1,0,0,0,0,1,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Neumonía (J12-J18),8,1,0,0,3,1,1,2,2022,Osorno,SAPU,SAPU Rahue Alto
+Bronquitis/bronquiolitis aguda (J20-J21),24,6,5,5,0,2,1,5,2022,Osorno,SAPU,SAPU Rahue Alto
+Crisis obstructiva bronquial (J40-J46),25,4,3,2,3,4,2,7,2022,Osorno,SAPU,SAPU Rahue Alto
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",31,8,3,3,3,3,4,7,2022,Osorno,SAPU,SAPU Rahue Alto
+COVID 19 Sospechoso (U072),1379,101,86,136,224,304,319,209,2022,Osorno,SAPU,SAPU Rahue Alto
+COVID 19 Confirmado (U071),22,0,0,0,0,6,7,9,2022,Osorno,SAPU,SAPU Rahue Alto
+TOTAL CAUSAS SISTEMA CIRCULATORIO,50,13,7,8,5,7,6,4,2022,Osorno,SAPU,SAPU Rahue Alto
+Infarto agudo miocardio,3,1,0,0,2,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Accidente vascular encefálico,3,0,1,1,0,0,1,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Crisis hipertensiva,13,3,0,4,2,2,2,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Arritmia grave,3,1,0,0,0,2,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Otras causas circulatorias,28,8,6,3,1,3,3,4,2022,Osorno,SAPU,SAPU Rahue Alto
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,299,45,44,41,68,35,40,26,2022,Osorno,SAPU,SAPU Rahue Alto
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Osorno,SAPU,SAPU Rahue Alto
+Otras causas externas,298,45,44,41,68,35,40,25,2022,Osorno,SAPU,SAPU Rahue Alto
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),50,6,8,11,5,10,4,6,2022,Osorno,SAPU,SAPU Rahue Alto
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+Trastornos del Humor (Afectivos) (F30-F39),5,1,1,0,0,3,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",42,5,7,9,4,7,4,6,2022,Osorno,SAPU,SAPU Rahue Alto
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,2,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+DIARREA AGUDA (A00-A09),5,1,0,0,4,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+TOTAL DEMÁS CAUSAS,1415,257,209,222,203,201,178,145,2022,Osorno,SAPU,SAPU Rahue Alto
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Rahue Alto

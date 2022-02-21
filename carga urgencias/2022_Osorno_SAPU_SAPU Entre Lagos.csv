@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2567,296,350,300,467,475,424,255,2022,Osorno,SAPU,SAPU Entre Lagos
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2424,290,341,287,453,452,364,237,2022,Osorno,SAPU,SAPU Entre Lagos
+TOTAL CAUSAS SISTEMA RESPIRATORIO,293,43,56,36,44,37,51,26,2022,Osorno,SAPU,SAPU Entre Lagos
+IRA Alta (J00-J06),240,34,46,25,40,24,49,22,2022,Osorno,SAPU,SAPU Entre Lagos
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Neumonía (J12-J18),10,1,1,3,1,4,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Bronquitis/bronquiolitis aguda (J20-J21),12,2,2,4,0,3,1,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Crisis obstructiva bronquial (J40-J46),24,4,5,3,3,5,1,3,2022,Osorno,SAPU,SAPU Entre Lagos
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,2,2,1,0,1,0,1,2022,Osorno,SAPU,SAPU Entre Lagos
+COVID 19 Sospechoso (U072),645,38,38,62,177,168,81,81,2022,Osorno,SAPU,SAPU Entre Lagos
+COVID 19 Confirmado (U071),112,0,0,5,7,29,51,20,2022,Osorno,SAPU,SAPU Entre Lagos
+TOTAL CAUSAS SISTEMA CIRCULATORIO,31,4,5,5,2,4,9,2,2022,Osorno,SAPU,SAPU Entre Lagos
+Infarto agudo miocardio,2,0,0,1,0,0,1,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Accidente vascular encefálico,7,2,0,2,0,0,3,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Crisis hipertensiva,12,2,4,1,1,2,2,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Arritmia grave,2,0,0,0,0,1,1,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Otras causas circulatorias,8,0,1,1,1,1,2,2,2022,Osorno,SAPU,SAPU Entre Lagos
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,318,48,59,42,60,49,36,24,2022,Osorno,SAPU,SAPU Entre Lagos
+Accidentes del tránsito,5,0,0,0,0,3,2,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Otras causas externas,313,48,59,42,60,46,34,24,2022,Osorno,SAPU,SAPU Entre Lagos
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),37,11,8,4,3,6,1,4,2022,Osorno,SAPU,SAPU Entre Lagos
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,1,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+Trastornos del Humor (Afectivos) (F30-F39),2,0,1,0,0,1,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",29,10,5,3,2,4,1,4,2022,Osorno,SAPU,SAPU Entre Lagos
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,1,1,1,1,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+DIARREA AGUDA (A00-A09),2,0,2,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+TOTAL DEMÁS CAUSAS,986,146,173,133,160,159,135,80,2022,Osorno,SAPU,SAPU Entre Lagos
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Entre Lagos

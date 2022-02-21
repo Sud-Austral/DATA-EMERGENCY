@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,585,85,75,69,106,101,88,61,2022,Atacama,SUR,SUR Alto del Carmen
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,579,85,72,66,106,101,88,61,2022,Atacama,SUR,SUR Alto del Carmen
+TOTAL CAUSAS SISTEMA RESPIRATORIO,23,0,1,7,7,3,3,2,2022,Atacama,SUR,SUR Alto del Carmen
+IRA Alta (J00-J06),22,0,1,7,7,3,3,1,2022,Atacama,SUR,SUR Alto del Carmen
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,0,0,0,0,0,1,2022,Atacama,SUR,SUR Alto del Carmen
+COVID 19 Sospechoso (U072),72,11,5,9,18,15,9,5,2022,Atacama,SUR,SUR Alto del Carmen
+COVID 19 Confirmado (U071),23,9,2,1,10,0,1,0,2022,Atacama,SUR,SUR Alto del Carmen
+TOTAL CAUSAS SISTEMA CIRCULATORIO,2,0,0,1,1,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Otras causas circulatorias,1,0,0,1,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+TOTAL DEMÁS CAUSAS,459,65,64,48,70,83,75,54,2022,Atacama,SUR,SUR Alto del Carmen
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Atacama,SUR,SUR Alto del Carmen

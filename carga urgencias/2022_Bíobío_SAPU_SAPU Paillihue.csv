@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1357,195,200,207,185,244,199,127,2022,Bíobío,SAPU,SAPU Paillihue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1407,195,200,207,185,294,199,127,2022,Bíobío,SAPU,SAPU Paillihue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,90,20,19,10,9,16,4,12,2022,Bíobío,SAPU,SAPU Paillihue
+IRA Alta (J00-J06),67,14,10,9,8,15,2,9,2022,Bíobío,SAPU,SAPU Paillihue
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Bíobío,SAPU,SAPU Paillihue
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Bronquitis/bronquiolitis aguda (J20-J21),15,2,8,1,1,1,0,2,2022,Bíobío,SAPU,SAPU Paillihue
+Crisis obstructiva bronquial (J40-J46),3,1,0,0,0,0,1,1,2022,Bíobío,SAPU,SAPU Paillihue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,3,1,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+COVID 19 Sospechoso (U072),318,19,26,49,55,61,72,36,2022,Bíobío,SAPU,SAPU Paillihue
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,15,2,0,4,1,3,3,2,2022,Bíobío,SAPU,SAPU Paillihue
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Crisis hipertensiva,10,2,0,2,0,1,3,2,2022,Bíobío,SAPU,SAPU Paillihue
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Otras causas circulatorias,5,0,0,2,1,2,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,1,4,0,1,0,0,1,2022,Bíobío,SAPU,SAPU Paillihue
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Trastornos del Humor (Afectivos) (F30-F39),2,0,2,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,1,1,0,1,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,0,0,0,0,1,2022,Bíobío,SAPU,SAPU Paillihue
+DIARREA AGUDA (A00-A09),27,6,4,7,1,6,2,1,2022,Bíobío,SAPU,SAPU Paillihue
+TOTAL DEMÁS CAUSAS,950,147,147,137,118,208,118,75,2022,Bíobío,SAPU,SAPU Paillihue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Paillihue

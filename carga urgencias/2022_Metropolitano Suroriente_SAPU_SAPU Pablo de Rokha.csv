@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3181,548,486,509,526,430,436,246,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2814,503,400,421,429,405,417,239,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+TOTAL CAUSAS SISTEMA RESPIRATORIO,617,149,80,122,73,78,84,31,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+IRA Alta (J00-J06),519,120,67,115,57,67,69,24,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Neumonía (J12-J18),12,3,2,0,2,0,3,2,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Bronquitis/bronquiolitis aguda (J20-J21),47,9,10,5,8,6,8,1,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Crisis obstructiva bronquial (J40-J46),11,4,1,0,2,1,1,2,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",28,13,0,2,4,4,3,2,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+COVID 19 Sospechoso (U072),594,74,65,82,115,109,105,44,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+COVID 19 Confirmado (U071),7,0,1,0,1,0,3,2,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+TOTAL CAUSAS SISTEMA CIRCULATORIO,30,5,7,5,5,3,4,1,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Crisis hipertensiva,14,1,4,2,1,1,4,1,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Otras causas circulatorias,15,3,3,3,4,2,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,161,28,23,17,27,15,25,26,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Otras causas externas,160,28,23,17,26,15,25,26,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),36,4,4,4,2,7,6,9,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",35,3,4,4,2,7,6,9,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+DIARREA AGUDA (A00-A09),54,17,8,15,4,3,3,4,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+TOTAL DEMÁS CAUSAS,1315,226,212,176,202,190,187,122,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Pablo de Rokha

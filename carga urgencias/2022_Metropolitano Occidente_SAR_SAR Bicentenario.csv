@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7242,805,808,829,1546,1367,1158,729,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6226,685,698,706,1219,1182,1064,672,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1251,199,201,212,238,168,144,89,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+IRA Alta (J00-J06),1111,170,175,184,215,156,129,82,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Neumonía (J12-J18),11,2,1,1,3,0,3,1,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Bronquitis/bronquiolitis aguda (J20-J21),98,20,19,23,15,8,10,3,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Crisis obstructiva bronquial (J40-J46),18,5,4,3,2,2,1,1,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",13,2,2,1,3,2,1,2,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+COVID 19 Sospechoso (U072),1708,74,91,172,440,412,356,163,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+COVID 19 Confirmado (U071),563,0,0,10,142,210,117,84,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+TOTAL CAUSAS SISTEMA CIRCULATORIO,62,14,8,5,8,7,12,8,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Accidente vascular encefálico,2,1,0,0,0,0,1,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Crisis hipertensiva,27,7,4,3,3,2,3,5,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Arritmia grave,12,2,1,0,3,2,3,1,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Otras causas circulatorias,20,4,3,2,1,3,5,2,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,387,65,70,44,43,47,73,45,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Otras causas externas,386,65,70,44,42,47,73,45,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),70,13,12,4,5,16,9,11,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,1,0,1,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",62,11,11,4,5,14,9,8,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+Otros trastornos mentales no contenidos en las categorías anteriores,5,2,1,0,0,0,0,2,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+DIARREA AGUDA (A00-A09),64,12,5,5,6,13,18,5,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+TOTAL DEMÁS CAUSAS,2121,308,311,254,337,309,335,267,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Bicentenario

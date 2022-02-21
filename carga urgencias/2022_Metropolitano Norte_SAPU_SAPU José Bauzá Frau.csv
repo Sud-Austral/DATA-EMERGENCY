@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3430,885,1117,956,472,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3145,785,990,910,460,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+TOTAL CAUSAS SISTEMA RESPIRATORIO,336,109,117,74,36,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+IRA Alta (J00-J06),298,99,104,63,32,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Influenza (J09-J11),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Neumonía (J12-J18),1,1,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Bronquitis/bronquiolitis aguda (J20-J21),37,9,13,11,4,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+COVID 19 Sospechoso (U072),783,51,139,341,252,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+COVID 19 Confirmado (U071),6,0,2,3,1,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,9,8,8,1,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Infarto agudo miocardio,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Accidente vascular encefálico,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Crisis hipertensiva,26,9,8,8,1,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Arritmia grave,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Otras causas circulatorias,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,406,124,151,89,42,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Accidentes del tránsito,12,2,3,2,5,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Otras causas externas,394,122,148,87,37,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),6,4,2,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Ideación Suicida (R458),4,2,2,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,2,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+DIARREA AGUDA (A00-A09),32,14,5,9,4,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+TOTAL DEMÁS CAUSAS,1550,474,566,386,124,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+- LAS DEMÁS CAUSAS,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,-,-,-,2022,Metropolitano Norte,SAPU,SAPU José Bauzá Frau

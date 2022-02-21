@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Influenza (J09-J11),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Crisis hipertensiva,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Arritmia grave,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Otras causas circulatorias,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Accidentes del tránsito,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Lesiones autoinfligidas intencionalmente (X60-X84),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Otras causas externas,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Ideación Suicida (R458),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Trastornos del Humor (Afectivos) (F30-F39),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+Otros trastornos mentales no contenidos en las categorías anteriores,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- COVID 19 SOSPECHOSO (U072),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- COVID 19 CONFIRMADO (U071),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,2022,Iquique,SAPU,SAPU Pedro Pulgar Melgarejo

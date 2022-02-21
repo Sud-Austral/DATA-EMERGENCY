@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7518,899,876,945,1104,1527,1309,858,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5325,584,610,716,715,1007,981,712,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+TOTAL CAUSAS SISTEMA RESPIRATORIO,781,108,101,68,114,158,141,91,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+IRA Alta (J00-J06),657,88,88,53,100,135,117,76,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Neumonía (J12-J18),16,0,1,4,1,4,3,3,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Bronquitis/bronquiolitis aguda (J20-J21),61,12,7,7,5,11,13,6,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Crisis obstructiva bronquial (J40-J46),23,5,3,1,7,4,3,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,3,2,3,1,4,5,4,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+COVID 19 Sospechoso (U072),2533,196,194,386,359,515,568,315,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+COVID 19 Confirmado (U071),495,3,48,19,73,204,103,45,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+TOTAL CAUSAS SISTEMA CIRCULATORIO,57,7,10,9,11,7,5,8,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Infarto agudo miocardio,4,0,0,0,1,0,1,2,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Accidente vascular encefálico,2,0,0,0,0,1,1,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Crisis hipertensiva,18,2,5,4,2,1,1,3,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Arritmia grave,12,1,1,1,2,5,1,1,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Otras causas circulatorias,20,4,4,4,6,0,1,1,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,276,61,51,46,32,28,30,28,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Accidentes del tránsito,5,1,2,0,1,1,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Otras causas externas,276,60,49,46,31,27,30,33,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),47,15,3,6,5,3,8,7,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,1,1,0,0,0,2,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",36,10,2,6,4,3,6,5,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+Otros trastornos mentales no contenidos en las categorías anteriores,6,3,0,0,1,0,0,2,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+DIARREA AGUDA (A00-A09),53,4,12,6,1,2,2,26,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+TOTAL DEMÁS CAUSAS,1012,190,191,176,120,90,124,121,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Haydee Lopez

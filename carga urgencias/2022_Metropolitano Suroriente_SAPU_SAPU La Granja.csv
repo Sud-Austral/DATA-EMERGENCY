@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10649,1722,1679,1756,1665,1910,1333,584,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,10947,1722,1679,1756,1963,1910,1333,584,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1363,131,120,157,341,267,256,91,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+IRA Alta (J00-J06),1202,106,105,145,316,231,221,78,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Influenza (J09-J11),2,0,0,0,0,2,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Neumonía (J12-J18),17,1,2,0,4,3,4,3,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Bronquitis/bronquiolitis aguda (J20-J21),48,3,5,6,9,14,8,3,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Crisis obstructiva bronquial (J40-J46),46,7,4,3,10,7,9,6,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",48,14,4,3,2,10,14,1,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+COVID 19 Sospechoso (U072),2724,440,421,525,519,546,198,75,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+COVID 19 Confirmado (U071),38,4,1,2,5,10,14,2,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+TOTAL CAUSAS SISTEMA CIRCULATORIO,122,16,21,10,15,20,30,10,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Accidente vascular encefálico,8,0,2,0,0,4,1,1,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Crisis hipertensiva,35,6,5,5,7,4,8,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Arritmia grave,23,6,4,1,4,3,4,1,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Otras causas circulatorias,56,4,10,4,4,9,17,8,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1062,180,194,187,158,159,127,57,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Accidentes del tránsito,6,2,0,0,2,0,2,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Otras causas externas,1056,178,194,187,156,159,125,57,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),55,6,12,7,10,2,12,6,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,1,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",54,6,12,6,10,2,12,6,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+DIARREA AGUDA (A00-A09),228,31,35,43,29,35,35,20,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+TOTAL DEMÁS CAUSAS,5355,914,875,825,886,871,661,323,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Granja

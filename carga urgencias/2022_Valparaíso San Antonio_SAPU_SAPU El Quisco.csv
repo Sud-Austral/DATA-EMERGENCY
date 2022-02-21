@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7736,1000,1070,1242,1371,1176,1282,595,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7813,972,1041,1173,1300,1333,1249,745,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,387,89,56,106,67,44,11,14,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+IRA Alta (J00-J06),263,84,52,76,28,16,4,3,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Neumonía (J12-J18),12,0,2,3,1,4,2,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Crisis obstructiva bronquial (J40-J46),18,4,1,2,0,7,0,4,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",94,1,1,25,38,17,5,7,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+COVID 19 Sospechoso (U072),2632,198,264,344,492,506,526,302,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+COVID 19 Confirmado (U071),450,7,48,59,117,151,36,32,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,104,17,19,17,25,8,10,8,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Infarto agudo miocardio,8,0,3,1,1,1,0,2,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Accidente vascular encefálico,8,3,0,2,1,0,0,2,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Crisis hipertensiva,31,6,6,1,11,3,3,1,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Otras causas circulatorias,56,7,10,13,12,4,7,3,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,25,5,3,8,5,2,1,1,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Accidentes del tránsito,23,4,3,8,4,2,1,1,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Otras causas externas,2,1,0,0,1,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),109,14,20,20,19,16,10,10,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Ideación Suicida (R458),6,2,2,0,0,0,0,2,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,1,1,1,2,2,0,1,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",94,11,17,18,17,14,10,7,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,1,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+TOTAL DEMÁS CAUSAS,4106,642,631,619,575,606,655,378,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU El Quisco

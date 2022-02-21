@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,13384,1880,1923,2110,2251,2211,1829,1180,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,10566,1515,1610,1660,1600,1755,1511,915,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2623,477,417,448,412,421,242,206,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+IRA Alta (J00-J06),129,31,15,10,16,12,16,29,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Neumonía (J12-J18),37,10,5,4,2,5,6,5,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Bronquitis/bronquiolitis aguda (J20-J21),113,45,36,14,11,0,4,3,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Crisis obstructiva bronquial (J40-J46),42,10,5,7,5,10,4,1,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2302,381,356,413,378,394,212,168,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+COVID 19 Sospechoso (U072),1659,57,254,378,279,193,379,119,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+COVID 19 Confirmado (U071),1275,34,80,152,313,386,175,135,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+TOTAL CAUSAS SISTEMA CIRCULATORIO,371,74,68,52,44,47,46,40,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Infarto agudo miocardio,5,1,0,0,0,1,1,2,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Accidente vascular encefálico,13,4,3,1,3,1,1,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Crisis hipertensiva,96,21,25,14,10,7,8,11,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Arritmia grave,1,0,0,1,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Otras causas circulatorias,256,48,40,36,31,38,36,27,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,998,168,174,142,127,148,146,93,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Accidentes del tránsito,63,19,5,9,6,13,5,6,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Otras causas externas,935,149,169,133,121,135,141,87,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),230,51,36,29,27,40,28,19,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Ideación Suicida (R458),21,4,3,1,3,5,1,4,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),57,11,4,8,8,11,8,7,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Trastornos del Humor (Afectivos) (F30-F39),22,6,5,3,0,6,0,2,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",129,29,24,17,16,18,19,6,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+DIARREA AGUDA (A00-A09),65,9,19,9,4,4,13,7,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+TOTAL DEMÁS CAUSAS,3345,645,562,450,394,516,482,296,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 1 Rodrigo Rojas Denegri

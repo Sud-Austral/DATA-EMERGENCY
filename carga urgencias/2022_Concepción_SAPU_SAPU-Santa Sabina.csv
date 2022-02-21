@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3493,298,412,451,497,584,705,546,2022,Concepción,SAPU,SAPU-Santa Sabina
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3491,298,411,451,496,584,705,546,2022,Concepción,SAPU,SAPU-Santa Sabina
+TOTAL CAUSAS SISTEMA RESPIRATORIO,651,71,72,80,75,96,142,115,2022,Concepción,SAPU,SAPU-Santa Sabina
+IRA Alta (J00-J06),592,61,69,72,67,89,132,102,2022,Concepción,SAPU,SAPU-Santa Sabina
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Neumonía (J12-J18),3,0,1,1,1,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Bronquitis/bronquiolitis aguda (J20-J21),35,8,0,2,6,5,7,7,2022,Concepción,SAPU,SAPU-Santa Sabina
+Crisis obstructiva bronquial (J40-J46),13,2,2,2,1,2,1,3,2022,Concepción,SAPU,SAPU-Santa Sabina
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",8,0,0,3,0,0,2,3,2022,Concepción,SAPU,SAPU-Santa Sabina
+COVID 19 Sospechoso (U072),965,41,52,90,133,226,248,175,2022,Concepción,SAPU,SAPU-Santa Sabina
+COVID 19 Confirmado (U071),11,0,0,1,0,2,5,3,2022,Concepción,SAPU,SAPU-Santa Sabina
+TOTAL CAUSAS SISTEMA CIRCULATORIO,16,1,1,2,5,0,3,4,2022,Concepción,SAPU,SAPU-Santa Sabina
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Accidente vascular encefálico,2,0,1,0,0,0,0,1,2022,Concepción,SAPU,SAPU-Santa Sabina
+Crisis hipertensiva,5,1,0,1,1,0,1,1,2022,Concepción,SAPU,SAPU-Santa Sabina
+Arritmia grave,2,0,0,0,1,0,0,1,2022,Concepción,SAPU,SAPU-Santa Sabina
+Otras causas circulatorias,6,0,0,1,2,0,2,1,2022,Concepción,SAPU,SAPU-Santa Sabina
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,281,30,31,30,59,44,55,32,2022,Concepción,SAPU,SAPU-Santa Sabina
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Otras causas externas,281,30,31,30,59,44,55,32,2022,Concepción,SAPU,SAPU-Santa Sabina
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),10,0,3,1,1,1,0,4,2022,Concepción,SAPU,SAPU-Santa Sabina
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",10,0,3,1,1,1,0,4,2022,Concepción,SAPU,SAPU-Santa Sabina
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+DIARREA AGUDA (A00-A09),38,3,5,5,10,7,3,5,2022,Concepción,SAPU,SAPU-Santa Sabina
+TOTAL DEMÁS CAUSAS,1519,152,247,242,213,208,249,208,2022,Concepción,SAPU,SAPU-Santa Sabina
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Santa Sabina

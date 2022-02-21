@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6370,1036,1023,1034,1036,582,948,711,2022,Araucanía Sur,SAR,SAR Miraflores
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4822,747,779,821,742,443,718,572,2022,Araucanía Sur,SAR,SAR Miraflores
+TOTAL CAUSAS SISTEMA RESPIRATORIO,758,96,134,146,131,64,95,92,2022,Araucanía Sur,SAR,SAR Miraflores
+IRA Alta (J00-J06),445,60,79,81,91,36,52,46,2022,Araucanía Sur,SAR,SAR Miraflores
+Influenza (J09-J11),124,4,18,26,20,11,24,21,2022,Araucanía Sur,SAR,SAR Miraflores
+Neumonía (J12-J18),28,2,5,7,2,1,4,7,2022,Araucanía Sur,SAR,SAR Miraflores
+Bronquitis/bronquiolitis aguda (J20-J21),79,12,15,18,11,11,5,7,2022,Araucanía Sur,SAR,SAR Miraflores
+Crisis obstructiva bronquial (J40-J46),52,10,10,7,5,5,7,8,2022,Araucanía Sur,SAR,SAR Miraflores
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,8,7,7,2,0,3,3,2022,Araucanía Sur,SAR,SAR Miraflores
+COVID 19 Sospechoso (U072),700,75,64,95,95,89,166,116,2022,Araucanía Sur,SAR,SAR Miraflores
+COVID 19 Confirmado (U071),23,2,0,0,5,2,3,11,2022,Araucanía Sur,SAR,SAR Miraflores
+TOTAL CAUSAS SISTEMA CIRCULATORIO,95,21,12,10,19,8,17,8,2022,Araucanía Sur,SAR,SAR Miraflores
+Infarto agudo miocardio,3,0,0,0,0,1,2,0,2022,Araucanía Sur,SAR,SAR Miraflores
+Accidente vascular encefálico,8,1,0,0,1,2,3,1,2022,Araucanía Sur,SAR,SAR Miraflores
+Crisis hipertensiva,20,6,2,4,2,1,3,2,2022,Araucanía Sur,SAR,SAR Miraflores
+Arritmia grave,8,2,4,1,0,1,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+Otras causas circulatorias,56,12,6,5,16,3,9,5,2022,Araucanía Sur,SAR,SAR Miraflores
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,916,148,164,157,145,84,123,95,2022,Araucanía Sur,SAR,SAR Miraflores
+Accidentes del tránsito,785,129,141,127,117,73,113,85,2022,Araucanía Sur,SAR,SAR Miraflores
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+Otras causas externas,131,19,23,30,28,11,10,10,2022,Araucanía Sur,SAR,SAR Miraflores
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),116,16,23,11,17,11,19,19,2022,Araucanía Sur,SAR,SAR Miraflores
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),40,7,6,6,1,6,10,4,2022,Araucanía Sur,SAR,SAR Miraflores
+Trastornos del Humor (Afectivos) (F30-F39),6,0,0,0,4,0,1,1,2022,Araucanía Sur,SAR,SAR Miraflores
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",65,9,16,4,12,5,7,12,2022,Araucanía Sur,SAR,SAR Miraflores
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,1,1,0,0,1,2,2022,Araucanía Sur,SAR,SAR Miraflores
+DIARREA AGUDA (A00-A09),198,34,36,37,28,17,25,21,2022,Araucanía Sur,SAR,SAR Miraflores
+TOTAL DEMÁS CAUSAS,2016,355,346,365,302,168,270,210,2022,Araucanía Sur,SAR,SAR Miraflores
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Miraflores

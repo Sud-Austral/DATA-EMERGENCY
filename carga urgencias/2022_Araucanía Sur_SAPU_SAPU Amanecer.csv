@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1381,208,224,219,209,181,210,130,2022,Araucanía Sur,SAPU,SAPU Amanecer
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1344,198,220,219,200,168,209,130,2022,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL CAUSAS SISTEMA RESPIRATORIO,433,61,68,68,62,68,69,37,2022,Araucanía Sur,SAPU,SAPU Amanecer
+IRA Alta (J00-J06),309,35,47,43,43,53,60,28,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Neumonía (J12-J18),3,1,0,0,1,1,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Bronquitis/bronquiolitis aguda (J20-J21),85,16,13,19,10,12,7,8,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Crisis obstructiva bronquial (J40-J46),24,7,5,2,6,2,2,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,2,2,4,2,0,0,1,2022,Araucanía Sur,SAPU,SAPU Amanecer
+COVID 19 Sospechoso (U072),64,3,7,11,25,6,5,7,2022,Araucanía Sur,SAPU,SAPU Amanecer
+COVID 19 Confirmado (U071),6,0,0,1,3,1,1,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,6,4,4,3,5,3,1,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Crisis hipertensiva,20,4,3,4,2,5,2,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Arritmia grave,1,0,1,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Otras causas circulatorias,5,2,0,0,1,0,1,1,2022,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,149,21,29,23,23,20,22,11,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Accidentes del tránsito,104,16,21,15,17,14,13,8,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Otras causas externas,45,5,8,8,6,6,9,3,2022,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),27,4,3,4,6,5,3,2,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,0,1,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",23,3,3,3,5,4,3,2,2022,Araucanía Sur,SAPU,SAPU Amanecer
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+DIARREA AGUDA (A00-A09),58,8,11,7,12,3,16,1,2022,Araucanía Sur,SAPU,SAPU Amanecer
+TOTAL DEMÁS CAUSAS,581,95,98,101,66,60,90,71,2022,Araucanía Sur,SAPU,SAPU Amanecer
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Amanecer

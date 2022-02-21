@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3743,453,546,555,588,579,682,340,2022,Aconcagua,SAPU,SAPU San Felipe
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3147,435,512,510,528,474,494,194,2022,Aconcagua,SAPU,SAPU San Felipe
+TOTAL CAUSAS SISTEMA RESPIRATORIO,157,45,45,9,21,15,14,8,2022,Aconcagua,SAPU,SAPU San Felipe
+IRA Alta (J00-J06),116,37,35,6,16,9,9,4,2022,Aconcagua,SAPU,SAPU San Felipe
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Neumonía (J12-J18),3,0,0,1,0,1,1,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Bronquitis/bronquiolitis aguda (J20-J21),23,5,6,1,0,4,4,3,2022,Aconcagua,SAPU,SAPU San Felipe
+Crisis obstructiva bronquial (J40-J46),8,1,1,1,3,1,0,1,2022,Aconcagua,SAPU,SAPU San Felipe
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,2,3,0,2,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+COVID 19 Sospechoso (U072),1221,78,128,222,291,215,227,60,2022,Aconcagua,SAPU,SAPU San Felipe
+COVID 19 Confirmado (U071),32,0,2,1,2,11,9,7,2022,Aconcagua,SAPU,SAPU San Felipe
+TOTAL CAUSAS SISTEMA CIRCULATORIO,48,9,5,10,8,6,7,3,2022,Aconcagua,SAPU,SAPU San Felipe
+Infarto agudo miocardio,2,1,0,0,0,1,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Accidente vascular encefálico,2,0,0,0,2,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Crisis hipertensiva,32,5,4,8,4,4,4,3,2022,Aconcagua,SAPU,SAPU San Felipe
+Arritmia grave,2,0,1,0,1,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Otras causas circulatorias,10,3,0,2,1,1,3,0,2022,Aconcagua,SAPU,SAPU San Felipe
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,328,52,66,53,45,39,48,25,2022,Aconcagua,SAPU,SAPU San Felipe
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Otras causas externas,327,51,66,53,45,39,48,25,2022,Aconcagua,SAPU,SAPU San Felipe
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,9,6,3,3,6,3,4,2022,Aconcagua,SAPU,SAPU San Felipe
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,0,1,1,1,0,1,2022,Aconcagua,SAPU,SAPU San Felipe
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",29,9,5,2,2,5,3,3,2022,Aconcagua,SAPU,SAPU San Felipe
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+DIARREA AGUDA (A00-A09),40,6,8,7,3,2,5,9,2022,Aconcagua,SAPU,SAPU San Felipe
+TOTAL DEMÁS CAUSAS,1287,236,252,205,155,180,181,78,2022,Aconcagua,SAPU,SAPU San Felipe
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Aconcagua,SAPU,SAPU San Felipe

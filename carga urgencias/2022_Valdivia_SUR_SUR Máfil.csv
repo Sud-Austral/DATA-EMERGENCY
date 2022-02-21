@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1761,234,236,211,278,295,278,229,2022,Valdivia,SUR,SUR Máfil
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1778,234,236,211,278,325,275,219,2022,Valdivia,SUR,SUR Máfil
+TOTAL CAUSAS SISTEMA RESPIRATORIO,64,8,4,3,8,8,25,8,2022,Valdivia,SUR,SUR Máfil
+IRA Alta (J00-J06),53,7,3,0,6,7,24,6,2022,Valdivia,SUR,SUR Máfil
+Influenza (J09-J11),1,0,0,0,0,0,0,1,2022,Valdivia,SUR,SUR Máfil
+Neumonía (J12-J18),1,0,0,1,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Bronquitis/bronquiolitis aguda (J20-J21),4,0,0,1,2,0,0,1,2022,Valdivia,SUR,SUR Máfil
+Crisis obstructiva bronquial (J40-J46),3,1,0,1,0,1,0,0,2022,Valdivia,SUR,SUR Máfil
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,0,1,0,0,0,1,0,2022,Valdivia,SUR,SUR Máfil
+COVID 19 Sospechoso (U072),479,40,41,33,76,124,103,62,2022,Valdivia,SUR,SUR Máfil
+COVID 19 Confirmado (U071),70,2,0,0,3,11,22,32,2022,Valdivia,SUR,SUR Máfil
+TOTAL CAUSAS SISTEMA CIRCULATORIO,10,2,1,2,3,1,0,1,2022,Valdivia,SUR,SUR Máfil
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Crisis hipertensiva,1,0,0,0,0,0,0,1,2022,Valdivia,SUR,SUR Máfil
+Arritmia grave,3,0,0,2,0,1,0,0,2022,Valdivia,SUR,SUR Máfil
+Otras causas circulatorias,5,2,1,0,2,0,0,0,2022,Valdivia,SUR,SUR Máfil
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,122,20,25,14,20,17,11,15,2022,Valdivia,SUR,SUR Máfil
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Otras causas externas,122,20,25,14,20,17,11,15,2022,Valdivia,SUR,SUR Máfil
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),10,2,2,0,0,1,1,4,2022,Valdivia,SUR,SUR Máfil
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Valdivia,SUR,SUR Máfil
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",8,2,1,0,0,1,0,4,2022,Valdivia,SUR,SUR Máfil
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+DIARREA AGUDA (A00-A09),14,1,1,1,4,2,5,0,2022,Valdivia,SUR,SUR Máfil
+TOTAL DEMÁS CAUSAS,1009,159,162,158,164,161,108,97,2022,Valdivia,SUR,SUR Máfil
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SUR,SUR Máfil

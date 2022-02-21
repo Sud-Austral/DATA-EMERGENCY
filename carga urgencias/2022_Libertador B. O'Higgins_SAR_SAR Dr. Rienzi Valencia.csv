@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8687,1036,1053,1194,1482,1526,1403,993,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7015,955,914,1017,1066,1133,1118,812,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1568,243,208,268,266,188,214,181,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+IRA Alta (J00-J06),1459,214,190,251,236,185,205,178,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Influenza (J09-J11),8,1,6,0,1,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Neumonía (J12-J18),8,1,1,3,2,0,1,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Bronquitis/bronquiolitis aguda (J20-J21),38,15,8,8,0,1,6,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Crisis obstructiva bronquial (J40-J46),18,7,1,5,0,1,2,2,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",37,5,2,1,27,1,0,1,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+COVID 19 Sospechoso (U072),1339,60,69,157,229,277,301,246,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+COVID 19 Confirmado (U071),559,5,16,79,74,137,136,112,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+TOTAL CAUSAS SISTEMA CIRCULATORIO,45,17,10,5,3,1,4,5,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Infarto agudo miocardio,2,1,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Accidente vascular encefálico,1,0,0,0,0,0,0,1,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Crisis hipertensiva,19,5,4,3,1,0,4,2,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Arritmia grave,4,1,0,1,1,0,0,1,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Otras causas circulatorias,19,10,5,1,1,1,0,1,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,305,53,48,64,49,30,31,30,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Otras causas externas,305,53,48,64,49,30,31,30,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),72,19,15,13,6,8,8,3,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,2,0,1,0,0,3,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,2,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",47,15,12,9,2,7,2,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+Otros trastornos mentales no contenidos en las categorías anteriores,17,2,3,1,4,1,3,3,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+DIARREA AGUDA (A00-A09),342,82,54,64,40,29,40,33,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+TOTAL DEMÁS CAUSAS,2785,476,494,367,399,463,384,202,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Dr. Rienzi Valencia

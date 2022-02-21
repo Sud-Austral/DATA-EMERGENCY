@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2640,397,475,331,410,400,321,306,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2600,374,448,408,397,381,301,291,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+TOTAL CAUSAS SISTEMA RESPIRATORIO,300,58,23,43,48,54,42,32,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+IRA Alta (J00-J06),254,50,12,38,41,45,40,28,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Bronquitis/bronquiolitis aguda (J20-J21),8,0,3,1,0,2,0,2,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Crisis obstructiva bronquial (J40-J46),7,3,0,0,0,1,2,1,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",31,5,8,4,7,6,0,1,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+COVID 19 Sospechoso (U072),905,152,249,268,120,59,34,23,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+COVID 19 Confirmado (U071),544,0,5,11,137,175,118,98,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+TOTAL CAUSAS SISTEMA CIRCULATORIO,11,1,4,1,2,3,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Crisis hipertensiva,5,0,1,0,2,2,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Otras causas circulatorias,5,1,2,1,0,1,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,56,16,9,2,8,13,2,6,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Accidentes del tránsito,2,2,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Otras causas externas,54,14,9,2,8,13,2,6,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,1,1,1,0,4,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,0,1,1,0,3,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,1,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+DIARREA AGUDA (A00-A09),60,15,14,8,2,14,3,4,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+TOTAL DEMÁS CAUSAS,717,131,143,74,80,59,102,128,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Ignacio Domeyko

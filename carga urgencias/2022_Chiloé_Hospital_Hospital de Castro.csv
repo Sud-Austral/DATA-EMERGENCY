@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5540,809,768,742,755,953,915,598,2022,Chiloé,Hospital,Hospital de Castro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4131,692,549,546,559,658,689,438,2022,Chiloé,Hospital,Hospital de Castro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,334,76,43,44,31,40,66,34,2022,Chiloé,Hospital,Hospital de Castro
+IRA Alta (J00-J06),201,37,20,31,17,31,41,24,2022,Chiloé,Hospital,Hospital de Castro
+Influenza (J09-J11),4,3,0,0,0,1,0,0,2022,Chiloé,Hospital,Hospital de Castro
+Neumonía (J12-J18),36,3,8,4,5,1,11,4,2022,Chiloé,Hospital,Hospital de Castro
+Bronquitis/bronquiolitis aguda (J20-J21),24,12,6,1,1,1,2,1,2022,Chiloé,Hospital,Hospital de Castro
+Crisis obstructiva bronquial (J40-J46),39,12,4,3,7,2,8,3,2022,Chiloé,Hospital,Hospital de Castro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,9,5,5,1,4,4,2,2022,Chiloé,Hospital,Hospital de Castro
+COVID 19 Sospechoso (U072),498,39,16,38,53,114,148,90,2022,Chiloé,Hospital,Hospital de Castro
+COVID 19 Confirmado (U071),1,0,0,0,0,1,0,0,2022,Chiloé,Hospital,Hospital de Castro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,143,24,20,17,27,24,19,12,2022,Chiloé,Hospital,Hospital de Castro
+Infarto agudo miocardio,11,1,3,2,1,0,2,2,2022,Chiloé,Hospital,Hospital de Castro
+Accidente vascular encefálico,25,2,2,3,6,3,4,5,2022,Chiloé,Hospital,Hospital de Castro
+Crisis hipertensiva,26,5,3,3,3,6,5,1,2022,Chiloé,Hospital,Hospital de Castro
+Arritmia grave,5,2,0,1,1,1,0,0,2022,Chiloé,Hospital,Hospital de Castro
+Otras causas circulatorias,76,14,12,8,16,14,8,4,2022,Chiloé,Hospital,Hospital de Castro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,513,82,49,27,109,85,93,68,2022,Chiloé,Hospital,Hospital de Castro
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Castro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Castro
+Otras causas externas,513,82,49,27,109,85,93,68,2022,Chiloé,Hospital,Hospital de Castro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),137,22,25,18,9,26,20,17,2022,Chiloé,Hospital,Hospital de Castro
+Ideación Suicida (R458),21,0,3,3,0,6,4,5,2022,Chiloé,Hospital,Hospital de Castro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),31,6,4,4,4,5,6,2,2022,Chiloé,Hospital,Hospital de Castro
+Trastornos del Humor (Afectivos) (F30-F39),17,2,2,3,0,4,2,4,2022,Chiloé,Hospital,Hospital de Castro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",45,14,14,5,3,5,3,1,2022,Chiloé,Hospital,Hospital de Castro
+Otros trastornos mentales no contenidos en las categorías anteriores,23,0,2,3,2,6,5,5,2022,Chiloé,Hospital,Hospital de Castro
+DIARREA AGUDA (A00-A09),143,46,23,20,19,10,15,10,2022,Chiloé,Hospital,Hospital de Castro
+TOTAL DEMÁS CAUSAS,2362,403,373,382,311,358,328,207,2022,Chiloé,Hospital,Hospital de Castro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,403,49,52,71,65,51,70,45,2022,Chiloé,Hospital,Hospital de Castro
+- CAUSAS SISTEMA RESPIRATORIO,29,5,5,5,3,3,4,4,2022,Chiloé,Hospital,Hospital de Castro
+- COVID 19 SOSPECHOSO (U072),5,0,0,0,0,0,2,3,2022,Chiloé,Hospital,Hospital de Castro
+- COVID 19 CONFIRMADO (U071),21,4,3,1,0,2,4,7,2022,Chiloé,Hospital,Hospital de Castro
+- CAUSAS SISTEMA CIRCULATORIO,45,3,6,4,13,6,8,5,2022,Chiloé,Hospital,Hospital de Castro
+- TRAUMATISMOS Y ENVENENAMIENTOS,44,5,9,6,9,3,6,6,2022,Chiloé,Hospital,Hospital de Castro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),15,1,4,2,2,3,2,1,2022,Chiloé,Hospital,Hospital de Castro
+- LAS DEMÁS CAUSAS,244,31,25,53,38,34,44,19,2022,Chiloé,Hospital,Hospital de Castro
+CIRUGÍAS DE URGENCIA,11,1,3,2,0,2,2,1,2022,Chiloé,Hospital,Hospital de Castro

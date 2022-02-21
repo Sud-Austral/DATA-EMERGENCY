@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3109,356,328,446,551,529,572,327,2022,Coquimbo,SAPU,SAPU Fray Jorge
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3256,354,373,516,537,603,559,314,2022,Coquimbo,SAPU,SAPU Fray Jorge
+TOTAL CAUSAS SISTEMA RESPIRATORIO,229,20,37,37,36,44,30,25,2022,Coquimbo,SAPU,SAPU Fray Jorge
+IRA Alta (J00-J06),187,16,26,26,34,40,24,21,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Neumonía (J12-J18),5,2,0,0,0,1,2,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Bronquitis/bronquiolitis aguda (J20-J21),8,0,4,1,1,0,1,1,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Crisis obstructiva bronquial (J40-J46),9,1,2,1,0,2,1,2,2022,Coquimbo,SAPU,SAPU Fray Jorge
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,1,5,9,1,1,2,1,2022,Coquimbo,SAPU,SAPU Fray Jorge
+COVID 19 Sospechoso (U072),1059,35,51,99,202,273,243,156,2022,Coquimbo,SAPU,SAPU Fray Jorge
+COVID 19 Confirmado (U071),7,0,0,0,1,2,3,1,2022,Coquimbo,SAPU,SAPU Fray Jorge
+TOTAL CAUSAS SISTEMA CIRCULATORIO,15,1,4,4,1,1,3,1,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Crisis hipertensiva,8,1,2,2,0,1,1,1,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Otras causas circulatorias,6,0,2,2,1,0,1,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,628,104,95,131,77,82,106,33,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Otras causas externas,628,104,95,131,77,82,106,33,2022,Coquimbo,SAPU,SAPU Fray Jorge
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,1,2,0,1,1,2,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,1,0,1,1,1,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,1,0,0,0,1,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+DIARREA AGUDA (A00-A09),36,1,12,3,6,9,2,3,2022,Coquimbo,SAPU,SAPU Fray Jorge
+TOTAL DEMÁS CAUSAS,1275,192,172,242,213,191,170,95,2022,Coquimbo,SAPU,SAPU Fray Jorge
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Fray Jorge

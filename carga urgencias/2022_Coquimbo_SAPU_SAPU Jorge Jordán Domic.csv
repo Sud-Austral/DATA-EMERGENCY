@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1632,146,236,296,66,272,351,265,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1614,146,235,289,66,270,346,262,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+TOTAL CAUSAS SISTEMA RESPIRATORIO,96,17,15,30,3,10,10,11,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+IRA Alta (J00-J06),80,13,13,27,1,8,8,10,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Bronquitis/bronquiolitis aguda (J20-J21),7,2,1,0,2,1,0,1,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Crisis obstructiva bronquial (J40-J46),3,1,1,0,0,1,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,1,0,3,0,0,2,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+COVID 19 Sospechoso (U072),677,29,50,77,39,145,194,143,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+COVID 19 Confirmado (U071),1,0,0,0,0,0,1,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+TOTAL CAUSAS SISTEMA CIRCULATORIO,15,1,3,3,1,0,5,2,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Crisis hipertensiva,6,1,2,1,1,0,0,1,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Arritmia grave,1,0,0,0,0,0,0,1,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Otras causas circulatorias,8,0,1,2,0,0,5,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,218,26,47,47,6,35,37,20,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Otras causas externas,218,26,47,47,6,35,37,20,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,1,1,1,0,1,2,1,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,0,1,1,0,1,1,1,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,1,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+DIARREA AGUDA (A00-A09),25,6,9,3,0,1,5,1,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+TOTAL DEMÁS CAUSAS,575,66,110,128,17,78,92,84,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Jorge Jordán Domic

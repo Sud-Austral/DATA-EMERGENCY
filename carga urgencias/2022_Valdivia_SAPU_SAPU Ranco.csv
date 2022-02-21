@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1604,185,175,219,253,237,319,216,2022,Valdivia,SAPU,SAPU Ranco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1594,184,175,215,253,232,319,216,2022,Valdivia,SAPU,SAPU Ranco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,121,12,17,18,9,19,24,22,2022,Valdivia,SAPU,SAPU Ranco
+IRA Alta (J00-J06),86,9,11,14,4,11,17,20,2022,Valdivia,SAPU,SAPU Ranco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+Neumonía (J12-J18),12,0,3,1,1,4,1,2,2022,Valdivia,SAPU,SAPU Ranco
+Bronquitis/bronquiolitis aguda (J20-J21),7,1,0,0,1,2,3,0,2022,Valdivia,SAPU,SAPU Ranco
+Crisis obstructiva bronquial (J40-J46),4,0,1,0,0,1,2,0,2022,Valdivia,SAPU,SAPU Ranco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,2,2,3,3,1,1,0,2022,Valdivia,SAPU,SAPU Ranco
+COVID 19 Sospechoso (U072),306,9,14,38,75,62,57,51,2022,Valdivia,SAPU,SAPU Ranco
+COVID 19 Confirmado (U071),65,2,5,3,2,22,27,4,2022,Valdivia,SAPU,SAPU Ranco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,10,1,0,2,2,2,2,1,2022,Valdivia,SAPU,SAPU Ranco
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+Accidente vascular encefálico,1,0,0,0,0,0,0,1,2022,Valdivia,SAPU,SAPU Ranco
+Crisis hipertensiva,2,0,0,0,0,0,2,0,2022,Valdivia,SAPU,SAPU Ranco
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+Otras causas circulatorias,6,0,0,2,2,2,0,0,2022,Valdivia,SAPU,SAPU Ranco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,152,10,23,19,23,26,33,18,2022,Valdivia,SAPU,SAPU Ranco
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+Otras causas externas,152,10,23,19,23,26,33,18,2022,Valdivia,SAPU,SAPU Ranco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),17,0,4,4,1,3,4,1,2022,Valdivia,SAPU,SAPU Ranco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,1,0,0,1,1,0,2022,Valdivia,SAPU,SAPU Ranco
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,1,0,1,0,0,2022,Valdivia,SAPU,SAPU Ranco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",7,0,2,0,1,1,2,1,2022,Valdivia,SAPU,SAPU Ranco
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,1,3,0,0,1,0,2022,Valdivia,SAPU,SAPU Ranco
+DIARREA AGUDA (A00-A09),29,2,7,2,0,1,12,5,2022,Valdivia,SAPU,SAPU Ranco
+TOTAL DEMÁS CAUSAS,894,148,105,129,141,97,160,114,2022,Valdivia,SAPU,SAPU Ranco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Ranco

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3097,380,394,443,538,502,508,332,2022,Valdivia,SAPU,SAPU Gil de Castro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2737,353,359,381,452,438,468,286,2022,Valdivia,SAPU,SAPU Gil de Castro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,316,65,56,41,50,35,32,37,2022,Valdivia,SAPU,SAPU Gil de Castro
+IRA Alta (J00-J06),241,50,43,31,42,25,19,31,2022,Valdivia,SAPU,SAPU Gil de Castro
+Influenza (J09-J11),14,0,1,0,0,5,7,1,2022,Valdivia,SAPU,SAPU Gil de Castro
+Neumonía (J12-J18),5,0,0,2,0,0,2,1,2022,Valdivia,SAPU,SAPU Gil de Castro
+Bronquitis/bronquiolitis aguda (J20-J21),19,4,4,4,2,2,2,1,2022,Valdivia,SAPU,SAPU Gil de Castro
+Crisis obstructiva bronquial (J40-J46),24,7,3,2,5,3,2,2,2022,Valdivia,SAPU,SAPU Gil de Castro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",13,4,5,2,1,0,0,1,2022,Valdivia,SAPU,SAPU Gil de Castro
+COVID 19 Sospechoso (U072),916,62,74,127,201,241,119,92,2022,Valdivia,SAPU,SAPU Gil de Castro
+COVID 19 Confirmado (U071),166,0,0,2,2,5,129,28,2022,Valdivia,SAPU,SAPU Gil de Castro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,35,9,6,6,2,3,3,6,2022,Valdivia,SAPU,SAPU Gil de Castro
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Crisis hipertensiva,12,2,3,2,1,2,0,2,2022,Valdivia,SAPU,SAPU Gil de Castro
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Otras causas circulatorias,23,7,3,4,1,1,3,4,2022,Valdivia,SAPU,SAPU Gil de Castro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,201,39,35,32,28,24,18,25,2022,Valdivia,SAPU,SAPU Gil de Castro
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Otras causas externas,201,39,35,32,28,24,18,25,2022,Valdivia,SAPU,SAPU Gil de Castro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),23,4,6,5,1,2,3,2,2022,Valdivia,SAPU,SAPU Gil de Castro
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",17,4,5,5,1,0,1,1,2022,Valdivia,SAPU,SAPU Gil de Castro
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,1,0,0,2,1,1,2022,Valdivia,SAPU,SAPU Gil de Castro
+DIARREA AGUDA (A00-A09),1,1,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+TOTAL DEMÁS CAUSAS,1079,173,182,168,168,128,164,96,2022,Valdivia,SAPU,SAPU Gil de Castro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Gil de Castro

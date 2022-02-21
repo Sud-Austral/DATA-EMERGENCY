@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3408,384,361,412,477,639,695,440,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3335,384,361,404,468,614,676,428,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,485,69,92,79,72,52,61,60,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+IRA Alta (J00-J06),375,58,71,54,57,40,52,43,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Neumonía (J12-J18),1,0,0,0,1,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Bronquitis/bronquiolitis aguda (J20-J21),84,7,17,23,10,7,4,16,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Crisis obstructiva bronquial (J40-J46),15,2,3,1,3,3,2,1,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,2,1,1,1,2,3,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+COVID 19 Sospechoso (U072),1271,67,24,85,172,340,379,204,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+COVID 19 Confirmado (U071),7,0,0,1,0,2,3,1,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,24,4,3,3,1,3,6,4,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Infarto agudo miocardio,2,0,0,1,1,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Accidente vascular encefálico,3,1,0,0,0,1,1,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Crisis hipertensiva,6,1,0,0,0,2,0,3,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Otras causas circulatorias,12,2,3,2,0,0,4,1,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,304,47,43,46,45,37,49,37,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Otras causas externas,303,47,43,46,45,36,49,37,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),15,3,4,1,3,0,2,2,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,3,4,1,3,0,2,2,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+DIARREA AGUDA (A00-A09),29,1,4,2,5,4,8,5,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+TOTAL DEMÁS CAUSAS,1200,193,191,187,170,176,168,115,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lorenzo Arenas

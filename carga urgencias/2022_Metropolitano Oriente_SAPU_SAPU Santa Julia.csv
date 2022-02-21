@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4422,586,661,739,763,645,600,428,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4422,586,661,739,763,645,600,428,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+TOTAL CAUSAS SISTEMA RESPIRATORIO,748,119,112,107,99,75,119,117,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+IRA Alta (J00-J06),351,36,36,38,54,48,75,64,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Neumonía (J12-J18),6,0,2,1,0,2,1,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Bronquitis/bronquiolitis aguda (J20-J21),40,10,10,7,6,2,2,3,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Crisis obstructiva bronquial (J40-J46),38,9,9,2,4,3,3,8,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",313,64,55,59,35,20,38,42,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+COVID 19 Sospechoso (U072),1219,66,144,246,283,268,134,78,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+TOTAL CAUSAS SISTEMA CIRCULATORIO,84,11,14,11,10,13,13,12,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Otras causas circulatorias,84,11,14,11,10,13,13,12,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,436,87,83,57,67,48,58,36,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Accidentes del tránsito,3,0,1,0,0,0,0,2,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Otras causas externas,433,87,82,57,67,48,58,34,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,3,0,0,0,1,1,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Ideación Suicida (R458),1,0,0,0,0,0,1,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,3,0,0,0,1,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+DIARREA AGUDA (A00-A09),20,0,5,7,3,2,0,3,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+TOTAL DEMÁS CAUSAS,1910,300,303,311,301,238,275,182,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Santa Julia

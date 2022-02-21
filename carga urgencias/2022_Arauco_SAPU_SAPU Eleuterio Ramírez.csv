@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2034,282,246,264,255,345,385,257,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1833,264,231,247,213,307,340,231,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+TOTAL CAUSAS SISTEMA RESPIRATORIO,332,43,55,29,31,48,102,24,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+IRA Alta (J00-J06),299,34,48,27,26,41,100,23,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Neumonía (J12-J18),5,2,1,0,2,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Bronquitis/bronquiolitis aguda (J20-J21),9,2,3,2,0,2,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Crisis obstructiva bronquial (J40-J46),12,5,1,0,2,2,2,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,0,2,0,1,3,0,1,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+COVID 19 Sospechoso (U072),532,39,20,52,55,133,129,104,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+COVID 19 Confirmado (U071),12,0,0,0,0,5,4,3,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+TOTAL CAUSAS SISTEMA CIRCULATORIO,20,3,2,3,8,1,1,2,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Crisis hipertensiva,7,1,2,3,0,0,0,1,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Arritmia grave,1,0,0,0,0,0,0,1,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Otras causas circulatorias,11,2,0,0,8,1,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,168,28,27,32,21,19,19,22,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Otras causas externas,168,28,27,32,21,19,19,22,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),21,4,4,6,3,2,0,2,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",18,4,3,4,3,2,0,2,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,2,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+DIARREA AGUDA (A00-A09),33,3,6,1,13,2,4,4,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+TOTAL DEMÁS CAUSAS,715,144,117,124,82,97,81,70,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arauco,SAPU,SAPU Eleuterio Ramírez

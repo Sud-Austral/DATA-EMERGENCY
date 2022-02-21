@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,213,32,36,20,31,34,40,20,2022,Ñuble,SUR,SUR Treguaco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,141,25,21,15,23,25,22,10,2022,Ñuble,SUR,SUR Treguaco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2,1,0,0,0,1,0,0,2022,Ñuble,SUR,SUR Treguaco
+IRA Alta (J00-J06),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Crisis obstructiva bronquial (J40-J46),1,0,0,0,0,1,0,0,2022,Ñuble,SUR,SUR Treguaco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,1,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+COVID 19 Sospechoso (U072),1,0,0,0,1,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,2,3,0,1,1,0,1,2022,Ñuble,SUR,SUR Treguaco
+Infarto agudo miocardio,1,0,0,0,0,1,0,0,2022,Ñuble,SUR,SUR Treguaco
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Crisis hipertensiva,1,0,1,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Otras causas circulatorias,5,2,2,0,0,0,0,1,2022,Ñuble,SUR,SUR Treguaco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,13,2,1,2,4,1,3,0,2022,Ñuble,SUR,SUR Treguaco
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Otras causas externas,13,2,1,2,4,1,3,0,2022,Ñuble,SUR,SUR Treguaco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+TOTAL DEMÁS CAUSAS,117,20,17,13,17,22,19,9,2022,Ñuble,SUR,SUR Treguaco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Treguaco

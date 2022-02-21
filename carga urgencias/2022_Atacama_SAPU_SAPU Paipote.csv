@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7359,868,847,1183,1429,1576,906,550,2022,Atacama,SAPU,SAPU Paipote
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5090,734,724,734,748,926,699,525,2022,Atacama,SAPU,SAPU Paipote
+TOTAL CAUSAS SISTEMA RESPIRATORIO,854,181,174,132,128,110,72,57,2022,Atacama,SAPU,SAPU Paipote
+IRA Alta (J00-J06),718,149,159,110,113,92,48,47,2022,Atacama,SAPU,SAPU Paipote
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+Neumonía (J12-J18),21,5,3,3,0,3,4,3,2022,Atacama,SAPU,SAPU Paipote
+Bronquitis/bronquiolitis aguda (J20-J21),81,20,9,14,10,11,12,5,2022,Atacama,SAPU,SAPU Paipote
+Crisis obstructiva bronquial (J40-J46),13,0,1,4,2,3,1,2,2022,Atacama,SAPU,SAPU Paipote
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,7,2,1,3,1,7,0,2022,Atacama,SAPU,SAPU Paipote
+COVID 19 Sospechoso (U072),1544,78,108,181,218,440,308,211,2022,Atacama,SAPU,SAPU Paipote
+COVID 19 Confirmado (U071),311,6,29,51,65,129,17,14,2022,Atacama,SAPU,SAPU Paipote
+TOTAL CAUSAS SISTEMA CIRCULATORIO,98,23,17,13,12,9,12,12,2022,Atacama,SAPU,SAPU Paipote
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+Accidente vascular encefálico,2,1,1,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+Crisis hipertensiva,67,13,12,8,8,7,10,9,2022,Atacama,SAPU,SAPU Paipote
+Arritmia grave,7,1,2,1,0,2,0,1,2022,Atacama,SAPU,SAPU Paipote
+Otras causas circulatorias,22,8,2,4,4,0,2,2,2022,Atacama,SAPU,SAPU Paipote
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,371,60,64,72,50,43,45,37,2022,Atacama,SAPU,SAPU Paipote
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,0,1,0,0,1,0,2022,Atacama,SAPU,SAPU Paipote
+Otras causas externas,369,60,64,71,50,43,44,37,2022,Atacama,SAPU,SAPU Paipote
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),45,10,7,6,4,6,8,4,2022,Atacama,SAPU,SAPU Paipote
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,1,0,0,2022,Atacama,SAPU,SAPU Paipote
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",38,6,7,6,4,4,7,4,2022,Atacama,SAPU,SAPU Paipote
+Otros trastornos mentales no contenidos en las categorías anteriores,5,3,0,0,0,1,1,0,2022,Atacama,SAPU,SAPU Paipote
+DIARREA AGUDA (A00-A09),54,7,11,6,8,5,11,6,2022,Atacama,SAPU,SAPU Paipote
+TOTAL DEMÁS CAUSAS,1813,369,314,273,263,184,226,184,2022,Atacama,SAPU,SAPU Paipote
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Paipote

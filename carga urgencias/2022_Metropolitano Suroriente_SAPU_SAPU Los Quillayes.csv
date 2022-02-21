@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8906,1181,1276,1295,1591,1489,1235,839,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7397,1028,1102,1024,1210,1176,1080,777,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+TOTAL CAUSAS SISTEMA RESPIRATORIO,931,206,180,156,135,121,79,54,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+IRA Alta (J00-J06),764,186,135,121,112,101,65,44,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Influenza (J09-J11),2,0,1,1,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Neumonía (J12-J18),16,2,3,2,3,3,1,2,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Bronquitis/bronquiolitis aguda (J20-J21),69,8,18,13,13,8,6,3,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Crisis obstructiva bronquial (J40-J46),49,3,14,12,7,8,2,3,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",31,7,9,7,0,1,5,2,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+COVID 19 Sospechoso (U072),2485,171,252,272,425,564,485,316,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+COVID 19 Confirmado (U071),385,1,5,34,137,95,67,46,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+TOTAL CAUSAS SISTEMA CIRCULATORIO,102,22,10,15,18,12,15,10,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Infarto agudo miocardio,5,1,1,0,2,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Accidente vascular encefálico,5,0,1,0,2,1,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Crisis hipertensiva,43,9,5,9,6,4,6,4,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Arritmia grave,7,2,1,1,1,1,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Otras causas circulatorias,42,10,2,5,7,5,9,4,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,569,114,100,89,72,56,74,64,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Otras causas externas,569,114,100,89,72,56,74,64,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),83,17,18,11,12,5,9,11,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Ideación Suicida (R458),2,0,2,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,0,1,1,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Trastornos del Humor (Afectivos) (F30-F39),4,1,0,0,2,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",69,14,15,10,9,4,7,10,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+Otros trastornos mentales no contenidos en las categorías anteriores,5,2,1,0,0,1,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+DIARREA AGUDA (A00-A09),64,13,18,12,3,7,9,2,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+TOTAL DEMÁS CAUSAS,2778,484,519,435,408,316,342,274,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Los Quillayes

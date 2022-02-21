@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4199,512,523,447,658,892,727,440,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3389,445,477,376,548,636,534,373,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,361,40,61,34,72,63,53,38,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+IRA Alta (J00-J06),268,26,45,23,53,48,44,29,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Neumonía (J12-J18),18,3,1,1,3,5,3,2,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Bronquitis/bronquiolitis aguda (J20-J21),30,6,7,5,4,4,1,3,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Crisis obstructiva bronquial (J40-J46),24,5,6,2,5,3,3,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,0,2,3,7,3,2,4,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+COVID 19 Sospechoso (U072),754,53,32,35,118,192,184,140,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+COVID 19 Confirmado (U071),23,5,5,1,0,6,4,2,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,82,17,7,12,8,16,12,10,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Infarto agudo miocardio,8,2,2,0,1,1,1,1,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Accidente vascular encefálico,8,1,3,1,1,1,0,1,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Crisis hipertensiva,12,2,0,4,1,2,1,2,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Arritmia grave,16,3,0,4,2,1,4,2,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Otras causas circulatorias,38,9,2,3,3,11,6,4,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,461,74,107,56,77,58,57,32,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Accidentes del tránsito,3,0,1,0,0,0,1,1,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Otras causas externas,458,74,106,56,77,58,56,31,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),50,6,5,9,12,8,7,3,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,1,0,0,1,1,1,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,2,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",37,5,4,7,8,6,5,2,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+Otros trastornos mentales no contenidos en las categorías anteriores,6,0,1,0,2,1,1,1,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+DIARREA AGUDA (A00-A09),75,13,13,9,16,12,7,5,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+TOTAL DEMÁS CAUSAS,1583,237,247,220,245,281,210,143,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,20,3,3,2,4,2,3,3,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- CAUSAS SISTEMA RESPIRATORIO,10,1,0,1,1,2,2,3,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- CAUSAS SISTEMA CIRCULATORIO,4,0,1,1,2,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- TRAUMATISMOS Y ENVENENAMIENTOS,4,2,2,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,0,1,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+- LAS DEMÁS CAUSAS,1,0,0,0,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Llanquihue

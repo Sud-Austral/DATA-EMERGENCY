@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,926,110,146,185,72,115,173,125,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1376,181,169,197,197,241,211,180,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+TOTAL CAUSAS SISTEMA RESPIRATORIO,192,26,23,13,23,33,42,32,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+IRA Alta (J00-J06),153,24,20,12,8,20,39,30,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Influenza (J09-J11),8,0,0,0,0,8,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Neumonía (J12-J18),3,0,0,0,0,1,2,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Bronquitis/bronquiolitis aguda (J20-J21),5,0,2,1,0,0,1,1,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Crisis obstructiva bronquial (J40-J46),14,0,0,0,14,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,2,1,0,1,4,0,1,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+COVID 19 Sospechoso (U072),447,44,35,68,91,96,63,50,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+COVID 19 Confirmado (U071),29,0,1,0,4,22,2,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+TOTAL CAUSAS SISTEMA CIRCULATORIO,16,2,2,2,1,3,3,3,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Infarto agudo miocardio,1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Crisis hipertensiva,6,1,0,0,0,1,2,2,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Otras causas circulatorias,9,1,1,2,1,2,1,1,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,104,14,23,15,10,13,14,15,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Otras causas externas,104,14,23,15,10,13,14,15,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Ideación Suicida (R458),1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+DIARREA AGUDA (A00-A09),5,0,1,4,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+TOTAL DEMÁS CAUSAS,582,95,84,95,68,74,86,80,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Rosario

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7604,1017,986,977,1205,1309,1302,808,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6855,942,915,890,1103,1153,1134,718,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+TOTAL CAUSAS SISTEMA RESPIRATORIO,979,103,119,122,186,215,145,89,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+IRA Alta (J00-J06),821,69,83,105,161,204,129,70,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Neumonía (J12-J18),35,12,6,3,4,2,4,4,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Bronquitis/bronquiolitis aguda (J20-J21),88,18,16,11,14,7,10,12,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Crisis obstructiva bronquial (J40-J46),4,0,0,1,1,0,1,1,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",31,4,14,2,6,2,1,2,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+COVID 19 Sospechoso (U072),896,84,48,89,146,141,251,137,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+COVID 19 Confirmado (U071),548,4,8,30,81,206,127,92,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+TOTAL CAUSAS SISTEMA CIRCULATORIO,172,34,34,25,17,19,24,19,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Infarto agudo miocardio,12,2,1,4,0,0,4,1,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Accidente vascular encefálico,43,9,11,2,6,2,7,6,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Crisis hipertensiva,38,7,8,7,5,5,4,2,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Arritmia grave,16,5,0,3,0,2,3,3,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Otras causas circulatorias,63,11,14,9,6,10,6,7,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1153,213,217,144,174,152,148,105,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Accidentes del tránsito,103,11,27,12,9,9,13,22,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Lesiones autoinfligidas intencionalmente (X60-X84),2,1,0,0,1,0,0,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Otras causas externas,1048,201,190,132,164,143,135,83,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),73,14,11,6,8,12,12,10,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,1,1,2,0,2,0,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,0,2,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",58,13,10,4,8,8,6,9,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+Otros trastornos mentales no contenidos en las categorías anteriores,7,0,0,0,0,2,4,1,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+DIARREA AGUDA (A00-A09),191,19,22,26,25,44,27,28,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+TOTAL DEMÁS CAUSAS,2843,471,456,448,466,364,400,238,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,146,27,24,20,23,16,22,14,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- CAUSAS SISTEMA RESPIRATORIO,20,4,5,1,4,3,1,2,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- COVID 19 SOSPECHOSO (U072),4,1,0,0,1,1,1,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- COVID 19 CONFIRMADO (U071),8,0,2,0,0,0,4,2,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- CAUSAS SISTEMA CIRCULATORIO,23,1,3,3,4,0,5,7,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- TRAUMATISMOS Y ENVENENAMIENTOS,7,1,0,1,3,2,0,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,0,1,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+- LAS DEMÁS CAUSAS,83,20,14,15,11,10,10,3,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,Hospital,Hospital Comunitario de Salud Familiar de Bulnes

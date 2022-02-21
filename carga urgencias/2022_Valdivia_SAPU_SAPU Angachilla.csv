@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2000,203,277,260,327,377,337,219,2022,Valdivia,SAPU,SAPU Angachilla
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1631,181,230,233,249,293,256,189,2022,Valdivia,SAPU,SAPU Angachilla
+TOTAL CAUSAS SISTEMA RESPIRATORIO,128,19,22,19,8,26,25,9,2022,Valdivia,SAPU,SAPU Angachilla
+IRA Alta (J00-J06),94,16,17,13,6,19,16,7,2022,Valdivia,SAPU,SAPU Angachilla
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Neumonía (J12-J18),6,0,0,2,2,1,0,1,2022,Valdivia,SAPU,SAPU Angachilla
+Bronquitis/bronquiolitis aguda (J20-J21),16,0,3,2,0,4,6,1,2022,Valdivia,SAPU,SAPU Angachilla
+Crisis obstructiva bronquial (J40-J46),6,2,0,1,0,1,2,0,2022,Valdivia,SAPU,SAPU Angachilla
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,1,2,1,0,1,1,0,2022,Valdivia,SAPU,SAPU Angachilla
+COVID 19 Sospechoso (U072),675,37,53,93,135,153,101,103,2022,Valdivia,SAPU,SAPU Angachilla
+COVID 19 Confirmado (U071),59,0,0,0,9,4,36,10,2022,Valdivia,SAPU,SAPU Angachilla
+TOTAL CAUSAS SISTEMA CIRCULATORIO,17,3,3,2,1,2,2,4,2022,Valdivia,SAPU,SAPU Angachilla
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Crisis hipertensiva,8,0,1,1,1,2,1,2,2022,Valdivia,SAPU,SAPU Angachilla
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Otras causas circulatorias,9,3,2,1,0,0,1,2,2022,Valdivia,SAPU,SAPU Angachilla
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,106,17,18,13,10,20,15,13,2022,Valdivia,SAPU,SAPU Angachilla
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Otras causas externas,105,16,18,13,10,20,15,13,2022,Valdivia,SAPU,SAPU Angachilla
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),17,3,2,3,2,4,1,2,2022,Valdivia,SAPU,SAPU Angachilla
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,0,1,2022,Valdivia,SAPU,SAPU Angachilla
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,3,2,3,2,4,1,1,2022,Valdivia,SAPU,SAPU Angachilla
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+DIARREA AGUDA (A00-A09),15,0,5,1,1,1,3,4,2022,Valdivia,SAPU,SAPU Angachilla
+TOTAL DEMÁS CAUSAS,614,102,127,102,83,83,73,44,2022,Valdivia,SAPU,SAPU Angachilla
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Angachilla

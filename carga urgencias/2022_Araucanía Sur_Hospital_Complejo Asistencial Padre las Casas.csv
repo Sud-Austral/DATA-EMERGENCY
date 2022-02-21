@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3232,479,471,470,591,518,459,244,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2811,466,452,458,543,420,277,195,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,287,41,39,39,77,39,39,13,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+IRA Alta (J00-J06),178,25,29,26,47,21,22,8,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Influenza (J09-J11),1,0,0,1,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Neumonía (J12-J18),25,3,1,2,7,4,8,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Bronquitis/bronquiolitis aguda (J20-J21),26,5,3,2,6,4,4,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Crisis obstructiva bronquial (J40-J46),23,2,3,4,7,2,3,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",34,6,3,4,10,8,2,1,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+COVID 19 Sospechoso (U072),232,18,33,41,36,56,21,27,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+COVID 19 Confirmado (U071),45,4,2,1,14,7,10,7,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,107,17,25,25,14,8,11,7,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Accidente vascular encefálico,26,4,6,7,1,2,4,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Crisis hipertensiva,14,1,2,6,1,1,2,1,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Arritmia grave,9,2,2,2,0,1,0,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Otras causas circulatorias,57,10,15,10,11,4,5,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,663,95,81,106,165,123,53,40,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Accidentes del tránsito,250,50,46,49,40,21,27,17,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Otras causas externas,413,45,35,57,125,102,26,23,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),61,18,13,8,8,5,7,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Ideación Suicida (R458),1,0,1,0,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,2,0,0,1,0,1,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Trastornos del Humor (Afectivos) (F30-F39),4,2,1,1,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",42,11,9,7,6,3,4,2,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+Otros trastornos mentales no contenidos en las categorías anteriores,10,3,2,0,1,2,2,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+DIARREA AGUDA (A00-A09),102,19,19,23,18,8,10,5,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+TOTAL DEMÁS CAUSAS,1314,254,240,215,211,174,126,94,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,178,35,44,24,29,18,19,9,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- CAUSAS SISTEMA RESPIRATORIO,7,0,2,0,3,2,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- COVID 19 CONFIRMADO (U071),6,0,1,1,1,1,1,1,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- CAUSAS SISTEMA CIRCULATORIO,18,3,6,3,3,1,1,1,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- TRAUMATISMOS Y ENVENENAMIENTOS,14,1,5,2,2,1,2,1,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),4,3,1,0,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+- LAS DEMÁS CAUSAS,129,28,29,18,20,13,15,6,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas
+CIRUGÍAS DE URGENCIA,3,0,0,3,0,0,0,0,2022,Araucanía Sur,Hospital,Complejo Asistencial Padre las Casas

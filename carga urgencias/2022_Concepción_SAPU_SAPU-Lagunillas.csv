@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8458,996,750,1197,1301,1563,1530,1121,2022,Concepción,SAPU,SAPU-Lagunillas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8456,1060,960,1146,1421,1492,1387,990,2022,Concepción,SAPU,SAPU-Lagunillas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1852,188,130,205,213,370,385,361,2022,Concepción,SAPU,SAPU-Lagunillas
+IRA Alta (J00-J06),1690,152,120,168,202,317,373,358,2022,Concepción,SAPU,SAPU-Lagunillas
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Neumonía (J12-J18),2,0,0,1,1,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Bronquitis/bronquiolitis aguda (J20-J21),70,20,8,6,7,21,8,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Crisis obstructiva bronquial (J40-J46),35,12,2,8,3,4,3,3,2022,Concepción,SAPU,SAPU-Lagunillas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",55,4,0,22,0,28,1,0,2022,Concepción,SAPU,SAPU-Lagunillas
+COVID 19 Sospechoso (U072),2186,142,122,286,472,505,406,253,2022,Concepción,SAPU,SAPU-Lagunillas
+COVID 19 Confirmado (U071),72,0,0,1,0,11,32,28,2022,Concepción,SAPU,SAPU-Lagunillas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,46,7,4,7,11,9,2,6,2022,Concepción,SAPU,SAPU-Lagunillas
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Crisis hipertensiva,46,7,4,7,11,9,2,6,2022,Concepción,SAPU,SAPU-Lagunillas
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,365,48,67,58,50,51,57,34,2022,Concepción,SAPU,SAPU-Lagunillas
+Accidentes del tránsito,3,1,0,0,1,0,0,1,2022,Concepción,SAPU,SAPU-Lagunillas
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,1,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Otras causas externas,361,47,66,58,49,51,57,33,2022,Concepción,SAPU,SAPU-Lagunillas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),59,14,12,10,8,6,7,2,2022,Concepción,SAPU,SAPU-Lagunillas
+Ideación Suicida (R458),3,0,1,1,0,1,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Concepción,SAPU,SAPU-Lagunillas
+Trastornos del Humor (Afectivos) (F30-F39),4,0,0,2,0,0,2,0,2022,Concepción,SAPU,SAPU-Lagunillas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",48,14,11,4,8,5,4,2,2022,Concepción,SAPU,SAPU-Lagunillas
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,3,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+DIARREA AGUDA (A00-A09),305,52,37,49,69,42,27,29,2022,Concepción,SAPU,SAPU-Lagunillas
+TOTAL DEMÁS CAUSAS,3571,609,588,530,598,498,471,277,2022,Concepción,SAPU,SAPU-Lagunillas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU-Lagunillas

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1225,171,173,212,205,176,182,106,2022,Araucanía Norte,SAPU,SAPU Huequén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,110,22,19,20,10,5,24,10,2022,Araucanía Norte,SAPU,SAPU Huequén
+IRA Alta (J00-J06),28,10,7,11,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Neumonía (J12-J18),3,1,1,0,0,0,0,1,2022,Araucanía Norte,SAPU,SAPU Huequén
+Bronquitis/bronquiolitis aguda (J20-J21),2,1,1,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Crisis obstructiva bronquial (J40-J46),3,1,0,0,0,0,2,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",74,9,10,9,10,5,22,9,2022,Araucanía Norte,SAPU,SAPU Huequén
+COVID 19 Sospechoso (U072),323,19,24,56,65,71,59,29,2022,Araucanía Norte,SAPU,SAPU Huequén
+COVID 19 Confirmado (U071),2,0,0,0,0,2,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,11,2,0,2,5,1,1,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Infarto agudo miocardio,1,0,0,0,0,1,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Crisis hipertensiva,4,2,0,1,1,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Otras causas circulatorias,6,0,0,1,4,0,1,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,38,8,4,2,9,9,4,2,2022,Araucanía Norte,SAPU,SAPU Huequén
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Otras causas externas,38,8,4,2,9,9,4,2,2022,Araucanía Norte,SAPU,SAPU Huequén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,2,1,2,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+Otros trastornos mentales no contenidos en las categorías anteriores,5,2,1,2,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+DIARREA AGUDA (A00-A09),22,13,5,0,3,0,1,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+TOTAL DEMÁS CAUSAS,714,105,120,130,113,88,93,65,2022,Araucanía Norte,SAPU,SAPU Huequén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Norte,SAPU,SAPU Huequén

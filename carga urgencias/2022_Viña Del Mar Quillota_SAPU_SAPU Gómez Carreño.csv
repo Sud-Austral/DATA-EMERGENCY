@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4423,436,529,773,816,837,653,379,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4555,436,529,773,816,817,784,400,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2745,152,206,462,542,584,556,243,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+IRA Alta (J00-J06),245,30,38,59,43,30,31,14,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Neumonía (J12-J18),6,4,2,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Bronquitis/bronquiolitis aguda (J20-J21),18,4,4,6,2,2,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Crisis obstructiva bronquial (J40-J46),7,1,4,2,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2469,113,158,395,497,552,525,229,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+COVID 19 Sospechoso (U072),253,20,64,66,27,70,2,4,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+TOTAL CAUSAS SISTEMA CIRCULATORIO,16,2,2,1,1,6,2,2,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Crisis hipertensiva,15,2,2,1,1,5,2,2,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,1,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,1,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+DIARREA AGUDA (A00-A09),3,0,2,1,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+TOTAL DEMÁS CAUSAS,1537,261,255,243,246,157,224,151,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Gómez Carreño

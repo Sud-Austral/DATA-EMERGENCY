@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,254,20,19,28,31,48,56,52,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,254,20,19,28,31,48,56,52,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+TOTAL CAUSAS SISTEMA RESPIRATORIO,35,1,1,3,6,10,8,6,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+IRA Alta (J00-J06),26,0,1,2,6,8,7,2,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Neumonía (J12-J18),2,0,0,1,0,0,1,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Bronquitis/bronquiolitis aguda (J20-J21),3,1,0,0,0,0,0,2,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Crisis obstructiva bronquial (J40-J46),2,0,0,0,0,1,0,1,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,0,0,0,0,1,0,1,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+COVID 19 Sospechoso (U072),85,3,1,16,9,10,23,23,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+COVID 19 Confirmado (U071),35,1,0,0,1,13,6,14,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+TOTAL CAUSAS SISTEMA CIRCULATORIO,9,1,2,2,2,1,1,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Infarto agudo miocardio,3,1,0,1,0,1,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Accidente vascular encefálico,2,0,1,0,1,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Crisis hipertensiva,1,0,0,0,1,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Otras causas circulatorias,3,0,1,1,0,0,1,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,23,1,5,2,5,3,6,1,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Otras causas externas,23,1,5,2,5,3,6,1,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,1,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,1,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+DIARREA AGUDA (A00-A09),6,1,1,0,2,0,1,1,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+TOTAL DEMÁS CAUSAS,60,11,9,5,6,11,11,7,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital Pu Mulen Quilacahuín

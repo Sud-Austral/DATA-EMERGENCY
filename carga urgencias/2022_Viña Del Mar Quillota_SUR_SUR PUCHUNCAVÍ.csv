@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,196,-,-,-,-,-,69,127,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,176,-,-,-,-,-,65,111,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+TOTAL CAUSAS SISTEMA RESPIRATORIO,34,-,-,-,-,-,13,21,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+IRA Alta (J00-J06),31,-,-,-,-,-,11,20,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Influenza (J09-J11),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Neumonía (J12-J18),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Bronquitis/bronquiolitis aguda (J20-J21),3,-,-,-,-,-,2,1,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Crisis obstructiva bronquial (J40-J46),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+COVID 19 Sospechoso (U072),6,-,-,-,-,-,1,5,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+COVID 19 Confirmado (U071),33,-,-,-,-,-,12,21,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,-,-,-,-,-,0,8,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Infarto agudo miocardio,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Accidente vascular encefálico,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Crisis hipertensiva,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Arritmia grave,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Otras causas circulatorias,8,-,-,-,-,-,0,8,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,9,-,-,-,-,-,5,4,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Accidentes del tránsito,2,-,-,-,-,-,2,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Lesiones autoinfligidas intencionalmente (X60-X84),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Otras causas externas,7,-,-,-,-,-,3,4,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,-,-,-,-,-,2,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Ideación Suicida (R458),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Trastornos del Humor (Afectivos) (F30-F39),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,-,-,-,-,-,2,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+Otros trastornos mentales no contenidos en las categorías anteriores,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+DIARREA AGUDA (A00-A09),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+TOTAL DEMÁS CAUSAS,84,-,-,-,-,-,32,52,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- CAUSAS SISTEMA RESPIRATORIO,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- COVID 19 SOSPECHOSO (U072),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- COVID 19 CONFIRMADO (U071),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- CAUSAS SISTEMA CIRCULATORIO,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+- LAS DEMÁS CAUSAS,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ
+CIRUGÍAS DE URGENCIA,0,-,-,-,-,-,0,0,2022,Viña Del Mar Quillota,SUR,SUR PUCHUNCAVÍ

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4301,456,549,644,773,680,742,457,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4055,435,500,596,738,641,697,448,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+TOTAL CAUSAS SISTEMA RESPIRATORIO,760,120,145,121,99,55,142,78,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+IRA Alta (J00-J06),475,77,60,97,98,38,65,40,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Neumonía (J12-J18),1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Bronquitis/bronquiolitis aguda (J20-J21),14,3,8,1,0,2,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Crisis obstructiva bronquial (J40-J46),2,1,0,1,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",268,39,76,22,1,15,77,38,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+COVID 19 Sospechoso (U072),909,3,6,135,275,289,128,73,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+COVID 19 Confirmado (U071),496,4,34,59,83,61,166,89,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+TOTAL CAUSAS SISTEMA CIRCULATORIO,24,5,3,3,7,1,2,3,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Accidente vascular encefálico,4,2,0,2,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Crisis hipertensiva,14,2,2,0,4,1,2,3,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Otras causas circulatorias,5,1,1,1,2,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,5,0,0,1,3,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Accidentes del tránsito,5,0,0,1,3,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,0,0,0,2,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Ideación Suicida (R458),2,0,0,0,2,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+DIARREA AGUDA (A00-A09),18,2,6,1,2,7,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+TOTAL DEMÁS CAUSAS,1841,301,306,276,267,228,258,205,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Las Cabras

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,11645,1495,1358,1425,1661,1964,2006,1736,2022,Del Maule,SAR,SAR Las Américas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,10647,1447,1319,1359,1548,1789,1686,1499,2022,Del Maule,SAR,SAR Las Américas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2311,281,208,234,263,397,476,452,2022,Del Maule,SAR,SAR Las Américas
+IRA Alta (J00-J06),2071,237,174,205,239,349,445,422,2022,Del Maule,SAR,SAR Las Américas
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+Neumonía (J12-J18),16,3,0,1,2,3,2,5,2022,Del Maule,SAR,SAR Las Américas
+Bronquitis/bronquiolitis aguda (J20-J21),134,18,23,19,12,28,21,13,2022,Del Maule,SAR,SAR Las Américas
+Crisis obstructiva bronquial (J40-J46),45,11,5,2,9,7,6,5,2022,Del Maule,SAR,SAR Las Américas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",45,12,6,7,1,10,2,7,2022,Del Maule,SAR,SAR Las Américas
+COVID 19 Sospechoso (U072),1892,143,161,206,359,504,394,125,2022,Del Maule,SAR,SAR Las Américas
+COVID 19 Confirmado (U071),284,4,2,2,11,3,3,259,2022,Del Maule,SAR,SAR Las Américas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,76,15,9,19,14,7,7,5,2022,Del Maule,SAR,SAR Las Américas
+Infarto agudo miocardio,2,0,0,1,1,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+Accidente vascular encefálico,8,1,2,2,1,0,1,1,2022,Del Maule,SAR,SAR Las Américas
+Crisis hipertensiva,37,4,2,12,8,4,3,4,2022,Del Maule,SAR,SAR Las Américas
+Arritmia grave,4,3,0,1,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+Otras causas circulatorias,25,7,5,3,4,3,3,0,2022,Del Maule,SAR,SAR Las Américas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,812,152,135,126,113,124,107,55,2022,Del Maule,SAR,SAR Las Américas
+Accidentes del tránsito,58,9,13,4,10,8,12,2,2022,Del Maule,SAR,SAR Las Américas
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,0,0,0,2,0,0,2022,Del Maule,SAR,SAR Las Américas
+Otras causas externas,752,143,122,122,103,114,95,53,2022,Del Maule,SAR,SAR Las Américas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),80,12,14,15,8,10,14,7,2022,Del Maule,SAR,SAR Las Américas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),12,2,1,3,1,0,4,1,2022,Del Maule,SAR,SAR Las Américas
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",60,9,13,11,6,9,8,4,2022,Del Maule,SAR,SAR Las Américas
+Otros trastornos mentales no contenidos en las categorías anteriores,8,1,0,1,1,1,2,2,2022,Del Maule,SAR,SAR Las Américas
+DIARREA AGUDA (A00-A09),136,29,24,27,15,13,15,13,2022,Del Maule,SAR,SAR Las Américas
+TOTAL DEMÁS CAUSAS,5056,811,766,730,765,731,670,583,2022,Del Maule,SAR,SAR Las Américas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Las Américas

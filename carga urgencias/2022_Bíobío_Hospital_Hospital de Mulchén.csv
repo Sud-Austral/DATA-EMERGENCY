@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9806,1340,1316,1315,1615,1691,1457,1072,2022,Bíobío,Hospital,Hospital de Mulchén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,9808,1340,1316,1317,1615,1691,1457,1072,2022,Bíobío,Hospital,Hospital de Mulchén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,459,65,53,64,55,53,88,81,2022,Bíobío,Hospital,Hospital de Mulchén
+IRA Alta (J00-J06),345,49,35,49,35,41,68,68,2022,Bíobío,Hospital,Hospital de Mulchén
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+Neumonía (J12-J18),26,3,7,3,1,5,6,1,2022,Bíobío,Hospital,Hospital de Mulchén
+Bronquitis/bronquiolitis aguda (J20-J21),72,8,10,6,18,7,13,10,2022,Bíobío,Hospital,Hospital de Mulchén
+Crisis obstructiva bronquial (J40-J46),12,3,1,6,1,0,1,0,2022,Bíobío,Hospital,Hospital de Mulchén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,2,0,0,0,0,0,2,2022,Bíobío,Hospital,Hospital de Mulchén
+COVID 19 Sospechoso (U072),2578,180,181,220,543,626,448,380,2022,Bíobío,Hospital,Hospital de Mulchén
+COVID 19 Confirmado (U071),604,22,9,43,226,253,51,0,2022,Bíobío,Hospital,Hospital de Mulchén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,70,17,9,12,9,10,3,10,2022,Bíobío,Hospital,Hospital de Mulchén
+Infarto agudo miocardio,7,2,1,2,0,2,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+Accidente vascular encefálico,22,4,3,5,5,3,1,1,2022,Bíobío,Hospital,Hospital de Mulchén
+Crisis hipertensiva,17,4,3,3,3,4,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+Arritmia grave,1,0,0,0,0,0,0,1,2022,Bíobío,Hospital,Hospital de Mulchén
+Otras causas circulatorias,23,7,2,2,1,1,2,8,2022,Bíobío,Hospital,Hospital de Mulchén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,511,81,108,62,77,73,62,48,2022,Bíobío,Hospital,Hospital de Mulchén
+Accidentes del tránsito,24,1,6,6,5,3,3,0,2022,Bíobío,Hospital,Hospital de Mulchén
+Lesiones autoinfligidas intencionalmente (X60-X84),4,0,0,3,0,0,1,0,2022,Bíobío,Hospital,Hospital de Mulchén
+Otras causas externas,483,80,102,53,72,70,58,48,2022,Bíobío,Hospital,Hospital de Mulchén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),118,24,20,18,14,11,20,11,2022,Bíobío,Hospital,Hospital de Mulchén
+Ideación Suicida (R458),1,0,0,0,0,0,0,1,2022,Bíobío,Hospital,Hospital de Mulchén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),12,3,6,1,0,0,1,1,2022,Bíobío,Hospital,Hospital de Mulchén
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,5,0,0,0,0,5,5,2022,Bíobío,Hospital,Hospital de Mulchén
+Otros trastornos mentales no contenidos en las categorías anteriores,90,16,14,17,14,11,14,4,2022,Bíobío,Hospital,Hospital de Mulchén
+DIARREA AGUDA (A00-A09),348,48,53,57,25,114,27,24,2022,Bíobío,Hospital,Hospital de Mulchén
+TOTAL DEMÁS CAUSAS,5120,903,883,841,666,551,758,518,2022,Bíobío,Hospital,Hospital de Mulchén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,173,16,29,31,24,28,23,22,2022,Bíobío,Hospital,Hospital de Mulchén
+- CAUSAS SISTEMA RESPIRATORIO,7,1,0,1,0,2,1,2,2022,Bíobío,Hospital,Hospital de Mulchén
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+- TRAUMATISMOS Y ENVENENAMIENTOS,3,0,0,0,1,2,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,1,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén
+- LAS DEMÁS CAUSAS,162,15,29,30,22,24,22,20,2022,Bíobío,Hospital,Hospital de Mulchén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Mulchén

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4141,476,595,575,740,695,739,321,2022,Coquimbo,SAPU,SAPU El Sauce
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4103,476,595,575,740,695,701,321,2022,Coquimbo,SAPU,SAPU El Sauce
+TOTAL CAUSAS SISTEMA RESPIRATORIO,456,66,101,52,156,27,28,26,2022,Coquimbo,SAPU,SAPU El Sauce
+IRA Alta (J00-J06),412,56,92,44,149,22,26,23,2022,Coquimbo,SAPU,SAPU El Sauce
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Neumonía (J12-J18),6,1,0,1,0,1,1,2,2022,Coquimbo,SAPU,SAPU El Sauce
+Bronquitis/bronquiolitis aguda (J20-J21),21,4,5,4,5,2,1,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Crisis obstructiva bronquial (J40-J46),6,1,2,2,0,1,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,4,2,1,2,1,0,1,2022,Coquimbo,SAPU,SAPU El Sauce
+COVID 19 Sospechoso (U072),2028,81,184,307,379,498,421,158,2022,Coquimbo,SAPU,SAPU El Sauce
+COVID 19 Confirmado (U071),113,1,0,1,2,23,67,19,2022,Coquimbo,SAPU,SAPU El Sauce
+TOTAL CAUSAS SISTEMA CIRCULATORIO,44,5,9,9,5,0,10,6,2022,Coquimbo,SAPU,SAPU El Sauce
+Infarto agudo miocardio,2,0,0,1,1,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Crisis hipertensiva,27,3,6,5,4,0,5,4,2022,Coquimbo,SAPU,SAPU El Sauce
+Arritmia grave,1,0,1,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Otras causas circulatorias,14,2,2,3,0,0,5,2,2022,Coquimbo,SAPU,SAPU El Sauce
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,280,57,51,42,46,41,31,12,2022,Coquimbo,SAPU,SAPU El Sauce
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Otras causas externas,280,57,51,42,46,41,31,12,2022,Coquimbo,SAPU,SAPU El Sauce
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),53,10,8,9,5,6,5,10,2022,Coquimbo,SAPU,SAPU El Sauce
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,1,0,0,1,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,1,0,1,2022,Coquimbo,SAPU,SAPU El Sauce
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",45,10,7,8,5,3,4,8,2022,Coquimbo,SAPU,SAPU El Sauce
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,0,1,0,1,1,1,2022,Coquimbo,SAPU,SAPU El Sauce
+DIARREA AGUDA (A00-A09),85,29,21,10,16,2,3,4,2022,Coquimbo,SAPU,SAPU El Sauce
+TOTAL DEMÁS CAUSAS,1044,227,221,145,131,98,136,86,2022,Coquimbo,SAPU,SAPU El Sauce
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU El Sauce

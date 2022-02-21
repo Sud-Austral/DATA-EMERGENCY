@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3081,483,466,352,469,486,501,324,2022,Del Maule,SUR,SUR Rauco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2047,306,291,229,322,352,341,206,2022,Del Maule,SUR,SUR Rauco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,76,17,3,6,12,12,13,13,2022,Del Maule,SUR,SUR Rauco
+IRA Alta (J00-J06),53,14,3,2,9,7,10,8,2022,Del Maule,SUR,SUR Rauco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+Neumonía (J12-J18),4,0,0,0,0,0,2,2,2022,Del Maule,SUR,SUR Rauco
+Bronquitis/bronquiolitis aguda (J20-J21),13,1,0,3,1,5,1,2,2022,Del Maule,SUR,SUR Rauco
+Crisis obstructiva bronquial (J40-J46),5,1,0,1,2,0,0,1,2022,Del Maule,SUR,SUR Rauco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,1,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+COVID 19 Sospechoso (U072),813,83,91,83,133,176,166,81,2022,Del Maule,SUR,SUR Rauco
+COVID 19 Confirmado (U071),146,1,2,1,20,54,34,34,2022,Del Maule,SUR,SUR Rauco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,21,3,4,2,3,5,3,1,2022,Del Maule,SUR,SUR Rauco
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Del Maule,SUR,SUR Rauco
+Crisis hipertensiva,9,3,2,0,1,0,2,1,2022,Del Maule,SUR,SUR Rauco
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+Otras causas circulatorias,11,0,2,2,1,5,1,0,2022,Del Maule,SUR,SUR Rauco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,140,27,16,21,29,19,19,9,2022,Del Maule,SUR,SUR Rauco
+Accidentes del tránsito,2,1,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Rauco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+Otras causas externas,138,26,16,21,29,18,19,9,2022,Del Maule,SUR,SUR Rauco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),17,1,5,2,4,2,2,1,2022,Del Maule,SUR,SUR Rauco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Rauco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,1,4,2,3,1,2,1,2022,Del Maule,SUR,SUR Rauco
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,0,1,0,0,0,2022,Del Maule,SUR,SUR Rauco
+DIARREA AGUDA (A00-A09),79,27,13,17,7,1,7,7,2022,Del Maule,SUR,SUR Rauco
+TOTAL DEMÁS CAUSAS,755,147,157,97,114,83,97,60,2022,Del Maule,SUR,SUR Rauco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Rauco

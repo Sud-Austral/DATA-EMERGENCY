@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1189,125,68,133,285,255,237,86,2022,Bíobío,SAPU,SAPU Nororiente
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1340,202,110,165,285,255,237,86,2022,Bíobío,SAPU,SAPU Nororiente
+TOTAL CAUSAS SISTEMA RESPIRATORIO,110,27,10,29,13,11,16,4,2022,Bíobío,SAPU,SAPU Nororiente
+IRA Alta (J00-J06),78,19,4,22,10,6,14,3,2022,Bíobío,SAPU,SAPU Nororiente
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Bronquitis/bronquiolitis aguda (J20-J21),19,5,3,5,2,3,0,1,2022,Bíobío,SAPU,SAPU Nororiente
+Crisis obstructiva bronquial (J40-J46),11,3,2,2,1,2,1,0,2022,Bíobío,SAPU,SAPU Nororiente
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,0,1,0,0,0,1,0,2022,Bíobío,SAPU,SAPU Nororiente
+COVID 19 Sospechoso (U072),640,45,22,44,152,163,152,62,2022,Bíobío,SAPU,SAPU Nororiente
+COVID 19 Confirmado (U071),20,0,1,5,11,1,1,1,2022,Bíobío,SAPU,SAPU Nororiente
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,4,11,3,2,4,2,0,2022,Bíobío,SAPU,SAPU Nororiente
+Infarto agudo miocardio,10,0,10,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Crisis hipertensiva,7,3,0,2,1,1,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Otras causas circulatorias,9,1,1,1,1,3,2,0,2022,Bíobío,SAPU,SAPU Nororiente
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,1,0,3,0,1,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,1,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,0,1,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,1,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+DIARREA AGUDA (A00-A09),20,1,0,1,1,1,10,6,2022,Bíobío,SAPU,SAPU Nororiente
+TOTAL DEMÁS CAUSAS,519,124,66,80,106,74,56,13,2022,Bíobío,SAPU,SAPU Nororiente
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nororiente

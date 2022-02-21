@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5854,786,754,584,1064,1019,1001,646,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5356,739,710,507,789,998,983,630,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1052,177,138,94,167,177,203,96,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+IRA Alta (J00-J06),892,149,112,77,141,152,178,83,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Neumonía (J12-J18),17,1,4,0,3,7,2,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Bronquitis/bronquiolitis aguda (J20-J21),96,14,17,10,13,13,19,10,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Crisis obstructiva bronquial (J40-J46),24,3,4,5,4,4,3,1,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,10,1,2,6,1,1,2,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+COVID 19 Sospechoso (U072),1180,37,75,78,259,288,267,176,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+COVID 19 Confirmado (U071),893,3,29,112,94,287,225,143,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43,8,7,5,8,8,6,1,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Crisis hipertensiva,23,4,4,4,3,6,1,1,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Otras causas circulatorias,19,4,3,1,5,2,4,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,255,53,63,28,30,20,45,16,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Otras causas externas,255,53,63,28,30,20,45,16,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),44,8,9,6,5,5,6,5,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",42,8,9,5,5,5,6,4,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,1,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+DIARREA AGUDA (A00-A09),93,39,17,4,7,6,9,11,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+TOTAL DEMÁS CAUSAS,1796,414,372,180,219,207,222,182,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Peñaflor

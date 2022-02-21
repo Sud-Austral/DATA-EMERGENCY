@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4401,635,627,703,879,744,555,258,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4383,635,627,703,879,744,537,258,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+TOTAL CAUSAS SISTEMA RESPIRATORIO,670,147,121,147,95,125,23,12,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+IRA Alta (J00-J06),575,147,121,147,95,65,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Bronquitis/bronquiolitis aguda (J20-J21),1,0,0,0,0,0,0,1,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",94,0,0,0,0,60,23,11,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+COVID 19 Sospechoso (U072),1379,178,186,205,236,287,204,83,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+COVID 19 Confirmado (U071),700,1,0,100,250,165,128,56,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+TOTAL CAUSAS SISTEMA CIRCULATORIO,1,0,0,0,0,0,0,1,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Infarto agudo miocardio,1,0,0,0,0,0,0,1,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1633,309,320,251,298,167,182,106,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Otras causas externas,1633,309,320,251,298,167,182,106,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+TOTAL DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Juan Antonio Rios

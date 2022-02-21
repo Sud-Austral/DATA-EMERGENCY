@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6743,1047,998,951,1001,1040,961,745,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6447,978,957,923,935,1015,925,714,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1683,269,298,252,313,256,188,107,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+IRA Alta (J00-J06),1540,247,270,227,293,237,176,90,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Neumonía (J12-J18),15,2,5,2,1,1,1,3,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Bronquitis/bronquiolitis aguda (J20-J21),58,6,15,16,8,6,6,1,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Crisis obstructiva bronquial (J40-J46),37,2,6,4,11,7,3,4,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",33,12,2,3,0,5,2,9,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+COVID 19 Sospechoso (U072),1349,94,139,210,266,242,222,176,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+COVID 19 Confirmado (U071),75,0,2,1,1,15,33,23,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+TOTAL CAUSAS SISTEMA CIRCULATORIO,75,7,19,12,10,8,8,11,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Infarto agudo miocardio,2,0,2,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Crisis hipertensiva,37,2,4,9,6,5,4,7,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Otras causas circulatorias,35,5,13,3,4,2,4,4,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,386,72,49,57,45,50,56,57,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Otras causas externas,385,72,49,57,44,50,56,57,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),107,17,18,16,14,13,18,11,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,2,0,0,2,1,0,2,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",98,15,18,15,12,12,17,9,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,1,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+DIARREA AGUDA (A00-A09),109,26,22,12,10,26,5,8,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+TOTAL DEMÁS CAUSAS,2663,493,410,363,276,405,395,321,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Raúl Brañes F.

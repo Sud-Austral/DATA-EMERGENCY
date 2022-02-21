@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3652,665,549,662,613,467,460,236,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3870,645,611,641,717,581,450,225,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,754,114,107,110,164,72,126,61,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+IRA Alta (J00-J06),640,95,84,89,151,60,106,55,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Neumonía (J12-J18),17,5,5,0,0,4,2,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Bronquitis/bronquiolitis aguda (J20-J21),57,9,6,15,7,6,11,3,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Crisis obstructiva bronquial (J40-J46),18,3,4,2,3,2,3,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,2,7,4,3,0,4,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+COVID 19 Sospechoso (U072),1112,160,169,293,311,98,41,40,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+COVID 19 Confirmado (U071),19,0,0,3,4,4,4,4,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,60,4,10,8,13,12,11,2,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Accidente vascular encefálico,4,0,0,1,2,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Crisis hipertensiva,28,2,6,6,3,5,5,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Arritmia grave,3,0,0,0,2,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Otras causas circulatorias,24,2,4,1,6,6,4,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,288,54,62,32,45,30,43,22,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Otras causas externas,288,54,62,32,45,30,43,22,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),55,13,7,5,6,9,13,2,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,3,0,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Trastornos del Humor (Afectivos) (F30-F39),5,2,1,0,0,0,1,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",44,8,5,5,6,8,11,1,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,0,0,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+DIARREA AGUDA (A00-A09),47,16,8,6,3,0,11,3,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+TOTAL DEMÁS CAUSAS,1535,284,248,184,171,356,201,91,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Ramón

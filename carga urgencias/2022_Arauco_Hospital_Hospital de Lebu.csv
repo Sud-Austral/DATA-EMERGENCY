@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5570,815,744,793,844,875,898,601,2022,Arauco,Hospital,Hospital de Lebu
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4591,708,633,675,709,687,704,475,2022,Arauco,Hospital,Hospital de Lebu
+TOTAL CAUSAS SISTEMA RESPIRATORIO,393,42,51,73,73,62,40,52,2022,Arauco,Hospital,Hospital de Lebu
+IRA Alta (J00-J06),194,17,23,25,44,35,19,31,2022,Arauco,Hospital,Hospital de Lebu
+Influenza (J09-J11),2,0,0,0,0,2,0,0,2022,Arauco,Hospital,Hospital de Lebu
+Neumonía (J12-J18),52,9,8,12,7,4,8,4,2022,Arauco,Hospital,Hospital de Lebu
+Bronquitis/bronquiolitis aguda (J20-J21),98,8,10,25,14,18,12,11,2022,Arauco,Hospital,Hospital de Lebu
+Crisis obstructiva bronquial (J40-J46),21,2,5,3,4,3,1,3,2022,Arauco,Hospital,Hospital de Lebu
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,6,5,8,4,0,0,3,2022,Arauco,Hospital,Hospital de Lebu
+COVID 19 Sospechoso (U072),799,106,74,76,119,147,186,91,2022,Arauco,Hospital,Hospital de Lebu
+COVID 19 Confirmado (U071),99,5,10,2,11,16,34,21,2022,Arauco,Hospital,Hospital de Lebu
+TOTAL CAUSAS SISTEMA CIRCULATORIO,117,28,20,15,16,15,15,8,2022,Arauco,Hospital,Hospital de Lebu
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Arauco,Hospital,Hospital de Lebu
+Accidente vascular encefálico,23,2,7,2,0,2,5,5,2022,Arauco,Hospital,Hospital de Lebu
+Crisis hipertensiva,20,6,3,3,5,2,1,0,2022,Arauco,Hospital,Hospital de Lebu
+Arritmia grave,7,1,4,1,1,0,0,0,2022,Arauco,Hospital,Hospital de Lebu
+Otras causas circulatorias,66,19,6,8,10,11,9,3,2022,Arauco,Hospital,Hospital de Lebu
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,704,107,96,140,122,86,89,64,2022,Arauco,Hospital,Hospital de Lebu
+Accidentes del tránsito,17,7,0,5,2,2,0,1,2022,Arauco,Hospital,Hospital de Lebu
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Arauco,Hospital,Hospital de Lebu
+Otras causas externas,687,100,96,135,120,84,89,63,2022,Arauco,Hospital,Hospital de Lebu
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),80,16,12,11,7,13,13,8,2022,Arauco,Hospital,Hospital de Lebu
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arauco,Hospital,Hospital de Lebu
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,3,1,0,0,1,2,1,2022,Arauco,Hospital,Hospital de Lebu
+Trastornos del Humor (Afectivos) (F30-F39),8,1,4,0,0,1,1,1,2022,Arauco,Hospital,Hospital de Lebu
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",49,6,6,10,6,8,8,5,2022,Arauco,Hospital,Hospital de Lebu
+Otros trastornos mentales no contenidos en las categorías anteriores,15,6,1,1,1,3,2,1,2022,Arauco,Hospital,Hospital de Lebu
+DIARREA AGUDA (A00-A09),25,10,1,0,1,5,4,4,2022,Arauco,Hospital,Hospital de Lebu
+TOTAL DEMÁS CAUSAS,2374,394,369,358,360,343,323,227,2022,Arauco,Hospital,Hospital de Lebu
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,84,16,15,11,10,9,14,9,2022,Arauco,Hospital,Hospital de Lebu
+- CAUSAS SISTEMA RESPIRATORIO,24,5,4,6,3,1,3,2,2022,Arauco,Hospital,Hospital de Lebu
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arauco,Hospital,Hospital de Lebu
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arauco,Hospital,Hospital de Lebu
+- CAUSAS SISTEMA CIRCULATORIO,23,5,6,2,4,3,2,1,2022,Arauco,Hospital,Hospital de Lebu
+- TRAUMATISMOS Y ENVENENAMIENTOS,19,2,2,1,2,3,5,4,2022,Arauco,Hospital,Hospital de Lebu
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),15,4,3,1,0,2,3,2,2022,Arauco,Hospital,Hospital de Lebu
+- LAS DEMÁS CAUSAS,3,0,0,1,1,0,1,0,2022,Arauco,Hospital,Hospital de Lebu
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arauco,Hospital,Hospital de Lebu

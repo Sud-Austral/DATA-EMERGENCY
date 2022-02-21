@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1265,167,186,186,197,185,212,132,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1211,166,183,181,194,159,207,121,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,256,41,33,29,31,50,43,29,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+IRA Alta (J00-J06),209,33,28,22,28,41,34,23,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Bronquitis/bronquiolitis aguda (J20-J21),26,5,2,5,2,5,4,3,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Crisis obstructiva bronquial (J40-J46),11,3,2,1,1,0,3,1,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,0,1,1,0,4,2,2,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+COVID 19 Sospechoso (U072),205,15,13,25,50,25,47,30,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,30,7,7,7,2,2,2,3,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Accidente vascular encefálico,2,1,0,0,0,1,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Crisis hipertensiva,14,3,1,6,0,1,1,2,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Arritmia grave,3,0,1,1,0,0,1,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Otras causas circulatorias,11,3,5,0,2,0,0,1,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,200,24,37,27,44,24,37,7,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Accidentes del tránsito,125,17,21,14,25,17,25,6,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Otras causas externas,75,7,16,13,19,7,12,1,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),16,1,5,5,2,2,0,1,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,1,5,4,2,2,0,1,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+DIARREA AGUDA (A00-A09),51,8,11,3,7,3,7,12,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+TOTAL DEMÁS CAUSAS,453,70,77,85,58,53,71,39,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pueblo Nuevo

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1053,170,293,103,117,0,44,326,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,929,131,262,90,104,0,43,299,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+TOTAL CAUSAS SISTEMA RESPIRATORIO,130,18,40,15,6,0,5,46,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+IRA Alta (J00-J06),117,16,34,15,5,0,5,42,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Bronquitis/bronquiolitis aguda (J20-J21),5,1,2,0,0,0,0,2,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Crisis obstructiva bronquial (J40-J46),5,0,3,0,1,0,0,1,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,1,1,0,0,0,0,1,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+COVID 19 Sospechoso (U072),366,35,65,29,66,0,13,158,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+COVID 19 Confirmado (U071),7,0,1,0,1,0,0,5,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+TOTAL CAUSAS SISTEMA CIRCULATORIO,9,3,3,0,1,0,0,2,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Crisis hipertensiva,2,0,0,0,1,0,0,1,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Arritmia grave,1,0,1,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Otras causas circulatorias,5,2,2,0,0,0,0,1,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),3,1,0,1,0,0,0,1,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,0,1,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,1,0,1,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+DIARREA AGUDA (A00-A09),43,8,14,5,4,0,2,10,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+TOTAL DEMÁS CAUSAS,371,66,139,40,26,0,23,77,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,SAPU,SAPU Nuevo Horizonte

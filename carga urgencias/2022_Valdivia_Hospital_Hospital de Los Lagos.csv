@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3122,436,334,421,471,518,551,391,2022,Valdivia,Hospital,Hospital de Los Lagos
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3076,420,382,407,460,507,530,370,2022,Valdivia,Hospital,Hospital de Los Lagos
+TOTAL CAUSAS SISTEMA RESPIRATORIO,299,24,29,24,37,45,74,66,2022,Valdivia,Hospital,Hospital de Los Lagos
+IRA Alta (J00-J06),251,18,23,20,30,36,65,59,2022,Valdivia,Hospital,Hospital de Los Lagos
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Neumonía (J12-J18),12,2,0,2,2,0,3,3,2022,Valdivia,Hospital,Hospital de Los Lagos
+Bronquitis/bronquiolitis aguda (J20-J21),22,3,3,0,1,7,5,3,2022,Valdivia,Hospital,Hospital de Los Lagos
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",13,1,3,2,4,2,0,1,2022,Valdivia,Hospital,Hospital de Los Lagos
+COVID 19 Sospechoso (U072),453,47,60,71,73,83,70,49,2022,Valdivia,Hospital,Hospital de Los Lagos
+COVID 19 Confirmado (U071),110,0,0,1,11,32,53,13,2022,Valdivia,Hospital,Hospital de Los Lagos
+TOTAL CAUSAS SISTEMA CIRCULATORIO,65,14,6,9,10,12,10,4,2022,Valdivia,Hospital,Hospital de Los Lagos
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Crisis hipertensiva,2,0,0,0,1,1,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Otras causas circulatorias,61,14,6,8,8,11,10,4,2022,Valdivia,Hospital,Hospital de Los Lagos
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,214,30,21,25,47,35,29,27,2022,Valdivia,Hospital,Hospital de Los Lagos
+Accidentes del tránsito,29,0,0,5,14,3,2,5,2022,Valdivia,Hospital,Hospital de Los Lagos
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,0,0,0,2,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Otras causas externas,183,30,21,20,33,30,27,22,2022,Valdivia,Hospital,Hospital de Los Lagos
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),36,4,7,5,8,3,3,6,2022,Valdivia,Hospital,Hospital de Los Lagos
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,1,4,3,4,0,2,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+Otros trastornos mentales no contenidos en las categorías anteriores,22,3,3,2,4,3,1,6,2022,Valdivia,Hospital,Hospital de Los Lagos
+DIARREA AGUDA (A00-A09),27,5,1,4,7,3,3,4,2022,Valdivia,Hospital,Hospital de Los Lagos
+TOTAL DEMÁS CAUSAS,1872,296,258,268,267,294,288,201,2022,Valdivia,Hospital,Hospital de Los Lagos
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,65,9,11,8,11,9,8,9,2022,Valdivia,Hospital,Hospital de Los Lagos
+- CAUSAS SISTEMA RESPIRATORIO,3,0,0,1,0,2,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+- COVID 19 SOSPECHOSO (U072),8,0,5,2,1,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+- COVID 19 CONFIRMADO (U071),5,0,0,0,0,0,3,2,2022,Valdivia,Hospital,Hospital de Los Lagos
+- CAUSAS SISTEMA CIRCULATORIO,7,3,1,0,2,0,0,1,2022,Valdivia,Hospital,Hospital de Los Lagos
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,1,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos
+- LAS DEMÁS CAUSAS,41,5,5,5,8,7,5,6,2022,Valdivia,Hospital,Hospital de Los Lagos
+CIRUGÍAS DE URGENCIA,4,2,0,0,0,2,0,0,2022,Valdivia,Hospital,Hospital de Los Lagos

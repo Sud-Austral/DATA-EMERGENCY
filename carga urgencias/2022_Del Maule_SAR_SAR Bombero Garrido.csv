@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,14490,1717,1592,1884,2350,2424,2429,2094,2022,Del Maule,SAR,SAR Bombero Garrido
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,12823,1562,1534,1745,1950,2016,2118,1898,2022,Del Maule,SAR,SAR Bombero Garrido
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1811,90,83,400,132,276,374,456,2022,Del Maule,SAR,SAR Bombero Garrido
+IRA Alta (J00-J06),1413,77,73,77,119,264,361,442,2022,Del Maule,SAR,SAR Bombero Garrido
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+Neumonía (J12-J18),10,1,1,0,3,1,1,3,2022,Del Maule,SAR,SAR Bombero Garrido
+Bronquitis/bronquiolitis aguda (J20-J21),42,8,4,4,6,5,8,7,2022,Del Maule,SAR,SAR Bombero Garrido
+Crisis obstructiva bronquial (J40-J46),24,3,4,3,2,5,3,4,2022,Del Maule,SAR,SAR Bombero Garrido
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",322,1,1,316,2,1,1,0,2022,Del Maule,SAR,SAR Bombero Garrido
+COVID 19 Sospechoso (U072),5107,708,667,647,1169,816,674,426,2022,Del Maule,SAR,SAR Bombero Garrido
+COVID 19 Confirmado (U071),2153,11,20,50,170,496,690,716,2022,Del Maule,SAR,SAR Bombero Garrido
+TOTAL CAUSAS SISTEMA CIRCULATORIO,40,12,7,9,4,1,4,3,2022,Del Maule,SAR,SAR Bombero Garrido
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Del Maule,SAR,SAR Bombero Garrido
+Accidente vascular encefálico,2,1,0,0,0,0,0,1,2022,Del Maule,SAR,SAR Bombero Garrido
+Crisis hipertensiva,25,6,6,6,2,1,3,1,2022,Del Maule,SAR,SAR Bombero Garrido
+Arritmia grave,2,0,0,0,1,0,0,1,2022,Del Maule,SAR,SAR Bombero Garrido
+Otras causas circulatorias,10,5,1,3,1,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,656,122,149,124,87,71,65,38,2022,Del Maule,SAR,SAR Bombero Garrido
+Accidentes del tránsito,47,10,12,4,7,2,10,2,2022,Del Maule,SAR,SAR Bombero Garrido
+Lesiones autoinfligidas intencionalmente (X60-X84),15,3,1,5,1,1,1,3,2022,Del Maule,SAR,SAR Bombero Garrido
+Otras causas externas,594,109,136,115,79,68,54,33,2022,Del Maule,SAR,SAR Bombero Garrido
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),66,12,16,14,9,2,12,1,2022,Del Maule,SAR,SAR Bombero Garrido
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),12,1,4,2,1,1,2,1,2022,Del Maule,SAR,SAR Bombero Garrido
+Trastornos del Humor (Afectivos) (F30-F39),6,0,0,4,1,0,1,0,2022,Del Maule,SAR,SAR Bombero Garrido
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",44,9,12,6,7,1,9,0,2022,Del Maule,SAR,SAR Bombero Garrido
+Otros trastornos mentales no contenidos en las categorías anteriores,4,2,0,2,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+DIARREA AGUDA (A00-A09),89,21,22,16,7,12,8,3,2022,Del Maule,SAR,SAR Bombero Garrido
+TOTAL DEMÁS CAUSAS,2901,586,570,485,372,342,291,255,2022,Del Maule,SAR,SAR Bombero Garrido
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Bombero Garrido

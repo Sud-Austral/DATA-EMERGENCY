@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2873,400,460,387,478,443,402,303,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2630,362,410,358,435,403,378,284,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+TOTAL CAUSAS SISTEMA RESPIRATORIO,487,80,108,72,74,58,53,42,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+IRA Alta (J00-J06),438,70,96,67,66,53,47,39,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Neumonía (J12-J18),2,0,0,0,0,0,1,1,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Bronquitis/bronquiolitis aguda (J20-J21),13,4,3,2,2,1,0,1,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Crisis obstructiva bronquial (J40-J46),14,3,4,1,3,1,2,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,3,5,2,3,3,2,1,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+COVID 19 Sospechoso (U072),600,48,68,75,109,106,131,63,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+COVID 19 Confirmado (U071),39,0,0,1,1,15,14,8,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+TOTAL CAUSAS SISTEMA CIRCULATORIO,31,3,6,6,3,7,5,1,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Crisis hipertensiva,14,0,2,4,0,4,3,1,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Arritmia grave,3,1,1,0,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Otras causas circulatorias,14,2,3,2,3,3,1,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,186,34,29,19,34,29,21,20,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,1,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Otras causas externas,185,34,28,19,34,29,21,20,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),35,4,2,9,8,4,4,4,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Trastornos del Humor (Afectivos) (F30-F39),4,1,0,2,1,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",29,2,2,7,7,3,4,4,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,0,0,1,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+DIARREA AGUDA (A00-A09),2,0,2,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+TOTAL DEMÁS CAUSAS,1250,193,195,176,206,184,150,146,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Juan Pablo II

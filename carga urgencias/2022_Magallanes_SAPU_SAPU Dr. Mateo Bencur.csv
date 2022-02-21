@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1915,288,371,380,355,250,179,92,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1891,286,363,374,352,245,179,92,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+TOTAL CAUSAS SISTEMA RESPIRATORIO,127,36,23,11,9,19,18,11,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+IRA Alta (J00-J06),102,31,18,7,6,18,13,9,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Neumonía (J12-J18),3,0,0,0,1,0,2,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Bronquitis/bronquiolitis aguda (J20-J21),9,1,2,2,0,1,2,1,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Crisis obstructiva bronquial (J40-J46),6,1,2,0,2,0,1,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,3,1,2,0,0,0,1,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+COVID 19 Sospechoso (U072),1394,117,229,295,332,195,149,77,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+COVID 19 Confirmado (U071),36,0,0,16,0,20,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+TOTAL CAUSAS SISTEMA CIRCULATORIO,11,2,5,1,1,2,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Crisis hipertensiva,7,1,3,1,0,2,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Otras causas circulatorias,4,1,2,0,1,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,50,19,16,10,0,0,4,1,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Otras causas externas,50,19,16,10,0,0,4,1,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),8,3,3,1,0,0,0,1,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",7,3,2,1,0,0,0,1,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+DIARREA AGUDA (A00-A09),1,0,1,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+TOTAL DEMÁS CAUSAS,264,109,86,40,10,9,8,2,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU Dr. Mateo Bencur

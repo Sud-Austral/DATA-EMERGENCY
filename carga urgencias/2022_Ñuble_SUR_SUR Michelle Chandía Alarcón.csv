@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2905,450,405,450,527,360,443,270,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2818,445,383,445,517,356,407,265,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,468,78,44,54,98,48,81,65,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+IRA Alta (J00-J06),382,57,39,42,81,41,67,55,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Neumonía (J12-J18),8,1,0,1,1,0,0,5,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Bronquitis/bronquiolitis aguda (J20-J21),38,14,0,1,12,3,8,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Crisis obstructiva bronquial (J40-J46),19,3,3,3,2,2,3,3,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,3,2,7,2,2,3,2,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+COVID 19 Sospechoso (U072),448,30,25,109,79,108,59,38,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+COVID 19 Confirmado (U071),16,0,1,5,0,3,3,4,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,61,14,5,10,7,8,10,7,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Infarto agudo miocardio,7,3,0,0,0,0,2,2,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Accidente vascular encefálico,4,1,0,1,1,0,0,1,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Crisis hipertensiva,26,6,2,5,3,3,4,3,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Arritmia grave,5,1,0,1,2,0,1,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Otras causas circulatorias,19,3,3,3,1,5,3,1,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,290,47,60,48,63,29,24,19,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Accidentes del tránsito,2,0,1,0,0,0,1,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Otras causas externas,288,47,59,48,63,29,23,19,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),28,7,3,2,6,4,4,2,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",21,5,1,2,6,1,4,2,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+Otros trastornos mentales no contenidos en las categorías anteriores,6,2,1,0,0,3,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+DIARREA AGUDA (A00-A09),10,1,1,2,2,2,0,2,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+TOTAL DEMÁS CAUSAS,1497,268,244,215,262,154,226,128,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Michelle Chandía Alarcón

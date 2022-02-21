@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3058,318,334,366,517,550,522,451,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2917,303,319,352,490,528,504,421,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+TOTAL CAUSAS SISTEMA RESPIRATORIO,70,8,17,8,7,10,11,9,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+IRA Alta (J00-J06),36,4,9,5,2,6,4,6,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Neumonía (J12-J18),10,1,2,0,1,3,1,2,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Bronquitis/bronquiolitis aguda (J20-J21),13,1,4,0,3,0,5,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Crisis obstructiva bronquial (J40-J46),4,1,0,2,0,0,1,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,1,2,1,1,1,0,1,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+COVID 19 Sospechoso (U072),1276,69,52,109,280,304,235,227,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+COVID 19 Confirmado (U071),60,0,0,0,2,8,27,23,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+TOTAL CAUSAS SISTEMA CIRCULATORIO,44,6,7,9,6,5,8,3,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Infarto agudo miocardio,3,0,1,2,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Accidente vascular encefálico,18,3,2,2,4,2,3,2,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Crisis hipertensiva,16,3,3,4,2,2,2,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Arritmia grave,3,0,0,0,0,1,1,1,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Otras causas circulatorias,4,0,1,1,0,0,2,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),42,2,14,6,2,6,6,6,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,0,2,2,0,1,0,1,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,2,9,4,2,3,5,5,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,2,0,0,2,1,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+DIARREA AGUDA (A00-A09),63,4,9,16,7,10,8,9,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+TOTAL DEMÁS CAUSAS,1362,214,220,204,186,185,209,144,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,85,13,15,8,11,15,13,10,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- CAUSAS SISTEMA RESPIRATORIO,8,0,3,1,0,2,2,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- COVID 19 SOSPECHOSO (U072),9,0,1,3,2,0,2,1,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- COVID 19 CONFIRMADO (U071),10,0,0,0,0,2,3,5,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- CAUSAS SISTEMA CIRCULATORIO,6,2,1,1,0,1,1,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,0,0,1,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,1,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+- LAS DEMÁS CAUSAS,50,11,10,3,8,9,5,4,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital Dr. Roberto Muñoz Urrutia de Huépil

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3242,488,471,418,542,478,602,243,2022,Del Maule,SUR,SUR San Rafael
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1071,165,187,133,181,162,167,76,2022,Del Maule,SUR,SUR San Rafael
+TOTAL CAUSAS SISTEMA RESPIRATORIO,153,41,31,16,35,15,11,4,2022,Del Maule,SUR,SUR San Rafael
+IRA Alta (J00-J06),116,35,25,10,24,13,6,3,2022,Del Maule,SUR,SUR San Rafael
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Neumonía (J12-J18),8,0,0,3,2,1,1,1,2022,Del Maule,SUR,SUR San Rafael
+Bronquitis/bronquiolitis aguda (J20-J21),18,4,4,2,6,0,2,0,2022,Del Maule,SUR,SUR San Rafael
+Crisis obstructiva bronquial (J40-J46),6,2,1,1,1,0,1,0,2022,Del Maule,SUR,SUR San Rafael
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,0,0,0,2,1,1,0,2022,Del Maule,SUR,SUR San Rafael
+COVID 19 Sospechoso (U072),243,8,22,25,36,48,75,29,2022,Del Maule,SUR,SUR San Rafael
+COVID 19 Confirmado (U071),36,0,0,0,8,6,5,17,2022,Del Maule,SUR,SUR San Rafael
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,3,0,1,2,3,2,2,2022,Del Maule,SUR,SUR San Rafael
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Crisis hipertensiva,4,1,0,0,0,2,1,0,2022,Del Maule,SUR,SUR San Rafael
+Arritmia grave,4,1,0,1,1,0,1,0,2022,Del Maule,SUR,SUR San Rafael
+Otras causas circulatorias,5,1,0,0,1,1,0,2,2022,Del Maule,SUR,SUR San Rafael
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,66,11,17,8,13,6,8,3,2022,Del Maule,SUR,SUR San Rafael
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Otras causas externas,66,11,17,8,13,6,8,3,2022,Del Maule,SUR,SUR San Rafael
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),9,2,1,0,3,2,1,0,2022,Del Maule,SUR,SUR San Rafael
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",9,2,1,0,3,2,1,0,2022,Del Maule,SUR,SUR San Rafael
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+DIARREA AGUDA (A00-A09),80,20,20,6,11,7,12,4,2022,Del Maule,SUR,SUR San Rafael
+TOTAL DEMÁS CAUSAS,471,80,96,77,73,75,53,17,2022,Del Maule,SUR,SUR San Rafael
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR San Rafael

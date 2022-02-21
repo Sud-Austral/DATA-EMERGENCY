@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8460,1035,993,1438,1679,1178,1282,855,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7494,1049,1077,1130,1414,999,1044,781,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1299,215,191,163,191,225,201,113,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+IRA Alta (J00-J06),1028,152,142,138,150,187,168,91,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Influenza (J09-J11),7,1,1,1,0,1,3,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Neumonía (J12-J18),71,12,10,3,9,15,12,10,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Bronquitis/bronquiolitis aguda (J20-J21),137,36,32,14,22,16,10,7,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Crisis obstructiva bronquial (J40-J46),37,10,3,6,5,3,6,4,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,4,3,1,5,3,2,1,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+COVID 19 Sospechoso (U072),1535,123,214,400,453,145,129,71,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+COVID 19 Confirmado (U071),370,5,4,19,25,99,132,86,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+TOTAL CAUSAS SISTEMA CIRCULATORIO,113,23,32,20,8,8,13,9,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Accidente vascular encefálico,6,3,1,2,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Crisis hipertensiva,63,9,20,9,6,5,6,8,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Arritmia grave,10,3,3,1,1,0,2,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Otras causas circulatorias,34,8,8,8,1,3,5,1,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,586,134,88,67,85,93,71,48,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Accidentes del tránsito,4,0,1,1,0,0,0,2,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,0,0,0,0,2,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Otras causas externas,580,134,87,66,85,93,69,46,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),71,14,8,11,9,13,8,8,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",67,14,7,10,9,13,7,7,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,1,1,0,0,0,1,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+DIARREA AGUDA (A00-A09),115,31,19,16,9,14,14,12,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+TOTAL DEMÁS CAUSAS,3405,504,521,434,634,402,476,434,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAR,SAR Dr. Raúl Yazigi

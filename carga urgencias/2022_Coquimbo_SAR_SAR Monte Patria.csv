@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2425,254,331,261,217,515,458,389,2022,Coquimbo,SAR,SAR Monte Patria
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2717,254,331,379,413,499,454,387,2022,Coquimbo,SAR,SAR Monte Patria
+TOTAL CAUSAS SISTEMA RESPIRATORIO,375,21,37,70,75,92,35,45,2022,Coquimbo,SAR,SAR Monte Patria
+IRA Alta (J00-J06),323,20,28,56,64,85,31,39,2022,Coquimbo,SAR,SAR Monte Patria
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+Neumonía (J12-J18),3,0,0,0,0,2,0,1,2022,Coquimbo,SAR,SAR Monte Patria
+Bronquitis/bronquiolitis aguda (J20-J21),5,1,0,0,3,0,1,0,2022,Coquimbo,SAR,SAR Monte Patria
+Crisis obstructiva bronquial (J40-J46),2,0,0,0,0,1,0,1,2022,Coquimbo,SAR,SAR Monte Patria
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",41,0,8,14,8,4,3,4,2022,Coquimbo,SAR,SAR Monte Patria
+COVID 19 Sospechoso (U072),370,5,1,19,42,73,126,104,2022,Coquimbo,SAR,SAR Monte Patria
+COVID 19 Confirmado (U071),308,1,12,36,64,87,48,60,2022,Coquimbo,SAR,SAR Monte Patria
+TOTAL CAUSAS SISTEMA CIRCULATORIO,31,3,5,7,5,2,5,4,2022,Coquimbo,SAR,SAR Monte Patria
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Coquimbo,SAR,SAR Monte Patria
+Accidente vascular encefálico,3,0,0,0,1,1,0,1,2022,Coquimbo,SAR,SAR Monte Patria
+Crisis hipertensiva,3,1,0,2,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+Arritmia grave,5,1,0,1,1,0,2,0,2022,Coquimbo,SAR,SAR Monte Patria
+Otras causas circulatorias,19,1,5,4,3,1,2,3,2022,Coquimbo,SAR,SAR Monte Patria
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,205,13,5,15,23,47,60,42,2022,Coquimbo,SAR,SAR Monte Patria
+Accidentes del tránsito,6,4,0,2,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Coquimbo,SAR,SAR Monte Patria
+Otras causas externas,198,9,5,13,23,47,60,41,2022,Coquimbo,SAR,SAR Monte Patria
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,0,3,0,1,0,1,0,2022,Coquimbo,SAR,SAR Monte Patria
+Ideación Suicida (R458),2,0,2,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,1,0,1,0,1,0,2022,Coquimbo,SAR,SAR Monte Patria
+DIARREA AGUDA (A00-A09),40,1,1,34,2,0,1,1,2022,Coquimbo,SAR,SAR Monte Patria
+TOTAL DEMÁS CAUSAS,1383,210,267,198,201,198,178,131,2022,Coquimbo,SAR,SAR Monte Patria
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAR,SAR Monte Patria

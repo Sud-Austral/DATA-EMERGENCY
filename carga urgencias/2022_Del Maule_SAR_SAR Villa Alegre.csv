@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7502,1002,1021,1037,1190,1151,1208,893,2022,Del Maule,SAR,SAR Villa Alegre
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6926,956,987,965,1077,1030,1109,802,2022,Del Maule,SAR,SAR Villa Alegre
+TOTAL CAUSAS SISTEMA RESPIRATORIO,743,215,205,153,77,45,27,21,2022,Del Maule,SAR,SAR Villa Alegre
+IRA Alta (J00-J06),648,192,191,132,69,34,19,11,2022,Del Maule,SAR,SAR Villa Alegre
+Influenza (J09-J11),1,0,0,0,0,1,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+Neumonía (J12-J18),13,1,2,2,2,2,2,2,2022,Del Maule,SAR,SAR Villa Alegre
+Bronquitis/bronquiolitis aguda (J20-J21),43,16,8,11,1,1,2,4,2022,Del Maule,SAR,SAR Villa Alegre
+Crisis obstructiva bronquial (J40-J46),16,3,1,3,3,4,1,1,2022,Del Maule,SAR,SAR Villa Alegre
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,3,3,5,2,3,3,3,2022,Del Maule,SAR,SAR Villa Alegre
+COVID 19 Sospechoso (U072),1985,59,69,192,464,409,418,374,2022,Del Maule,SAR,SAR Villa Alegre
+COVID 19 Confirmado (U071),169,4,12,24,12,39,58,20,2022,Del Maule,SAR,SAR Villa Alegre
+TOTAL CAUSAS SISTEMA CIRCULATORIO,41,5,10,7,8,3,3,5,2022,Del Maule,SAR,SAR Villa Alegre
+Infarto agudo miocardio,2,0,0,0,2,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+Crisis hipertensiva,12,0,3,4,0,2,1,2,2022,Del Maule,SAR,SAR Villa Alegre
+Arritmia grave,8,2,3,1,1,0,1,0,2022,Del Maule,SAR,SAR Villa Alegre
+Otras causas circulatorias,19,3,4,2,5,1,1,3,2022,Del Maule,SAR,SAR Villa Alegre
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,748,122,122,113,107,95,116,73,2022,Del Maule,SAR,SAR Villa Alegre
+Accidentes del tránsito,24,1,3,3,3,2,9,3,2022,Del Maule,SAR,SAR Villa Alegre
+Lesiones autoinfligidas intencionalmente (X60-X84),4,0,3,0,0,0,1,0,2022,Del Maule,SAR,SAR Villa Alegre
+Otras causas externas,720,121,116,110,104,93,106,70,2022,Del Maule,SAR,SAR Villa Alegre
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),97,10,16,17,10,14,19,11,2022,Del Maule,SAR,SAR Villa Alegre
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,0,1,1,0,2,0,2022,Del Maule,SAR,SAR Villa Alegre
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",85,9,16,12,9,14,16,9,2022,Del Maule,SAR,SAR Villa Alegre
+Otros trastornos mentales no contenidos en las categorías anteriores,8,1,0,4,0,0,1,2,2022,Del Maule,SAR,SAR Villa Alegre
+DIARREA AGUDA (A00-A09),49,12,10,4,6,7,7,3,2022,Del Maule,SAR,SAR Villa Alegre
+TOTAL DEMÁS CAUSAS,3094,529,543,455,393,418,461,295,2022,Del Maule,SAR,SAR Villa Alegre
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Villa Alegre

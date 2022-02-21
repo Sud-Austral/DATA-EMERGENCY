@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7022,817,876,777,993,1295,1251,1013,2022,Del Maule,SAPU,SAPU Maule
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5417,743,774,677,785,889,847,702,2022,Del Maule,SAPU,SAPU Maule
+TOTAL CAUSAS SISTEMA RESPIRATORIO,662,144,133,132,82,86,36,49,2022,Del Maule,SAPU,SAPU Maule
+IRA Alta (J00-J06),592,118,118,124,72,83,33,44,2022,Del Maule,SAPU,SAPU Maule
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+Neumonía (J12-J18),5,1,2,2,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+Bronquitis/bronquiolitis aguda (J20-J21),28,12,6,1,7,0,1,1,2022,Del Maule,SAPU,SAPU Maule
+Crisis obstructiva bronquial (J40-J46),18,9,1,3,1,3,0,1,2022,Del Maule,SAPU,SAPU Maule
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,4,6,2,2,0,2,3,2022,Del Maule,SAPU,SAPU Maule
+COVID 19 Sospechoso (U072),1544,39,72,83,280,399,420,251,2022,Del Maule,SAPU,SAPU Maule
+COVID 19 Confirmado (U071),291,7,10,22,19,98,53,82,2022,Del Maule,SAPU,SAPU Maule
+TOTAL CAUSAS SISTEMA CIRCULATORIO,32,4,8,5,1,2,6,6,2022,Del Maule,SAPU,SAPU Maule
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Del Maule,SAPU,SAPU Maule
+Accidente vascular encefálico,4,1,1,0,0,0,2,0,2022,Del Maule,SAPU,SAPU Maule
+Crisis hipertensiva,9,0,1,2,0,1,2,3,2022,Del Maule,SAPU,SAPU Maule
+Arritmia grave,3,0,1,0,1,0,0,1,2022,Del Maule,SAPU,SAPU Maule
+Otras causas circulatorias,15,3,5,3,0,1,1,2,2022,Del Maule,SAPU,SAPU Maule
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,337,54,55,55,66,38,34,35,2022,Del Maule,SAPU,SAPU Maule
+Accidentes del tránsito,5,2,0,2,0,0,1,0,2022,Del Maule,SAPU,SAPU Maule
+Lesiones autoinfligidas intencionalmente (X60-X84),3,0,1,0,1,0,0,1,2022,Del Maule,SAPU,SAPU Maule
+Otras causas externas,329,52,54,53,65,38,33,34,2022,Del Maule,SAPU,SAPU Maule
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),67,12,13,15,8,6,6,7,2022,Del Maule,SAPU,SAPU Maule
+Ideación Suicida (R458),1,0,1,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),9,4,2,2,0,0,0,1,2022,Del Maule,SAPU,SAPU Maule
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Del Maule,SAPU,SAPU Maule
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",56,8,10,13,8,5,6,6,2022,Del Maule,SAPU,SAPU Maule
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+DIARREA AGUDA (A00-A09),143,30,36,13,21,17,16,10,2022,Del Maule,SAPU,SAPU Maule
+TOTAL DEMÁS CAUSAS,2341,453,447,352,308,243,276,262,2022,Del Maule,SAPU,SAPU Maule
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Maule

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6639,945,917,952,1209,1100,885,631,2022,Metropolitano Sur,SAPU,SAPU Paine
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5627,855,739,826,905,957,772,573,2022,Metropolitano Sur,SAPU,SAPU Paine
+TOTAL CAUSAS SISTEMA RESPIRATORIO,801,175,141,82,117,114,124,48,2022,Metropolitano Sur,SAPU,SAPU Paine
+IRA Alta (J00-J06),663,147,105,65,96,102,110,38,2022,Metropolitano Sur,SAPU,SAPU Paine
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+Neumonía (J12-J18),22,2,6,3,3,3,4,1,2022,Metropolitano Sur,SAPU,SAPU Paine
+Bronquitis/bronquiolitis aguda (J20-J21),72,23,24,4,7,5,7,2,2022,Metropolitano Sur,SAPU,SAPU Paine
+Crisis obstructiva bronquial (J40-J46),26,2,2,3,8,3,3,5,2022,Metropolitano Sur,SAPU,SAPU Paine
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,1,4,7,3,1,0,2,2022,Metropolitano Sur,SAPU,SAPU Paine
+COVID 19 Sospechoso (U072),1628,85,99,307,376,396,211,154,2022,Metropolitano Sur,SAPU,SAPU Paine
+COVID 19 Confirmado (U071),438,21,27,22,76,119,130,43,2022,Metropolitano Sur,SAPU,SAPU Paine
+TOTAL CAUSAS SISTEMA CIRCULATORIO,98,17,20,15,8,14,9,15,2022,Metropolitano Sur,SAPU,SAPU Paine
+Infarto agudo miocardio,6,2,1,1,2,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+Accidente vascular encefálico,6,2,1,1,0,0,0,2,2022,Metropolitano Sur,SAPU,SAPU Paine
+Crisis hipertensiva,40,4,11,7,5,7,4,2,2022,Metropolitano Sur,SAPU,SAPU Paine
+Arritmia grave,11,1,2,2,0,3,1,2,2022,Metropolitano Sur,SAPU,SAPU Paine
+Otras causas circulatorias,35,8,5,4,1,4,4,9,2022,Metropolitano Sur,SAPU,SAPU Paine
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,518,107,83,87,63,62,65,51,2022,Metropolitano Sur,SAPU,SAPU Paine
+Accidentes del tránsito,1,0,0,1,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+Otras causas externas,517,107,83,86,63,62,65,51,2022,Metropolitano Sur,SAPU,SAPU Paine
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),78,15,11,9,12,9,9,13,2022,Metropolitano Sur,SAPU,SAPU Paine
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),11,3,1,1,1,1,0,4,2022,Metropolitano Sur,SAPU,SAPU Paine
+Trastornos del Humor (Afectivos) (F30-F39),7,1,2,0,1,0,2,1,2022,Metropolitano Sur,SAPU,SAPU Paine
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",50,8,7,7,9,6,7,6,2022,Metropolitano Sur,SAPU,SAPU Paine
+Otros trastornos mentales no contenidos en las categorías anteriores,10,3,1,1,1,2,0,2,2022,Metropolitano Sur,SAPU,SAPU Paine
+DIARREA AGUDA (A00-A09),66,22,8,4,8,3,8,13,2022,Metropolitano Sur,SAPU,SAPU Paine
+TOTAL DEMÁS CAUSAS,2000,413,350,300,245,240,216,236,2022,Metropolitano Sur,SAPU,SAPU Paine
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Paine

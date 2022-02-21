@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Influenza (J09-J11),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Crisis hipertensiva,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Arritmia grave,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Otras causas circulatorias,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Accidentes del tránsito,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Lesiones autoinfligidas intencionalmente (X60-X84),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Otras causas externas,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Ideación Suicida (R458),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Trastornos del Humor (Afectivos) (F30-F39),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+Otros trastornos mentales no contenidos en las categorías anteriores,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- COVID 19 SOSPECHOSO (U072),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- COVID 19 CONFIRMADO (U071),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,2022,Metropolitano Central,Hospital,Centro de Referencia de Salud de Maipú

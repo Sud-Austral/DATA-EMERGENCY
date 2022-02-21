@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2672,390,421,457,447,378,339,240,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2430,368,395,406,387,337,311,226,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+TOTAL CAUSAS SISTEMA RESPIRATORIO,380,72,77,58,68,40,36,29,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+IRA Alta (J00-J06),315,57,58,52,62,36,29,21,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Influenza (J09-J11),1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Neumonía (J12-J18),12,2,3,1,1,1,2,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Bronquitis/bronquiolitis aguda (J20-J21),20,10,3,2,3,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Crisis obstructiva bronquial (J40-J46),16,2,5,0,2,0,4,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,1,8,3,0,1,1,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+COVID 19 Sospechoso (U072),643,52,63,162,151,96,70,49,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+COVID 19 Confirmado (U071),98,0,0,1,7,41,31,18,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+TOTAL CAUSAS SISTEMA CIRCULATORIO,60,12,9,3,9,9,11,7,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Infarto agudo miocardio,3,1,0,0,1,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Crisis hipertensiva,43,10,6,3,5,6,9,4,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Arritmia grave,2,0,1,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Otras causas circulatorias,11,1,2,0,3,1,2,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,163,25,32,24,20,18,25,19,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Accidentes del tránsito,1,0,0,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Otras causas externas,162,25,32,24,20,18,25,18,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),40,7,4,10,3,5,6,5,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Ideación Suicida (R458),1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,3,0,1,0,0,1,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Trastornos del Humor (Afectivos) (F30-F39),4,0,0,1,1,0,2,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",24,3,4,8,1,3,3,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,0,0,1,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+DIARREA AGUDA (A00-A09),7,0,2,0,2,0,2,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+TOTAL DEMÁS CAUSAS,1039,200,208,148,127,128,130,98,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Avendaño

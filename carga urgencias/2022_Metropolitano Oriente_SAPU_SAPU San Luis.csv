@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5153,730,725,797,796,886,781,438,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4911,662,683,766,767,844,758,431,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+TOTAL CAUSAS SISTEMA RESPIRATORIO,439,36,46,117,50,78,79,33,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+IRA Alta (J00-J06),273,32,24,38,30,67,58,24,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Influenza (J09-J11),2,0,0,2,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Neumonía (J12-J18),2,0,0,1,0,1,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Bronquitis/bronquiolitis aguda (J20-J21),13,4,2,1,1,1,1,3,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Crisis obstructiva bronquial (J40-J46),5,0,0,0,1,3,1,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",144,0,20,75,18,6,19,6,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+COVID 19 Sospechoso (U072),1073,67,184,273,285,178,66,20,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+COVID 19 Confirmado (U071),383,20,2,19,42,103,148,49,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,0,2,1,3,3,3,1,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Infarto agudo miocardio,2,0,1,0,0,0,1,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Accidente vascular encefálico,4,0,0,0,1,2,1,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Crisis hipertensiva,2,0,1,0,0,1,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Otras causas circulatorias,5,0,0,1,2,0,1,1,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,70,0,14,11,11,7,20,7,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Accidentes del tránsito,6,0,0,2,1,1,2,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Otras causas externas,64,0,14,9,10,6,18,7,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),12,0,1,5,2,2,0,2,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Ideación Suicida (R458),1,0,1,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+Otros trastornos mentales no contenidos en las categorías anteriores,11,0,0,5,2,2,0,2,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+DIARREA AGUDA (A00-A09),144,11,19,35,26,32,7,14,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+TOTAL DEMÁS CAUSAS,2777,528,415,305,348,441,435,305,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU San Luis

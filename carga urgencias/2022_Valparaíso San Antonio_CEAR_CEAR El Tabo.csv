@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3868,281,372,574,655,847,658,481,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4056,281,445,574,655,847,773,481,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,601,86,76,27,92,103,115,102,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+IRA Alta (J00-J06),8,4,0,0,1,1,2,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Influenza (J09-J11),1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Neumonía (J12-J18),7,1,1,0,1,1,3,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Bronquitis/bronquiolitis aguda (J20-J21),22,1,2,1,7,4,1,6,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Crisis obstructiva bronquial (J40-J46),38,5,1,0,5,2,4,21,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",525,74,72,26,78,95,105,75,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+COVID 19 Sospechoso (U072),2111,169,305,436,375,281,350,195,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+COVID 19 Confirmado (U071),863,4,21,50,140,334,172,142,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,0,0,0,1,1,0,2,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,0,0,1,1,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,0,0,0,0,2,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+DIARREA AGUDA (A00-A09),20,4,1,2,0,0,0,13,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+TOTAL DEMÁS CAUSAS,457,18,42,59,47,128,136,27,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR El Tabo

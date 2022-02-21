@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,659,367,292,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,563,316,247,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+TOTAL CAUSAS SISTEMA RESPIRATORIO,44,24,20,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+IRA Alta (J00-J06),32,16,16,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Influenza (J09-J11),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Neumonía (J12-J18),1,0,1,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Crisis obstructiva bronquial (J40-J46),5,4,1,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,4,2,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+COVID 19 Sospechoso (U072),220,91,129,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+COVID 19 Confirmado (U071),2,0,2,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+TOTAL CAUSAS SISTEMA CIRCULATORIO,18,16,2,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Infarto agudo miocardio,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Accidente vascular encefálico,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Crisis hipertensiva,12,10,2,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Arritmia grave,2,2,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Otras causas circulatorias,4,4,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,49,26,23,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Accidentes del tránsito,1,0,1,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Otras causas externas,48,26,22,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,6,5,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Ideación Suicida (R458),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",10,5,5,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+DIARREA AGUDA (A00-A09),7,3,4,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+TOTAL DEMÁS CAUSAS,212,150,62,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- COVID 19 SOSPECHOSO (U072),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- COVID 19 CONFIRMADO (U071),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+- LAS DEMÁS CAUSAS,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar
+CIRUGÍAS DE URGENCIA,0,0,0,-,-,-,-,-,2022,Coquimbo,SAPU,SAPU Dr. Sergio Aguilar

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8022,1335,1340,624,1540,1596,1394,193,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6766,1169,1166,517,1189,1294,1250,181,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+TOTAL CAUSAS SISTEMA RESPIRATORIO,459,155,116,43,40,56,39,10,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+IRA Alta (J00-J06),304,104,67,36,27,36,26,8,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Influenza (J09-J11),1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Neumonía (J12-J18),4,0,3,0,0,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Bronquitis/bronquiolitis aguda (J20-J21),29,11,11,1,2,1,3,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Crisis obstructiva bronquial (J40-J46),31,10,7,0,5,7,2,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",90,29,28,6,6,11,8,2,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+COVID 19 Sospechoso (U072),3711,439,483,240,808,859,789,93,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+TOTAL CAUSAS SISTEMA CIRCULATORIO,39,9,9,1,5,6,8,1,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Infarto agudo miocardio,3,2,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Crisis hipertensiva,15,3,4,0,2,5,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Arritmia grave,3,1,0,0,0,0,2,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Otras causas circulatorias,17,2,5,1,2,1,5,1,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,118,24,20,9,13,23,24,5,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Otras causas externas,118,24,20,9,13,23,24,5,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),75,14,16,9,10,10,15,1,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,1,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",63,13,12,7,7,9,14,1,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+Otros trastornos mentales no contenidos en las categorías anteriores,9,1,3,2,1,1,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+DIARREA AGUDA (A00-A09),37,10,11,4,3,3,6,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+TOTAL DEMÁS CAUSAS,2327,518,511,211,310,337,369,71,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Karol Wojtyla

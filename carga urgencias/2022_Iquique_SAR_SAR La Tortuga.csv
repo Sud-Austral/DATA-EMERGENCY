@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,11321,2024,2314,2064,1524,1242,1212,941,2022,Iquique,SAR,SAR La Tortuga
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8253,1211,1484,1277,1241,1067,1099,874,2022,Iquique,SAR,SAR La Tortuga
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1287,231,332,238,160,118,120,88,2022,Iquique,SAR,SAR La Tortuga
+IRA Alta (J00-J06),1134,210,316,218,133,93,96,68,2022,Iquique,SAR,SAR La Tortuga
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+Neumonía (J12-J18),22,5,2,5,5,4,0,1,2022,Iquique,SAR,SAR La Tortuga
+Bronquitis/bronquiolitis aguda (J20-J21),45,6,7,6,7,5,7,7,2022,Iquique,SAR,SAR La Tortuga
+Crisis obstructiva bronquial (J40-J46),58,2,7,8,12,12,10,7,2022,Iquique,SAR,SAR La Tortuga
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",28,8,0,1,3,4,7,5,2022,Iquique,SAR,SAR La Tortuga
+COVID 19 Sospechoso (U072),1333,250,346,221,249,155,68,44,2022,Iquique,SAR,SAR La Tortuga
+COVID 19 Confirmado (U071),1116,102,249,265,233,140,83,44,2022,Iquique,SAR,SAR La Tortuga
+TOTAL CAUSAS SISTEMA CIRCULATORIO,108,11,12,11,14,28,18,14,2022,Iquique,SAR,SAR La Tortuga
+Infarto agudo miocardio,3,0,1,0,0,0,1,1,2022,Iquique,SAR,SAR La Tortuga
+Accidente vascular encefálico,9,0,4,1,1,3,0,0,2022,Iquique,SAR,SAR La Tortuga
+Crisis hipertensiva,44,8,3,5,8,5,11,4,2022,Iquique,SAR,SAR La Tortuga
+Arritmia grave,24,1,1,1,3,16,0,2,2022,Iquique,SAR,SAR La Tortuga
+Otras causas circulatorias,28,2,3,4,2,4,6,7,2022,Iquique,SAR,SAR La Tortuga
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,522,69,65,56,72,81,92,87,2022,Iquique,SAR,SAR La Tortuga
+Accidentes del tránsito,1,0,1,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+Lesiones autoinfligidas intencionalmente (X60-X84),4,1,0,0,1,2,0,0,2022,Iquique,SAR,SAR La Tortuga
+Otras causas externas,517,68,64,56,71,79,92,87,2022,Iquique,SAR,SAR La Tortuga
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),86,8,14,7,11,12,18,16,2022,Iquique,SAR,SAR La Tortuga
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,1,2,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Iquique,SAR,SAR La Tortuga
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",73,7,11,5,10,11,17,12,2022,Iquique,SAR,SAR La Tortuga
+Otros trastornos mentales no contenidos en las categorías anteriores,9,1,2,0,1,0,1,4,2022,Iquique,SAR,SAR La Tortuga
+DIARREA AGUDA (A00-A09),21,1,3,0,0,4,2,11,2022,Iquique,SAR,SAR La Tortuga
+TOTAL DEMÁS CAUSAS,3780,539,463,479,502,529,698,570,2022,Iquique,SAR,SAR La Tortuga
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Iquique,SAR,SAR La Tortuga

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,156,17,28,36,19,19,27,10,2022,Ñuble,SUR,SUR Portezuelo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,156,17,28,36,19,19,27,10,2022,Ñuble,SUR,SUR Portezuelo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+IRA Alta (J00-J06),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+COVID 19 Sospechoso (U072),35,3,3,5,4,6,11,3,2022,Ñuble,SUR,SUR Portezuelo
+COVID 19 Confirmado (U071),8,0,0,5,3,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,2,0,0,2,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Crisis hipertensiva,1,0,0,1,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+TOTAL DEMÁS CAUSAS,111,14,25,24,12,13,16,7,2022,Ñuble,SUR,SUR Portezuelo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR Portezuelo

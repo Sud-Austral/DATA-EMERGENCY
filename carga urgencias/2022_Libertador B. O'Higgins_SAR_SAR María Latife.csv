@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4148,428,148,515,344,1105,898,710,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6868,971,1011,1149,1107,1158,802,670,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+TOTAL CAUSAS SISTEMA RESPIRATORIO,717,111,130,131,88,95,76,86,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+IRA Alta (J00-J06),575,86,97,100,68,81,71,72,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Neumonía (J12-J18),13,1,2,5,1,2,1,1,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Bronquitis/bronquiolitis aguda (J20-J21),71,10,20,17,10,5,1,8,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Crisis obstructiva bronquial (J40-J46),28,8,4,3,3,5,2,3,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,6,7,6,6,2,1,2,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+COVID 19 Sospechoso (U072),1842,163,194,350,329,459,233,114,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+COVID 19 Confirmado (U071),201,5,12,22,115,18,19,10,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+TOTAL CAUSAS SISTEMA CIRCULATORIO,62,9,10,10,11,7,6,9,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Accidente vascular encefálico,6,1,1,1,0,1,0,2,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Crisis hipertensiva,11,1,2,2,2,1,1,2,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Arritmia grave,6,0,0,2,2,1,1,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Otras causas circulatorias,39,7,7,5,7,4,4,5,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,766,140,140,97,123,96,84,86,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Accidentes del tránsito,2,0,0,1,1,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,1,0,0,1,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Otras causas externas,762,140,139,96,122,95,84,86,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),31,7,3,8,6,5,2,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Trastornos del Humor (Afectivos) (F30-F39),2,1,0,0,0,1,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",26,6,3,6,6,4,1,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,2,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+DIARREA AGUDA (A00-A09),135,24,13,13,16,38,22,9,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+TOTAL DEMÁS CAUSAS,3114,512,509,518,419,440,360,356,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR María Latife

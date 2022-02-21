@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,222,35,32,39,31,41,31,13,2022,Arauco,SUR,SUR Carampangue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,26,0,6,4,3,4,6,3,2022,Arauco,SUR,SUR Carampangue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2,0,0,1,0,0,1,0,2022,Arauco,SUR,SUR Carampangue
+IRA Alta (J00-J06),2,0,0,1,0,0,1,0,2022,Arauco,SUR,SUR Carampangue
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+COVID 19 Sospechoso (U072),2,0,0,0,0,1,1,0,2022,Arauco,SUR,SUR Carampangue
+COVID 19 Confirmado (U071),1,0,0,0,0,1,0,0,2022,Arauco,SUR,SUR Carampangue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,1,0,0,0,0,1,0,0,2022,Arauco,SUR,SUR Carampangue
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Crisis hipertensiva,1,0,0,0,0,1,0,0,2022,Arauco,SUR,SUR Carampangue
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,2,0,1,0,0,0,1,0,2022,Arauco,SUR,SUR Carampangue
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Otras causas externas,2,0,1,0,0,0,1,0,2022,Arauco,SUR,SUR Carampangue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+TOTAL DEMÁS CAUSAS,18,0,5,3,3,1,3,3,2022,Arauco,SUR,SUR Carampangue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Carampangue

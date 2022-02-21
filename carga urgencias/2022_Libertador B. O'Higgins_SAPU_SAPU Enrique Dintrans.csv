@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8934,1170,1102,1429,1595,1337,1376,925,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8898,1168,1098,1424,1586,1328,1371,923,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1699,295,283,305,270,248,171,127,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+IRA Alta (J00-J06),1501,236,251,271,250,217,159,117,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Influenza (J09-J11),2,0,2,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Neumonía (J12-J18),11,1,2,0,2,5,0,1,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Bronquitis/bronquiolitis aguda (J20-J21),136,42,20,26,15,19,8,6,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Crisis obstructiva bronquial (J40-J46),32,10,5,5,3,5,2,2,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",17,6,3,3,0,2,2,1,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+COVID 19 Sospechoso (U072),232,3,4,79,58,31,41,16,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+COVID 19 Confirmado (U071),904,3,26,73,265,178,171,188,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+TOTAL CAUSAS SISTEMA CIRCULATORIO,67,14,14,3,10,7,11,8,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Infarto agudo miocardio,4,1,1,0,0,1,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Accidente vascular encefálico,2,0,1,0,0,0,0,1,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Crisis hipertensiva,22,5,5,2,4,4,1,1,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Arritmia grave,6,0,1,0,1,0,3,1,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Otras causas circulatorias,33,8,6,1,5,2,6,5,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,635,137,114,79,79,74,83,69,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Accidentes del tránsito,1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Otras causas externas,633,136,113,79,79,74,83,69,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),33,12,10,3,3,2,0,3,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",32,11,10,3,3,2,0,3,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+DIARREA AGUDA (A00-A09),174,24,24,40,27,19,26,14,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+TOTAL DEMÁS CAUSAS,5154,680,623,842,874,769,868,498,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Enrique Dintrans

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6334,986,878,957,1035,1043,930,505,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4636,758,705,747,694,655,711,366,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+TOTAL CAUSAS SISTEMA RESPIRATORIO,867,194,136,149,114,113,110,51,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+IRA Alta (J00-J06),725,155,111,126,98,91,98,46,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Influenza (J09-J11),1,0,0,0,0,1,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Neumonía (J12-J18),17,5,1,2,2,2,4,1,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Bronquitis/bronquiolitis aguda (J20-J21),60,17,9,11,10,8,3,2,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Crisis obstructiva bronquial (J40-J46),22,5,6,6,3,0,2,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",42,12,9,4,1,11,3,2,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+COVID 19 Sospechoso (U072),630,21,42,99,200,138,76,54,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+COVID 19 Confirmado (U071),379,4,18,23,48,89,141,56,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+TOTAL CAUSAS SISTEMA CIRCULATORIO,119,21,20,19,16,16,13,14,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Infarto agudo miocardio,2,1,1,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Accidente vascular encefálico,11,1,3,2,3,0,2,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Crisis hipertensiva,32,5,3,6,5,5,6,2,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Arritmia grave,15,3,2,2,0,5,2,1,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Otras causas circulatorias,59,11,11,9,8,6,3,11,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,594,123,97,90,75,77,92,40,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Otras causas externas,593,123,97,90,75,76,92,40,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),52,8,7,11,4,8,10,4,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,2,1,1,0,2,2,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Trastornos del Humor (Afectivos) (F30-F39),3,0,1,1,0,0,1,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",39,5,5,9,4,5,7,4,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,0,0,1,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+DIARREA AGUDA (A00-A09),76,26,16,6,10,3,11,4,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+TOTAL DEMÁS CAUSAS,1919,361,369,350,227,211,258,143,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Eugenia Muñoz Dalmatín

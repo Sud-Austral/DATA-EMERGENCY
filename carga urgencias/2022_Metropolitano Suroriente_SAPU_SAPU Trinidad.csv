@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4676,733,725,843,991,1078,194,112,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3945,675,627,657,791,905,190,100,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+TOTAL CAUSAS SISTEMA RESPIRATORIO,771,204,148,99,124,144,47,5,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+IRA Alta (J00-J06),668,180,104,89,110,138,43,4,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Influenza (J09-J11),1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Neumonía (J12-J18),6,2,0,1,2,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Bronquitis/bronquiolitis aguda (J20-J21),31,5,12,3,7,2,1,1,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Crisis obstructiva bronquial (J40-J46),28,14,5,3,1,2,3,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",37,3,27,3,3,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+COVID 19 Sospechoso (U072),1288,76,78,259,367,393,55,60,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+COVID 19 Confirmado (U071),81,0,5,14,17,38,4,3,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+TOTAL CAUSAS SISTEMA CIRCULATORIO,56,10,14,10,10,10,2,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Crisis hipertensiva,28,7,3,6,8,3,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Otras causas circulatorias,27,3,10,4,2,7,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,182,38,40,27,22,43,9,3,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Otras causas externas,182,38,40,27,22,43,9,3,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),30,7,5,3,7,5,3,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Trastornos del Humor (Afectivos) (F30-F39),2,1,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",24,5,4,3,5,5,2,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,1,0,1,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+DIARREA AGUDA (A00-A09),41,4,3,9,12,5,8,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+TOTAL DEMÁS CAUSAS,1496,336,334,236,232,267,62,29,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Trinidad

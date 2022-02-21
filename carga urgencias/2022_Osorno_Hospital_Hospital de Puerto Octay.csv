@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1727,228,241,276,266,112,330,274,2022,Osorno,Hospital,Hospital de Puerto Octay
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2056,228,241,276,312,354,371,274,2022,Osorno,Hospital,Hospital de Puerto Octay
+TOTAL CAUSAS SISTEMA RESPIRATORIO,137,23,15,15,19,24,27,14,2022,Osorno,Hospital,Hospital de Puerto Octay
+IRA Alta (J00-J06),84,13,7,8,11,18,18,9,2022,Osorno,Hospital,Hospital de Puerto Octay
+Influenza (J09-J11),8,3,1,2,2,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Neumonía (J12-J18),12,2,0,1,1,4,4,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Bronquitis/bronquiolitis aguda (J20-J21),13,4,1,4,3,0,1,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Crisis obstructiva bronquial (J40-J46),11,1,3,0,2,2,0,3,2022,Osorno,Hospital,Hospital de Puerto Octay
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,3,0,0,0,4,2,2022,Osorno,Hospital,Hospital de Puerto Octay
+COVID 19 Sospechoso (U072),643,44,48,59,92,148,143,109,2022,Osorno,Hospital,Hospital de Puerto Octay
+COVID 19 Confirmado (U071),20,2,1,1,3,4,3,6,2022,Osorno,Hospital,Hospital de Puerto Octay
+TOTAL CAUSAS SISTEMA CIRCULATORIO,45,4,12,12,6,1,8,2,2022,Osorno,Hospital,Hospital de Puerto Octay
+Infarto agudo miocardio,3,1,0,1,0,0,1,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Accidente vascular encefálico,10,1,1,3,1,1,3,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Crisis hipertensiva,4,1,0,1,0,0,2,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Arritmia grave,5,0,1,2,0,0,1,1,2022,Osorno,Hospital,Hospital de Puerto Octay
+Otras causas circulatorias,23,1,10,5,5,0,1,1,2022,Osorno,Hospital,Hospital de Puerto Octay
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,257,31,22,38,44,42,45,35,2022,Osorno,Hospital,Hospital de Puerto Octay
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Otras causas externas,255,30,22,38,44,41,45,35,2022,Osorno,Hospital,Hospital de Puerto Octay
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),24,1,3,7,4,5,3,1,2022,Osorno,Hospital,Hospital de Puerto Octay
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+Trastornos del Humor (Afectivos) (F30-F39),4,0,1,1,1,1,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,1,2,5,1,3,2,1,2022,Osorno,Hospital,Hospital de Puerto Octay
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,0,1,1,1,1,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+DIARREA AGUDA (A00-A09),22,7,4,6,1,2,0,2,2022,Osorno,Hospital,Hospital de Puerto Octay
+TOTAL DEMÁS CAUSAS,908,116,136,138,143,128,142,105,2022,Osorno,Hospital,Hospital de Puerto Octay
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,5,2,0,0,0,0,2,1,2022,Osorno,Hospital,Hospital de Puerto Octay
+- CAUSAS SISTEMA RESPIRATORIO,1,0,0,0,0,0,1,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+- CAUSAS SISTEMA CIRCULATORIO,2,0,0,0,0,0,1,1,2022,Osorno,Hospital,Hospital de Puerto Octay
+- TRAUMATISMOS Y ENVENENAMIENTOS,2,2,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Puerto Octay

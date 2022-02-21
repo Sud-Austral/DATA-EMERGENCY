@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5767,774,863,1054,956,841,795,484,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5754,774,863,1054,947,841,795,480,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+TOTAL CAUSAS SISTEMA RESPIRATORIO,944,126,184,177,137,139,106,75,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+IRA Alta (J00-J06),772,100,157,135,113,116,91,60,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Neumonía (J12-J18),26,3,3,3,6,5,3,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Bronquitis/bronquiolitis aguda (J20-J21),62,9,5,25,5,10,3,5,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Crisis obstructiva bronquial (J40-J46),34,6,7,5,6,3,4,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",50,8,12,9,7,5,5,4,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+COVID 19 Sospechoso (U072),1766,99,178,455,392,260,295,87,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+COVID 19 Confirmado (U071),110,2,6,5,18,36,16,27,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+TOTAL CAUSAS SISTEMA CIRCULATORIO,83,13,20,7,17,7,7,12,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Infarto agudo miocardio,1,0,0,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Accidente vascular encefálico,7,1,0,0,1,2,1,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Crisis hipertensiva,44,10,8,6,10,2,5,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Arritmia grave,2,0,1,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Otras causas circulatorias,29,2,11,1,6,3,1,5,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,374,65,63,61,44,41,68,32,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Accidentes del tránsito,1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,1,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Otras causas externas,372,64,63,60,44,41,68,32,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),56,9,12,4,9,12,3,7,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",51,8,12,4,7,11,3,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,0,0,2,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+DIARREA AGUDA (A00-A09),59,20,13,5,2,6,5,8,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+TOTAL DEMÁS CAUSAS,2362,440,387,340,328,340,295,232,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Francisco Boris Soler

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1524,130,146,206,259,242,336,205,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1604,194,188,193,236,285,303,205,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+TOTAL CAUSAS SISTEMA RESPIRATORIO,245,17,28,40,45,44,33,38,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+IRA Alta (J00-J06),195,10,20,27,34,39,29,36,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Neumonía (J12-J18),3,0,2,0,0,0,1,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Bronquitis/bronquiolitis aguda (J20-J21),8,2,2,2,2,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Crisis obstructiva bronquial (J40-J46),3,0,0,0,0,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",36,5,4,11,9,4,2,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+COVID 19 Sospechoso (U072),186,6,17,4,24,60,66,9,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+COVID 19 Confirmado (U071),172,2,1,4,25,30,55,55,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+TOTAL CAUSAS SISTEMA CIRCULATORIO,37,2,3,6,10,6,2,8,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Infarto agudo miocardio,2,0,0,0,1,1,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Accidente vascular encefálico,9,1,0,0,0,2,1,5,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Crisis hipertensiva,5,0,1,1,2,1,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Arritmia grave,2,0,0,0,0,1,1,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Otras causas circulatorias,19,1,2,5,7,1,0,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,124,33,15,17,12,18,10,19,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Accidentes del tránsito,25,1,5,0,3,8,1,7,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Lesiones autoinfligidas intencionalmente (X60-X84),4,0,4,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Otras causas externas,95,32,6,17,9,10,9,12,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),33,5,17,2,2,6,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Ideación Suicida (R458),2,0,0,1,0,1,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,0,1,0,3,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+Otros trastornos mentales no contenidos en las categorías anteriores,27,5,17,0,2,2,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+DIARREA AGUDA (A00-A09),17,2,1,3,4,2,2,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+TOTAL DEMÁS CAUSAS,790,127,106,117,114,119,135,72,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,19,0,2,5,4,2,3,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- CAUSAS SISTEMA RESPIRATORIO,2,0,0,0,1,0,1,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- COVID 19 CONFIRMADO (U071),1,0,0,0,0,0,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- CAUSAS SISTEMA CIRCULATORIO,5,0,0,0,2,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),3,0,0,2,1,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+- LAS DEMÁS CAUSAS,8,0,2,3,0,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Marchigüe

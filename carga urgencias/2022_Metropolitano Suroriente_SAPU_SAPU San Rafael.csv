@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3771,593,511,591,640,623,467,346,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3356,554,452,522,535,545,426,322,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+TOTAL CAUSAS SISTEMA RESPIRATORIO,495,91,66,99,78,70,59,32,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+IRA Alta (J00-J06),426,77,55,81,71,62,52,28,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Neumonía (J12-J18),6,2,1,2,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Bronquitis/bronquiolitis aguda (J20-J21),32,7,5,6,3,3,5,3,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Crisis obstructiva bronquial (J40-J46),16,3,2,4,3,4,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,2,3,6,1,1,1,1,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+COVID 19 Sospechoso (U072),1025,100,96,139,214,216,158,102,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+COVID 19 Confirmado (U071),23,18,0,0,0,2,0,3,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+TOTAL CAUSAS SISTEMA CIRCULATORIO,53,3,10,9,9,7,8,7,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Infarto agudo miocardio,2,0,0,0,0,0,1,1,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Accidente vascular encefálico,2,0,1,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Crisis hipertensiva,21,2,5,4,5,1,2,2,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Arritmia grave,1,0,0,0,0,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Otras causas circulatorias,27,1,4,5,4,5,4,4,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,199,47,27,32,22,34,16,21,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Accidentes del tránsito,1,0,0,0,0,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Lesiones autoinfligidas intencionalmente (X60-X84),3,0,0,3,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Otras causas externas,195,47,27,29,22,34,16,20,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),29,4,3,6,4,2,6,4,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",28,4,3,6,3,2,6,4,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+DIARREA AGUDA (A00-A09),4,0,0,0,2,1,0,1,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+TOTAL DEMÁS CAUSAS,1528,291,250,237,206,213,179,152,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Rafael

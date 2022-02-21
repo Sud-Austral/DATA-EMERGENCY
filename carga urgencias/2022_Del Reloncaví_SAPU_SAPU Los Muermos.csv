@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2387,306,377,478,294,489,247,196,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3193,414,510,543,469,565,350,342,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+TOTAL CAUSAS SISTEMA RESPIRATORIO,281,40,55,53,39,48,33,13,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+IRA Alta (J00-J06),205,26,38,44,31,32,26,8,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Influenza (J09-J11),4,0,0,0,0,4,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Neumonía (J12-J18),8,1,1,1,0,0,1,4,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Bronquitis/bronquiolitis aguda (J20-J21),13,0,8,3,1,1,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Crisis obstructiva bronquial (J40-J46),28,8,4,3,2,8,3,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,5,4,2,5,3,3,1,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+COVID 19 Sospechoso (U072),763,37,61,89,155,192,112,117,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+COVID 19 Confirmado (U071),9,0,0,1,1,3,0,4,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+TOTAL CAUSAS SISTEMA CIRCULATORIO,66,14,10,18,4,8,5,7,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Infarto agudo miocardio,1,0,0,0,0,1,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Accidente vascular encefálico,6,5,0,1,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Crisis hipertensiva,18,1,1,9,1,2,0,4,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Arritmia grave,6,1,0,2,0,0,2,1,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Otras causas circulatorias,35,7,9,6,3,5,3,2,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,390,60,77,66,43,66,34,44,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Accidentes del tránsito,5,0,0,0,2,2,0,1,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Otras causas externas,385,60,77,66,41,64,34,43,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,7,9,4,1,6,3,4,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,1,2,0,0,1,1,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Trastornos del Humor (Afectivos) (F30-F39),3,1,1,0,0,1,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",18,5,4,1,1,3,1,3,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+Otros trastornos mentales no contenidos en las categorías anteriores,8,0,2,3,0,1,1,1,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+DIARREA AGUDA (A00-A09),18,4,4,5,0,2,0,3,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+TOTAL DEMÁS CAUSAS,1632,252,294,307,226,240,163,150,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Los Muermos

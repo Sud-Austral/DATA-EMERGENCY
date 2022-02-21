@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2249,313,339,339,378,332,310,238,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,76,10,25,5,9,6,6,15,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+IRA Alta (J00-J06),7,2,0,2,0,2,1,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Crisis obstructiva bronquial (J40-J46),3,0,0,0,0,2,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",66,8,25,3,9,2,5,14,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+COVID 19 Sospechoso (U072),634,44,46,79,140,108,134,83,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+COVID 19 Confirmado (U071),32,0,0,0,2,0,12,18,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,28,3,5,6,4,3,2,5,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Infarto agudo miocardio,5,1,4,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Accidente vascular encefálico,4,0,0,1,2,1,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Crisis hipertensiva,9,1,1,3,1,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Arritmia grave,2,0,0,0,0,1,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Otras causas circulatorias,8,1,0,2,1,0,1,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,64,7,8,16,14,10,3,6,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Accidentes del tránsito,20,0,6,4,8,0,0,2,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Otras causas externas,44,7,2,12,6,10,3,4,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,2,1,4,1,2,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Ideación Suicida (R458),2,0,1,0,0,0,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+Otros trastornos mentales no contenidos en las categorías anteriores,9,2,0,4,1,2,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+DIARREA AGUDA (A00-A09),33,1,0,1,0,31,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+TOTAL DEMÁS CAUSAS,1371,246,254,228,208,172,153,110,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,53,10,7,7,1,11,7,10,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- CAUSAS SISTEMA RESPIRATORIO,3,0,0,0,0,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- COVID 19 SOSPECHOSO (U072),5,1,0,0,0,1,3,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- CAUSAS SISTEMA CIRCULATORIO,7,1,2,1,0,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,0,1,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+- LAS DEMÁS CAUSAS,37,8,5,5,1,8,2,8,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco
+CIRUGÍAS DE URGENCIA,6,0,0,2,4,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Coínco

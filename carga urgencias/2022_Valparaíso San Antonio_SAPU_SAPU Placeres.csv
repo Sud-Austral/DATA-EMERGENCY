@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3169,415,415,444,567,554,482,292,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3169,415,415,444,567,554,482,292,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+TOTAL CAUSAS SISTEMA RESPIRATORIO,200,51,35,26,25,20,15,28,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+IRA Alta (J00-J06),154,37,24,24,22,15,12,20,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Bronquitis/bronquiolitis aguda (J20-J21),14,5,2,2,1,2,1,1,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Crisis obstructiva bronquial (J40-J46),6,1,1,0,0,0,1,3,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,8,8,0,2,3,1,4,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+COVID 19 Sospechoso (U072),1466,107,135,222,341,353,235,73,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+COVID 19 Confirmado (U071),59,5,2,2,3,3,5,39,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+TOTAL CAUSAS SISTEMA CIRCULATORIO,60,3,13,11,8,4,15,6,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Crisis hipertensiva,37,3,5,10,3,3,10,3,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Arritmia grave,2,0,0,0,0,0,1,1,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Otras causas circulatorias,20,0,8,0,5,1,4,2,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,190,38,27,29,30,14,24,28,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Otras causas externas,189,38,27,29,30,13,24,28,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),3,0,0,0,0,0,0,3,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,0,0,0,0,0,0,3,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+DIARREA AGUDA (A00-A09),65,15,8,5,8,3,26,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+TOTAL DEMÁS CAUSAS,1126,196,195,149,152,157,162,115,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Placeres

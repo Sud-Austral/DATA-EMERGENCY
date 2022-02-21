@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1955,222,218,217,338,400,366,194,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1891,216,216,214,327,392,357,169,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+TOTAL CAUSAS SISTEMA RESPIRATORIO,311,17,35,29,96,59,49,26,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+IRA Alta (J00-J06),278,13,30,23,91,57,40,24,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Influenza (J09-J11),1,0,0,0,0,0,0,1,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Neumonía (J12-J18),5,1,0,1,1,0,2,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Bronquitis/bronquiolitis aguda (J20-J21),11,1,2,3,2,0,3,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Crisis obstructiva bronquial (J40-J46),2,1,0,0,0,0,0,1,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,1,3,2,2,2,4,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+COVID 19 Sospechoso (U072),521,4,15,31,60,175,172,64,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+COVID 19 Confirmado (U071),54,0,0,8,23,19,3,1,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+TOTAL CAUSAS SISTEMA CIRCULATORIO,24,2,5,3,2,3,8,1,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Infarto agudo miocardio,2,0,0,0,0,0,2,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Accidente vascular encefálico,2,0,1,0,1,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Crisis hipertensiva,13,0,2,3,1,3,3,1,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Otras causas circulatorias,7,2,2,0,0,0,3,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,112,18,16,12,12,16,20,18,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Accidentes del tránsito,3,0,0,0,0,0,3,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,1,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Otras causas externas,108,18,16,12,12,16,16,18,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),10,3,2,1,1,0,3,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Ideación Suicida (R458),2,0,0,1,0,0,1,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,0,0,1,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+Otros trastornos mentales no contenidos en las categorías anteriores,5,3,1,0,0,0,1,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+DIARREA AGUDA (A00-A09),94,15,15,16,26,8,6,8,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+TOTAL DEMÁS CAUSAS,765,157,128,114,107,112,96,51,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,Hospital,Hospital de Petorca

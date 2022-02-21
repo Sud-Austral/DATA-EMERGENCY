@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1704,215,218,268,307,288,225,183,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1624,212,218,259,289,259,210,177,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+TOTAL CAUSAS SISTEMA RESPIRATORIO,293,40,31,47,65,28,42,40,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+IRA Alta (J00-J06),243,33,22,36,55,25,36,36,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Neumonía (J12-J18),3,1,0,0,0,0,0,2,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Bronquitis/bronquiolitis aguda (J20-J21),25,2,6,5,6,1,4,1,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Crisis obstructiva bronquial (J40-J46),16,3,3,5,3,0,1,1,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,1,0,1,1,2,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+COVID 19 Sospechoso (U072),312,21,18,42,59,96,37,39,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+COVID 19 Confirmado (U071),10,0,2,1,1,1,4,1,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+TOTAL CAUSAS SISTEMA CIRCULATORIO,23,5,5,5,2,4,2,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Crisis hipertensiva,13,1,4,3,0,3,2,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Arritmia grave,2,1,0,0,1,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Otras causas circulatorias,8,3,1,2,1,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,149,30,32,20,29,16,12,10,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Otras causas externas,148,30,32,20,28,16,12,10,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,1,1,1,1,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,1,1,1,1,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+DIARREA AGUDA (A00-A09),21,5,3,1,2,7,1,2,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+TOTAL DEMÁS CAUSAS,811,110,126,142,130,106,112,85,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Eduardo de Geyter

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,216,5,77,54,52,14,14,0,2022,Iquique,CEAR,CEAR Camiña
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,252,5,77,54,52,40,14,10,2022,Iquique,CEAR,CEAR Camiña
+TOTAL CAUSAS SISTEMA RESPIRATORIO,153,2,46,43,29,21,7,5,2022,Iquique,CEAR,CEAR Camiña
+IRA Alta (J00-J06),144,2,42,42,28,20,6,4,2022,Iquique,CEAR,CEAR Camiña
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Bronquitis/bronquiolitis aguda (J20-J21),3,0,1,1,0,1,0,0,2022,Iquique,CEAR,CEAR Camiña
+Crisis obstructiva bronquial (J40-J46),2,0,2,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,0,1,0,1,0,1,1,2022,Iquique,CEAR,CEAR Camiña
+COVID 19 Sospechoso (U072),51,0,22,0,9,14,5,1,2022,Iquique,CEAR,CEAR Camiña
+COVID 19 Confirmado (U071),39,0,3,11,14,5,2,4,2022,Iquique,CEAR,CEAR Camiña
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,9,3,6,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Otras causas externas,9,3,6,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+TOTAL DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Iquique,CEAR,CEAR Camiña

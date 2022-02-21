@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2317,256,265,271,341,438,443,303,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2285,254,261,270,335,428,436,301,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,262,65,39,30,22,32,39,35,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+IRA Alta (J00-J06),179,47,20,22,16,22,30,22,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Bronquitis/bronquiolitis aguda (J20-J21),6,1,2,0,0,2,0,1,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Crisis obstructiva bronquial (J40-J46),8,2,4,0,1,0,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",69,15,13,8,5,8,8,12,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+COVID 19 Sospechoso (U072),1212,47,86,126,215,288,269,181,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+COVID 19 Confirmado (U071),18,0,0,0,3,4,7,4,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,2,4,5,3,3,7,2,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Crisis hipertensiva,17,1,4,2,0,2,6,2,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Otras causas circulatorias,9,1,0,3,3,1,1,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,109,15,17,14,17,18,14,14,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Otras causas externas,109,15,17,14,17,18,14,14,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),17,3,1,5,1,3,2,2,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+Otros trastornos mentales no contenidos en las categorías anteriores,17,3,1,5,1,3,2,2,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+DIARREA AGUDA (A00-A09),58,11,16,9,3,5,14,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+TOTAL DEMÁS CAUSAS,583,111,98,81,71,75,84,63,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Centro

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2950,370,367,365,510,507,504,327,2022,Concepción,Hospital,Hospital de Florida
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2780,365,362,354,473,490,447,289,2022,Concepción,Hospital,Hospital de Florida
+TOTAL CAUSAS SISTEMA RESPIRATORIO,326,67,50,80,84,17,13,15,2022,Concepción,Hospital,Hospital de Florida
+IRA Alta (J00-J06),244,50,36,62,66,12,6,12,2022,Concepción,Hospital,Hospital de Florida
+Influenza (J09-J11),5,3,2,0,0,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+Neumonía (J12-J18),4,0,0,0,3,0,1,0,2022,Concepción,Hospital,Hospital de Florida
+Bronquitis/bronquiolitis aguda (J20-J21),32,8,6,6,7,1,4,0,2022,Concepción,Hospital,Hospital de Florida
+Crisis obstructiva bronquial (J40-J46),31,4,6,9,6,3,1,2,2022,Concepción,Hospital,Hospital de Florida
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,2,0,3,2,1,1,1,2022,Concepción,Hospital,Hospital de Florida
+COVID 19 Sospechoso (U072),666,12,1,8,59,251,194,141,2022,Concepción,Hospital,Hospital de Florida
+COVID 19 Confirmado (U071),113,5,4,7,64,9,9,15,2022,Concepción,Hospital,Hospital de Florida
+TOTAL CAUSAS SISTEMA CIRCULATORIO,48,12,9,6,6,9,4,2,2022,Concepción,Hospital,Hospital de Florida
+Infarto agudo miocardio,3,2,0,0,0,0,1,0,2022,Concepción,Hospital,Hospital de Florida
+Accidente vascular encefálico,2,0,0,1,0,1,0,0,2022,Concepción,Hospital,Hospital de Florida
+Crisis hipertensiva,15,5,4,1,1,1,1,2,2022,Concepción,Hospital,Hospital de Florida
+Arritmia grave,6,0,0,2,2,2,0,0,2022,Concepción,Hospital,Hospital de Florida
+Otras causas circulatorias,22,5,5,2,3,5,2,0,2022,Concepción,Hospital,Hospital de Florida
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,351,68,65,40,55,42,56,25,2022,Concepción,Hospital,Hospital de Florida
+Accidentes del tránsito,11,1,2,0,0,2,6,0,2022,Concepción,Hospital,Hospital de Florida
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+Otras causas externas,339,66,63,40,55,40,50,25,2022,Concepción,Hospital,Hospital de Florida
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),48,9,7,6,7,8,6,5,2022,Concepción,Hospital,Hospital de Florida
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,2,1,1,1,0,1,0,2022,Concepción,Hospital,Hospital de Florida
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,0,1,2,0,0,2022,Concepción,Hospital,Hospital de Florida
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",35,6,6,5,4,5,5,4,2022,Concepción,Hospital,Hospital de Florida
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,0,0,1,1,0,1,2022,Concepción,Hospital,Hospital de Florida
+DIARREA AGUDA (A00-A09),111,13,17,25,26,5,12,13,2022,Concepción,Hospital,Hospital de Florida
+TOTAL DEMÁS CAUSAS,1117,179,209,182,172,149,153,73,2022,Concepción,Hospital,Hospital de Florida
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,27,5,2,3,7,6,3,1,2022,Concepción,Hospital,Hospital de Florida
+- CAUSAS SISTEMA RESPIRATORIO,7,2,0,0,3,0,1,1,2022,Concepción,Hospital,Hospital de Florida
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+- CAUSAS SISTEMA CIRCULATORIO,1,0,0,0,1,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+- TRAUMATISMOS Y ENVENENAMIENTOS,2,0,0,1,1,0,0,0,2022,Concepción,Hospital,Hospital de Florida
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,1,0,0,2022,Concepción,Hospital,Hospital de Florida
+- LAS DEMÁS CAUSAS,16,3,2,2,2,5,2,0,2022,Concepción,Hospital,Hospital de Florida
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,Hospital,Hospital de Florida

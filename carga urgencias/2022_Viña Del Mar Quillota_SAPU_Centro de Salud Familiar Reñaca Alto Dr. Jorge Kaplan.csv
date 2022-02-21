@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Influenza (J09-J11),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Crisis hipertensiva,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Arritmia grave,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Otras causas circulatorias,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Accidentes del tránsito,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Lesiones autoinfligidas intencionalmente (X60-X84),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Otras causas externas,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Ideación Suicida (R458),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Trastornos del Humor (Afectivos) (F30-F39),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+Otros trastornos mentales no contenidos en las categorías anteriores,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- COVID 19 SOSPECHOSO (U072),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- COVID 19 CONFIRMADO (U071),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan

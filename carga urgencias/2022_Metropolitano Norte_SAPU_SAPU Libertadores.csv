@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2485,288,373,415,463,464,482,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2666,287,371,398,443,454,468,245,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+TOTAL CAUSAS SISTEMA RESPIRATORIO,742,100,121,103,113,131,123,51,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+IRA Alta (J00-J06),658,79,107,97,111,128,101,35,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Neumonía (J12-J18),3,0,1,1,1,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Bronquitis/bronquiolitis aguda (J20-J21),13,5,5,1,1,1,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Crisis obstructiva bronquial (J40-J46),4,2,0,1,0,1,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",64,14,8,3,0,1,22,16,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+COVID 19 Sospechoso (U072),269,11,13,94,91,38,13,9,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+COVID 19 Confirmado (U071),542,6,20,44,94,143,152,83,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+TOTAL CAUSAS SISTEMA CIRCULATORIO,27,6,4,4,3,4,1,5,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Crisis hipertensiva,16,2,3,2,3,2,1,3,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Otras causas circulatorias,10,4,0,2,0,2,0,2,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,126,17,34,28,14,14,10,9,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Otras causas externas,126,17,34,28,14,14,10,9,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),13,5,3,2,1,0,1,1,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Trastornos del Humor (Afectivos) (F30-F39),11,3,3,2,1,0,1,1,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+DIARREA AGUDA (A00-A09),39,3,9,5,6,1,10,5,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+TOTAL DEMÁS CAUSAS,908,139,167,118,121,123,158,82,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Libertadores

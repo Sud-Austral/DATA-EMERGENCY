@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1631,189,200,213,300,260,281,188,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,113,16,18,28,15,16,13,7,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+IRA Alta (J00-J06),84,10,16,20,14,9,10,5,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Neumonía (J12-J18),7,0,0,1,0,4,1,1,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Bronquitis/bronquiolitis aguda (J20-J21),10,2,2,4,1,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Crisis obstructiva bronquial (J40-J46),3,1,0,1,0,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,3,0,2,0,2,1,1,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+COVID 19 Sospechoso (U072),663,29,38,70,155,128,141,102,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+COVID 19 Confirmado (U071),8,0,0,0,2,0,3,3,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,35,8,4,7,4,2,3,7,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Infarto agudo miocardio,2,1,0,1,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Crisis hipertensiva,20,6,2,2,2,1,3,4,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Arritmia grave,2,0,0,2,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Otras causas circulatorias,11,1,2,2,2,1,0,3,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,64,4,14,9,16,3,11,7,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Accidentes del tránsito,15,0,5,1,8,0,0,1,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Otras causas externas,49,4,9,8,8,3,11,6,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),6,3,1,1,0,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Ideación Suicida (R458),1,1,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Trastornos del Humor (Afectivos) (F30-F39),2,1,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,1,0,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+DIARREA AGUDA (A00-A09),16,5,1,4,5,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+TOTAL DEMÁS CAUSAS,726,124,124,94,103,109,110,62,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Peralillo

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3409,472,486,571,565,562,421,332,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3440,466,478,553,546,546,523,328,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1425,181,177,250,244,247,217,109,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+IRA Alta (J00-J06),803,114,78,133,101,151,162,64,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Neumonía (J12-J18),3,0,0,0,0,0,0,3,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Bronquitis/bronquiolitis aguda (J20-J21),34,6,7,7,5,3,3,3,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Crisis obstructiva bronquial (J40-J46),10,3,1,4,0,2,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",575,58,91,106,138,91,52,39,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+COVID 19 Sospechoso (U072),6,0,0,0,0,0,6,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,49,0,0,2,2,0,45,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Crisis hipertensiva,4,0,0,2,2,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Arritmia grave,21,0,0,0,0,0,21,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Otras causas circulatorias,23,0,0,0,0,0,23,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+DIARREA AGUDA (A00-A09),186,24,20,27,23,35,32,25,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+TOTAL DEMÁS CAUSAS,1774,261,281,274,277,264,223,194,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Diputado Manuel Bustos Huerta

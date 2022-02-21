@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5422,704,637,692,862,989,917,621,2022,Bíobío,Hospital,Hospital de Yumbel
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5175,676,614,676,840,915,862,592,2022,Bíobío,Hospital,Hospital de Yumbel
+TOTAL CAUSAS SISTEMA RESPIRATORIO,226,27,31,51,28,27,31,31,2022,Bíobío,Hospital,Hospital de Yumbel
+IRA Alta (J00-J06),150,16,17,39,17,18,21,22,2022,Bíobío,Hospital,Hospital de Yumbel
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Yumbel
+Neumonía (J12-J18),11,2,2,1,1,0,4,1,2022,Bíobío,Hospital,Hospital de Yumbel
+Bronquitis/bronquiolitis aguda (J20-J21),28,6,9,2,2,4,3,2,2022,Bíobío,Hospital,Hospital de Yumbel
+Crisis obstructiva bronquial (J40-J46),27,1,2,6,6,5,2,5,2022,Bíobío,Hospital,Hospital de Yumbel
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,2,1,3,2,0,1,1,2022,Bíobío,Hospital,Hospital de Yumbel
+COVID 19 Sospechoso (U072),1397,134,107,114,259,320,301,162,2022,Bíobío,Hospital,Hospital de Yumbel
+COVID 19 Confirmado (U071),59,3,0,4,3,8,16,25,2022,Bíobío,Hospital,Hospital de Yumbel
+TOTAL CAUSAS SISTEMA CIRCULATORIO,74,15,11,12,11,8,11,6,2022,Bíobío,Hospital,Hospital de Yumbel
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Bíobío,Hospital,Hospital de Yumbel
+Accidente vascular encefálico,10,1,0,2,2,1,3,1,2022,Bíobío,Hospital,Hospital de Yumbel
+Crisis hipertensiva,24,3,4,4,4,3,2,4,2022,Bíobío,Hospital,Hospital de Yumbel
+Arritmia grave,8,3,2,0,1,1,1,0,2022,Bíobío,Hospital,Hospital de Yumbel
+Otras causas circulatorias,31,8,5,5,4,3,5,1,2022,Bíobío,Hospital,Hospital de Yumbel
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,17,4,5,0,3,1,0,4,2022,Bíobío,Hospital,Hospital de Yumbel
+Accidentes del tránsito,8,3,2,0,0,0,0,3,2022,Bíobío,Hospital,Hospital de Yumbel
+Lesiones autoinfligidas intencionalmente (X60-X84),7,1,3,0,1,1,0,1,2022,Bíobío,Hospital,Hospital de Yumbel
+Otras causas externas,2,0,0,0,2,0,0,0,2022,Bíobío,Hospital,Hospital de Yumbel
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),57,6,8,10,12,9,6,6,2022,Bíobío,Hospital,Hospital de Yumbel
+Ideación Suicida (R458),1,0,1,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Yumbel
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),22,2,2,7,8,2,0,1,2022,Bíobío,Hospital,Hospital de Yumbel
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,0,1,1,1,0,2022,Bíobío,Hospital,Hospital de Yumbel
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",20,2,3,1,3,4,3,4,2022,Bíobío,Hospital,Hospital de Yumbel
+Otros trastornos mentales no contenidos en las categorías anteriores,11,2,2,2,0,2,2,1,2022,Bíobío,Hospital,Hospital de Yumbel
+DIARREA AGUDA (A00-A09),187,20,23,33,32,29,33,17,2022,Bíobío,Hospital,Hospital de Yumbel
+TOTAL DEMÁS CAUSAS,3158,467,429,452,492,513,464,341,2022,Bíobío,Hospital,Hospital de Yumbel
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,1248,150,170,184,199,198,206,141,2022,Bíobío,Hospital,Hospital de Yumbel
+- CAUSAS SISTEMA RESPIRATORIO,96,10,20,16,19,12,13,6,2022,Bíobío,Hospital,Hospital de Yumbel
+- COVID 19 SOSPECHOSO (U072),37,18,5,5,3,5,1,0,2022,Bíobío,Hospital,Hospital de Yumbel
+- COVID 19 CONFIRMADO (U071),274,43,29,26,13,65,61,37,2022,Bíobío,Hospital,Hospital de Yumbel
+- CAUSAS SISTEMA CIRCULATORIO,77,8,14,9,13,16,12,5,2022,Bíobío,Hospital,Hospital de Yumbel
+- TRAUMATISMOS Y ENVENENAMIENTOS,36,0,2,2,14,12,2,4,2022,Bíobío,Hospital,Hospital de Yumbel
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Yumbel
+- LAS DEMÁS CAUSAS,728,71,100,126,137,88,117,89,2022,Bíobío,Hospital,Hospital de Yumbel
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,Hospital,Hospital de Yumbel

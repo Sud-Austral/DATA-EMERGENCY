@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3381,500,570,596,651,406,433,225,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3101,461,517,526,613,371,405,208,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+TOTAL CAUSAS SISTEMA RESPIRATORIO,454,74,87,97,142,32,15,7,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+IRA Alta (J00-J06),392,60,74,85,133,24,9,7,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Neumonía (J12-J18),2,0,0,1,0,1,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Bronquitis/bronquiolitis aguda (J20-J21),27,5,7,5,6,3,1,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Crisis obstructiva bronquial (J40-J46),4,1,0,0,2,0,1,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,8,6,6,1,4,4,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+COVID 19 Sospechoso (U072),1320,91,141,178,313,236,240,121,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+COVID 19 Confirmado (U071),11,0,0,0,8,1,0,2,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+TOTAL CAUSAS SISTEMA CIRCULATORIO,35,11,7,7,6,4,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Infarto agudo miocardio,1,0,1,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Accidente vascular encefálico,2,0,1,0,0,1,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Crisis hipertensiva,15,5,4,2,3,1,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Arritmia grave,4,1,0,0,1,2,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Otras causas circulatorias,13,5,1,5,2,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,261,48,67,56,27,18,32,13,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Accidentes del tránsito,2,1,0,0,0,1,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Otras causas externas,259,47,67,56,27,17,32,13,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,2,2,0,1,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,2,2,0,1,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+DIARREA AGUDA (A00-A09),36,11,2,10,8,5,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+TOTAL DEMÁS CAUSAS,979,224,211,178,108,75,118,65,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Pedro Aguirre Cerda

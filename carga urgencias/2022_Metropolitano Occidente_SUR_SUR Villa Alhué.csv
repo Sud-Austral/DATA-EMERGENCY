@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1304,189,169,203,254,198,165,126,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,430,68,56,61,71,74,58,42,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+TOTAL CAUSAS SISTEMA RESPIRATORIO,90,23,14,6,18,13,12,4,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+IRA Alta (J00-J06),51,15,7,5,12,11,1,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Influenza (J09-J11),3,3,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Neumonía (J12-J18),8,3,2,0,1,0,1,1,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Bronquitis/bronquiolitis aguda (J20-J21),7,1,2,0,2,0,2,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Crisis obstructiva bronquial (J40-J46),2,1,0,0,1,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,0,3,1,2,2,8,3,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+COVID 19 Sospechoso (U072),18,0,0,4,3,3,4,4,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+COVID 19 Confirmado (U071),44,0,0,5,13,12,8,6,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+TOTAL CAUSAS SISTEMA CIRCULATORIO,16,2,2,1,5,3,0,3,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Crisis hipertensiva,1,0,0,1,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Arritmia grave,2,0,0,0,1,1,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Otras causas circulatorias,13,2,2,0,4,2,0,3,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,50,3,8,11,9,8,4,7,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Otras causas externas,50,3,8,11,9,8,4,7,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,0,1,1,0,2,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,0,1,1,0,1,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+TOTAL DEMÁS CAUSAS,208,40,31,33,23,33,30,18,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SUR,SUR Villa Alhué
