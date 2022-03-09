@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1035,151,156,143,75,141,224,145,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,870,135,138,143,69,128,145,112,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+TOTAL CAUSAS SISTEMA RESPIRATORIO,30,6,0,0,0,10,11,3,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+IRA Alta (J00-J06),19,0,0,0,0,8,9,2,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Bronquitis/bronquiolitis aguda (J20-J21),4,0,0,0,0,2,2,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,6,0,0,0,0,0,1,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+COVID 19 Sospechoso (U072),312,44,51,40,4,68,35,70,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+COVID 19 Confirmado (U071),24,0,0,0,0,5,19,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,24,7,0,0,0,2,13,2,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Otras causas externas,23,7,0,0,0,1,13,2,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+TOTAL DEMÁS CAUSAS,480,78,87,103,65,43,67,37,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU Isabel Riquelme

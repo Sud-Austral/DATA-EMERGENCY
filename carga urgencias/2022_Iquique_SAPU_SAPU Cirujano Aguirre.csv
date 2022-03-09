@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3067,592,569,528,466,290,378,244,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3149,592,569,528,466,372,378,244,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+TOTAL CAUSAS SISTEMA RESPIRATORIO,187,46,33,20,15,27,41,5,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+IRA Alta (J00-J06),137,39,27,16,13,21,17,4,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Neumonía (J12-J18),23,0,0,2,0,2,18,1,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Bronquitis/bronquiolitis aguda (J20-J21),6,0,3,0,1,0,2,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Crisis obstructiva bronquial (J40-J46),9,7,0,1,0,1,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,0,3,1,1,3,4,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+COVID 19 Sospechoso (U072),1482,241,388,405,235,110,66,37,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+COVID 19 Confirmado (U071),108,1,15,23,30,19,14,6,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+TOTAL CAUSAS SISTEMA CIRCULATORIO,28,1,1,4,8,5,6,3,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Infarto agudo miocardio,3,0,0,0,0,1,2,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Accidente vascular encefálico,1,0,0,0,0,0,0,1,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Crisis hipertensiva,16,0,0,3,5,4,2,2,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Arritmia grave,1,0,0,1,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Otras causas circulatorias,7,1,1,0,3,0,2,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,486,117,45,38,83,66,63,74,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Otras causas externas,485,117,45,38,82,66,63,74,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),13,0,5,0,0,4,2,2,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,0,0,0,0,1,1,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+Otros trastornos mentales no contenidos en las categorías anteriores,11,0,5,0,0,4,1,1,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+DIARREA AGUDA (A00-A09),133,47,19,5,17,18,15,12,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+TOTAL DEMÁS CAUSAS,712,139,63,33,78,123,171,105,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Iquique,SAPU,SAPU Cirujano Aguirre

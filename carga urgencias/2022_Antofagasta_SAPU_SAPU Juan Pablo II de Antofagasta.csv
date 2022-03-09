@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1254,0,417,837,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3553,860,760,719,-,257,495,462,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1169,358,265,256,-,70,113,107,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+IRA Alta (J00-J06),1080,313,251,251,-,64,105,96,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Influenza (J09-J11),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Neumonía (J12-J18),2,0,0,0,-,0,0,2,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Bronquitis/bronquiolitis aguda (J20-J21),59,27,13,4,-,4,8,3,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Crisis obstructiva bronquial (J40-J46),7,3,0,1,-,1,0,2,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,15,1,0,-,1,0,4,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+COVID 19 Sospechoso (U072),584,35,122,197,-,86,111,33,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+COVID 19 Confirmado (U071),29,0,0,0,-,0,3,26,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,18,7,2,3,-,0,3,3,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Infarto agudo miocardio,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Accidente vascular encefálico,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Crisis hipertensiva,10,6,2,0,-,0,0,2,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Arritmia grave,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Otras causas circulatorias,8,1,0,3,-,0,3,1,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,190,41,35,42,-,11,33,28,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Accidentes del tránsito,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Otras causas externas,190,41,35,42,-,11,33,28,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),23,4,2,3,-,1,7,6,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Ideación Suicida (R458),1,0,0,0,-,0,0,1,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,2,0,1,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+Otros trastornos mentales no contenidos en las categorías anteriores,19,2,2,2,-,1,7,5,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+DIARREA AGUDA (A00-A09),211,55,55,32,-,10,23,36,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+TOTAL DEMÁS CAUSAS,1329,360,279,186,-,79,202,223,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+- LAS DEMÁS CAUSAS,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta
+CIRUGÍAS DE URGENCIA,0,0,0,0,-,0,0,0,2022,Antofagasta,SAPU,SAPU Juan Pablo II de Antofagasta

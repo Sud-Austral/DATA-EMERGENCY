@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3512,461,462,525,490,570,559,445,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3357,448,453,511,474,535,514,422,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+TOTAL CAUSAS SISTEMA RESPIRATORIO,584,104,70,143,83,63,70,51,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+IRA Alta (J00-J06),488,87,53,121,68,53,64,42,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Influenza (J09-J11),1,0,0,0,0,0,0,1,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Neumonía (J12-J18),13,2,2,3,2,2,0,2,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Bronquitis/bronquiolitis aguda (J20-J21),31,5,6,5,6,3,3,3,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Crisis obstructiva bronquial (J40-J46),31,5,4,12,2,4,3,1,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,5,5,2,5,1,0,2,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+COVID 19 Sospechoso (U072),1033,51,66,73,139,246,265,193,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+COVID 19 Confirmado (U071),20,0,0,9,1,2,2,6,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+TOTAL CAUSAS SISTEMA CIRCULATORIO,42,8,7,8,5,4,5,5,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Infarto agudo miocardio,2,0,0,1,0,0,0,1,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Accidente vascular encefálico,2,0,0,0,1,0,0,1,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Crisis hipertensiva,10,2,2,3,2,1,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Arritmia grave,3,1,1,0,0,0,1,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Otras causas circulatorias,25,5,4,4,2,3,4,3,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,280,52,56,41,42,34,27,28,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Otras causas externas,280,52,56,41,42,34,27,28,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),31,4,6,5,5,5,2,4,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,1,0,0,1,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",25,4,4,5,3,4,1,4,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,1,0,2,0,1,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+DIARREA AGUDA (A00-A09),8,0,2,1,0,1,2,2,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+TOTAL DEMÁS CAUSAS,1359,229,246,231,199,180,141,133,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,SAPU,SAPU Dr. Pedro Jáuregui

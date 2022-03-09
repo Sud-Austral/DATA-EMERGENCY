@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2513,394,457,452,438,316,280,176,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2395,354,412,435,430,312,279,173,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+TOTAL CAUSAS SISTEMA RESPIRATORIO,664,131,133,123,140,77,33,27,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+IRA Alta (J00-J06),551,101,120,111,120,51,24,24,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Neumonía (J12-J18),1,0,0,0,0,0,1,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Bronquitis/bronquiolitis aguda (J20-J21),40,12,4,7,8,7,2,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Crisis obstructiva bronquial (J40-J46),10,3,2,2,1,0,2,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",62,15,7,3,11,19,4,3,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+COVID 19 Sospechoso (U072),508,16,104,114,118,66,71,19,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+COVID 19 Confirmado (U071),4,0,0,0,0,0,0,4,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+TOTAL CAUSAS SISTEMA CIRCULATORIO,41,8,2,10,9,5,6,1,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Crisis hipertensiva,16,1,1,7,3,2,1,1,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Otras causas circulatorias,24,7,1,3,6,2,5,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,205,23,18,41,34,33,29,27,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Otras causas externas,205,23,18,41,34,33,29,27,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),18,4,1,3,2,1,3,4,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,1,0,0,0,1,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,4,1,1,2,1,3,3,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,1,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+DIARREA AGUDA (A00-A09),70,18,12,8,9,9,8,6,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+TOTAL DEMÁS CAUSAS,885,154,142,136,118,121,129,85,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Antonio Rendic

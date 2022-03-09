@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3819,578,681,772,629,513,406,240,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3359,538,614,597,531,469,378,232,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,950,174,249,150,144,98,88,47,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+IRA Alta (J00-J06),861,157,233,136,132,78,80,45,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Neumonía (J12-J18),5,1,0,0,1,2,1,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Bronquitis/bronquiolitis aguda (J20-J21),44,7,11,9,7,3,6,1,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Crisis obstructiva bronquial (J40-J46),15,4,3,2,2,4,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",25,5,2,3,2,11,1,1,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+COVID 19 Sospechoso (U072),714,39,98,227,195,119,26,10,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+COVID 19 Confirmado (U071),46,0,0,0,0,1,20,25,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,34,4,4,6,4,2,12,2,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Crisis hipertensiva,15,2,4,3,3,0,2,1,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Arritmia grave,2,1,0,0,0,0,1,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Otras causas circulatorias,17,1,0,3,1,2,9,1,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,225,53,47,25,23,30,30,17,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Accidentes del tránsito,11,0,8,0,0,3,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Otras causas externas,214,53,39,25,23,27,30,17,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),30,6,3,3,4,6,7,1,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,0,0,3,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",25,5,2,3,1,6,7,1,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+DIARREA AGUDA (A00-A09),51,6,8,13,6,3,7,8,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+TOTAL DEMÁS CAUSAS,1309,256,205,173,155,210,188,122,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norte de Antofagasta

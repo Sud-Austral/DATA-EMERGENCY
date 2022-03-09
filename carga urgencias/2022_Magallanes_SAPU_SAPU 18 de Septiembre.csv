@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1294,197,230,221,242,159,173,72,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1257,194,220,216,238,153,164,72,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+TOTAL CAUSAS SISTEMA RESPIRATORIO,201,35,35,43,39,22,17,10,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+IRA Alta (J00-J06),177,33,29,40,32,19,15,9,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Neumonía (J12-J18),4,0,3,0,0,0,1,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Bronquitis/bronquiolitis aguda (J20-J21),6,1,1,2,0,1,0,1,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Crisis obstructiva bronquial (J40-J46),4,0,1,1,1,1,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,1,1,0,6,1,1,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+COVID 19 Sospechoso (U072),371,35,83,94,81,35,33,10,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+COVID 19 Confirmado (U071),2,0,0,0,1,1,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+TOTAL CAUSAS SISTEMA CIRCULATORIO,18,3,5,2,3,4,1,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Crisis hipertensiva,11,1,4,1,2,3,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Otras causas circulatorias,7,2,1,1,1,1,1,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,74,12,12,12,11,13,8,6,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Otras causas externas,74,12,12,12,11,13,8,6,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),18,5,2,2,1,1,4,3,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,3,2,2,1,1,4,3,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+DIARREA AGUDA (A00-A09),10,1,2,1,2,1,2,1,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+TOTAL DEMÁS CAUSAS,563,103,81,62,100,76,99,42,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Magallanes,SAPU,SAPU 18 de Septiembre

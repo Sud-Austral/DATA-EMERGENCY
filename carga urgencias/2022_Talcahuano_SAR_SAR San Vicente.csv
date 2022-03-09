@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8300,752,847,1299,1263,1738,1480,921,2022,Talcahuano,SAR,SAR San Vicente
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8432,1041,1043,1065,1291,1515,1191,1286,2022,Talcahuano,SAR,SAR San Vicente
+TOTAL CAUSAS SISTEMA RESPIRATORIO,975,183,202,164,153,106,68,99,2022,Talcahuano,SAR,SAR San Vicente
+IRA Alta (J00-J06),850,153,177,146,131,93,59,91,2022,Talcahuano,SAR,SAR San Vicente
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+Neumonía (J12-J18),17,2,4,2,4,4,1,0,2022,Talcahuano,SAR,SAR San Vicente
+Bronquitis/bronquiolitis aguda (J20-J21),49,13,8,8,9,2,4,5,2022,Talcahuano,SAR,SAR San Vicente
+Crisis obstructiva bronquial (J40-J46),38,10,9,5,5,3,3,3,2022,Talcahuano,SAR,SAR San Vicente
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,5,4,3,4,4,1,0,2022,Talcahuano,SAR,SAR San Vicente
+COVID 19 Sospechoso (U072),3458,159,140,280,567,813,742,757,2022,Talcahuano,SAR,SAR San Vicente
+COVID 19 Confirmado (U071),96,3,6,6,17,10,10,44,2022,Talcahuano,SAR,SAR San Vicente
+TOTAL CAUSAS SISTEMA CIRCULATORIO,73,10,14,11,12,9,10,7,2022,Talcahuano,SAR,SAR San Vicente
+Infarto agudo miocardio,4,1,0,0,0,0,2,1,2022,Talcahuano,SAR,SAR San Vicente
+Accidente vascular encefálico,5,0,2,0,1,1,1,0,2022,Talcahuano,SAR,SAR San Vicente
+Crisis hipertensiva,24,4,5,7,3,0,1,4,2022,Talcahuano,SAR,SAR San Vicente
+Arritmia grave,5,1,1,0,2,0,0,1,2022,Talcahuano,SAR,SAR San Vicente
+Otras causas circulatorias,35,4,6,4,6,8,6,1,2022,Talcahuano,SAR,SAR San Vicente
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,15,1,0,0,0,2,11,1,2022,Talcahuano,SAR,SAR San Vicente
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+Otras causas externas,14,0,0,0,0,2,11,1,2022,Talcahuano,SAR,SAR San Vicente
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),61,13,13,9,5,13,3,5,2022,Talcahuano,SAR,SAR San Vicente
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,3,0,0,1,2,0,1,2022,Talcahuano,SAR,SAR San Vicente
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,1,0,1,0,0,2022,Talcahuano,SAR,SAR San Vicente
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",43,9,10,6,4,7,3,4,2022,Talcahuano,SAR,SAR San Vicente
+Otros trastornos mentales no contenidos en las categorías anteriores,9,1,3,2,0,3,0,0,2022,Talcahuano,SAR,SAR San Vicente
+DIARREA AGUDA (A00-A09),97,17,25,19,12,13,6,5,2022,Talcahuano,SAR,SAR San Vicente
+TOTAL DEMÁS CAUSAS,3657,655,643,576,525,549,341,368,2022,Talcahuano,SAR,SAR San Vicente
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR San Vicente

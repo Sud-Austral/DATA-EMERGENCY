@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2822,177,95,159,461,964,539,427,2022,Valdivia,Hospital,Hospital de Paillaco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4508,627,570,559,722,897,663,470,2022,Valdivia,Hospital,Hospital de Paillaco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,186,15,19,16,29,45,51,11,2022,Valdivia,Hospital,Hospital de Paillaco
+IRA Alta (J00-J06),152,9,14,12,24,36,47,10,2022,Valdivia,Hospital,Hospital de Paillaco
+Influenza (J09-J11),2,0,0,0,0,2,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Neumonía (J12-J18),12,3,1,1,1,3,2,1,2022,Valdivia,Hospital,Hospital de Paillaco
+Bronquitis/bronquiolitis aguda (J20-J21),13,3,2,1,3,3,1,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Crisis obstructiva bronquial (J40-J46),3,0,0,2,0,1,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,0,2,0,1,0,1,0,2022,Valdivia,Hospital,Hospital de Paillaco
+COVID 19 Sospechoso (U072),1156,67,67,105,217,360,169,171,2022,Valdivia,Hospital,Hospital de Paillaco
+COVID 19 Confirmado (U071),138,1,2,0,6,48,47,34,2022,Valdivia,Hospital,Hospital de Paillaco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,53,10,5,7,14,12,3,2,2022,Valdivia,Hospital,Hospital de Paillaco
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Accidente vascular encefálico,7,2,0,2,1,2,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Crisis hipertensiva,10,1,0,0,4,4,1,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Otras causas circulatorias,36,7,5,5,9,6,2,2,2022,Valdivia,Hospital,Hospital de Paillaco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,38,1,10,10,4,9,2,2,2022,Valdivia,Hospital,Hospital de Paillaco
+Accidentes del tránsito,38,1,10,10,4,9,2,2,2022,Valdivia,Hospital,Hospital de Paillaco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),9,1,2,1,3,1,1,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Ideación Suicida (R458),8,1,2,1,2,1,1,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,0,0,1,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+DIARREA AGUDA (A00-A09),104,6,4,1,7,8,78,0,2022,Valdivia,Hospital,Hospital de Paillaco
+TOTAL DEMÁS CAUSAS,2824,526,461,419,442,414,312,250,2022,Valdivia,Hospital,Hospital de Paillaco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,88,18,19,8,10,11,14,8,2022,Valdivia,Hospital,Hospital de Paillaco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+- COVID 19 SOSPECHOSO (U072),5,0,1,1,0,0,1,2,2022,Valdivia,Hospital,Hospital de Paillaco
+- COVID 19 CONFIRMADO (U071),5,0,0,0,0,1,4,0,2022,Valdivia,Hospital,Hospital de Paillaco
+- CAUSAS SISTEMA CIRCULATORIO,3,1,0,1,0,1,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,0,0,0,1,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco
+- LAS DEMÁS CAUSAS,74,17,18,6,10,8,9,6,2022,Valdivia,Hospital,Hospital de Paillaco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Paillaco

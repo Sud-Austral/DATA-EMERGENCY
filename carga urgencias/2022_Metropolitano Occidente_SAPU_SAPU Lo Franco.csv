@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3204,455,445,473,523,556,500,252,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3204,455,445,473,523,556,500,252,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,77,35,15,7,7,7,3,3,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+IRA Alta (J00-J06),69,32,14,6,7,5,2,3,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Neumonía (J12-J18),1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Bronquitis/bronquiolitis aguda (J20-J21),1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Crisis obstructiva bronquial (J40-J46),6,2,1,1,0,2,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+COVID 19 Sospechoso (U072),2038,180,224,320,391,400,353,170,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,39,6,7,8,2,5,9,2,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Accidente vascular encefálico,7,0,1,1,0,1,4,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Crisis hipertensiva,29,5,6,6,2,3,5,2,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Arritmia grave,1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Otras causas circulatorias,1,1,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,255,49,39,38,25,43,40,21,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Otras causas externas,255,49,39,38,25,43,40,21,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+DIARREA AGUDA (A00-A09),68,29,11,9,4,9,3,3,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+TOTAL DEMÁS CAUSAS,727,156,149,91,94,92,92,53,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Lo Franco

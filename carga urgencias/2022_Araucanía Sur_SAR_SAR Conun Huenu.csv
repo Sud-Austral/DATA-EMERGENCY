@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5402,786,819,950,956,450,888,553,2022,Araucanía Sur,SAR,SAR Conun Huenu
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5367,779,818,947,948,449,873,553,2022,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1119,176,187,189,143,64,193,167,2022,Araucanía Sur,SAR,SAR Conun Huenu
+IRA Alta (J00-J06),907,132,147,156,111,56,175,130,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Influenza (J09-J11),21,0,2,0,1,0,0,18,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Neumonía (J12-J18),28,8,6,2,4,2,3,3,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Bronquitis/bronquiolitis aguda (J20-J21),95,24,18,16,19,5,5,8,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Crisis obstructiva bronquial (J40-J46),42,6,10,7,6,1,5,7,2022,Araucanía Sur,SAR,SAR Conun Huenu
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,6,4,8,2,0,5,1,2022,Araucanía Sur,SAR,SAR Conun Huenu
+COVID 19 Sospechoso (U072),301,9,30,45,50,64,71,32,2022,Araucanía Sur,SAR,SAR Conun Huenu
+COVID 19 Confirmado (U071),573,25,17,85,182,70,147,47,2022,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL CAUSAS SISTEMA CIRCULATORIO,57,9,7,12,8,6,8,7,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Infarto agudo miocardio,1,0,0,0,0,1,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Accidente vascular encefálico,5,2,0,2,0,0,0,1,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Crisis hipertensiva,25,3,4,3,6,4,3,2,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Arritmia grave,4,1,1,2,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Otras causas circulatorias,22,3,2,5,2,1,5,4,2022,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,854,120,158,138,135,69,148,86,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Accidentes del tránsito,586,85,113,99,90,52,85,62,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Otras causas externas,268,35,45,39,45,17,63,24,2022,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),91,17,21,12,16,9,9,7,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),19,3,4,1,2,4,4,1,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Trastornos del Humor (Afectivos) (F30-F39),4,1,0,1,1,1,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",60,13,14,8,12,4,4,5,2022,Araucanía Sur,SAR,SAR Conun Huenu
+Otros trastornos mentales no contenidos en las categorías anteriores,8,0,3,2,1,0,1,1,2022,Araucanía Sur,SAR,SAR Conun Huenu
+DIARREA AGUDA (A00-A09),339,72,48,63,34,27,45,50,2022,Araucanía Sur,SAR,SAR Conun Huenu
+TOTAL DEMÁS CAUSAS,2033,351,350,403,380,140,252,157,2022,Araucanía Sur,SAR,SAR Conun Huenu
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Conun Huenu

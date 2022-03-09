@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2369,286,361,368,451,307,353,243,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2359,274,348,355,438,302,399,243,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+TOTAL CAUSAS SISTEMA RESPIRATORIO,83,15,27,12,3,9,12,5,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+IRA Alta (J00-J06),69,11,23,11,3,8,11,2,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Influenza (J09-J11),1,1,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Neumonía (J12-J18),2,1,0,0,0,1,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Bronquitis/bronquiolitis aguda (J20-J21),4,0,2,0,0,0,0,2,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Crisis obstructiva bronquial (J40-J46),6,2,2,1,0,0,1,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,0,0,0,0,0,1,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+COVID 19 Sospechoso (U072),1346,77,143,214,352,193,241,126,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+COVID 19 Confirmado (U071),45,0,1,0,5,4,35,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+TOTAL CAUSAS SISTEMA CIRCULATORIO,14,1,0,2,1,0,9,1,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Crisis hipertensiva,3,1,0,0,0,0,1,1,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Otras causas circulatorias,10,0,0,2,0,0,8,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,139,32,37,16,14,17,13,10,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Otras causas externas,139,32,37,16,14,17,13,10,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),12,3,4,1,1,2,1,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",9,2,3,1,1,1,1,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,1,0,0,1,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+DIARREA AGUDA (A00-A09),7,5,0,2,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+TOTAL DEMÁS CAUSAS,713,141,136,108,62,77,88,101,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Juan Pablo II

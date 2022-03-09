@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,585,77,104,81,91,97,86,49,2022,Del Maule,SUR,SUR Villa Prat
+TOTAL CAUSAS SISTEMA RESPIRATORIO,97,17,12,14,10,26,13,5,2022,Del Maule,SUR,SUR Villa Prat
+IRA Alta (J00-J06),75,16,7,11,6,22,10,3,2022,Del Maule,SUR,SUR Villa Prat
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Neumonía (J12-J18),1,0,0,0,1,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Bronquitis/bronquiolitis aguda (J20-J21),8,0,1,1,1,2,1,2,2022,Del Maule,SUR,SUR Villa Prat
+Crisis obstructiva bronquial (J40-J46),9,1,3,1,0,2,2,0,2022,Del Maule,SUR,SUR Villa Prat
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,0,1,1,2,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+COVID 19 Sospechoso (U072),31,0,2,1,5,10,6,7,2022,Del Maule,SUR,SUR Villa Prat
+COVID 19 Confirmado (U071),1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Villa Prat
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,1,2,2,3,1,2,2,2022,Del Maule,SUR,SUR Villa Prat
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Crisis hipertensiva,4,0,1,1,0,0,1,1,2022,Del Maule,SUR,SUR Villa Prat
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Otras causas circulatorias,8,0,1,1,3,1,1,1,2022,Del Maule,SUR,SUR Villa Prat
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,44,5,12,6,9,5,6,1,2022,Del Maule,SUR,SUR Villa Prat
+Accidentes del tránsito,5,2,1,0,2,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Otras causas externas,39,3,11,6,7,5,6,1,2022,Del Maule,SUR,SUR Villa Prat
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,2,2,2,1,1,1,2,2022,Del Maule,SUR,SUR Villa Prat
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,1,1,1,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",8,1,1,1,1,1,1,2,2022,Del Maule,SUR,SUR Villa Prat
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+TOTAL DEMÁS CAUSAS,388,52,74,56,63,53,58,32,2022,Del Maule,SUR,SUR Villa Prat
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Villa Prat

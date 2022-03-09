@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2715,354,307,329,410,469,502,344,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2579,340,288,320,390,450,457,334,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+TOTAL CAUSAS SISTEMA RESPIRATORIO,512,57,52,81,61,80,103,78,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+IRA Alta (J00-J06),442,48,43,69,54,73,92,63,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Neumonía (J12-J18),2,0,0,0,0,0,1,1,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Bronquitis/bronquiolitis aguda (J20-J21),43,6,4,7,4,2,9,11,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Crisis obstructiva bronquial (J40-J46),15,2,3,3,1,2,1,3,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,1,2,2,2,3,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+COVID 19 Sospechoso (U072),662,37,31,51,146,172,136,89,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+COVID 19 Confirmado (U071),4,0,2,0,0,0,0,2,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+TOTAL CAUSAS SISTEMA CIRCULATORIO,20,5,1,3,2,4,4,1,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Accidente vascular encefálico,3,1,0,1,1,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Crisis hipertensiva,5,0,0,1,1,1,2,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Arritmia grave,2,0,0,0,0,1,0,1,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Otras causas circulatorias,9,4,1,0,0,2,2,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,185,32,28,26,14,27,34,24,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Accidentes del tránsito,2,0,0,0,0,0,2,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Otras causas externas,183,32,28,26,14,27,32,24,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),16,2,4,2,3,1,3,1,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",9,1,4,2,0,1,0,1,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+Otros trastornos mentales no contenidos en las categorías anteriores,7,1,0,0,3,0,3,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+DIARREA AGUDA (A00-A09),47,5,8,2,10,11,5,6,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+TOTAL DEMÁS CAUSAS,1133,202,162,155,154,155,172,133,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAPU,SAPU Juan Soto Fernández

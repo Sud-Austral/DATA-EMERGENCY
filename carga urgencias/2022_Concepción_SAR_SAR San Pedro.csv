@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7691,910,959,995,1239,1347,1313,928,2022,Concepción,SAR,SAR San Pedro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6133,897,922,815,886,926,938,749,2022,Concepción,SAR,SAR San Pedro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,786,135,138,126,120,74,74,119,2022,Concepción,SAR,SAR San Pedro
+IRA Alta (J00-J06),607,102,98,89,102,53,55,108,2022,Concepción,SAR,SAR San Pedro
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+Neumonía (J12-J18),19,2,5,2,3,2,3,2,2022,Concepción,SAR,SAR San Pedro
+Bronquitis/bronquiolitis aguda (J20-J21),132,28,28,29,12,17,10,8,2022,Concepción,SAR,SAR San Pedro
+Crisis obstructiva bronquial (J40-J46),22,3,6,5,1,2,4,1,2022,Concepción,SAR,SAR San Pedro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,0,1,1,2,0,2,0,2022,Concepción,SAR,SAR San Pedro
+COVID 19 Sospechoso (U072),2040,127,138,194,293,487,505,296,2022,Concepción,SAR,SAR San Pedro
+COVID 19 Confirmado (U071),32,0,0,0,0,5,15,12,2022,Concepción,SAR,SAR San Pedro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,85,22,12,14,18,3,10,6,2022,Concepción,SAR,SAR San Pedro
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+Accidente vascular encefálico,5,0,1,1,1,0,1,1,2022,Concepción,SAR,SAR San Pedro
+Crisis hipertensiva,16,3,3,3,4,1,0,2,2022,Concepción,SAR,SAR San Pedro
+Arritmia grave,2,1,1,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+Otras causas circulatorias,62,18,7,10,13,2,9,3,2022,Concepción,SAR,SAR San Pedro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,475,62,88,72,71,60,71,51,2022,Concepción,SAR,SAR San Pedro
+Accidentes del tránsito,37,4,2,1,11,7,10,2,2022,Concepción,SAR,SAR San Pedro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+Otras causas externas,438,58,86,71,60,53,61,49,2022,Concepción,SAR,SAR San Pedro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),66,9,19,9,8,8,5,8,2022,Concepción,SAR,SAR San Pedro
+Ideación Suicida (R458),6,0,3,0,1,0,0,2,2022,Concepción,SAR,SAR San Pedro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,2,3,1,0,1,0,0,2022,Concepción,SAR,SAR San Pedro
+Trastornos del Humor (Afectivos) (F30-F39),12,2,8,2,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",38,4,5,5,7,6,5,6,2022,Concepción,SAR,SAR San Pedro
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,1,0,1,0,0,2022,Concepción,SAR,SAR San Pedro
+DIARREA AGUDA (A00-A09),32,8,2,5,4,5,2,6,2022,Concepción,SAR,SAR San Pedro
+TOTAL DEMÁS CAUSAS,2617,534,525,395,372,284,256,251,2022,Concepción,SAR,SAR San Pedro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR San Pedro

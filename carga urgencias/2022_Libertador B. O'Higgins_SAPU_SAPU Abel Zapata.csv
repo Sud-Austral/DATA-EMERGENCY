@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1661,235,205,233,249,285,256,198,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+TOTAL CAUSAS SISTEMA RESPIRATORIO,114,17,25,16,11,19,8,18,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+IRA Alta (J00-J06),74,12,23,12,4,15,5,3,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Influenza (J09-J11),1,0,0,0,0,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Bronquitis/bronquiolitis aguda (J20-J21),16,4,2,4,3,1,1,1,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Crisis obstructiva bronquial (J40-J46),3,0,0,0,1,0,1,1,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,1,0,0,3,2,1,13,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+COVID 19 Sospechoso (U072),628,52,39,76,126,131,123,81,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+COVID 19 Confirmado (U071),13,0,0,1,5,2,3,2,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,1,3,2,1,2,2,2,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Crisis hipertensiva,6,1,0,2,0,2,0,1,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Otras causas circulatorias,6,0,3,0,0,0,2,1,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,154,28,21,34,15,21,20,15,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Otras causas externas,153,28,21,34,15,20,20,15,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+DIARREA AGUDA (A00-A09),31,5,3,7,0,4,10,2,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+TOTAL DEMÁS CAUSAS,708,132,114,97,91,106,90,78,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAPU,SAPU Abel Zapata

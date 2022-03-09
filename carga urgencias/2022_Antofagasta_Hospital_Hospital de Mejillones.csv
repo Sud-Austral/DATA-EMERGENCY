@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3121,511,526,409,136,583,591,365,2022,Antofagasta,Hospital,Hospital de Mejillones
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3916,493,498,629,728,665,556,347,2022,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL CAUSAS SISTEMA RESPIRATORIO,822,84,97,65,201,200,120,55,2022,Antofagasta,Hospital,Hospital de Mejillones
+IRA Alta (J00-J06),524,18,34,50,172,191,47,12,2022,Antofagasta,Hospital,Hospital de Mejillones
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Neumonía (J12-J18),5,1,0,0,0,1,2,1,2022,Antofagasta,Hospital,Hospital de Mejillones
+Bronquitis/bronquiolitis aguda (J20-J21),18,4,1,2,3,5,3,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Crisis obstructiva bronquial (J40-J46),4,1,1,0,0,2,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",271,60,61,13,26,1,68,42,2022,Antofagasta,Hospital,Hospital de Mejillones
+COVID 19 Sospechoso (U072),317,13,32,256,5,2,6,3,2022,Antofagasta,Hospital,Hospital de Mejillones
+COVID 19 Confirmado (U071),656,24,60,34,217,159,120,42,2022,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43,8,9,4,2,1,12,7,2022,Antofagasta,Hospital,Hospital de Mejillones
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Accidente vascular encefálico,1,0,0,1,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Crisis hipertensiva,4,1,1,0,1,1,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Otras causas circulatorias,38,7,8,3,1,0,12,7,2022,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+DIARREA AGUDA (A00-A09),34,19,3,6,0,0,4,2,2022,Antofagasta,Hospital,Hospital de Mejillones
+TOTAL DEMÁS CAUSAS,2044,345,297,264,303,303,294,238,2022,Antofagasta,Hospital,Hospital de Mejillones
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,1,0,0,0,1,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- CAUSAS SISTEMA RESPIRATORIO,1,0,0,0,1,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,Hospital,Hospital de Mejillones

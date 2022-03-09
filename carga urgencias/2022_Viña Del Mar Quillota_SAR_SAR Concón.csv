@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9662,1255,1402,1482,1619,1606,1386,912,2022,Viña Del Mar Quillota,SAR,SAR Concón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8076,1098,1192,1208,1286,1309,1192,791,2022,Viña Del Mar Quillota,SAR,SAR Concón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1699,258,289,327,216,237,184,188,2022,Viña Del Mar Quillota,SAR,SAR Concón
+IRA Alta (J00-J06),1487,217,252,293,187,207,162,169,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Influenza (J09-J11),2,0,0,0,0,0,0,2,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Neumonía (J12-J18),38,4,10,6,2,6,4,6,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Bronquitis/bronquiolitis aguda (J20-J21),89,18,17,13,15,14,8,4,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Crisis obstructiva bronquial (J40-J46),49,9,7,11,5,6,7,4,2022,Viña Del Mar Quillota,SAR,SAR Concón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",34,10,3,4,7,4,3,3,2022,Viña Del Mar Quillota,SAR,SAR Concón
+COVID 19 Sospechoso (U072),1318,57,103,171,300,376,252,59,2022,Viña Del Mar Quillota,SAR,SAR Concón
+COVID 19 Confirmado (U071),669,8,32,48,152,150,159,120,2022,Viña Del Mar Quillota,SAR,SAR Concón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,148,25,17,24,20,14,32,16,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Infarto agudo miocardio,6,3,0,1,0,0,1,1,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Accidente vascular encefálico,15,4,0,3,0,0,5,3,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Crisis hipertensiva,39,5,7,10,1,7,4,5,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Arritmia grave,21,5,2,4,1,2,5,2,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Otras causas circulatorias,67,8,8,6,18,5,17,5,2022,Viña Del Mar Quillota,SAR,SAR Concón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,812,165,148,119,112,102,95,71,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Accidentes del tránsito,35,7,4,7,4,4,4,5,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Otras causas externas,777,158,144,112,108,98,91,66,2022,Viña Del Mar Quillota,SAR,SAR Concón
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),109,19,17,12,15,17,16,13,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),9,2,1,1,2,2,0,1,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Trastornos del Humor (Afectivos) (F30-F39),4,1,2,1,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",82,13,13,6,13,13,14,10,2022,Viña Del Mar Quillota,SAR,SAR Concón
+Otros trastornos mentales no contenidos en las categorías anteriores,14,3,1,4,0,2,2,2,2022,Viña Del Mar Quillota,SAR,SAR Concón
+DIARREA AGUDA (A00-A09),182,44,40,28,28,7,16,19,2022,Viña Del Mar Quillota,SAR,SAR Concón
+TOTAL DEMÁS CAUSAS,3139,522,546,479,443,406,438,305,2022,Viña Del Mar Quillota,SAR,SAR Concón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAR,SAR Concón

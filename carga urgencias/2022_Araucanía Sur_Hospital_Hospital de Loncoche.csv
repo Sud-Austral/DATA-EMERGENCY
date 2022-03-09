@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3373,506,531,526,508,312,551,439,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3305,492,524,519,495,311,526,438,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+TOTAL CAUSAS SISTEMA RESPIRATORIO,490,73,78,86,84,37,74,58,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+IRA Alta (J00-J06),337,49,56,63,58,27,58,26,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Influenza (J09-J11),15,2,4,0,6,1,1,1,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Neumonía (J12-J18),36,3,3,7,7,4,6,6,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Bronquitis/bronquiolitis aguda (J20-J21),32,11,6,3,5,1,3,3,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Crisis obstructiva bronquial (J40-J46),17,3,1,3,6,0,0,4,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",53,5,8,10,2,4,6,18,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+COVID 19 Sospechoso (U072),138,3,4,11,21,9,53,37,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+COVID 19 Confirmado (U071),298,1,18,29,68,63,46,73,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+TOTAL CAUSAS SISTEMA CIRCULATORIO,54,16,11,10,3,4,7,3,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Infarto agudo miocardio,2,0,0,0,0,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Accidente vascular encefálico,4,2,0,2,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Crisis hipertensiva,11,3,4,2,0,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Arritmia grave,11,2,3,1,1,1,3,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Otras causas circulatorias,26,9,4,5,2,1,2,3,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,871,149,147,116,104,93,149,113,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Accidentes del tránsito,409,86,93,63,48,26,48,45,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Otras causas externas,462,63,54,53,56,67,101,68,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),81,17,12,14,13,2,16,7,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),15,2,4,3,3,0,1,2,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Trastornos del Humor (Afectivos) (F30-F39),6,1,0,0,1,0,0,4,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",53,13,7,8,9,2,13,1,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+Otros trastornos mentales no contenidos en las categorías anteriores,7,1,1,3,0,0,2,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+DIARREA AGUDA (A00-A09),200,36,45,37,29,12,26,15,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+TOTAL DEMÁS CAUSAS,1173,197,209,216,173,91,155,132,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,90,22,16,20,12,6,11,3,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- CAUSAS SISTEMA RESPIRATORIO,12,0,2,2,2,2,2,2,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- COVID 19 CONFIRMADO (U071),6,0,0,2,1,0,3,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- CAUSAS SISTEMA CIRCULATORIO,8,2,1,2,2,0,1,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- TRAUMATISMOS Y ENVENENAMIENTOS,8,2,2,1,1,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),3,1,0,0,0,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+- LAS DEMÁS CAUSAS,53,17,11,13,6,2,3,1,2022,Araucanía Sur,Hospital,Hospital de Loncoche
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Loncoche

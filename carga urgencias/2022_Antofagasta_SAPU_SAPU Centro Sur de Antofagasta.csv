@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1754,209,311,367,324,240,178,125,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1689,198,293,349,312,237,178,122,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+TOTAL CAUSAS SISTEMA RESPIRATORIO,144,27,26,9,23,22,15,22,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+IRA Alta (J00-J06),113,24,20,7,14,16,13,19,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Neumonía (J12-J18),2,0,0,0,2,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Bronquitis/bronquiolitis aguda (J20-J21),10,2,1,1,3,1,1,1,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Crisis obstructiva bronquial (J40-J46),7,1,1,0,2,1,1,1,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,0,4,1,2,4,0,1,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+COVID 19 Sospechoso (U072),813,74,139,256,186,87,52,19,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+COVID 19 Confirmado (U071),5,0,0,0,0,1,0,4,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+TOTAL CAUSAS SISTEMA CIRCULATORIO,15,4,0,2,3,4,2,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Crisis hipertensiva,4,1,0,0,0,2,1,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Otras causas circulatorias,10,3,0,2,2,2,1,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,93,11,16,5,15,13,19,14,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Otras causas externas,93,11,16,5,15,13,19,14,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,0,0,0,1,0,1,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,1,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+DIARREA AGUDA (A00-A09),9,1,2,1,2,2,0,1,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+TOTAL DEMÁS CAUSAS,608,81,110,76,82,108,89,62,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Centro Sur de Antofagasta

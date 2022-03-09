@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1312,211,187,216,223,152,158,165,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1483,211,187,215,221,247,237,165,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+TOTAL CAUSAS SISTEMA RESPIRATORIO,338,44,39,51,40,48,60,56,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+IRA Alta (J00-J06),272,38,27,42,28,36,52,49,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Neumonía (J12-J18),3,0,0,0,0,2,0,1,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Bronquitis/bronquiolitis aguda (J20-J21),31,4,3,5,4,4,7,4,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Crisis obstructiva bronquial (J40-J46),14,0,4,1,4,3,1,1,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,2,5,3,4,3,0,1,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+COVID 19 Sospechoso (U072),266,7,15,13,68,89,58,16,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+COVID 19 Confirmado (U071),6,1,0,0,0,1,2,2,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+TOTAL CAUSAS SISTEMA CIRCULATORIO,20,2,1,6,2,1,4,4,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Crisis hipertensiva,7,0,0,0,2,1,2,2,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Otras causas circulatorias,13,2,1,6,0,0,2,2,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,197,40,33,30,24,17,33,20,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Accidentes del tránsito,132,26,26,24,16,11,18,11,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Lesiones autoinfligidas intencionalmente (X60-X84),4,4,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Otras causas externas,61,10,7,6,8,6,15,9,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,4,1,2,4,7,3,1,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,1,1,0,1,3,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,3,0,2,3,3,2,1,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,1,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+DIARREA AGUDA (A00-A09),90,21,11,13,13,8,14,10,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+TOTAL DEMÁS CAUSAS,544,92,87,100,70,76,63,56,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Santa Rosa

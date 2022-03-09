@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3224,384,564,499,567,497,445,268,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2883,361,506,532,453,385,406,240,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+TOTAL CAUSAS SISTEMA RESPIRATORIO,333,55,58,51,52,53,50,14,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+IRA Alta (J00-J06),245,36,39,35,40,46,40,9,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Neumonía (J12-J18),12,4,2,2,3,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Bronquitis/bronquiolitis aguda (J20-J21),37,7,10,3,5,2,6,4,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Crisis obstructiva bronquial (J40-J46),21,5,3,4,3,3,3,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",17,3,3,7,1,2,0,1,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+COVID 19 Sospechoso (U072),1237,91,175,247,233,196,193,102,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+COVID 19 Confirmado (U071),10,0,1,1,1,2,4,1,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+TOTAL CAUSAS SISTEMA CIRCULATORIO,45,3,13,12,7,1,5,4,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Infarto agudo miocardio,2,0,0,0,2,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Accidente vascular encefálico,5,0,1,2,1,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Crisis hipertensiva,27,2,4,9,4,1,5,2,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Arritmia grave,1,0,0,1,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Otras causas circulatorias,10,1,8,0,0,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,205,35,46,40,26,19,19,20,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Accidentes del tránsito,1,0,0,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Otras causas externas,204,35,46,40,26,19,18,20,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),29,7,3,3,5,1,7,3,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,2,0,1,0,1,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Trastornos del Humor (Afectivos) (F30-F39),2,1,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",23,4,2,2,5,0,7,3,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+DIARREA AGUDA (A00-A09),5,0,4,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+TOTAL DEMÁS CAUSAS,1019,170,206,178,129,113,127,96,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU La Florida

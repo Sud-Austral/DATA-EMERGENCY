@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3759,462,478,497,635,643,632,412,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+TOTAL CAUSAS SISTEMA RESPIRATORIO,109,18,18,18,13,9,17,16,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+IRA Alta (J00-J06),1,0,0,0,0,0,0,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Neumonía (J12-J18),11,1,1,3,0,1,2,3,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Bronquitis/bronquiolitis aguda (J20-J21),9,2,2,0,0,1,2,2,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",88,15,15,15,13,7,13,10,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+COVID 19 Sospechoso (U072),1377,74,104,162,286,322,263,166,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+COVID 19 Confirmado (U071),27,0,0,0,1,12,10,4,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+TOTAL CAUSAS SISTEMA CIRCULATORIO,36,2,6,11,10,1,2,4,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Crisis hipertensiva,30,2,6,11,4,1,2,4,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Otras causas circulatorias,6,0,0,0,6,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,57,53,0,0,3,1,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Otras causas externas,57,53,0,0,3,1,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,0,1,0,3,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Ideación Suicida (R458),5,0,1,0,1,1,1,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,0,0,1,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,1,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+DIARREA AGUDA (A00-A09),9,0,1,3,1,0,3,1,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+TOTAL DEMÁS CAUSAS,2137,315,348,303,318,297,336,220,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital de Nancagua

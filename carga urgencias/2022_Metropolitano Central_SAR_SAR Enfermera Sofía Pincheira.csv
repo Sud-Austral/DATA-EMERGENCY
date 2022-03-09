@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6276,949,870,894,1038,953,933,639,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5881,882,812,838,979,899,866,605,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL CAUSAS SISTEMA RESPIRATORIO,857,199,130,111,147,129,85,56,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+IRA Alta (J00-J06),744,176,106,98,132,109,75,48,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Influenza (J09-J11),2,0,1,0,0,1,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Neumonía (J12-J18),21,3,3,2,2,2,6,3,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Bronquitis/bronquiolitis aguda (J20-J21),58,16,13,8,9,9,1,2,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Crisis obstructiva bronquial (J40-J46),16,2,2,3,3,5,1,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,2,5,0,1,3,2,3,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+COVID 19 Sospechoso (U072),1388,135,189,248,271,224,181,140,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+COVID 19 Confirmado (U071),863,10,18,80,247,199,206,103,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL CAUSAS SISTEMA CIRCULATORIO,82,14,15,11,8,13,14,7,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Infarto agudo miocardio,2,0,1,0,0,1,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Accidente vascular encefálico,8,0,0,0,2,2,4,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Crisis hipertensiva,31,3,6,5,4,5,4,4,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Arritmia grave,6,0,0,2,0,2,2,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Otras causas circulatorias,35,11,8,4,2,3,4,3,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,564,111,118,72,65,71,73,54,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Accidentes del tránsito,5,0,0,0,4,1,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Otras causas externas,559,111,118,72,61,70,73,54,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),52,11,10,9,1,6,8,7,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,0,1,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",47,11,9,8,0,6,7,6,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,1,1,1,0,1,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+DIARREA AGUDA (A00-A09),11,3,0,3,0,3,1,1,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+TOTAL DEMÁS CAUSAS,2064,399,332,304,240,254,298,237,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAR,SAR Enfermera Sofía Pincheira

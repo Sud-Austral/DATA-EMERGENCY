@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,15660,2278,2302,2255,2489,2369,2303,1664,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,11484,1789,1778,1717,1762,1685,1607,1146,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1148,189,184,203,143,173,166,90,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+IRA Alta (J00-J06),735,122,105,134,103,102,113,56,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Influenza (J09-J11),42,9,12,4,2,9,5,1,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Neumonía (J12-J18),99,12,17,17,11,12,17,13,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Bronquitis/bronquiolitis aguda (J20-J21),66,14,8,13,6,10,14,1,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Crisis obstructiva bronquial (J40-J46),63,12,10,11,4,8,7,11,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",143,20,32,24,17,32,10,8,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+COVID 19 Sospechoso (U072),1166,98,86,161,280,235,207,99,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+COVID 19 Confirmado (U071),107,5,3,12,16,26,20,25,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+TOTAL CAUSAS SISTEMA CIRCULATORIO,473,66,87,64,72,58,65,61,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Infarto agudo miocardio,55,7,8,9,8,11,12,0,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Accidente vascular encefálico,115,15,15,14,23,14,17,17,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Crisis hipertensiva,32,5,4,3,8,7,3,2,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Arritmia grave,41,7,9,5,6,1,4,9,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Otras causas circulatorias,230,32,51,33,27,25,29,33,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,2626,416,394,464,566,315,293,178,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Accidentes del tránsito,33,2,7,3,3,4,7,7,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Otras causas externas,2593,414,387,461,563,311,286,171,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),184,30,29,32,26,22,26,19,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),24,3,4,4,2,1,5,5,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Trastornos del Humor (Afectivos) (F30-F39),32,6,4,6,2,8,2,4,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",97,18,15,15,20,8,15,6,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+Otros trastornos mentales no contenidos en las categorías anteriores,31,3,6,7,2,5,4,4,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+DIARREA AGUDA (A00-A09),552,103,115,84,72,61,69,48,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+TOTAL DEMÁS CAUSAS,5228,882,880,697,587,795,761,626,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,1480,208,209,205,215,233,219,191,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- CAUSAS SISTEMA RESPIRATORIO,116,17,18,14,12,26,13,16,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- COVID 19 SOSPECHOSO (U072),81,6,7,9,11,18,21,9,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- COVID 19 CONFIRMADO (U071),31,0,2,2,6,8,5,8,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- CAUSAS SISTEMA CIRCULATORIO,181,28,27,23,30,23,27,23,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- TRAUMATISMOS Y ENVENENAMIENTOS,214,27,33,28,29,39,33,25,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),21,4,2,4,2,4,0,5,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+- LAS DEMÁS CAUSAS,836,126,120,125,125,115,120,105,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,Hospital,Hospital Regional de Rancagua

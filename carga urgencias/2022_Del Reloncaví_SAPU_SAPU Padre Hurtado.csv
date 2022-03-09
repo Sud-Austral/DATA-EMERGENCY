@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10039,1211,1242,1246,1624,1843,1742,1131,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8703,1136,1177,1171,1348,1467,1438,966,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1314,219,206,211,164,154,241,119,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+IRA Alta (J00-J06),1027,157,149,165,133,132,198,93,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Neumonía (J12-J18),20,7,5,2,2,1,0,3,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Bronquitis/bronquiolitis aguda (J20-J21),112,23,22,23,11,7,17,9,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Crisis obstructiva bronquial (J40-J46),92,17,17,12,10,10,17,9,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",63,15,13,9,8,4,9,5,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+COVID 19 Sospechoso (U072),2764,147,153,239,537,720,604,364,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+COVID 19 Confirmado (U071),58,7,2,2,4,28,8,7,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+TOTAL CAUSAS SISTEMA CIRCULATORIO,106,19,22,23,10,9,14,9,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Infarto agudo miocardio,4,1,1,0,0,1,1,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Accidente vascular encefálico,7,0,2,0,0,1,4,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Crisis hipertensiva,55,6,11,12,7,4,7,8,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Arritmia grave,19,6,3,6,1,2,1,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Otras causas circulatorias,21,6,5,5,2,1,1,1,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,676,97,145,127,101,69,70,67,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Otras causas externas,675,97,145,127,100,69,70,67,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),101,19,22,13,15,13,8,11,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,2,1,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",94,16,21,12,15,11,8,11,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,1,0,2,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+DIARREA AGUDA (A00-A09),42,9,10,6,7,0,7,3,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+TOTAL DEMÁS CAUSAS,3642,619,617,550,510,474,486,386,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Padre Hurtado

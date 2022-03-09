@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4002,302,307,369,588,865,887,684,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3868,299,302,354,550,835,857,671,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+TOTAL CAUSAS SISTEMA RESPIRATORIO,741,50,56,40,101,176,113,205,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+IRA Alta (J00-J06),670,41,49,33,83,173,103,188,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Neumonía (J12-J18),1,0,0,0,0,0,1,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Bronquitis/bronquiolitis aguda (J20-J21),18,2,6,2,0,1,2,5,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Crisis obstructiva bronquial (J40-J46),26,2,1,1,2,2,7,11,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,5,0,4,16,0,0,1,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+COVID 19 Sospechoso (U072),902,6,21,60,115,229,400,71,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+COVID 19 Confirmado (U071),269,0,0,1,27,97,11,133,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+TOTAL CAUSAS SISTEMA CIRCULATORIO,20,1,1,4,4,4,4,2,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Accidente vascular encefálico,2,0,1,0,1,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Crisis hipertensiva,3,0,0,1,0,2,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Arritmia grave,3,0,0,1,0,0,1,1,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Otras causas circulatorias,12,1,0,2,3,2,3,1,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,204,19,17,32,34,35,36,31,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Accidentes del tránsito,6,0,2,1,0,3,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Otras causas externas,198,19,15,31,34,32,36,31,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),29,5,3,4,3,4,7,3,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,3,0,1,0,0,2,1,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",18,1,3,3,3,3,4,1,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,0,0,0,1,1,1,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+DIARREA AGUDA (A00-A09),59,7,4,4,12,6,10,16,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+TOTAL DEMÁS CAUSAS,1644,211,200,209,254,284,276,210,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Julio Contardo Urzúa

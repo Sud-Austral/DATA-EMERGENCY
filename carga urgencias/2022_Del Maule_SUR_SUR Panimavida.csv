@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3992,573,540,418,577,625,730,529,2022,Del Maule,SUR,SUR Panimavida
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3779,557,528,401,551,565,692,485,2022,Del Maule,SUR,SUR Panimavida
+TOTAL CAUSAS SISTEMA RESPIRATORIO,818,126,117,88,132,79,122,154,2022,Del Maule,SUR,SUR Panimavida
+IRA Alta (J00-J06),681,102,101,77,107,70,100,124,2022,Del Maule,SUR,SUR Panimavida
+Influenza (J09-J11),1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Panimavida
+Neumonía (J12-J18),3,1,0,0,0,1,0,1,2022,Del Maule,SUR,SUR Panimavida
+Bronquitis/bronquiolitis aguda (J20-J21),93,10,12,6,22,3,17,23,2022,Del Maule,SUR,SUR Panimavida
+Crisis obstructiva bronquial (J40-J46),3,1,0,0,1,1,0,0,2022,Del Maule,SUR,SUR Panimavida
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",37,12,4,5,2,3,5,6,2022,Del Maule,SUR,SUR Panimavida
+COVID 19 Sospechoso (U072),572,39,33,40,48,132,214,66,2022,Del Maule,SUR,SUR Panimavida
+COVID 19 Confirmado (U071),10,0,0,0,0,3,6,1,2022,Del Maule,SUR,SUR Panimavida
+TOTAL CAUSAS SISTEMA CIRCULATORIO,20,4,3,0,5,3,2,3,2022,Del Maule,SUR,SUR Panimavida
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Panimavida
+Crisis hipertensiva,2,1,0,0,1,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+Arritmia grave,2,0,0,0,1,1,0,0,2022,Del Maule,SUR,SUR Panimavida
+Otras causas circulatorias,15,3,3,0,3,1,2,3,2022,Del Maule,SUR,SUR Panimavida
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,291,33,46,24,64,44,50,30,2022,Del Maule,SUR,SUR Panimavida
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+Otras causas externas,291,33,46,24,64,44,50,30,2022,Del Maule,SUR,SUR Panimavida
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),29,5,3,0,6,10,4,1,2022,Del Maule,SUR,SUR Panimavida
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,0,1,0,1,0,2022,Del Maule,SUR,SUR Panimavida
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,2,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",24,5,3,0,3,9,3,1,2022,Del Maule,SUR,SUR Panimavida
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Panimavida
+DIARREA AGUDA (A00-A09),53,6,5,8,6,5,17,6,2022,Del Maule,SUR,SUR Panimavida
+TOTAL DEMÁS CAUSAS,1986,344,321,241,290,289,277,224,2022,Del Maule,SUR,SUR Panimavida
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Panimavida

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1431,196,235,219,240,149,268,124,2022,Araucanía Sur,SAPU,SAPU Freire
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1424,193,235,219,237,149,267,124,2022,Araucanía Sur,SAPU,SAPU Freire
+TOTAL CAUSAS SISTEMA RESPIRATORIO,294,28,34,39,56,34,82,21,2022,Araucanía Sur,SAPU,SAPU Freire
+IRA Alta (J00-J06),225,17,19,29,47,27,68,18,2022,Araucanía Sur,SAPU,SAPU Freire
+Influenza (J09-J11),2,0,0,0,0,2,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Neumonía (J12-J18),7,0,1,2,0,0,4,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Bronquitis/bronquiolitis aguda (J20-J21),28,4,7,3,5,3,5,1,2022,Araucanía Sur,SAPU,SAPU Freire
+Crisis obstructiva bronquial (J40-J46),23,7,4,3,3,2,2,2,2022,Araucanía Sur,SAPU,SAPU Freire
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,0,3,2,1,0,3,0,2022,Araucanía Sur,SAPU,SAPU Freire
+COVID 19 Sospechoso (U072),154,9,13,17,29,13,41,32,2022,Araucanía Sur,SAPU,SAPU Freire
+COVID 19 Confirmado (U071),2,0,0,0,0,1,0,1,2022,Araucanía Sur,SAPU,SAPU Freire
+TOTAL CAUSAS SISTEMA CIRCULATORIO,22,4,3,6,4,2,0,3,2022,Araucanía Sur,SAPU,SAPU Freire
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Crisis hipertensiva,8,0,3,2,1,1,0,1,2022,Araucanía Sur,SAPU,SAPU Freire
+Arritmia grave,3,1,0,1,0,1,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Otras causas circulatorias,10,3,0,3,2,0,0,2,2022,Araucanía Sur,SAPU,SAPU Freire
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,198,30,31,34,39,21,26,17,2022,Araucanía Sur,SAPU,SAPU Freire
+Accidentes del tránsito,138,20,17,22,29,17,19,14,2022,Araucanía Sur,SAPU,SAPU Freire
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Otras causas externas,60,10,14,12,10,4,7,3,2022,Araucanía Sur,SAPU,SAPU Freire
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),25,6,7,4,2,2,2,2,2022,Araucanía Sur,SAPU,SAPU Freire
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",20,6,6,3,2,1,1,1,2022,Araucanía Sur,SAPU,SAPU Freire
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,0,1,0,1,1,1,2022,Araucanía Sur,SAPU,SAPU Freire
+DIARREA AGUDA (A00-A09),77,7,21,9,11,10,11,8,2022,Araucanía Sur,SAPU,SAPU Freire
+TOTAL DEMÁS CAUSAS,652,109,126,110,96,66,105,40,2022,Araucanía Sur,SAPU,SAPU Freire
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Freire

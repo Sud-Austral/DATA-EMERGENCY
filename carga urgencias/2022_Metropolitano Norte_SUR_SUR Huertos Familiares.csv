@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,538,82,78,100,74,75,92,37,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,538,82,78,100,74,75,92,37,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+TOTAL CAUSAS SISTEMA RESPIRATORIO,75,12,10,14,8,15,10,6,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+IRA Alta (J00-J06),71,12,10,13,8,14,8,6,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,0,0,1,0,1,2,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+COVID 19 Sospechoso (U072),80,6,10,18,13,19,11,3,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+COVID 19 Confirmado (U071),2,0,0,1,0,1,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,3,2,6,4,0,1,3,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Infarto agudo miocardio,2,0,0,0,0,0,1,1,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Crisis hipertensiva,12,2,2,5,2,0,0,1,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Otras causas circulatorias,5,1,0,1,2,0,0,1,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,57,8,11,12,8,4,11,3,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Otras causas externas,56,8,11,12,7,4,11,3,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),17,3,4,4,0,2,2,2,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Ideación Suicida (R458),1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Trastornos del Humor (Afectivos) (F30-F39),15,2,4,4,0,2,2,1,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+DIARREA AGUDA (A00-A09),46,9,10,9,4,5,8,1,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+TOTAL DEMÁS CAUSAS,242,41,31,36,37,29,49,19,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SUR,SUR Huertos Familiares

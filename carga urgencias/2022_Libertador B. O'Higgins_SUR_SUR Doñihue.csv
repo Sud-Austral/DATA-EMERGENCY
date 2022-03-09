@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2031,239,202,264,331,343,392,260,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,162,8,24,28,53,48,0,1,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+IRA Alta (J00-J06),1,0,0,0,0,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Influenza (J09-J11),1,0,0,0,0,0,0,1,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Bronquitis/bronquiolitis aguda (J20-J21),1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",159,8,23,28,53,47,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+COVID 19 Sospechoso (U072),485,25,35,50,63,86,127,99,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+COVID 19 Confirmado (U071),321,0,0,16,66,92,86,61,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,4,3,1,1,1,3,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Infarto agudo miocardio,2,1,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Accidente vascular encefálico,2,0,0,1,0,1,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Crisis hipertensiva,8,3,2,0,1,0,2,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,5,1,2,1,1,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Accidentes del tránsito,5,1,2,1,1,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Ideación Suicida (R458),1,0,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+DIARREA AGUDA (A00-A09),4,0,0,0,0,0,4,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+TOTAL DEMÁS CAUSAS,1040,201,137,168,147,116,172,99,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Doñihue

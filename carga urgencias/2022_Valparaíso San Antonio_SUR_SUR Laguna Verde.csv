@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,694,92,54,89,124,156,149,30,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,694,92,54,89,124,156,149,30,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+TOTAL CAUSAS SISTEMA RESPIRATORIO,77,15,7,6,16,21,12,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+IRA Alta (J00-J06),67,14,3,6,14,20,10,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Neumonía (J12-J18),1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Bronquitis/bronquiolitis aguda (J20-J21),2,0,0,0,2,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,1,4,0,0,1,1,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+COVID 19 Sospechoso (U072),154,12,18,30,22,21,44,7,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+COVID 19 Confirmado (U071),90,2,1,3,15,48,13,8,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+TOTAL CAUSAS SISTEMA CIRCULATORIO,23,3,2,5,3,6,3,1,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Accidente vascular encefálico,1,0,0,1,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Crisis hipertensiva,10,1,1,1,3,3,1,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Otras causas circulatorias,11,2,1,3,0,3,1,1,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,111,15,8,18,27,13,25,5,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Accidentes del tránsito,1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Otras causas externas,110,15,8,18,27,13,24,5,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+DIARREA AGUDA (A00-A09),12,1,2,1,5,2,1,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+TOTAL DEMÁS CAUSAS,227,44,16,26,36,45,51,9,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Laguna Verde

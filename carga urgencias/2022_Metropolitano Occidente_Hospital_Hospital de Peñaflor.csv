@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6653,986,989,1043,1099,1027,888,621,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4891,782,788,739,775,703,664,440,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+TOTAL CAUSAS SISTEMA RESPIRATORIO,637,92,95,105,141,87,80,37,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+IRA Alta (J00-J06),457,65,59,78,110,60,60,25,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Influenza (J09-J11),19,0,6,5,6,2,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Neumonía (J12-J18),40,9,8,4,3,8,6,2,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Bronquitis/bronquiolitis aguda (J20-J21),11,2,3,1,4,1,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Crisis obstructiva bronquial (J40-J46),44,8,12,9,7,3,4,1,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",66,8,7,8,11,13,10,9,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+COVID 19 Sospechoso (U072),274,19,24,53,43,43,49,43,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+COVID 19 Confirmado (U071),223,4,7,15,59,87,40,11,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+TOTAL CAUSAS SISTEMA CIRCULATORIO,151,26,24,25,21,23,16,16,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Infarto agudo miocardio,1,0,1,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Accidente vascular encefálico,25,3,5,4,3,3,4,3,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Crisis hipertensiva,26,8,0,6,4,2,1,5,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Arritmia grave,26,6,5,4,2,3,4,2,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Otras causas circulatorias,73,9,13,11,12,15,7,6,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,655,130,106,89,96,92,87,55,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Accidentes del tránsito,38,5,8,5,0,2,8,10,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Lesiones autoinfligidas intencionalmente (X60-X84),8,2,0,1,1,3,1,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Otras causas externas,609,123,98,83,95,87,78,45,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),96,12,12,24,21,12,9,6,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Ideación Suicida (R458),15,0,0,7,2,2,3,1,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,1,1,1,1,0,1,2,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Trastornos del Humor (Afectivos) (F30-F39),2,1,0,0,1,0,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",58,10,8,11,13,10,4,2,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+Otros trastornos mentales no contenidos en las categorías anteriores,14,0,3,5,4,0,1,1,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+DIARREA AGUDA (A00-A09),268,62,76,38,20,25,27,20,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+TOTAL DEMÁS CAUSAS,2587,437,444,390,374,334,356,252,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,59,11,5,1,10,13,16,3,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- CAUSAS SISTEMA RESPIRATORIO,11,2,0,0,3,2,4,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- COVID 19 SOSPECHOSO (U072),1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- COVID 19 CONFIRMADO (U071),3,0,0,0,0,0,3,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- CAUSAS SISTEMA CIRCULATORIO,12,1,3,0,1,3,1,3,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,0,1,0,0,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+- LAS DEMÁS CAUSAS,31,8,2,0,6,8,7,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Hospital de Peñaflor

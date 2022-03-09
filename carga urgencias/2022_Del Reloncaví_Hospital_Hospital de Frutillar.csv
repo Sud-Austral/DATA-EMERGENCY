@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4337,438,529,564,616,770,768,652,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3264,379,453,455,464,562,519,432,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+TOTAL CAUSAS SISTEMA RESPIRATORIO,207,26,23,14,34,51,32,27,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+IRA Alta (J00-J06),155,16,16,11,25,40,26,21,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Neumonía (J12-J18),6,1,0,1,1,1,1,1,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Bronquitis/bronquiolitis aguda (J20-J21),9,0,1,0,3,2,3,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Crisis obstructiva bronquial (J40-J46),24,8,2,1,3,5,2,3,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",13,1,4,1,2,3,0,2,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+COVID 19 Sospechoso (U072),620,47,59,41,67,149,139,118,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+COVID 19 Confirmado (U071),21,2,3,1,6,2,4,3,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+TOTAL CAUSAS SISTEMA CIRCULATORIO,86,13,8,22,14,7,12,10,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Infarto agudo miocardio,6,1,0,0,0,0,4,1,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Accidente vascular encefálico,11,2,1,4,2,1,1,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Crisis hipertensiva,22,1,1,4,3,3,5,5,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Arritmia grave,11,3,1,4,1,1,1,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Otras causas circulatorias,36,6,5,10,8,2,1,4,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,486,55,86,80,74,67,77,47,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Accidentes del tránsito,4,1,1,0,0,1,1,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Otras causas externas,481,54,85,80,73,66,76,47,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),67,15,10,11,5,6,8,12,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,2,1,0,1,0,1,1,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Trastornos del Humor (Afectivos) (F30-F39),14,4,3,2,2,1,2,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",40,6,4,9,2,5,4,10,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+Otros trastornos mentales no contenidos en las categorías anteriores,7,3,2,0,0,0,1,1,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+DIARREA AGUDA (A00-A09),34,5,5,12,3,3,4,2,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+TOTAL DEMÁS CAUSAS,1743,216,259,274,261,277,243,213,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,10,1,1,5,0,0,1,2,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- CAUSAS SISTEMA CIRCULATORIO,4,0,0,2,0,0,0,2,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,0,0,1,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),4,1,1,1,0,0,1,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+- LAS DEMÁS CAUSAS,1,0,0,1,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Frutillar

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1459,334,126,222,0,158,371,248,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5250,696,731,748,840,839,770,626,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1110,137,151,189,138,175,168,152,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+IRA Alta (J00-J06),984,113,131,159,119,156,162,144,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Neumonía (J12-J18),48,8,7,9,7,8,3,6,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Bronquitis/bronquiolitis aguda (J20-J21),39,11,6,12,2,6,1,1,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Crisis obstructiva bronquial (J40-J46),16,3,3,2,4,2,2,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,2,4,7,6,3,0,1,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+COVID 19 Sospechoso (U072),1026,33,27,58,180,171,307,250,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+COVID 19 Confirmado (U071),466,14,23,40,60,126,104,99,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+TOTAL CAUSAS SISTEMA CIRCULATORIO,58,11,15,7,11,6,4,4,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Infarto agudo miocardio,2,0,0,2,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Accidente vascular encefálico,2,2,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Crisis hipertensiva,19,2,4,1,7,3,2,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Arritmia grave,8,2,2,1,2,1,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Otras causas circulatorias,27,5,9,3,2,2,2,4,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,525,86,90,96,105,77,44,27,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Accidentes del tránsito,23,3,3,5,2,6,2,2,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Otras causas externas,502,83,87,91,103,71,42,25,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),35,2,11,9,5,5,3,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,1,0,0,2,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,0,10,9,5,3,3,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+Otros trastornos mentales no contenidos en las categorías anteriores,2,2,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+DIARREA AGUDA (A00-A09),95,14,17,23,13,16,8,4,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+TOTAL DEMÁS CAUSAS,1935,399,397,326,328,263,132,90,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Dr. Juan Saavedra Macaya

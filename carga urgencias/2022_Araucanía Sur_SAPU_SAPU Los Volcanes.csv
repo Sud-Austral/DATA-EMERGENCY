@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5755,571,782,1037,1088,633,1022,622,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5363,567,774,1014,967,550,913,578,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1339,115,188,316,314,154,147,105,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+IRA Alta (J00-J06),1228,98,168,293,308,138,127,96,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Influenza (J09-J11),24,3,2,1,0,8,7,3,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Neumonía (J12-J18),13,2,2,3,0,1,1,4,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Bronquitis/bronquiolitis aguda (J20-J21),30,5,7,7,3,3,3,2,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Crisis obstructiva bronquial (J40-J46),24,4,2,10,1,2,5,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,3,7,2,2,2,4,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+COVID 19 Sospechoso (U072),214,1,9,22,11,37,90,44,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+COVID 19 Confirmado (U071),832,13,29,140,222,102,186,140,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+TOTAL CAUSAS SISTEMA CIRCULATORIO,38,5,4,9,11,2,5,2,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Accidente vascular encefálico,3,0,1,1,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Crisis hipertensiva,15,2,1,3,5,1,3,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Otras causas circulatorias,19,3,2,5,4,1,2,2,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,822,119,159,141,127,78,110,88,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Accidentes del tránsito,424,65,91,69,63,44,54,38,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Otras causas externas,398,54,68,72,64,34,56,50,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),55,9,8,7,10,3,10,8,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,1,0,0,0,1,2,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Trastornos del Humor (Afectivos) (F30-F39),3,3,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",46,6,6,7,9,3,9,6,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,0,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+DIARREA AGUDA (A00-A09),274,49,56,40,42,30,25,32,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+TOTAL DEMÁS CAUSAS,1789,256,321,339,230,144,340,159,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Los Volcanes

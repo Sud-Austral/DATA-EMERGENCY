@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1493,135,229,245,292,183,205,204,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1493,135,229,245,292,183,205,204,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+TOTAL CAUSAS SISTEMA RESPIRATORIO,106,15,17,26,34,3,5,6,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+IRA Alta (J00-J06),85,14,12,23,31,0,2,3,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Neumonía (J12-J18),1,0,0,0,1,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Bronquitis/bronquiolitis aguda (J20-J21),5,0,3,1,0,0,1,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Crisis obstructiva bronquial (J40-J46),2,0,0,1,0,0,0,1,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",13,1,2,1,2,3,2,2,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+COVID 19 Sospechoso (U072),647,29,49,76,142,114,125,112,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+COVID 19 Confirmado (U071),2,0,1,0,0,1,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+TOTAL CAUSAS SISTEMA CIRCULATORIO,25,1,2,9,4,4,1,4,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Crisis hipertensiva,12,0,1,5,1,2,1,2,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Otras causas circulatorias,13,1,1,4,3,2,0,2,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,116,10,30,14,24,10,13,15,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Otras causas externas,115,10,30,14,23,10,13,15,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),12,2,3,1,1,2,3,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",11,2,3,1,1,2,2,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,1,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+DIARREA AGUDA (A00-A09),3,2,0,1,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+TOTAL DEMÁS CAUSAS,582,76,127,118,87,49,58,67,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Dr. Federico Puga

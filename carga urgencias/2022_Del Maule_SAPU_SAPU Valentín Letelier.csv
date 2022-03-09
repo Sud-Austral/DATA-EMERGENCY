@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3085,386,401,386,409,512,564,427,2022,Del Maule,SAPU,SAPU Valentín Letelier
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2865,369,381,352,376,475,505,407,2022,Del Maule,SAPU,SAPU Valentín Letelier
+TOTAL CAUSAS SISTEMA RESPIRATORIO,605,104,81,95,83,81,72,89,2022,Del Maule,SAPU,SAPU Valentín Letelier
+IRA Alta (J00-J06),532,98,74,88,76,72,67,57,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Neumonía (J12-J18),2,0,0,1,0,1,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Bronquitis/bronquiolitis aguda (J20-J21),32,1,4,4,5,7,3,8,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Crisis obstructiva bronquial (J40-J46),5,2,1,0,1,0,0,1,2022,Del Maule,SAPU,SAPU Valentín Letelier
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",34,3,2,2,1,1,2,23,2022,Del Maule,SAPU,SAPU Valentín Letelier
+COVID 19 Sospechoso (U072),684,9,24,39,83,190,207,132,2022,Del Maule,SAPU,SAPU Valentín Letelier
+COVID 19 Confirmado (U071),20,0,0,3,3,4,7,3,2022,Del Maule,SAPU,SAPU Valentín Letelier
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,7,1,3,8,2,4,1,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Accidente vascular encefálico,2,0,0,0,0,0,2,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Crisis hipertensiva,10,4,0,3,1,2,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Otras causas circulatorias,14,3,1,0,7,0,2,1,2022,Del Maule,SAPU,SAPU Valentín Letelier
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,172,29,31,23,22,19,30,18,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Otras causas externas,172,29,31,23,22,19,30,18,2022,Del Maule,SAPU,SAPU Valentín Letelier
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),32,3,4,6,5,4,3,7,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,0,1,2,1,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",26,3,3,4,3,3,3,7,2022,Del Maule,SAPU,SAPU Valentín Letelier
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,1,1,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+DIARREA AGUDA (A00-A09),126,17,16,17,22,26,15,13,2022,Del Maule,SAPU,SAPU Valentín Letelier
+TOTAL DEMÁS CAUSAS,1200,200,224,166,150,149,167,144,2022,Del Maule,SAPU,SAPU Valentín Letelier
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Valentín Letelier

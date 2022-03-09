@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2024,306,363,378,301,295,250,131,2022,Antofagasta,SAPU,SAPU Norponiente
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2001,306,363,378,301,295,227,131,2022,Antofagasta,SAPU,SAPU Norponiente
+TOTAL CAUSAS SISTEMA RESPIRATORIO,171,40,30,29,20,23,22,7,2022,Antofagasta,SAPU,SAPU Norponiente
+IRA Alta (J00-J06),146,37,23,25,13,22,20,6,2022,Antofagasta,SAPU,SAPU Norponiente
+Influenza (J09-J11),3,0,0,0,3,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Neumonía (J12-J18),2,0,2,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Bronquitis/bronquiolitis aguda (J20-J21),7,1,2,1,3,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Crisis obstructiva bronquial (J40-J46),5,1,1,1,0,1,1,0,2022,Antofagasta,SAPU,SAPU Norponiente
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",8,1,2,2,1,0,1,1,2022,Antofagasta,SAPU,SAPU Norponiente
+COVID 19 Sospechoso (U072),557,39,93,144,124,99,32,26,2022,Antofagasta,SAPU,SAPU Norponiente
+COVID 19 Confirmado (U071),22,0,1,0,1,8,0,12,2022,Antofagasta,SAPU,SAPU Norponiente
+TOTAL CAUSAS SISTEMA CIRCULATORIO,11,3,0,3,2,1,0,2,2022,Antofagasta,SAPU,SAPU Norponiente
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Crisis hipertensiva,4,1,0,0,1,1,0,1,2022,Antofagasta,SAPU,SAPU Norponiente
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Otras causas circulatorias,7,2,0,3,1,0,0,1,2022,Antofagasta,SAPU,SAPU Norponiente
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,76,18,15,8,9,8,11,7,2022,Antofagasta,SAPU,SAPU Norponiente
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Otras causas externas,76,18,15,8,9,8,11,7,2022,Antofagasta,SAPU,SAPU Norponiente
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,0,1,1,1,1,1,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Antofagasta,SAPU,SAPU Norponiente
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,1,1,1,1,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+DIARREA AGUDA (A00-A09),16,8,6,2,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+TOTAL DEMÁS CAUSAS,1143,198,217,191,144,155,161,77,2022,Antofagasta,SAPU,SAPU Norponiente
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Norponiente

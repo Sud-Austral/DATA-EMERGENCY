@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1496,229,222,249,224,209,248,115,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1467,229,221,249,219,200,237,112,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+TOTAL CAUSAS SISTEMA RESPIRATORIO,332,6,7,34,104,112,51,18,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+IRA Alta (J00-J06),308,5,5,24,99,108,50,17,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Neumonía (J12-J18),4,0,0,2,0,1,0,1,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Bronquitis/bronquiolitis aguda (J20-J21),14,0,1,6,3,3,1,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Crisis obstructiva bronquial (J40-J46),1,0,0,1,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5,1,1,1,2,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+COVID 19 Sospechoso (U072),434,72,80,74,27,19,108,54,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+TOTAL CAUSAS SISTEMA CIRCULATORIO,17,3,3,3,3,1,3,1,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Crisis hipertensiva,10,3,1,1,2,1,1,1,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Arritmia grave,2,0,0,2,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Otras causas circulatorias,5,0,2,0,1,0,2,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,114,18,22,27,14,12,17,4,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Otras causas externas,114,18,22,27,14,12,17,4,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),3,0,0,1,1,0,0,1,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,0,1,1,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+DIARREA AGUDA (A00-A09),38,6,3,7,4,15,2,1,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+TOTAL DEMÁS CAUSAS,529,124,106,103,66,41,56,33,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Artificio

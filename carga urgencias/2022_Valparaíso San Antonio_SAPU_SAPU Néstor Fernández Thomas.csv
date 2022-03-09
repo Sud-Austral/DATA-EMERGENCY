@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2054,346,202,306,325,320,351,204,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2014,339,195,298,317,316,348,201,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,540,76,49,101,98,88,90,38,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+IRA Alta (J00-J06),476,67,44,90,86,83,70,36,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Influenza (J09-J11),1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Neumonía (J12-J18),2,1,0,0,0,1,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Bronquitis/bronquiolitis aguda (J20-J21),38,5,4,8,12,4,4,1,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Crisis obstructiva bronquial (J40-J46),5,0,0,0,0,0,5,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,2,1,3,0,0,11,1,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+COVID 19 Sospechoso (U072),325,25,21,47,37,86,66,43,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+COVID 19 Confirmado (U071),21,7,0,0,2,5,2,5,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,5,0,0,0,2,2,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Crisis hipertensiva,5,0,0,0,2,2,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,0,0,0,0,0,2,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+DIARREA AGUDA (A00-A09),106,21,14,6,20,14,22,9,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+TOTAL DEMÁS CAUSAS,1015,210,111,144,158,121,165,106,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Néstor Fernández Thomas

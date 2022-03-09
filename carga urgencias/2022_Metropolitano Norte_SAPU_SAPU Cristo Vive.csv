@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1343,166,186,228,227,204,192,140,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1149,157,176,183,186,169,161,117,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+TOTAL CAUSAS SISTEMA RESPIRATORIO,356,44,59,85,55,43,52,18,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+IRA Alta (J00-J06),275,37,40,58,44,36,48,12,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Neumonía (J12-J18),21,1,4,8,3,4,0,1,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Bronquitis/bronquiolitis aguda (J20-J21),36,6,12,12,3,0,3,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Crisis obstructiva bronquial (J40-J46),7,0,1,1,0,1,1,3,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",17,0,2,6,5,2,0,2,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+COVID 19 Sospechoso (U072),88,3,7,9,24,18,7,20,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+COVID 19 Confirmado (U071),40,0,1,5,14,9,3,8,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+TOTAL CAUSAS SISTEMA CIRCULATORIO,21,2,4,3,2,5,4,1,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Infarto agudo miocardio,3,1,0,0,2,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Crisis hipertensiva,8,0,2,0,0,3,3,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Otras causas circulatorias,10,1,2,3,0,2,1,1,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,62,8,9,7,5,12,14,7,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Otras causas externas,62,8,9,7,5,12,14,7,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),8,1,0,1,0,2,1,3,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,0,0,2,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,0,1,0,2,1,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+TOTAL DEMÁS CAUSAS,574,99,96,73,86,80,80,60,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Cristo Vive

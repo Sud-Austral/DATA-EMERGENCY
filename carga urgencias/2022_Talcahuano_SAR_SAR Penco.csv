@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7434,837,957,1021,963,1418,1254,984,2022,Talcahuano,SAR,SAR Penco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6907,816,906,962,920,1162,1119,1022,2022,Talcahuano,SAR,SAR Penco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,884,127,134,108,150,239,65,61,2022,Talcahuano,SAR,SAR Penco
+IRA Alta (J00-J06),773,103,115,97,130,219,54,55,2022,Talcahuano,SAR,SAR Penco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+Neumonía (J12-J18),18,3,2,1,3,5,3,1,2022,Talcahuano,SAR,SAR Penco
+Bronquitis/bronquiolitis aguda (J20-J21),65,15,13,5,13,11,3,5,2022,Talcahuano,SAR,SAR Penco
+Crisis obstructiva bronquial (J40-J46),17,5,3,4,3,1,1,0,2022,Talcahuano,SAR,SAR Penco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,1,1,1,1,3,4,0,2022,Talcahuano,SAR,SAR Penco
+COVID 19 Sospechoso (U072),2476,144,172,276,297,346,646,595,2022,Talcahuano,SAR,SAR Penco
+COVID 19 Confirmado (U071),331,1,10,20,57,184,27,32,2022,Talcahuano,SAR,SAR Penco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,61,12,14,9,4,10,6,6,2022,Talcahuano,SAR,SAR Penco
+Infarto agudo miocardio,7,1,1,2,0,1,1,1,2022,Talcahuano,SAR,SAR Penco
+Accidente vascular encefálico,2,1,0,0,0,1,0,0,2022,Talcahuano,SAR,SAR Penco
+Crisis hipertensiva,11,3,2,1,0,1,2,2,2022,Talcahuano,SAR,SAR Penco
+Arritmia grave,7,1,2,0,2,1,0,1,2022,Talcahuano,SAR,SAR Penco
+Otras causas circulatorias,34,6,9,6,2,6,3,2,2022,Talcahuano,SAR,SAR Penco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,58,0,1,1,0,55,1,0,2022,Talcahuano,SAR,SAR Penco
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Talcahuano,SAR,SAR Penco
+Lesiones autoinfligidas intencionalmente (X60-X84),5,0,0,1,0,4,0,0,2022,Talcahuano,SAR,SAR Penco
+Otras causas externas,52,0,1,0,0,50,1,0,2022,Talcahuano,SAR,SAR Penco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),67,12,14,13,8,6,8,6,2022,Talcahuano,SAR,SAR Penco
+Ideación Suicida (R458),1,0,0,0,0,0,1,0,2022,Talcahuano,SAR,SAR Penco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),11,1,1,2,3,2,2,0,2022,Talcahuano,SAR,SAR Penco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",51,11,12,10,4,4,4,6,2022,Talcahuano,SAR,SAR Penco
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,1,1,1,0,1,0,2022,Talcahuano,SAR,SAR Penco
+DIARREA AGUDA (A00-A09),253,34,52,38,33,30,32,34,2022,Talcahuano,SAR,SAR Penco
+TOTAL DEMÁS CAUSAS,2777,486,509,497,371,292,334,288,2022,Talcahuano,SAR,SAR Penco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Penco

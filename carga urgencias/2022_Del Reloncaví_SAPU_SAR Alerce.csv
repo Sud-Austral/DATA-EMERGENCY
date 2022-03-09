@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9108,1141,1164,1173,1400,1535,1493,1202,2022,Del Reloncaví,SAPU,SAR Alerce
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7536,1035,1046,1041,1073,1119,1239,983,2022,Del Reloncaví,SAPU,SAR Alerce
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1441,224,156,200,211,267,207,176,2022,Del Reloncaví,SAPU,SAR Alerce
+IRA Alta (J00-J06),1266,186,125,180,189,247,182,157,2022,Del Reloncaví,SAPU,SAR Alerce
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Del Reloncaví,SAPU,SAR Alerce
+Neumonía (J12-J18),19,3,1,3,5,1,5,1,2022,Del Reloncaví,SAPU,SAR Alerce
+Bronquitis/bronquiolitis aguda (J20-J21),54,11,14,10,5,7,2,5,2022,Del Reloncaví,SAPU,SAR Alerce
+Crisis obstructiva bronquial (J40-J46),65,17,11,5,8,9,9,6,2022,Del Reloncaví,SAPU,SAR Alerce
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",36,7,5,2,4,3,8,7,2022,Del Reloncaví,SAPU,SAR Alerce
+COVID 19 Sospechoso (U072),1847,102,112,147,303,331,501,351,2022,Del Reloncaví,SAPU,SAR Alerce
+COVID 19 Confirmado (U071),105,1,6,4,37,26,17,14,2022,Del Reloncaví,SAPU,SAR Alerce
+TOTAL CAUSAS SISTEMA CIRCULATORIO,106,19,17,18,15,13,11,13,2022,Del Reloncaví,SAPU,SAR Alerce
+Infarto agudo miocardio,5,0,0,2,1,0,0,2,2022,Del Reloncaví,SAPU,SAR Alerce
+Accidente vascular encefálico,8,2,1,1,0,2,1,1,2022,Del Reloncaví,SAPU,SAR Alerce
+Crisis hipertensiva,33,5,7,6,5,3,3,4,2022,Del Reloncaví,SAPU,SAR Alerce
+Arritmia grave,12,1,1,5,1,0,2,2,2022,Del Reloncaví,SAPU,SAR Alerce
+Otras causas circulatorias,48,11,8,4,8,8,5,4,2022,Del Reloncaví,SAPU,SAR Alerce
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,695,109,131,116,76,94,81,88,2022,Del Reloncaví,SAPU,SAR Alerce
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,1,0,2022,Del Reloncaví,SAPU,SAR Alerce
+Otras causas externas,693,109,131,116,76,93,80,88,2022,Del Reloncaví,SAPU,SAR Alerce
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),124,19,23,24,21,10,17,10,2022,Del Reloncaví,SAPU,SAR Alerce
+Ideación Suicida (R458),1,1,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),23,5,6,2,2,3,5,0,2022,Del Reloncaví,SAPU,SAR Alerce
+Trastornos del Humor (Afectivos) (F30-F39),4,0,2,0,0,0,1,1,2022,Del Reloncaví,SAPU,SAR Alerce
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",93,13,14,22,17,7,11,9,2022,Del Reloncaví,SAPU,SAR Alerce
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,1,0,2,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+DIARREA AGUDA (A00-A09),73,2,16,11,7,13,14,10,2022,Del Reloncaví,SAPU,SAR Alerce
+TOTAL DEMÁS CAUSAS,3145,559,585,521,403,365,391,321,2022,Del Reloncaví,SAPU,SAR Alerce
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAR Alerce

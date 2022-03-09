@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4091,702,672,601,756,595,539,226,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3527,602,579,530,641,516,465,194,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1196,218,182,168,252,208,138,30,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+IRA Alta (J00-J06),1103,196,163,151,242,192,132,27,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Neumonía (J12-J18),15,0,5,3,1,3,1,2,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Bronquitis/bronquiolitis aguda (J20-J21),41,13,7,7,3,7,3,1,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Crisis obstructiva bronquial (J40-J46),18,5,2,3,5,3,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,4,5,4,1,3,2,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+COVID 19 Sospechoso (U072),313,30,53,35,46,78,55,16,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+COVID 19 Confirmado (U071),15,0,0,1,4,6,3,1,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43,12,4,5,7,7,6,2,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Accidente vascular encefálico,1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Crisis hipertensiva,20,2,2,3,3,5,4,1,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Arritmia grave,1,0,0,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Otras causas circulatorias,21,10,2,2,4,2,1,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,197,31,35,30,28,25,32,16,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Accidentes del tránsito,1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Otras causas externas,196,31,35,30,27,25,32,16,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),43,8,7,4,8,7,6,3,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,1,1,2,1,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,6,6,2,6,2,5,3,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+Otros trastornos mentales no contenidos en las categorías anteriores,7,1,0,0,1,4,1,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+DIARREA AGUDA (A00-A09),26,2,3,0,10,2,7,2,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+TOTAL DEMÁS CAUSAS,1694,301,295,287,286,183,218,124,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Huamachuco

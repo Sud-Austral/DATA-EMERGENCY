@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10234,1646,1688,1609,1659,1691,1289,652,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7071,1363,1276,1137,1224,955,735,381,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+TOTAL CAUSAS SISTEMA RESPIRATORIO,281,69,64,44,37,35,27,5,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+IRA Alta (J00-J06),220,51,51,32,26,33,23,4,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Influenza (J09-J11),15,2,6,2,4,0,1,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Neumonía (J12-J18),33,13,4,6,5,2,2,1,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Bronquitis/bronquiolitis aguda (J20-J21),5,3,2,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Crisis obstructiva bronquial (J40-J46),2,0,0,2,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",6,0,1,2,2,0,1,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+COVID 19 Sospechoso (U072),1209,221,250,241,182,151,109,55,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+COVID 19 Confirmado (U071),388,6,8,39,83,139,77,36,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+TOTAL CAUSAS SISTEMA CIRCULATORIO,38,3,3,11,6,8,5,2,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Infarto agudo miocardio,3,1,0,0,1,0,1,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Accidente vascular encefálico,3,1,1,1,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Crisis hipertensiva,5,0,1,2,2,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Otras causas circulatorias,27,1,1,8,3,8,4,2,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,6,3,2,0,0,0,0,1,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Accidentes del tránsito,6,3,2,0,0,0,0,1,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,2,2,1,1,3,1,1,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Trastornos del Humor (Afectivos) (F30-F39),2,1,0,1,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,1,2,0,1,0,1,1,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,0,0,3,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+DIARREA AGUDA (A00-A09),205,43,48,28,37,25,15,9,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+TOTAL DEMÁS CAUSAS,4933,1016,899,773,878,594,501,272,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,2964,630,651,531,376,435,341,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- CAUSAS SISTEMA RESPIRATORIO,39,6,5,11,4,7,6,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- COVID 19 SOSPECHOSO (U072),726,164,179,150,106,84,43,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- COVID 19 CONFIRMADO (U071),113,4,4,8,21,50,26,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- CAUSAS SISTEMA CIRCULATORIO,65,9,13,18,9,9,7,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- TRAUMATISMOS Y ENVENENAMIENTOS,69,3,11,16,12,15,12,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+- LAS DEMÁS CAUSAS,1952,444,439,328,224,270,247,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital Clínico Metropolitano La Florida Dra. Eloisa Diaz Insunza

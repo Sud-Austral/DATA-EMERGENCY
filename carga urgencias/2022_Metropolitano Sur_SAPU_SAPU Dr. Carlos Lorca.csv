@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2209,282,282,366,433,415,297,134,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2277,282,282,346,433,415,344,175,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+TOTAL CAUSAS SISTEMA RESPIRATORIO,362,80,56,74,47,44,49,12,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+IRA Alta (J00-J06),306,73,44,59,40,39,42,9,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Influenza (J09-J11),1,0,0,1,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Neumonía (J12-J18),3,0,0,1,0,0,1,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Bronquitis/bronquiolitis aguda (J20-J21),25,4,6,7,2,3,2,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Crisis obstructiva bronquial (J40-J46),11,3,1,3,2,0,2,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",16,0,5,3,3,2,2,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+COVID 19 Sospechoso (U072),1544,159,181,195,306,337,233,133,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+COVID 19 Confirmado (U071),18,1,0,4,4,4,4,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+TOTAL CAUSAS SISTEMA CIRCULATORIO,9,0,2,0,1,0,3,3,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Crisis hipertensiva,2,0,0,0,0,0,1,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Otras causas circulatorias,6,0,2,0,1,0,1,2,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,13,1,3,1,0,3,4,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Otras causas externas,13,1,3,1,0,3,4,1,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,3,0,0,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,3,0,0,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+DIARREA AGUDA (A00-A09),1,0,1,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+TOTAL DEMÁS CAUSAS,326,38,39,72,75,27,50,25,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Dr. Carlos Lorca

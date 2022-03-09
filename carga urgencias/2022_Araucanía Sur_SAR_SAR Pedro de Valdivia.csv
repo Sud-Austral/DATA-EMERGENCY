@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6217,774,878,947,1071,610,1177,760,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5970,762,860,919,1035,588,1083,723,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1177,183,193,228,180,79,183,131,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+IRA Alta (J00-J06),833,115,132,164,137,53,136,96,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Influenza (J09-J11),87,7,12,18,12,14,15,9,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Neumonía (J12-J18),20,3,2,3,4,2,3,3,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Bronquitis/bronquiolitis aguda (J20-J21),120,28,21,22,13,7,13,16,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Crisis obstructiva bronquial (J40-J46),66,20,14,7,8,1,10,6,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",51,10,12,14,6,2,6,1,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+COVID 19 Sospechoso (U072),515,28,56,71,69,26,147,118,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+COVID 19 Confirmado (U071),940,18,66,79,241,123,264,149,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+TOTAL CAUSAS SISTEMA CIRCULATORIO,49,11,11,10,3,7,4,3,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Infarto agudo miocardio,1,0,0,0,0,0,0,1,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Accidente vascular encefálico,3,0,1,0,0,1,0,1,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Crisis hipertensiva,26,9,5,5,1,2,3,1,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Otras causas circulatorias,18,2,5,5,1,4,1,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1136,134,159,176,234,169,164,100,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Accidentes del tránsito,341,73,82,47,45,25,39,30,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Otras causas externas,795,61,77,129,189,144,125,70,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),74,13,11,14,6,6,13,11,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),22,2,2,4,3,3,5,3,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,1,0,0,2,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",47,11,9,8,2,3,6,8,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,1,1,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+DIARREA AGUDA (A00-A09),233,45,53,49,24,7,27,28,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+TOTAL DEMÁS CAUSAS,1846,330,311,292,278,171,281,183,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAR,SAR Pedro de Valdivia

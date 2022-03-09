@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7371,955,925,921,1065,1299,1246,960,2022,Concepción,SAR,SAR Boca Sur
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6358,850,849,832,946,1079,1000,802,2022,Concepción,SAR,SAR Boca Sur
+TOTAL CAUSAS SISTEMA RESPIRATORIO,950,175,135,142,117,97,177,107,2022,Concepción,SAR,SAR Boca Sur
+IRA Alta (J00-J06),466,96,60,57,76,53,74,50,2022,Concepción,SAR,SAR Boca Sur
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+Neumonía (J12-J18),9,0,4,1,0,1,1,2,2022,Concepción,SAR,SAR Boca Sur
+Bronquitis/bronquiolitis aguda (J20-J21),56,11,12,9,6,5,7,6,2022,Concepción,SAR,SAR Boca Sur
+Crisis obstructiva bronquial (J40-J46),60,10,11,14,8,3,8,6,2022,Concepción,SAR,SAR Boca Sur
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",359,58,48,61,27,35,87,43,2022,Concepción,SAR,SAR Boca Sur
+COVID 19 Sospechoso (U072),1999,109,149,157,358,525,377,324,2022,Concepción,SAR,SAR Boca Sur
+COVID 19 Confirmado (U071),21,0,1,0,6,5,4,5,2022,Concepción,SAR,SAR Boca Sur
+TOTAL CAUSAS SISTEMA CIRCULATORIO,75,13,18,17,7,8,8,4,2022,Concepción,SAR,SAR Boca Sur
+Infarto agudo miocardio,1,1,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+Accidente vascular encefálico,5,0,1,2,1,0,1,0,2022,Concepción,SAR,SAR Boca Sur
+Crisis hipertensiva,20,3,5,3,2,3,3,1,2022,Concepción,SAR,SAR Boca Sur
+Arritmia grave,3,0,2,1,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+Otras causas circulatorias,46,9,10,11,4,5,4,3,2022,Concepción,SAR,SAR Boca Sur
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,477,95,79,54,63,66,64,56,2022,Concepción,SAR,SAR Boca Sur
+Accidentes del tránsito,3,0,0,0,0,2,0,1,2022,Concepción,SAR,SAR Boca Sur
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+Otras causas externas,473,95,79,54,62,64,64,55,2022,Concepción,SAR,SAR Boca Sur
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),52,7,13,6,3,7,12,4,2022,Concepción,SAR,SAR Boca Sur
+Ideación Suicida (R458),8,2,3,0,0,0,2,1,2022,Concepción,SAR,SAR Boca Sur
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,1,1,0,0,0,2,1,2022,Concepción,SAR,SAR Boca Sur
+Trastornos del Humor (Afectivos) (F30-F39),4,1,0,2,0,1,0,0,2022,Concepción,SAR,SAR Boca Sur
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",32,2,9,4,3,6,7,1,2022,Concepción,SAR,SAR Boca Sur
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,0,0,0,1,1,2022,Concepción,SAR,SAR Boca Sur
+DIARREA AGUDA (A00-A09),260,38,53,50,34,24,27,34,2022,Concepción,SAR,SAR Boca Sur
+TOTAL DEMÁS CAUSAS,2524,413,401,406,358,347,331,268,2022,Concepción,SAR,SAR Boca Sur
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Boca Sur

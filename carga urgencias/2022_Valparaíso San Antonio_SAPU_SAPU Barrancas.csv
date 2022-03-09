@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3052,419,421,493,514,515,442,248,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3052,419,421,493,514,515,442,248,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,692,73,98,139,120,114,95,53,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+IRA Alta (J00-J06),620,55,86,137,98,108,88,48,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Neumonía (J12-J18),1,0,0,0,1,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Bronquitis/bronquiolitis aguda (J20-J21),44,7,6,1,18,4,4,4,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Crisis obstructiva bronquial (J40-J46),4,3,1,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,8,5,1,3,2,3,1,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+COVID 19 Sospechoso (U072),637,53,44,88,141,155,109,47,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+COVID 19 Confirmado (U071),3,0,0,0,0,3,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,31,4,5,7,6,0,5,4,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Infarto agudo miocardio,2,1,0,0,0,0,0,1,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Crisis hipertensiva,15,2,3,2,4,0,3,1,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Otras causas circulatorias,12,0,2,5,2,0,1,2,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,3,0,0,3,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Otras causas externas,3,0,0,3,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+DIARREA AGUDA (A00-A09),15,2,1,6,2,2,2,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+TOTAL DEMÁS CAUSAS,1671,287,273,250,245,241,231,144,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Barrancas

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,838,169,138,100,75,134,142,80,2022,Del Maule,SUR,SUR Los Niches
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,900,156,147,111,133,129,128,96,2022,Del Maule,SUR,SUR Los Niches
+TOTAL CAUSAS SISTEMA RESPIRATORIO,24,7,4,6,3,3,0,1,2022,Del Maule,SUR,SUR Los Niches
+IRA Alta (J00-J06),9,0,2,4,2,1,0,0,2022,Del Maule,SUR,SUR Los Niches
+Influenza (J09-J11),5,3,0,0,1,1,0,0,2022,Del Maule,SUR,SUR Los Niches
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+Bronquitis/bronquiolitis aguda (J20-J21),7,4,1,0,0,1,0,1,2022,Del Maule,SUR,SUR Los Niches
+Crisis obstructiva bronquial (J40-J46),2,0,0,2,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,1,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+COVID 19 Sospechoso (U072),7,0,0,3,3,1,0,0,2022,Del Maule,SUR,SUR Los Niches
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+TOTAL CAUSAS SISTEMA CIRCULATORIO,16,8,2,0,4,0,1,1,2022,Del Maule,SUR,SUR Los Niches
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+Crisis hipertensiva,6,3,0,0,1,0,1,1,2022,Del Maule,SUR,SUR Los Niches
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+Otras causas circulatorias,10,5,2,0,3,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,108,20,21,14,9,16,15,13,2022,Del Maule,SUR,SUR Los Niches
+Accidentes del tránsito,3,1,0,0,0,0,1,1,2022,Del Maule,SUR,SUR Los Niches
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+Otras causas externas,105,19,21,14,9,16,14,12,2022,Del Maule,SUR,SUR Los Niches
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,2,2,0,0,5,7,6,2022,Del Maule,SUR,SUR Los Niches
+Ideación Suicida (R458),1,0,0,0,0,0,0,1,2022,Del Maule,SUR,SUR Los Niches
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,0,0,2,2022,Del Maule,SUR,SUR Los Niches
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",17,1,2,0,0,5,7,2,2022,Del Maule,SUR,SUR Los Niches
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,0,0,0,0,1,2022,Del Maule,SUR,SUR Los Niches
+DIARREA AGUDA (A00-A09),40,17,10,0,0,1,10,2,2022,Del Maule,SUR,SUR Los Niches
+TOTAL DEMÁS CAUSAS,683,102,108,88,114,103,95,73,2022,Del Maule,SUR,SUR Los Niches
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Los Niches

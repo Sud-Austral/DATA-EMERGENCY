@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,995,139,117,135,181,178,136,109,2022,Chiloé,Hospital,Hospital de Queilén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,990,134,112,128,177,168,164,107,2022,Chiloé,Hospital,Hospital de Queilén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,73,16,13,11,11,11,6,5,2022,Chiloé,Hospital,Hospital de Queilén
+IRA Alta (J00-J06),57,13,9,9,9,7,6,4,2022,Chiloé,Hospital,Hospital de Queilén
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Neumonía (J12-J18),2,0,0,0,0,1,0,1,2022,Chiloé,Hospital,Hospital de Queilén
+Bronquitis/bronquiolitis aguda (J20-J21),6,2,1,1,0,2,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Crisis obstructiva bronquial (J40-J46),3,0,3,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5,1,0,1,2,1,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+COVID 19 Sospechoso (U072),129,2,3,2,18,25,58,21,2022,Chiloé,Hospital,Hospital de Queilén
+COVID 19 Confirmado (U071),75,3,0,1,11,31,21,8,2022,Chiloé,Hospital,Hospital de Queilén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,21,5,4,3,4,2,1,2,2022,Chiloé,Hospital,Hospital de Queilén
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Crisis hipertensiva,6,2,0,2,0,1,1,0,2022,Chiloé,Hospital,Hospital de Queilén
+Arritmia grave,4,2,1,0,0,0,0,1,2022,Chiloé,Hospital,Hospital de Queilén
+Otras causas circulatorias,10,0,3,1,4,1,0,1,2022,Chiloé,Hospital,Hospital de Queilén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,158,33,17,23,33,25,14,13,2022,Chiloé,Hospital,Hospital de Queilén
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Otras causas externas,158,33,17,23,33,25,14,13,2022,Chiloé,Hospital,Hospital de Queilén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),21,4,0,4,6,3,2,2,2022,Chiloé,Hospital,Hospital de Queilén
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,2,0,0,0,1,2,0,2022,Chiloé,Hospital,Hospital de Queilén
+Trastornos del Humor (Afectivos) (F30-F39),3,1,0,1,0,1,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",10,1,0,3,4,1,0,1,2022,Chiloé,Hospital,Hospital de Queilén
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,0,2,0,0,1,2022,Chiloé,Hospital,Hospital de Queilén
+DIARREA AGUDA (A00-A09),21,2,3,4,6,0,3,3,2022,Chiloé,Hospital,Hospital de Queilén
+TOTAL DEMÁS CAUSAS,492,69,72,80,88,71,59,53,2022,Chiloé,Hospital,Hospital de Queilén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Queilén

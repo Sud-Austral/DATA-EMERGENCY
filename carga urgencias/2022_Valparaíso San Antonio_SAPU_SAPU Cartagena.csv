@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9611,1252,1355,1442,1547,1523,1450,1042,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8622,1120,1216,1257,1314,1358,1380,977,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+TOTAL CAUSAS SISTEMA RESPIRATORIO,561,82,95,102,88,70,84,40,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+IRA Alta (J00-J06),320,44,43,43,51,52,65,22,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Neumonía (J12-J18),20,1,2,6,3,6,1,1,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Bronquitis/bronquiolitis aguda (J20-J21),44,6,6,8,6,6,5,7,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Crisis obstructiva bronquial (J40-J46),38,6,15,9,5,1,2,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",139,25,29,36,23,5,11,10,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+COVID 19 Sospechoso (U072),3410,285,352,463,626,619,591,474,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+COVID 19 Confirmado (U071),57,2,0,7,8,21,16,3,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+TOTAL CAUSAS SISTEMA CIRCULATORIO,148,22,25,23,27,26,15,10,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Infarto agudo miocardio,13,3,0,1,3,4,1,1,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Accidente vascular encefálico,14,0,4,1,2,5,0,2,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Crisis hipertensiva,76,14,17,17,10,10,5,3,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Arritmia grave,6,0,3,1,1,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Otras causas circulatorias,39,5,1,3,11,7,8,4,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,18,5,0,0,10,0,1,2,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Accidentes del tránsito,5,0,0,0,3,0,0,2,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Otras causas externas,13,5,0,0,7,0,1,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),130,14,18,21,17,23,22,15,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Ideación Suicida (R458),9,0,1,2,4,2,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,0,3,1,0,0,1,1,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Trastornos del Humor (Afectivos) (F30-F39),5,0,0,1,2,2,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",93,11,11,15,9,17,20,10,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+Otros trastornos mentales no contenidos en las categorías anteriores,17,3,3,2,2,2,1,4,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+DIARREA AGUDA (A00-A09),86,18,16,8,16,10,12,6,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+TOTAL DEMÁS CAUSAS,4212,692,710,633,522,589,639,427,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAPU,SAPU Cartagena

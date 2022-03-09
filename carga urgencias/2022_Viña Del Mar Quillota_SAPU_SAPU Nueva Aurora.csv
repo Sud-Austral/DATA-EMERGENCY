@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4107,458,587,333,477,522,1095,635,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6372,945,974,683,1038,1002,1095,635,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+TOTAL CAUSAS SISTEMA RESPIRATORIO,738,136,131,90,104,74,107,96,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+IRA Alta (J00-J06),553,110,108,72,59,53,86,65,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Influenza (J09-J11),17,0,0,0,17,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Neumonía (J12-J18),1,0,0,0,0,1,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Bronquitis/bronquiolitis aguda (J20-J21),48,7,20,4,6,2,6,3,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Crisis obstructiva bronquial (J40-J46),15,5,2,1,0,1,2,4,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",104,14,1,13,22,17,13,24,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+COVID 19 Sospechoso (U072),2382,142,231,285,535,501,473,215,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+COVID 19 Confirmado (U071),7,1,1,0,2,1,2,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+TOTAL CAUSAS SISTEMA CIRCULATORIO,91,27,20,4,5,13,18,4,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Crisis hipertensiva,89,27,20,4,5,12,17,4,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Otras causas circulatorias,1,0,0,0,0,1,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,104,36,17,8,11,9,11,12,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Otras causas externas,103,36,17,8,11,9,11,11,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),48,4,2,8,7,10,12,5,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,0,0,0,0,0,2,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+Otros trastornos mentales no contenidos en las categorías anteriores,46,4,2,8,7,10,12,3,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+DIARREA AGUDA (A00-A09),154,64,7,4,12,24,27,16,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+TOTAL DEMÁS CAUSAS,2848,535,565,284,362,370,445,287,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Viña Del Mar Quillota,SAPU,SAPU Nueva Aurora

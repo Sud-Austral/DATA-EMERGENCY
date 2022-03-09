@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+IRA Alta (J00-J06),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+TOTAL DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR El Álamo

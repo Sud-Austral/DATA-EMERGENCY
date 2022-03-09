@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2613,365,294,373,404,501,497,179,2022,Del Reloncaví,Hospital,Hospital de Fresia
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2332,331,269,333,367,437,432,163,2022,Del Reloncaví,Hospital,Hospital de Fresia
+TOTAL CAUSAS SISTEMA RESPIRATORIO,204,33,30,48,40,18,31,4,2022,Del Reloncaví,Hospital,Hospital de Fresia
+IRA Alta (J00-J06),139,18,20,41,28,10,20,2,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Neumonía (J12-J18),14,4,1,1,2,1,5,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Bronquitis/bronquiolitis aguda (J20-J21),14,4,0,2,2,3,2,1,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Crisis obstructiva bronquial (J40-J46),13,1,1,1,6,2,1,1,2022,Del Reloncaví,Hospital,Hospital de Fresia
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",24,6,8,3,2,2,3,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+COVID 19 Sospechoso (U072),501,25,19,22,60,185,140,50,2022,Del Reloncaví,Hospital,Hospital de Fresia
+COVID 19 Confirmado (U071),27,4,2,2,10,5,1,3,2022,Del Reloncaví,Hospital,Hospital de Fresia
+TOTAL CAUSAS SISTEMA CIRCULATORIO,55,10,8,9,7,10,9,2,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Infarto agudo miocardio,3,0,0,0,1,1,0,1,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Accidente vascular encefálico,7,1,1,1,0,0,4,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Crisis hipertensiva,11,1,1,3,1,3,1,1,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Arritmia grave,11,3,2,1,2,2,1,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Otras causas circulatorias,23,5,4,4,3,4,3,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,301,50,45,52,55,40,36,23,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Accidentes del tránsito,6,0,3,2,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Otras causas externas,295,50,42,50,54,40,36,23,2022,Del Reloncaví,Hospital,Hospital de Fresia
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),46,10,4,5,8,7,11,1,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,1,0,0,0,0,2,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Trastornos del Humor (Afectivos) (F30-F39),5,0,0,1,1,1,2,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",28,6,3,2,5,5,6,1,2022,Del Reloncaví,Hospital,Hospital de Fresia
+Otros trastornos mentales no contenidos en las categorías anteriores,10,3,1,2,2,1,1,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+DIARREA AGUDA (A00-A09),25,8,7,6,3,1,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+TOTAL DEMÁS CAUSAS,1173,191,154,189,184,171,204,80,2022,Del Reloncaví,Hospital,Hospital de Fresia
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,24,5,2,2,5,4,6,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- CAUSAS SISTEMA RESPIRATORIO,7,1,2,0,1,1,2,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- CAUSAS SISTEMA CIRCULATORIO,7,1,0,1,0,2,3,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- TRAUMATISMOS Y ENVENENAMIENTOS,6,3,0,0,2,0,1,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),4,0,0,1,2,1,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Fresia

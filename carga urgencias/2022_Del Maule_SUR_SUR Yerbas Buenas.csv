@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5916,759,781,833,915,873,929,826,2022,Del Maule,SUR,SUR Yerbas Buenas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3709,510,497,510,534,502,596,560,2022,Del Maule,SUR,SUR Yerbas Buenas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,926,137,98,127,128,101,179,156,2022,Del Maule,SUR,SUR Yerbas Buenas
+IRA Alta (J00-J06),762,85,85,104,102,83,162,141,2022,Del Maule,SUR,SUR Yerbas Buenas
+Influenza (J09-J11),22,22,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+Neumonía (J12-J18),7,0,1,1,1,1,1,2,2022,Del Maule,SUR,SUR Yerbas Buenas
+Bronquitis/bronquiolitis aguda (J20-J21),79,15,5,11,18,11,11,8,2022,Del Maule,SUR,SUR Yerbas Buenas
+Crisis obstructiva bronquial (J40-J46),25,2,2,7,4,1,5,4,2022,Del Maule,SUR,SUR Yerbas Buenas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",31,13,5,4,3,5,0,1,2022,Del Maule,SUR,SUR Yerbas Buenas
+COVID 19 Sospechoso (U072),521,13,18,42,89,90,119,150,2022,Del Maule,SUR,SUR Yerbas Buenas
+COVID 19 Confirmado (U071),24,0,0,0,4,2,8,10,2022,Del Maule,SUR,SUR Yerbas Buenas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,48,7,9,5,6,6,7,8,2022,Del Maule,SUR,SUR Yerbas Buenas
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+Accidente vascular encefálico,4,0,0,1,1,0,1,1,2022,Del Maule,SUR,SUR Yerbas Buenas
+Crisis hipertensiva,18,3,1,1,5,5,0,3,2022,Del Maule,SUR,SUR Yerbas Buenas
+Arritmia grave,10,1,2,1,0,1,2,3,2022,Del Maule,SUR,SUR Yerbas Buenas
+Otras causas circulatorias,16,3,6,2,0,0,4,1,2022,Del Maule,SUR,SUR Yerbas Buenas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,310,62,63,46,39,35,35,30,2022,Del Maule,SUR,SUR Yerbas Buenas
+Accidentes del tránsito,2,0,2,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+Otras causas externas,308,62,61,46,39,35,35,30,2022,Del Maule,SUR,SUR Yerbas Buenas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),49,10,6,8,6,10,7,2,2022,Del Maule,SUR,SUR Yerbas Buenas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,2,0,0,0,1,1,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",42,8,6,6,6,9,5,2,2022,Del Maule,SUR,SUR Yerbas Buenas
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,2,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+DIARREA AGUDA (A00-A09),22,0,1,3,2,2,10,4,2022,Del Maule,SUR,SUR Yerbas Buenas
+TOTAL DEMÁS CAUSAS,1809,281,302,279,260,256,231,200,2022,Del Maule,SUR,SUR Yerbas Buenas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Yerbas Buenas

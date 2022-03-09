@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Influenza (J09-J11),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Crisis hipertensiva,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Arritmia grave,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Otras causas circulatorias,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Accidentes del tránsito,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Lesiones autoinfligidas intencionalmente (X60-X84),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Otras causas externas,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Ideación Suicida (R458),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Trastornos del Humor (Afectivos) (F30-F39),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+Otros trastornos mentales no contenidos en las categorías anteriores,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- COVID 19 SOSPECHOSO (U072),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- COVID 19 CONFIRMADO (U071),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Quilleco

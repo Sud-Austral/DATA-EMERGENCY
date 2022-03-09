@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7776,887,872,1061,1133,1533,1353,937,2022,Del Maule,Hospital,Hospital de Molina
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6718,786,793,901,961,1334,1119,824,2022,Del Maule,Hospital,Hospital de Molina
+TOTAL CAUSAS SISTEMA RESPIRATORIO,580,132,121,110,83,65,47,22,2022,Del Maule,Hospital,Hospital de Molina
+IRA Alta (J00-J06),464,102,104,90,64,58,32,14,2022,Del Maule,Hospital,Hospital de Molina
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,Hospital,Hospital de Molina
+Neumonía (J12-J18),19,4,3,4,2,2,2,2,2022,Del Maule,Hospital,Hospital de Molina
+Bronquitis/bronquiolitis aguda (J20-J21),44,12,7,7,9,2,5,2,2022,Del Maule,Hospital,Hospital de Molina
+Crisis obstructiva bronquial (J40-J46),26,5,2,4,7,2,4,2,2022,Del Maule,Hospital,Hospital de Molina
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",27,9,5,5,1,1,4,2,2022,Del Maule,Hospital,Hospital de Molina
+COVID 19 Sospechoso (U072),611,5,14,9,52,113,237,181,2022,Del Maule,Hospital,Hospital de Molina
+COVID 19 Confirmado (U071),1217,24,38,107,149,349,286,264,2022,Del Maule,Hospital,Hospital de Molina
+TOTAL CAUSAS SISTEMA CIRCULATORIO,92,18,23,15,10,7,9,10,2022,Del Maule,Hospital,Hospital de Molina
+Infarto agudo miocardio,2,1,1,0,0,0,0,0,2022,Del Maule,Hospital,Hospital de Molina
+Accidente vascular encefálico,6,0,0,4,2,0,0,0,2022,Del Maule,Hospital,Hospital de Molina
+Crisis hipertensiva,26,6,8,4,2,2,1,3,2022,Del Maule,Hospital,Hospital de Molina
+Arritmia grave,15,4,7,0,0,1,2,1,2022,Del Maule,Hospital,Hospital de Molina
+Otras causas circulatorias,43,7,7,7,6,4,6,6,2022,Del Maule,Hospital,Hospital de Molina
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,517,83,102,73,79,67,62,51,2022,Del Maule,Hospital,Hospital de Molina
+Accidentes del tránsito,59,11,13,6,6,8,7,8,2022,Del Maule,Hospital,Hospital de Molina
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Del Maule,Hospital,Hospital de Molina
+Otras causas externas,457,72,89,67,73,59,55,42,2022,Del Maule,Hospital,Hospital de Molina
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),87,9,15,13,9,14,14,13,2022,Del Maule,Hospital,Hospital de Molina
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,Hospital,Hospital de Molina
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,1,1,3,0,0,1,0,2022,Del Maule,Hospital,Hospital de Molina
+Trastornos del Humor (Afectivos) (F30-F39),22,3,4,4,3,3,2,3,2022,Del Maule,Hospital,Hospital de Molina
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",44,5,8,4,6,7,7,7,2022,Del Maule,Hospital,Hospital de Molina
+Otros trastornos mentales no contenidos en las categorías anteriores,15,0,2,2,0,4,4,3,2022,Del Maule,Hospital,Hospital de Molina
+DIARREA AGUDA (A00-A09),51,5,9,9,8,11,6,3,2022,Del Maule,Hospital,Hospital de Molina
+TOTAL DEMÁS CAUSAS,3563,510,471,565,571,708,458,280,2022,Del Maule,Hospital,Hospital de Molina
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,155,24,25,17,19,21,26,23,2022,Del Maule,Hospital,Hospital de Molina
+- CAUSAS SISTEMA RESPIRATORIO,19,4,2,3,3,1,2,4,2022,Del Maule,Hospital,Hospital de Molina
+- COVID 19 SOSPECHOSO (U072),2,0,0,0,0,1,1,0,2022,Del Maule,Hospital,Hospital de Molina
+- COVID 19 CONFIRMADO (U071),25,0,2,0,1,3,10,9,2022,Del Maule,Hospital,Hospital de Molina
+- CAUSAS SISTEMA CIRCULATORIO,11,2,4,1,1,1,1,1,2022,Del Maule,Hospital,Hospital de Molina
+- TRAUMATISMOS Y ENVENENAMIENTOS,3,0,0,0,1,1,0,1,2022,Del Maule,Hospital,Hospital de Molina
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),30,3,4,6,2,5,5,5,2022,Del Maule,Hospital,Hospital de Molina
+- LAS DEMÁS CAUSAS,65,15,13,7,11,9,7,3,2022,Del Maule,Hospital,Hospital de Molina
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,Hospital,Hospital de Molina

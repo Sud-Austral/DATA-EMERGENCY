@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,803,104,131,114,96,156,121,81,2022,Coquimbo,SAPU,SAPU Canela
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,892,104,131,111,126,155,152,113,2022,Coquimbo,SAPU,SAPU Canela
+TOTAL CAUSAS SISTEMA RESPIRATORIO,80,9,10,10,17,7,18,9,2022,Coquimbo,SAPU,SAPU Canela
+IRA Alta (J00-J06),61,9,7,7,10,3,18,7,2022,Coquimbo,SAPU,SAPU Canela
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Bronquitis/bronquiolitis aguda (J20-J21),6,0,0,1,2,2,0,1,2022,Coquimbo,SAPU,SAPU Canela
+Crisis obstructiva bronquial (J40-J46),3,0,1,0,1,1,0,0,2022,Coquimbo,SAPU,SAPU Canela
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,0,2,2,4,1,0,1,2022,Coquimbo,SAPU,SAPU Canela
+COVID 19 Sospechoso (U072),209,7,12,24,30,43,59,34,2022,Coquimbo,SAPU,SAPU Canela
+COVID 19 Confirmado (U071),17,0,0,0,0,1,4,12,2022,Coquimbo,SAPU,SAPU Canela
+TOTAL CAUSAS SISTEMA CIRCULATORIO,29,3,6,4,5,8,1,2,2022,Coquimbo,SAPU,SAPU Canela
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Crisis hipertensiva,5,1,1,0,1,1,0,1,2022,Coquimbo,SAPU,SAPU Canela
+Arritmia grave,1,0,0,1,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Otras causas circulatorias,23,2,5,3,4,7,1,1,2022,Coquimbo,SAPU,SAPU Canela
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,91,13,14,7,16,20,12,9,2022,Coquimbo,SAPU,SAPU Canela
+Accidentes del tránsito,1,0,0,0,0,0,1,0,2022,Coquimbo,SAPU,SAPU Canela
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Otras causas externas,90,13,14,7,16,20,11,9,2022,Coquimbo,SAPU,SAPU Canela
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,4,1,0,1,0,1,0,2022,Coquimbo,SAPU,SAPU Canela
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,3,1,0,1,0,1,0,2022,Coquimbo,SAPU,SAPU Canela
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+DIARREA AGUDA (A00-A09),8,1,2,3,1,1,0,0,2022,Coquimbo,SAPU,SAPU Canela
+TOTAL DEMÁS CAUSAS,451,67,86,63,56,75,57,47,2022,Coquimbo,SAPU,SAPU Canela
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SAPU,SAPU Canela

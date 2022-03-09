@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2567,353,321,327,390,338,534,304,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2471,345,310,309,376,332,495,304,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,503,86,63,80,93,62,74,45,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+IRA Alta (J00-J06),447,78,51,65,87,51,72,43,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Influenza (J09-J11),11,0,0,3,0,8,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Neumonía (J12-J18),3,1,1,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Bronquitis/bronquiolitis aguda (J20-J21),11,1,2,2,2,1,1,2,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Crisis obstructiva bronquial (J40-J46),12,3,5,1,2,1,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,3,4,8,2,1,1,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+COVID 19 Sospechoso (U072),324,9,17,18,34,82,125,39,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+COVID 19 Confirmado (U071),316,7,2,12,69,51,101,74,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,29,6,6,8,3,3,1,2,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Crisis hipertensiva,16,5,4,6,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Arritmia grave,2,0,1,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Otras causas circulatorias,9,0,1,0,2,3,1,2,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,347,60,37,46,31,42,81,50,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Accidentes del tránsito,155,30,27,21,21,17,18,21,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Otras causas externas,192,30,10,25,10,25,63,29,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),19,6,3,3,3,1,1,2,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,0,1,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,1,0,0,1,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",13,4,2,2,3,0,0,2,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,1,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+DIARREA AGUDA (A00-A09),101,24,24,12,15,10,8,8,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+TOTAL DEMÁS CAUSAS,832,147,158,130,128,81,104,84,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Pitrufquén

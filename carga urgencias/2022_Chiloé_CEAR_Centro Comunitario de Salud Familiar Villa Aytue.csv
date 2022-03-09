@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,289,-,7,72,94,29,87,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,289,-,7,72,94,29,87,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,164,-,5,47,51,13,48,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+IRA Alta (J00-J06),111,-,5,30,26,13,37,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Influenza (J09-J11),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Neumonía (J12-J18),2,-,0,0,1,0,1,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Bronquitis/bronquiolitis aguda (J20-J21),28,-,0,6,13,0,9,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Crisis obstructiva bronquial (J40-J46),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,-,0,11,11,0,1,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+COVID 19 Sospechoso (U072),103,-,0,16,41,11,35,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+COVID 19 Confirmado (U071),8,-,2,2,2,1,1,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Infarto agudo miocardio,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Accidente vascular encefálico,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Crisis hipertensiva,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Arritmia grave,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Otras causas circulatorias,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Accidentes del tránsito,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Otras causas externas,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Ideación Suicida (R458),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Trastornos del Humor (Afectivos) (F30-F39),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+Otros trastornos mentales no contenidos en las categorías anteriores,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+DIARREA AGUDA (A00-A09),3,-,0,3,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+TOTAL DEMÁS CAUSAS,11,-,0,4,0,4,3,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- CAUSAS SISTEMA RESPIRATORIO,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- COVID 19 SOSPECHOSO (U072),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- COVID 19 CONFIRMADO (U071),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- CAUSAS SISTEMA CIRCULATORIO,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+- LAS DEMÁS CAUSAS,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue
+CIRUGÍAS DE URGENCIA,0,-,0,0,0,0,0,0,2022,Chiloé,CEAR,Centro Comunitario de Salud Familiar Villa Aytue

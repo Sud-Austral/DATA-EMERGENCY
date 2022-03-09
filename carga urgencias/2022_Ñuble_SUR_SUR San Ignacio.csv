@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,683,74,77,102,131,114,110,75,2022,Ñuble,SUR,SUR San Ignacio
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,544,58,39,79,112,87,103,66,2022,Ñuble,SUR,SUR San Ignacio
+TOTAL CAUSAS SISTEMA RESPIRATORIO,38,5,3,8,14,4,2,2,2022,Ñuble,SUR,SUR San Ignacio
+IRA Alta (J00-J06),28,3,2,6,12,3,1,1,2022,Ñuble,SUR,SUR San Ignacio
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Neumonía (J12-J18),2,0,0,0,0,1,1,0,2022,Ñuble,SUR,SUR San Ignacio
+Bronquitis/bronquiolitis aguda (J20-J21),2,1,0,0,1,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Crisis obstructiva bronquial (J40-J46),4,1,1,1,1,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,0,0,1,0,0,0,1,2022,Ñuble,SUR,SUR San Ignacio
+COVID 19 Sospechoso (U072),145,3,3,11,28,38,43,19,2022,Ñuble,SUR,SUR San Ignacio
+COVID 19 Confirmado (U071),4,0,0,1,0,1,1,1,2022,Ñuble,SUR,SUR San Ignacio
+TOTAL CAUSAS SISTEMA CIRCULATORIO,11,1,2,2,2,1,2,1,2022,Ñuble,SUR,SUR San Ignacio
+Infarto agudo miocardio,3,0,0,1,0,1,1,0,2022,Ñuble,SUR,SUR San Ignacio
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Crisis hipertensiva,6,1,2,1,2,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Otras causas circulatorias,2,0,0,0,0,0,1,1,2022,Ñuble,SUR,SUR San Ignacio
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,66,11,5,9,13,8,11,9,2022,Ñuble,SUR,SUR San Ignacio
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+Otras causas externas,66,11,5,9,13,8,11,9,2022,Ñuble,SUR,SUR San Ignacio
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),12,0,0,4,1,2,4,1,2022,Ñuble,SUR,SUR San Ignacio
+Ideación Suicida (R458),1,0,0,0,0,0,1,0,2022,Ñuble,SUR,SUR San Ignacio
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,0,0,1,1,0,2022,Ñuble,SUR,SUR San Ignacio
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",7,0,0,3,1,1,2,0,2022,Ñuble,SUR,SUR San Ignacio
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,1,0,0,0,1,2022,Ñuble,SUR,SUR San Ignacio
+DIARREA AGUDA (A00-A09),2,0,1,0,1,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+TOTAL DEMÁS CAUSAS,266,38,25,44,53,33,40,33,2022,Ñuble,SUR,SUR San Ignacio
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SUR,SUR San Ignacio

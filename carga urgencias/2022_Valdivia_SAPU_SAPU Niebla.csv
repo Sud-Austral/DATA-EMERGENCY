@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1497,181,180,253,229,226,248,180,2022,Valdivia,SAPU,SAPU Niebla
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1391,177,172,232,200,213,231,166,2022,Valdivia,SAPU,SAPU Niebla
+TOTAL CAUSAS SISTEMA RESPIRATORIO,77,9,5,4,12,12,21,14,2022,Valdivia,SAPU,SAPU Niebla
+IRA Alta (J00-J06),53,5,3,4,8,7,14,12,2022,Valdivia,SAPU,SAPU Niebla
+Influenza (J09-J11),2,1,0,0,0,1,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Bronquitis/bronquiolitis aguda (J20-J21),9,1,1,0,0,2,3,2,2022,Valdivia,SAPU,SAPU Niebla
+Crisis obstructiva bronquial (J40-J46),3,2,0,0,1,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,0,1,0,3,2,4,0,2022,Valdivia,SAPU,SAPU Niebla
+COVID 19 Sospechoso (U072),405,39,53,65,55,70,67,56,2022,Valdivia,SAPU,SAPU Niebla
+COVID 19 Confirmado (U071),64,0,0,0,11,10,24,19,2022,Valdivia,SAPU,SAPU Niebla
+TOTAL CAUSAS SISTEMA CIRCULATORIO,10,1,7,0,0,1,0,1,2022,Valdivia,SAPU,SAPU Niebla
+Infarto agudo miocardio,1,0,1,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Crisis hipertensiva,1,0,0,0,0,0,0,1,2022,Valdivia,SAPU,SAPU Niebla
+Arritmia grave,3,0,3,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Otras causas circulatorias,4,1,2,0,0,1,0,0,2022,Valdivia,SAPU,SAPU Niebla
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,166,32,19,39,25,22,14,15,2022,Valdivia,SAPU,SAPU Niebla
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Otras causas externas,166,32,19,39,25,22,14,15,2022,Valdivia,SAPU,SAPU Niebla
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,1,0,2,1,2,2,3,2022,Valdivia,SAPU,SAPU Niebla
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Valdivia,SAPU,SAPU Niebla
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",9,1,0,2,1,2,1,2,2022,Valdivia,SAPU,SAPU Niebla
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Valdivia,SAPU,SAPU Niebla
+DIARREA AGUDA (A00-A09),18,4,1,5,7,0,1,0,2022,Valdivia,SAPU,SAPU Niebla
+TOTAL DEMÁS CAUSAS,640,91,87,117,89,96,102,58,2022,Valdivia,SAPU,SAPU Niebla
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Niebla

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1706,209,214,221,275,255,322,210,2022,Valdivia,SAPU,SAPU Río Bueno
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1744,209,214,221,275,255,360,210,2022,Valdivia,SAPU,SAPU Río Bueno
+TOTAL CAUSAS SISTEMA RESPIRATORIO,116,24,21,20,23,8,17,3,2022,Valdivia,SAPU,SAPU Río Bueno
+IRA Alta (J00-J06),92,20,16,15,20,7,13,1,2022,Valdivia,SAPU,SAPU Río Bueno
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Neumonía (J12-J18),6,2,1,1,1,0,1,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Bronquitis/bronquiolitis aguda (J20-J21),7,0,3,1,0,1,1,1,2022,Valdivia,SAPU,SAPU Río Bueno
+Crisis obstructiva bronquial (J40-J46),4,1,0,2,1,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,1,1,1,1,0,2,1,2022,Valdivia,SAPU,SAPU Río Bueno
+COVID 19 Sospechoso (U072),269,6,12,5,30,46,80,90,2022,Valdivia,SAPU,SAPU Río Bueno
+COVID 19 Confirmado (U071),73,0,0,3,24,24,13,9,2022,Valdivia,SAPU,SAPU Río Bueno
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,1,3,6,5,5,5,1,2022,Valdivia,SAPU,SAPU Río Bueno
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Crisis hipertensiva,6,1,1,0,2,0,2,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Otras causas circulatorias,19,0,2,6,3,4,3,1,2022,Valdivia,SAPU,SAPU Río Bueno
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,164,27,36,27,25,15,20,14,2022,Valdivia,SAPU,SAPU Río Bueno
+Accidentes del tránsito,3,0,0,0,0,0,3,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Otras causas externas,161,27,36,27,25,15,17,14,2022,Valdivia,SAPU,SAPU Río Bueno
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),12,1,2,1,1,3,2,2,2022,Valdivia,SAPU,SAPU Río Bueno
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,1,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",7,0,1,0,1,3,1,1,2022,Valdivia,SAPU,SAPU Río Bueno
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,1,0,0,1,1,2022,Valdivia,SAPU,SAPU Río Bueno
+DIARREA AGUDA (A00-A09),9,0,2,3,0,1,1,2,2022,Valdivia,SAPU,SAPU Río Bueno
+TOTAL DEMÁS CAUSAS,1075,150,138,156,167,153,222,89,2022,Valdivia,SAPU,SAPU Río Bueno
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Río Bueno

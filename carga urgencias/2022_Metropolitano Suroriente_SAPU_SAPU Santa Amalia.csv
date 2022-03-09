@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4143,446,378,629,740,828,704,418,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3537,398,345,554,589,651,628,372,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+TOTAL CAUSAS SISTEMA RESPIRATORIO,243,37,39,19,20,43,58,27,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+IRA Alta (J00-J06),191,22,27,16,15,38,51,22,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Neumonía (J12-J18),7,2,1,0,1,1,2,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Bronquitis/bronquiolitis aguda (J20-J21),20,6,4,1,2,3,1,3,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Crisis obstructiva bronquial (J40-J46),12,4,3,1,0,1,2,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,3,3,1,2,0,2,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+COVID 19 Sospechoso (U072),1863,111,108,312,399,436,339,158,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+COVID 19 Confirmado (U071),137,12,0,0,5,8,40,72,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+TOTAL CAUSAS SISTEMA CIRCULATORIO,53,4,5,10,8,11,10,5,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Infarto agudo miocardio,1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Accidente vascular encefálico,1,0,0,0,0,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Crisis hipertensiva,26,3,2,8,2,5,4,2,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Arritmia grave,3,0,0,0,1,0,1,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Otras causas circulatorias,22,1,3,2,4,6,5,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,209,36,39,39,14,22,42,17,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Otras causas externas,209,36,39,39,14,22,42,17,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),43,6,7,11,6,2,5,6,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,1,0,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",34,5,6,10,4,1,4,4,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+Otros trastornos mentales no contenidos en las categorías anteriores,6,1,1,0,1,1,1,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+DIARREA AGUDA (A00-A09),16,5,3,1,4,2,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+TOTAL DEMÁS CAUSAS,973,187,144,162,133,127,134,86,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santa Amalia

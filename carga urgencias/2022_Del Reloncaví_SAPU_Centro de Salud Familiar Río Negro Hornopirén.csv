@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1705,147,225,210,242,346,352,183,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1725,147,225,210,262,346,352,183,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+TOTAL CAUSAS SISTEMA RESPIRATORIO,201,31,28,32,27,39,23,21,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+IRA Alta (J00-J06),161,23,21,28,21,33,17,18,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Neumonía (J12-J18),11,1,1,2,3,1,2,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Bronquitis/bronquiolitis aguda (J20-J21),10,3,1,0,1,2,2,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Crisis obstructiva bronquial (J40-J46),13,4,4,1,1,2,0,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5,0,1,1,1,1,1,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+COVID 19 Sospechoso (U072),429,19,35,16,47,97,151,64,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+COVID 19 Confirmado (U071),129,4,5,5,9,46,42,18,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+TOTAL CAUSAS SISTEMA CIRCULATORIO,18,3,4,1,3,5,1,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Infarto agudo miocardio,1,0,0,0,0,1,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Accidente vascular encefálico,4,1,1,0,0,0,1,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Crisis hipertensiva,5,1,0,1,1,2,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Arritmia grave,2,0,1,0,1,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Otras causas circulatorias,6,1,2,0,1,2,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,240,18,46,33,53,33,42,15,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Accidentes del tránsito,1,0,0,0,0,0,1,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Otras causas externas,239,18,46,33,53,33,41,15,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),19,5,3,3,2,5,0,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,0,1,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,1,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,5,3,3,2,3,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,1,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+DIARREA AGUDA (A00-A09),25,1,9,3,2,4,2,4,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+TOTAL DEMÁS CAUSAS,664,66,95,117,119,117,91,59,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,Centro de Salud Familiar Río Negro Hornopirén

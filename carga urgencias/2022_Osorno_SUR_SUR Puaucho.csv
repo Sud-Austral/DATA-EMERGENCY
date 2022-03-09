@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,108,15,10,13,15,18,23,14,2022,Osorno,SUR,SUR Puaucho
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,108,15,10,13,15,18,23,14,2022,Osorno,SUR,SUR Puaucho
+TOTAL CAUSAS SISTEMA RESPIRATORIO,28,4,0,2,3,6,7,6,2022,Osorno,SUR,SUR Puaucho
+IRA Alta (J00-J06),22,2,0,2,2,5,7,4,2022,Osorno,SUR,SUR Puaucho
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Neumonía (J12-J18),1,0,0,0,0,0,0,1,2022,Osorno,SUR,SUR Puaucho
+Bronquitis/bronquiolitis aguda (J20-J21),2,1,0,0,1,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Crisis obstructiva bronquial (J40-J46),2,1,0,0,0,0,0,1,2022,Osorno,SUR,SUR Puaucho
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,0,0,0,1,0,0,2022,Osorno,SUR,SUR Puaucho
+COVID 19 Sospechoso (U072),10,2,0,0,4,3,0,1,2022,Osorno,SUR,SUR Puaucho
+COVID 19 Confirmado (U071),14,1,0,0,0,2,6,5,2022,Osorno,SUR,SUR Puaucho
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,9,1,1,1,2,0,3,1,2022,Osorno,SUR,SUR Puaucho
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Otras causas externas,9,1,1,1,2,0,3,1,2022,Osorno,SUR,SUR Puaucho
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+TOTAL DEMÁS CAUSAS,47,7,9,10,6,7,7,1,2022,Osorno,SUR,SUR Puaucho
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,SUR,SUR Puaucho

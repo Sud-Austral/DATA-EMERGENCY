@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,382,43,49,53,57,56,88,36,2022,Chiloé,SUR,SUR Chacao
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,388,43,49,53,57,61,88,37,2022,Chiloé,SUR,SUR Chacao
+TOTAL CAUSAS SISTEMA RESPIRATORIO,96,8,5,5,18,11,37,12,2022,Chiloé,SUR,SUR Chacao
+IRA Alta (J00-J06),59,7,2,5,13,3,24,5,2022,Chiloé,SUR,SUR Chacao
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Neumonía (J12-J18),1,0,0,0,0,1,0,0,2022,Chiloé,SUR,SUR Chacao
+Bronquitis/bronquiolitis aguda (J20-J21),4,0,1,0,1,0,0,2,2022,Chiloé,SUR,SUR Chacao
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",32,1,2,0,4,7,13,5,2022,Chiloé,SUR,SUR Chacao
+COVID 19 Sospechoso (U072),5,2,0,0,1,0,0,2,2022,Chiloé,SUR,SUR Chacao
+COVID 19 Confirmado (U071),2,0,0,0,0,0,0,2,2022,Chiloé,SUR,SUR Chacao
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,2,1,0,2,1,2,0,2022,Chiloé,SUR,SUR Chacao
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Otras causas circulatorias,8,2,1,0,2,1,2,0,2022,Chiloé,SUR,SUR Chacao
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,36,2,0,3,16,0,14,1,2022,Chiloé,SUR,SUR Chacao
+Accidentes del tránsito,1,0,0,1,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Otras causas externas,35,2,0,2,16,0,14,1,2022,Chiloé,SUR,SUR Chacao
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),3,1,1,0,0,0,1,0,2022,Chiloé,SUR,SUR Chacao
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Trastornos del Humor (Afectivos) (F30-F39),2,1,1,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,1,0,2022,Chiloé,SUR,SUR Chacao
+DIARREA AGUDA (A00-A09),36,3,7,8,1,2,8,7,2022,Chiloé,SUR,SUR Chacao
+TOTAL DEMÁS CAUSAS,202,25,35,37,19,47,26,13,2022,Chiloé,SUR,SUR Chacao
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Chiloé,SUR,SUR Chacao

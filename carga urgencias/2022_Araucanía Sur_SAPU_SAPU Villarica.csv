@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2424,347,410,453,433,326,302,153,2022,Araucanía Sur,SAPU,SAPU Villarica
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2268,344,404,438,405,269,262,146,2022,Araucanía Sur,SAPU,SAPU Villarica
+TOTAL CAUSAS SISTEMA RESPIRATORIO,348,58,61,78,46,48,21,36,2022,Araucanía Sur,SAPU,SAPU Villarica
+IRA Alta (J00-J06),308,46,53,69,43,43,20,34,2022,Araucanía Sur,SAPU,SAPU Villarica
+Influenza (J09-J11),12,4,4,1,1,0,1,1,2022,Araucanía Sur,SAPU,SAPU Villarica
+Neumonía (J12-J18),1,0,0,0,0,0,0,1,2022,Araucanía Sur,SAPU,SAPU Villarica
+Bronquitis/bronquiolitis aguda (J20-J21),16,4,3,7,0,2,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Crisis obstructiva bronquial (J40-J46),4,2,0,0,1,1,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,2,1,1,1,2,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+COVID 19 Sospechoso (U072),239,13,12,40,43,49,75,7,2022,Araucanía Sur,SAPU,SAPU Villarica
+COVID 19 Confirmado (U071),257,1,14,42,102,44,28,26,2022,Araucanía Sur,SAPU,SAPU Villarica
+TOTAL CAUSAS SISTEMA CIRCULATORIO,21,6,4,3,5,0,2,1,2022,Araucanía Sur,SAPU,SAPU Villarica
+Infarto agudo miocardio,1,0,0,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Crisis hipertensiva,6,2,0,0,3,0,1,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Otras causas circulatorias,13,3,4,2,2,0,1,1,2022,Araucanía Sur,SAPU,SAPU Villarica
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,339,58,64,53,74,41,35,14,2022,Araucanía Sur,SAPU,SAPU Villarica
+Accidentes del tránsito,198,47,45,27,32,16,19,12,2022,Araucanía Sur,SAPU,SAPU Villarica
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Otras causas externas,141,11,19,26,42,25,16,2,2022,Araucanía Sur,SAPU,SAPU Villarica
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),31,6,9,5,5,2,3,1,2022,Araucanía Sur,SAPU,SAPU Villarica
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,1,2,0,0,0,1,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Trastornos del Humor (Afectivos) (F30-F39),3,2,1,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",23,3,6,5,5,2,2,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Araucanía Sur,SAPU,SAPU Villarica
+DIARREA AGUDA (A00-A09),115,29,25,22,16,9,12,2,2022,Araucanía Sur,SAPU,SAPU Villarica
+TOTAL DEMÁS CAUSAS,918,173,215,195,114,76,86,59,2022,Araucanía Sur,SAPU,SAPU Villarica
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villarica

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,74,9,10,8,7,22,18,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,50,9,4,5,2,19,10,1,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL CAUSAS SISTEMA RESPIRATORIO,4,0,1,1,0,2,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+IRA Alta (J00-J06),4,0,1,1,0,2,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1,0,0,0,1,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Otras causas externas,1,0,0,0,1,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,1,1,0,0,0,2,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,0,0,0,0,0,2,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,1,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+TOTAL DEMÁS CAUSAS,41,8,2,4,1,17,8,1,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SUR,SUR Juan Fernández

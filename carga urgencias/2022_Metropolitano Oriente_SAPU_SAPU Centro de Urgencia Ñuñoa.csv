@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,11470,1557,1688,1824,1756,1747,1631,1267,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,9034,1375,1368,1329,1248,1349,1325,1040,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+TOTAL CAUSAS SISTEMA RESPIRATORIO,614,126,107,104,84,89,63,41,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+IRA Alta (J00-J06),506,107,88,87,68,74,51,31,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Neumonía (J12-J18),9,1,1,0,2,2,2,1,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Bronquitis/bronquiolitis aguda (J20-J21),34,7,8,6,3,5,2,3,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Crisis obstructiva bronquial (J40-J46),35,4,3,7,8,5,3,5,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,7,7,4,3,3,5,1,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+COVID 19 Sospechoso (U072),2577,312,429,383,390,415,382,266,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+COVID 19 Confirmado (U071),1270,33,106,186,201,296,261,187,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+TOTAL CAUSAS SISTEMA CIRCULATORIO,192,32,39,25,24,26,26,20,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Accidente vascular encefálico,5,2,0,0,1,0,0,2,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Crisis hipertensiva,108,13,21,19,15,17,12,11,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Arritmia grave,16,4,3,1,2,2,2,2,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Otras causas circulatorias,63,13,15,5,6,7,12,5,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,720,122,108,125,80,90,92,103,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Accidentes del tránsito,10,1,3,4,0,0,2,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,1,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Otras causas externas,709,121,105,120,80,90,90,103,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),109,23,20,9,22,12,10,13,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),15,4,4,1,2,3,0,1,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Trastornos del Humor (Afectivos) (F30-F39),5,1,0,0,2,0,0,2,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",85,17,13,8,18,9,10,10,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,3,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+DIARREA AGUDA (A00-A09),48,12,5,5,10,4,4,8,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+TOTAL DEMÁS CAUSAS,3504,715,554,492,437,417,487,402,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Centro de Urgencia Ñuñoa

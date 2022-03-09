@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,71,10,10,10,17,9,14,1,2022,Metropolitano Sur,SUR,SUR Maipo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,71,10,10,10,17,9,14,1,2022,Metropolitano Sur,SUR,SUR Maipo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+IRA Alta (J00-J06),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+TOTAL DEMÁS CAUSAS,71,10,10,10,17,9,14,1,2022,Metropolitano Sur,SUR,SUR Maipo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SUR,SUR Maipo

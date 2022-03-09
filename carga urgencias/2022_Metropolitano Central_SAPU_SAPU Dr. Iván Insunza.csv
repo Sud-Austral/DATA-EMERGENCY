@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6308,717,689,975,1194,1287,906,540,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5826,680,651,844,1106,1171,853,521,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+TOTAL CAUSAS SISTEMA RESPIRATORIO,555,87,74,65,135,81,79,34,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+IRA Alta (J00-J06),491,72,64,59,123,75,66,32,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Influenza (J09-J11),1,0,0,0,1,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Neumonía (J12-J18),6,2,0,1,0,1,2,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Bronquitis/bronquiolitis aguda (J20-J21),38,9,5,4,7,5,7,1,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Crisis obstructiva bronquial (J40-J46),11,3,2,0,2,0,3,1,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",8,1,3,1,2,0,1,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+COVID 19 Sospechoso (U072),2732,240,232,429,534,634,401,262,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+COVID 19 Confirmado (U071),775,10,35,98,193,242,124,73,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+TOTAL CAUSAS SISTEMA CIRCULATORIO,55,11,8,6,8,7,8,7,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Infarto agudo miocardio,1,0,0,0,0,0,0,1,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Accidente vascular encefálico,5,2,0,0,1,0,2,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Crisis hipertensiva,23,6,4,2,4,3,1,3,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Arritmia grave,2,1,1,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Otras causas circulatorias,24,2,3,4,3,4,5,3,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,260,43,43,43,46,29,33,23,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Otras causas externas,260,43,43,43,46,29,33,23,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,3,6,8,3,7,1,6,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,1,0,0,0,1,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",31,3,6,7,3,7,1,4,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,0,1,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+DIARREA AGUDA (A00-A09),71,30,9,8,8,12,3,1,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+TOTAL DEMÁS CAUSAS,1344,256,244,187,179,159,204,115,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Iván Insunza

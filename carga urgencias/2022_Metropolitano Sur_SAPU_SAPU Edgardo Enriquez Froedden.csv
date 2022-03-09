@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4050,533,599,669,747,667,511,324,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3715,517,568,631,630,583,478,308,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+TOTAL CAUSAS SISTEMA RESPIRATORIO,412,90,65,43,76,62,48,28,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+IRA Alta (J00-J06),192,53,26,8,42,11,29,23,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Neumonía (J12-J18),5,3,1,0,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Bronquitis/bronquiolitis aguda (J20-J21),30,7,4,6,3,5,3,2,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Crisis obstructiva bronquial (J40-J46),7,2,1,3,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",178,25,33,26,31,46,14,3,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+COVID 19 Sospechoso (U072),858,88,94,143,169,143,147,74,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+COVID 19 Confirmado (U071),74,0,1,0,2,34,14,23,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+TOTAL CAUSAS SISTEMA CIRCULATORIO,33,4,2,8,1,3,7,8,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Infarto agudo miocardio,2,1,1,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Crisis hipertensiva,30,3,1,8,1,2,7,8,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Otras causas circulatorias,1,0,0,0,0,1,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,0,6,6,1,3,5,1,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",9,0,0,3,0,0,5,1,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+Otros trastornos mentales no contenidos en las categorías anteriores,13,0,6,3,1,3,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+DIARREA AGUDA (A00-A09),100,26,19,14,15,2,12,12,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+TOTAL DEMÁS CAUSAS,2216,309,381,417,366,336,245,162,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU Edgardo Enriquez Froedden

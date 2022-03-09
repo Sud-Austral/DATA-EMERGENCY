@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9707,1380,1442,1443,1601,1540,1381,920,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8943,1299,1378,1317,1376,1355,1315,903,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1041,204,188,123,108,157,198,63,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+IRA Alta (J00-J06),804,162,155,82,79,122,150,54,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Neumonía (J12-J18),14,2,3,0,2,5,2,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Bronquitis/bronquiolitis aguda (J20-J21),29,7,7,10,1,0,3,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Crisis obstructiva bronquial (J40-J46),52,19,10,6,8,5,2,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",142,14,13,25,18,25,41,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+COVID 19 Sospechoso (U072),3179,195,315,527,750,656,396,340,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+COVID 19 Confirmado (U071),267,5,18,12,38,56,132,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+TOTAL CAUSAS SISTEMA CIRCULATORIO,133,23,18,20,16,18,26,12,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Infarto agudo miocardio,3,0,0,1,0,1,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Accidente vascular encefálico,5,1,0,1,0,1,2,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Crisis hipertensiva,69,11,9,8,10,9,16,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Otras causas circulatorias,56,11,9,10,6,7,7,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,684,113,122,107,55,76,114,97,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Otras causas externas,684,113,122,107,55,76,114,97,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),111,16,27,19,9,13,17,10,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Ideación Suicida (R458),8,3,1,2,1,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,1,0,0,1,1,2,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",63,12,19,10,5,7,7,3,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+Otros trastornos mentales no contenidos en las categorías anteriores,33,0,6,7,2,4,8,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+DIARREA AGUDA (A00-A09),509,148,106,77,30,40,47,61,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+TOTAL DEMÁS CAUSAS,3019,595,584,432,370,339,385,314,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Gustavo Molina

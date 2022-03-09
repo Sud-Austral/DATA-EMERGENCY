@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,82,-,10,35,29,8,-,-,2022,Iquique,SAPU,SAPU Huara
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,82,-,10,35,29,8,-,-,2022,Iquique,SAPU,SAPU Huara
+TOTAL CAUSAS SISTEMA RESPIRATORIO,8,-,0,3,3,2,-,-,2022,Iquique,SAPU,SAPU Huara
+IRA Alta (J00-J06),7,-,0,3,2,2,-,-,2022,Iquique,SAPU,SAPU Huara
+Influenza (J09-J11),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Neumonía (J12-J18),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Bronquitis/bronquiolitis aguda (J20-J21),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Crisis obstructiva bronquial (J40-J46),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,-,0,0,1,0,-,-,2022,Iquique,SAPU,SAPU Huara
+COVID 19 Sospechoso (U072),13,-,1,7,5,0,-,-,2022,Iquique,SAPU,SAPU Huara
+COVID 19 Confirmado (U071),17,-,3,5,5,4,-,-,2022,Iquique,SAPU,SAPU Huara
+TOTAL CAUSAS SISTEMA CIRCULATORIO,3,-,0,1,2,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Infarto agudo miocardio,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Accidente vascular encefálico,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Crisis hipertensiva,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Arritmia grave,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Otras causas circulatorias,3,-,0,1,2,0,-,-,2022,Iquique,SAPU,SAPU Huara
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,5,-,1,1,2,1,-,-,2022,Iquique,SAPU,SAPU Huara
+Accidentes del tránsito,1,-,1,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Lesiones autoinfligidas intencionalmente (X60-X84),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Otras causas externas,4,-,0,1,2,1,-,-,2022,Iquique,SAPU,SAPU Huara
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Ideación Suicida (R458),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Trastornos del Humor (Afectivos) (F30-F39),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+Otros trastornos mentales no contenidos en las categorías anteriores,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+DIARREA AGUDA (A00-A09),1,-,0,0,1,0,-,-,2022,Iquique,SAPU,SAPU Huara
+TOTAL DEMÁS CAUSAS,35,-,5,18,11,1,-,-,2022,Iquique,SAPU,SAPU Huara
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- CAUSAS SISTEMA RESPIRATORIO,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- COVID 19 SOSPECHOSO (U072),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- COVID 19 CONFIRMADO (U071),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- CAUSAS SISTEMA CIRCULATORIO,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+- LAS DEMÁS CAUSAS,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara
+CIRUGÍAS DE URGENCIA,0,-,0,0,0,0,-,-,2022,Iquique,SAPU,SAPU Huara

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4574,500,524,677,937,747,800,389,2022,Aconcagua,SAR,SAR Centenario
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4291,449,491,586,904,729,765,367,2022,Aconcagua,SAR,SAR Centenario
+TOTAL CAUSAS SISTEMA RESPIRATORIO,163,43,21,38,21,14,11,15,2022,Aconcagua,SAR,SAR Centenario
+IRA Alta (J00-J06),119,33,17,26,15,11,7,10,2022,Aconcagua,SAR,SAR Centenario
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+Neumonía (J12-J18),6,2,0,1,0,0,2,1,2022,Aconcagua,SAR,SAR Centenario
+Bronquitis/bronquiolitis aguda (J20-J21),18,5,0,6,3,0,0,4,2022,Aconcagua,SAR,SAR Centenario
+Crisis obstructiva bronquial (J40-J46),6,3,1,1,0,1,0,0,2022,Aconcagua,SAR,SAR Centenario
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,0,3,4,3,2,2,0,2022,Aconcagua,SAR,SAR Centenario
+COVID 19 Sospechoso (U072),2313,94,152,261,606,489,502,209,2022,Aconcagua,SAR,SAR Centenario
+COVID 19 Confirmado (U071),13,0,0,0,2,3,5,3,2022,Aconcagua,SAR,SAR Centenario
+TOTAL CAUSAS SISTEMA CIRCULATORIO,52,10,10,9,10,4,7,2,2022,Aconcagua,SAR,SAR Centenario
+Infarto agudo miocardio,3,0,0,1,1,0,1,0,2022,Aconcagua,SAR,SAR Centenario
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+Crisis hipertensiva,31,5,7,3,8,3,4,1,2022,Aconcagua,SAR,SAR Centenario
+Arritmia grave,3,0,1,1,0,0,1,0,2022,Aconcagua,SAR,SAR Centenario
+Otras causas circulatorias,15,5,2,4,1,1,1,1,2022,Aconcagua,SAR,SAR Centenario
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,361,58,62,53,66,50,49,23,2022,Aconcagua,SAR,SAR Centenario
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Aconcagua,SAR,SAR Centenario
+Otras causas externas,360,58,62,53,66,49,49,23,2022,Aconcagua,SAR,SAR Centenario
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),30,4,4,6,4,4,4,4,2022,Aconcagua,SAR,SAR Centenario
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",29,4,4,5,4,4,4,4,2022,Aconcagua,SAR,SAR Centenario
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,1,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+DIARREA AGUDA (A00-A09),44,13,4,15,6,3,1,2,2022,Aconcagua,SAR,SAR Centenario
+TOTAL DEMÁS CAUSAS,1315,227,238,204,189,162,186,109,2022,Aconcagua,SAR,SAR Centenario
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Aconcagua,SAR,SAR Centenario

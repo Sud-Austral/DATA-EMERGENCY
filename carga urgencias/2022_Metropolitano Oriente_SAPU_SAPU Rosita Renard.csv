@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2841,343,393,409,507,477,410,302,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2544,336,377,344,432,407,374,274,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+TOTAL CAUSAS SISTEMA RESPIRATORIO,260,41,57,35,37,32,36,22,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+IRA Alta (J00-J06),192,31,41,27,28,24,28,13,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Neumonía (J12-J18),4,1,0,0,2,0,1,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Bronquitis/bronquiolitis aguda (J20-J21),20,6,0,1,3,2,5,3,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Crisis obstructiva bronquial (J40-J46),15,0,7,0,2,3,0,3,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,3,9,7,2,3,2,3,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+COVID 19 Sospechoso (U072),842,65,72,91,200,184,145,85,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+COVID 19 Confirmado (U071),13,0,0,2,0,4,2,5,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+TOTAL CAUSAS SISTEMA CIRCULATORIO,48,6,11,11,7,5,4,4,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Accidente vascular encefálico,1,0,0,0,0,0,1,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Crisis hipertensiva,18,2,6,6,2,0,1,1,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Otras causas circulatorias,28,4,5,5,4,5,2,3,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,196,42,36,36,12,24,24,22,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Otras causas externas,196,42,36,36,12,24,24,22,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),32,1,11,2,5,5,3,5,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",28,1,10,2,5,3,2,5,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,0,0,2,1,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+DIARREA AGUDA (A00-A09),9,0,1,0,1,7,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+TOTAL DEMÁS CAUSAS,1144,181,189,167,170,146,160,131,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Rosita Renard

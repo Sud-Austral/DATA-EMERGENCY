@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,55,15,9,8,7,7,9,-,2022,Iquique,SUR,SUR Camiña
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,55,15,9,8,7,7,9,-,2022,Iquique,SUR,SUR Camiña
+TOTAL CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+IRA Alta (J00-J06),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Influenza (J09-J11),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Neumonía (J12-J18),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+COVID 19 Sospechoso (U072),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Infarto agudo miocardio,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Accidente vascular encefálico,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Crisis hipertensiva,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Arritmia grave,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Otras causas circulatorias,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,55,15,9,8,7,7,9,-,2022,Iquique,SUR,SUR Camiña
+Accidentes del tránsito,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Otras causas externas,55,15,9,8,7,7,9,-,2022,Iquique,SUR,SUR Camiña
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Ideación Suicida (R458),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+TOTAL DEMÁS CAUSAS,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,-,2022,Iquique,SUR,SUR Camiña

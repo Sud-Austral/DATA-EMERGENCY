@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,416,37,68,70,81,62,53,45,2022,Del Reloncaví,Hospital,Hospital de Palena
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,419,39,68,70,81,63,53,45,2022,Del Reloncaví,Hospital,Hospital de Palena
+TOTAL CAUSAS SISTEMA RESPIRATORIO,30,2,4,1,4,11,5,3,2022,Del Reloncaví,Hospital,Hospital de Palena
+IRA Alta (J00-J06),24,2,2,1,4,8,4,3,2022,Del Reloncaví,Hospital,Hospital de Palena
+Influenza (J09-J11),1,0,0,0,0,1,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Crisis obstructiva bronquial (J40-J46),2,0,1,0,0,1,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,0,1,0,0,1,1,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+COVID 19 Sospechoso (U072),24,1,0,1,12,5,5,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+COVID 19 Confirmado (U071),44,1,0,0,12,11,13,7,2022,Del Reloncaví,Hospital,Hospital de Palena
+TOTAL CAUSAS SISTEMA CIRCULATORIO,12,1,2,2,4,1,1,1,2022,Del Reloncaví,Hospital,Hospital de Palena
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Crisis hipertensiva,3,0,1,1,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Arritmia grave,3,0,1,0,0,1,0,1,2022,Del Reloncaví,Hospital,Hospital de Palena
+Otras causas circulatorias,5,1,0,1,2,0,1,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,74,7,12,16,13,14,6,6,2022,Del Reloncaví,Hospital,Hospital de Palena
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Otras causas externas,74,7,12,16,13,14,6,6,2022,Del Reloncaví,Hospital,Hospital de Palena
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),8,1,1,1,1,0,1,3,2022,Del Reloncaví,Hospital,Hospital de Palena
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,0,1,2022,Del Reloncaví,Hospital,Hospital de Palena
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,0,1,1,1,0,1,2,2022,Del Reloncaví,Hospital,Hospital de Palena
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+DIARREA AGUDA (A00-A09),12,3,5,0,0,1,2,1,2022,Del Reloncaví,Hospital,Hospital de Palena
+TOTAL DEMÁS CAUSAS,215,23,44,49,35,20,20,24,2022,Del Reloncaví,Hospital,Hospital de Palena
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Palena

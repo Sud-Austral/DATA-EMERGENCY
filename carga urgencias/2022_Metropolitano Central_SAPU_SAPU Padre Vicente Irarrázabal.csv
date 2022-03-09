@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3832,653,696,579,603,535,463,303,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3596,577,593,549,599,522,459,297,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+TOTAL CAUSAS SISTEMA RESPIRATORIO,947,236,244,215,145,50,28,29,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+IRA Alta (J00-J06),801,196,213,193,101,47,23,28,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Neumonía (J12-J18),8,2,2,1,2,0,1,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Bronquitis/bronquiolitis aguda (J20-J21),65,28,21,9,2,2,2,1,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Crisis obstructiva bronquial (J40-J46),23,7,5,3,6,1,1,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",50,3,3,9,34,0,1,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+COVID 19 Sospechoso (U072),736,48,71,83,93,204,160,77,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+COVID 19 Confirmado (U071),537,10,23,34,156,148,111,55,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+TOTAL CAUSAS SISTEMA CIRCULATORIO,57,12,10,12,7,4,8,4,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Infarto agudo miocardio,3,0,1,0,0,0,0,2,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Accidente vascular encefálico,3,0,0,1,0,0,2,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Crisis hipertensiva,33,7,6,7,7,2,3,1,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Otras causas circulatorias,18,5,3,4,0,2,3,1,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,201,58,39,26,9,25,19,25,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Otras causas externas,201,58,39,26,9,25,19,25,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),19,2,8,4,1,1,2,1,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,2,5,3,1,0,2,1,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,2,1,0,1,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+DIARREA AGUDA (A00-A09),27,9,5,4,6,0,3,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+TOTAL DEMÁS CAUSAS,1072,202,193,171,182,90,128,106,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Padre Vicente Irarrázabal

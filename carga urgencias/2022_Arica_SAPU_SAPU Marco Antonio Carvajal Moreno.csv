@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4480,692,680,812,804,628,520,344,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3736,596,520,633,669,518,479,321,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1099,175,185,241,188,149,101,60,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+IRA Alta (J00-J06),1020,160,175,225,178,138,89,55,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Neumonía (J12-J18),3,0,0,0,0,1,2,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Bronquitis/bronquiolitis aguda (J20-J21),60,14,9,12,8,7,6,4,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Crisis obstructiva bronquial (J40-J46),11,1,1,2,1,3,2,1,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5,0,0,2,1,0,2,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+COVID 19 Sospechoso (U072),562,50,52,104,195,81,51,29,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+COVID 19 Confirmado (U071),99,10,9,17,28,14,16,5,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+TOTAL CAUSAS SISTEMA CIRCULATORIO,58,12,10,5,6,6,12,7,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Infarto agudo miocardio,1,0,1,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Accidente vascular encefálico,4,1,0,0,2,0,0,1,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Crisis hipertensiva,38,5,8,5,3,3,9,5,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Otras causas circulatorias,14,5,1,0,1,3,3,1,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,357,64,45,44,32,59,68,45,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,1,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Otras causas externas,356,64,44,44,32,59,68,45,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,2,0,0,1,1,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,2,0,0,1,1,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+DIARREA AGUDA (A00-A09),178,49,33,16,25,29,14,12,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+TOTAL DEMÁS CAUSAS,1379,234,186,206,194,179,217,163,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arica,SAPU,SAPU Marco Antonio Carvajal Moreno

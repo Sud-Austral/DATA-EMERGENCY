@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,9362,1298,1450,1425,1679,1511,1257,742,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8413,1118,1358,1170,1476,1394,1183,714,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1698,208,239,197,319,333,264,138,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+IRA Alta (J00-J06),1400,159,178,154,270,293,231,115,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Neumonía (J12-J18),39,1,2,1,7,11,12,5,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Bronquitis/bronquiolitis aguda (J20-J21),129,18,29,24,23,15,10,10,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Crisis obstructiva bronquial (J40-J46),70,10,15,12,12,10,7,4,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",59,20,14,6,7,4,4,4,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+COVID 19 Sospechoso (U072),1534,147,140,245,384,300,195,123,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+COVID 19 Confirmado (U071),24,1,2,0,5,7,6,3,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+TOTAL CAUSAS SISTEMA CIRCULATORIO,191,30,34,19,40,32,19,17,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Infarto agudo miocardio,2,0,1,0,0,0,0,1,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Accidente vascular encefálico,10,3,3,0,0,2,1,1,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Crisis hipertensiva,78,11,14,7,15,13,11,7,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Arritmia grave,19,4,1,3,4,5,0,2,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Otras causas circulatorias,82,12,15,9,21,12,7,6,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,832,120,147,104,132,111,129,89,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Accidentes del tránsito,4,0,1,0,0,0,2,1,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Lesiones autoinfligidas intencionalmente (X60-X84),3,0,2,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Otras causas externas,825,120,144,104,132,111,126,88,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),158,19,39,20,18,18,27,17,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Ideación Suicida (R458),4,0,0,4,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),18,4,4,3,2,3,1,1,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Trastornos del Humor (Afectivos) (F30-F39),6,2,0,0,0,0,2,2,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",113,10,26,13,14,15,22,13,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+Otros trastornos mentales no contenidos en las categorías anteriores,17,3,9,0,2,0,2,1,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+DIARREA AGUDA (A00-A09),139,9,4,17,83,5,14,7,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+TOTAL DEMÁS CAUSAS,3837,584,753,568,495,588,529,320,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU Santiago de Nueva Extremadura

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5539,867,864,913,968,809,698,420,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5539,867,864,913,968,809,698,420,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1744,292,304,310,306,255,189,88,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+IRA Alta (J00-J06),1532,252,270,267,268,230,166,79,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Influenza (J09-J11),37,2,3,16,3,5,6,2,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Neumonía (J12-J18),1,0,0,0,1,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Bronquitis/bronquiolitis aguda (J20-J21),130,29,21,24,21,17,14,4,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Crisis obstructiva bronquial (J40-J46),23,5,5,3,5,2,2,1,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,4,5,0,8,1,1,2,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+COVID 19 Sospechoso (U072),355,21,24,65,63,85,62,35,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+COVID 19 Confirmado (U071),409,9,23,70,94,97,76,40,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+TOTAL CAUSAS SISTEMA CIRCULATORIO,80,18,8,16,9,7,14,8,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Crisis hipertensiva,61,15,6,9,7,6,11,7,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Arritmia grave,4,1,0,2,0,1,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Otras causas circulatorias,14,2,2,5,2,0,2,1,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,363,67,72,71,33,32,42,46,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Lesiones autoinfligidas intencionalmente (X60-X84),4,0,4,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Otras causas externas,359,67,68,71,33,32,42,46,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),94,22,10,16,16,14,10,6,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Ideación Suicida (R458),1,1,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+Otros trastornos mentales no contenidos en las categorías anteriores,93,21,10,16,16,14,10,6,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+DIARREA AGUDA (A00-A09),216,55,35,32,25,23,27,19,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+TOTAL DEMÁS CAUSAS,2278,383,388,333,422,296,278,178,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Nº 2 Irene Frei de Cid

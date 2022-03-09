@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8296,1017,1035,1228,1314,1176,1399,1127,2022,Del Maule,SAPU,SAPU Amanda Benavente
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7508,997,1018,1108,1095,993,1291,1006,2022,Del Maule,SAPU,SAPU Amanda Benavente
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1553,258,246,337,172,142,179,219,2022,Del Maule,SAPU,SAPU Amanda Benavente
+IRA Alta (J00-J06),1364,214,213,302,160,122,156,197,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Influenza (J09-J11),1,0,0,0,0,0,0,1,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Neumonía (J12-J18),17,2,0,6,0,4,4,1,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Bronquitis/bronquiolitis aguda (J20-J21),110,20,24,19,8,12,10,17,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Crisis obstructiva bronquial (J40-J46),28,10,7,4,2,2,2,1,2022,Del Maule,SAPU,SAPU Amanda Benavente
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",33,12,2,6,2,2,7,2,2022,Del Maule,SAPU,SAPU Amanda Benavente
+COVID 19 Sospechoso (U072),1267,12,13,63,305,264,425,185,2022,Del Maule,SAPU,SAPU Amanda Benavente
+COVID 19 Confirmado (U071),606,4,7,50,23,113,167,242,2022,Del Maule,SAPU,SAPU Amanda Benavente
+TOTAL CAUSAS SISTEMA CIRCULATORIO,47,9,7,14,5,3,3,6,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Infarto agudo miocardio,2,0,0,1,0,0,0,1,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Accidente vascular encefálico,4,1,0,0,2,0,0,1,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Crisis hipertensiva,5,0,2,1,1,0,0,1,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Arritmia grave,10,2,1,5,0,1,1,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Otras causas circulatorias,26,6,4,7,2,2,2,3,2022,Del Maule,SAPU,SAPU Amanda Benavente
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,520,101,95,76,90,54,51,53,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Otras causas externas,520,101,95,76,90,54,51,53,2022,Del Maule,SAPU,SAPU Amanda Benavente
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),144,17,16,16,12,67,9,7,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),23,2,6,4,2,2,5,2,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Trastornos del Humor (Afectivos) (F30-F39),61,0,0,0,0,61,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",56,15,8,10,10,4,4,5,2022,Del Maule,SAPU,SAPU Amanda Benavente
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,2,2,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+DIARREA AGUDA (A00-A09),51,15,12,4,2,6,5,7,2022,Del Maule,SAPU,SAPU Amanda Benavente
+TOTAL DEMÁS CAUSAS,3320,581,622,548,486,344,452,287,2022,Del Maule,SAPU,SAPU Amanda Benavente
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAPU,SAPU Amanda Benavente

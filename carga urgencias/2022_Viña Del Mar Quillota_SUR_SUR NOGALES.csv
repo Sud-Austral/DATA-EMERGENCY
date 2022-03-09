@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,758,178,134,134,156,131,25,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+TOTAL CAUSAS SISTEMA RESPIRATORIO,153,25,24,26,41,27,10,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+IRA Alta (J00-J06),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Influenza (J09-J11),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Neumonía (J12-J18),1,1,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Bronquitis/bronquiolitis aguda (J20-J21),1,1,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Crisis obstructiva bronquial (J40-J46),4,0,0,1,2,1,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",147,23,24,25,39,26,10,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+COVID 19 Sospechoso (U072),17,0,4,6,3,4,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+TOTAL CAUSAS SISTEMA CIRCULATORIO,7,0,1,1,2,3,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Infarto agudo miocardio,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Accidente vascular encefálico,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Crisis hipertensiva,7,0,1,1,2,3,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Arritmia grave,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Otras causas circulatorias,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Accidentes del tránsito,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Otras causas externas,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),3,0,1,2,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Ideación Suicida (R458),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,0,1,2,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+DIARREA AGUDA (A00-A09),25,4,2,0,0,19,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+TOTAL DEMÁS CAUSAS,553,149,102,99,110,78,15,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,-,2022,Viña Del Mar Quillota,SUR,SUR NOGALES

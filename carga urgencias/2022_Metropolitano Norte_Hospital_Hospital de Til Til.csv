@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3223,473,443,474,618,520,402,293,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3286,473,443,474,618,520,465,293,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+TOTAL CAUSAS SISTEMA RESPIRATORIO,501,47,60,63,147,111,50,23,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+IRA Alta (J00-J06),23,0,3,8,9,3,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Influenza (J09-J11),4,1,1,0,2,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Neumonía (J12-J18),45,7,1,7,8,9,11,2,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Bronquitis/bronquiolitis aguda (J20-J21),21,4,0,2,2,7,6,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Crisis obstructiva bronquial (J40-J46),7,0,0,2,1,0,4,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",401,35,55,44,125,92,29,21,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+COVID 19 Sospechoso (U072),222,9,16,59,41,37,51,9,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+COVID 19 Confirmado (U071),497,5,12,24,94,154,132,76,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+TOTAL CAUSAS SISTEMA CIRCULATORIO,7,2,2,2,1,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Infarto agudo miocardio,2,1,0,0,1,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Accidente vascular encefálico,2,1,1,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Otras causas circulatorias,3,0,1,2,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1,0,0,1,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Otras causas externas,1,0,0,1,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+TOTAL DEMÁS CAUSAS,2058,410,353,325,335,218,232,185,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,6,0,6,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- COVID 19 SOSPECHOSO (U072),5,0,5,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- COVID 19 CONFIRMADO (U071),1,0,1,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,Hospital,Hospital de Til Til

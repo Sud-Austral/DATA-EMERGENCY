@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5949,787,894,939,960,995,840,534,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5519,705,837,874,880,927,771,525,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+TOTAL CAUSAS SISTEMA RESPIRATORIO,899,145,212,144,106,89,115,88,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+IRA Alta (J00-J06),447,74,103,65,48,51,63,43,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Influenza (J09-J11),6,2,0,1,1,0,2,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Neumonía (J12-J18),18,4,3,5,1,3,0,2,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Bronquitis/bronquiolitis aguda (J20-J21),46,12,10,8,2,7,2,5,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Crisis obstructiva bronquial (J40-J46),18,4,6,3,2,2,1,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",364,49,90,62,52,26,47,38,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+COVID 19 Sospechoso (U072),1090,56,58,136,325,325,125,65,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+COVID 19 Confirmado (U071),344,8,31,25,16,60,135,69,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+TOTAL CAUSAS SISTEMA CIRCULATORIO,41,7,6,6,2,7,7,6,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Infarto agudo miocardio,2,0,0,2,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Accidente vascular encefálico,4,0,1,0,0,2,1,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Crisis hipertensiva,9,2,3,0,2,1,0,1,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Arritmia grave,2,2,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Otras causas circulatorias,24,3,2,4,0,4,6,5,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1007,104,232,65,161,203,149,93,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Accidentes del tránsito,5,1,0,1,0,1,1,1,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Otras causas externas,1001,103,232,64,161,202,148,91,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),18,6,2,2,0,4,3,1,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Ideación Suicida (R458),4,3,0,1,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+Otros trastornos mentales no contenidos en las categorías anteriores,14,3,2,1,0,4,3,1,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+DIARREA AGUDA (A00-A09),18,5,9,0,1,0,3,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+TOTAL DEMÁS CAUSAS,2102,374,287,496,269,239,234,203,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Lo Hermida

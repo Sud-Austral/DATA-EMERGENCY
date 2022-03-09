@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3122,408,420,422,302,573,551,446,2022,Osorno,Hospital,Hospital de Río Negro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3336,408,420,422,521,573,551,441,2022,Osorno,Hospital,Hospital de Río Negro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,137,26,13,20,20,16,21,21,2022,Osorno,Hospital,Hospital de Río Negro
+IRA Alta (J00-J06),62,11,3,6,11,7,13,11,2022,Osorno,Hospital,Hospital de Río Negro
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+Neumonía (J12-J18),23,4,1,4,5,2,3,4,2022,Osorno,Hospital,Hospital de Río Negro
+Bronquitis/bronquiolitis aguda (J20-J21),18,5,4,1,1,3,1,3,2022,Osorno,Hospital,Hospital de Río Negro
+Crisis obstructiva bronquial (J40-J46),14,4,3,2,1,1,1,2,2022,Osorno,Hospital,Hospital de Río Negro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,2,2,7,2,3,3,1,2022,Osorno,Hospital,Hospital de Río Negro
+COVID 19 Sospechoso (U072),1051,82,73,79,187,213,220,197,2022,Osorno,Hospital,Hospital de Río Negro
+COVID 19 Confirmado (U071),86,1,0,3,13,13,29,27,2022,Osorno,Hospital,Hospital de Río Negro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,107,19,16,20,19,17,10,6,2022,Osorno,Hospital,Hospital de Río Negro
+Infarto agudo miocardio,7,3,1,1,1,0,1,0,2022,Osorno,Hospital,Hospital de Río Negro
+Accidente vascular encefálico,13,2,1,3,2,3,2,0,2022,Osorno,Hospital,Hospital de Río Negro
+Crisis hipertensiva,11,1,0,2,3,2,2,1,2022,Osorno,Hospital,Hospital de Río Negro
+Arritmia grave,12,1,0,4,5,1,0,1,2022,Osorno,Hospital,Hospital de Río Negro
+Otras causas circulatorias,64,12,14,10,8,11,5,4,2022,Osorno,Hospital,Hospital de Río Negro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,394,47,70,62,49,73,53,40,2022,Osorno,Hospital,Hospital de Río Negro
+Accidentes del tránsito,16,0,0,0,8,8,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+Otras causas externas,378,47,70,62,41,65,53,40,2022,Osorno,Hospital,Hospital de Río Negro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),49,8,11,4,2,6,7,11,2022,Osorno,Hospital,Hospital de Río Negro
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,1,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+Trastornos del Humor (Afectivos) (F30-F39),2,0,1,0,0,0,0,1,2022,Osorno,Hospital,Hospital de Río Negro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",40,5,9,4,1,6,5,10,2022,Osorno,Hospital,Hospital de Río Negro
+Otros trastornos mentales no contenidos en las categorías anteriores,5,2,1,0,0,0,2,0,2022,Osorno,Hospital,Hospital de Río Negro
+DIARREA AGUDA (A00-A09),56,11,11,11,6,6,6,5,2022,Osorno,Hospital,Hospital de Río Negro
+TOTAL DEMÁS CAUSAS,1456,214,226,223,225,229,205,134,2022,Osorno,Hospital,Hospital de Río Negro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,41,6,10,9,4,6,3,3,2022,Osorno,Hospital,Hospital de Río Negro
+- CAUSAS SISTEMA RESPIRATORIO,6,0,1,1,1,2,0,1,2022,Osorno,Hospital,Hospital de Río Negro
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro
+- CAUSAS SISTEMA CIRCULATORIO,18,5,1,4,3,3,1,1,2022,Osorno,Hospital,Hospital de Río Negro
+- TRAUMATISMOS Y ENVENENAMIENTOS,13,1,7,3,0,1,0,1,2022,Osorno,Hospital,Hospital de Río Negro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1,0,0,0,0,0,1,0,2022,Osorno,Hospital,Hospital de Río Negro
+- LAS DEMÁS CAUSAS,3,0,1,1,0,0,1,0,2022,Osorno,Hospital,Hospital de Río Negro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Osorno,Hospital,Hospital de Río Negro

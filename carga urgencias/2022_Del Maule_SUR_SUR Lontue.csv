@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3991,465,674,656,739,869,588,0,2022,Del Maule,SUR,SUR Lontue
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2138,215,316,287,424,410,328,158,2022,Del Maule,SUR,SUR Lontue
+TOTAL CAUSAS SISTEMA RESPIRATORIO,585,66,82,86,115,79,106,51,2022,Del Maule,SUR,SUR Lontue
+IRA Alta (J00-J06),542,56,73,81,109,75,100,48,2022,Del Maule,SUR,SUR Lontue
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+Neumonía (J12-J18),6,3,0,0,2,0,1,0,2022,Del Maule,SUR,SUR Lontue
+Bronquitis/bronquiolitis aguda (J20-J21),13,5,4,0,2,0,1,1,2022,Del Maule,SUR,SUR Lontue
+Crisis obstructiva bronquial (J40-J46),21,2,4,5,2,2,4,2,2022,Del Maule,SUR,SUR Lontue
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",3,0,1,0,0,2,0,0,2022,Del Maule,SUR,SUR Lontue
+COVID 19 Sospechoso (U072),198,1,6,1,68,82,37,3,2022,Del Maule,SUR,SUR Lontue
+COVID 19 Confirmado (U071),212,7,12,19,18,55,38,63,2022,Del Maule,SUR,SUR Lontue
+TOTAL CAUSAS SISTEMA CIRCULATORIO,17,3,4,3,2,5,0,0,2022,Del Maule,SUR,SUR Lontue
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+Accidente vascular encefálico,1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Lontue
+Crisis hipertensiva,4,0,0,1,1,2,0,0,2022,Del Maule,SUR,SUR Lontue
+Arritmia grave,2,0,1,0,1,0,0,0,2022,Del Maule,SUR,SUR Lontue
+Otras causas circulatorias,10,3,3,2,0,2,0,0,2022,Del Maule,SUR,SUR Lontue
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,121,12,31,17,24,11,12,14,2022,Del Maule,SUR,SUR Lontue
+Accidentes del tránsito,8,1,0,0,2,1,3,1,2022,Del Maule,SUR,SUR Lontue
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+Otras causas externas,113,11,31,17,22,10,9,13,2022,Del Maule,SUR,SUR Lontue
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),25,3,5,9,5,0,1,2,2022,Del Maule,SUR,SUR Lontue
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+Trastornos del Humor (Afectivos) (F30-F39),7,0,0,4,1,0,0,2,2022,Del Maule,SUR,SUR Lontue
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16,2,5,4,4,0,1,0,2022,Del Maule,SUR,SUR Lontue
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,0,1,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+DIARREA AGUDA (A00-A09),45,8,6,0,3,28,0,0,2022,Del Maule,SUR,SUR Lontue
+TOTAL DEMÁS CAUSAS,935,115,170,152,189,150,134,25,2022,Del Maule,SUR,SUR Lontue
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Lontue

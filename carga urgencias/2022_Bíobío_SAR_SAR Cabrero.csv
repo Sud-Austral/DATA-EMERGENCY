@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10521,1091,1194,3165,1667,1611,1587,206,2022,Bíobío,SAR,SAR Cabrero
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7486,957,978,905,1265,1128,1310,943,2022,Bíobío,SAR,SAR Cabrero
+TOTAL CAUSAS SISTEMA RESPIRATORIO,253,47,38,32,23,28,43,42,2022,Bíobío,SAR,SAR Cabrero
+IRA Alta (J00-J06),176,30,27,20,10,20,34,35,2022,Bíobío,SAR,SAR Cabrero
+Influenza (J09-J11),2,0,0,0,0,0,0,2,2022,Bíobío,SAR,SAR Cabrero
+Neumonía (J12-J18),20,3,4,4,3,1,3,2,2022,Bíobío,SAR,SAR Cabrero
+Bronquitis/bronquiolitis aguda (J20-J21),30,11,4,4,6,3,1,1,2022,Bíobío,SAR,SAR Cabrero
+Crisis obstructiva bronquial (J40-J46),10,2,1,3,0,1,3,0,2022,Bíobío,SAR,SAR Cabrero
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,1,2,1,4,3,2,2,2022,Bíobío,SAR,SAR Cabrero
+COVID 19 Sospechoso (U072),3507,232,347,373,733,640,730,452,2022,Bíobío,SAR,SAR Cabrero
+COVID 19 Confirmado (U071),211,1,4,13,19,42,42,90,2022,Bíobío,SAR,SAR Cabrero
+TOTAL CAUSAS SISTEMA CIRCULATORIO,84,12,7,13,13,18,8,13,2022,Bíobío,SAR,SAR Cabrero
+Infarto agudo miocardio,3,0,0,0,1,2,0,0,2022,Bíobío,SAR,SAR Cabrero
+Accidente vascular encefálico,6,1,0,1,0,2,2,0,2022,Bíobío,SAR,SAR Cabrero
+Crisis hipertensiva,29,4,3,4,4,7,3,4,2022,Bíobío,SAR,SAR Cabrero
+Arritmia grave,10,2,0,2,1,2,1,2,2022,Bíobío,SAR,SAR Cabrero
+Otras causas circulatorias,36,5,4,6,7,5,2,7,2022,Bíobío,SAR,SAR Cabrero
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,11,5,0,2,0,0,0,4,2022,Bíobío,SAR,SAR Cabrero
+Accidentes del tránsito,7,5,0,1,0,0,0,1,2022,Bíobío,SAR,SAR Cabrero
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+Otras causas externas,4,0,0,1,0,0,0,3,2022,Bíobío,SAR,SAR Cabrero
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),65,15,11,8,11,7,10,3,2022,Bíobío,SAR,SAR Cabrero
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),9,2,1,0,3,1,2,0,2022,Bíobío,SAR,SAR Cabrero
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,1,1,0,0,2022,Bíobío,SAR,SAR Cabrero
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",46,10,8,7,6,5,7,3,2022,Bíobío,SAR,SAR Cabrero
+Otros trastornos mentales no contenidos en las categorías anteriores,8,3,2,1,1,0,1,0,2022,Bíobío,SAR,SAR Cabrero
+DIARREA AGUDA (A00-A09),89,20,14,12,10,14,13,6,2022,Bíobío,SAR,SAR Cabrero
+TOTAL DEMÁS CAUSAS,3266,625,557,452,456,379,464,333,2022,Bíobío,SAR,SAR Cabrero
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Bíobío,SAR,SAR Cabrero

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4830,578,503,690,778,1039,717,525,2022,Chiloé,Hospital,Hospital de Ancud
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3437,526,457,546,545,747,370,246,2022,Chiloé,Hospital,Hospital de Ancud
+TOTAL CAUSAS SISTEMA RESPIRATORIO,422,66,59,59,58,107,47,26,2022,Chiloé,Hospital,Hospital de Ancud
+IRA Alta (J00-J06),358,49,48,50,48,99,43,21,2022,Chiloé,Hospital,Hospital de Ancud
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+Neumonía (J12-J18),14,4,1,3,1,1,3,1,2022,Chiloé,Hospital,Hospital de Ancud
+Bronquitis/bronquiolitis aguda (J20-J21),26,6,6,3,6,3,0,2,2022,Chiloé,Hospital,Hospital de Ancud
+Crisis obstructiva bronquial (J40-J46),10,2,3,2,1,2,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,5,1,1,2,2,1,2,2022,Chiloé,Hospital,Hospital de Ancud
+COVID 19 Sospechoso (U072),682,25,37,73,101,295,96,55,2022,Chiloé,Hospital,Hospital de Ancud
+COVID 19 Confirmado (U071),34,1,1,5,5,10,5,7,2022,Chiloé,Hospital,Hospital de Ancud
+TOTAL CAUSAS SISTEMA CIRCULATORIO,77,13,12,8,15,11,9,9,2022,Chiloé,Hospital,Hospital de Ancud
+Infarto agudo miocardio,5,0,0,0,1,1,3,0,2022,Chiloé,Hospital,Hospital de Ancud
+Accidente vascular encefálico,17,3,0,1,5,2,2,4,2022,Chiloé,Hospital,Hospital de Ancud
+Crisis hipertensiva,4,0,2,0,1,0,1,0,2022,Chiloé,Hospital,Hospital de Ancud
+Arritmia grave,12,4,1,1,1,3,0,2,2022,Chiloé,Hospital,Hospital de Ancud
+Otras causas circulatorias,39,6,9,6,7,5,3,3,2022,Chiloé,Hospital,Hospital de Ancud
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,464,84,61,81,84,64,51,39,2022,Chiloé,Hospital,Hospital de Ancud
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+Lesiones autoinfligidas intencionalmente (X60-X84),2,1,0,1,0,0,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+Otras causas externas,462,83,61,80,84,64,51,39,2022,Chiloé,Hospital,Hospital de Ancud
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),59,10,12,11,13,10,3,0,2022,Chiloé,Hospital,Hospital de Ancud
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),16,2,1,2,7,3,1,0,2022,Chiloé,Hospital,Hospital de Ancud
+Trastornos del Humor (Afectivos) (F30-F39),5,0,1,2,0,2,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",26,6,7,4,5,4,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+Otros trastornos mentales no contenidos en las categorías anteriores,12,2,3,3,1,1,2,0,2022,Chiloé,Hospital,Hospital de Ancud
+DIARREA AGUDA (A00-A09),100,33,12,21,18,9,4,3,2022,Chiloé,Hospital,Hospital de Ancud
+TOTAL DEMÁS CAUSAS,1599,294,263,288,251,241,155,107,2022,Chiloé,Hospital,Hospital de Ancud
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,396,58,48,67,56,41,67,59,2022,Chiloé,Hospital,Hospital de Ancud
+- CAUSAS SISTEMA RESPIRATORIO,17,3,1,1,2,5,2,3,2022,Chiloé,Hospital,Hospital de Ancud
+- COVID 19 SOSPECHOSO (U072),8,0,0,1,0,0,3,4,2022,Chiloé,Hospital,Hospital de Ancud
+- COVID 19 CONFIRMADO (U071),13,1,0,1,2,1,3,5,2022,Chiloé,Hospital,Hospital de Ancud
+- CAUSAS SISTEMA CIRCULATORIO,37,2,6,4,6,4,7,8,2022,Chiloé,Hospital,Hospital de Ancud
+- TRAUMATISMOS Y ENVENENAMIENTOS,15,0,0,0,6,0,6,3,2022,Chiloé,Hospital,Hospital de Ancud
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),6,0,0,0,0,6,0,0,2022,Chiloé,Hospital,Hospital de Ancud
+- LAS DEMÁS CAUSAS,300,52,41,60,40,25,46,36,2022,Chiloé,Hospital,Hospital de Ancud
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Chiloé,Hospital,Hospital de Ancud

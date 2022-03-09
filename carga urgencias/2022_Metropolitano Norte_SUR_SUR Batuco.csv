@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2600,447,503,550,605,495,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2442,436,492,518,565,431,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,550,71,118,124,140,97,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+IRA Alta (J00-J06),485,70,97,111,120,87,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Influenza (J09-J11),0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Neumonía (J12-J18),4,0,2,2,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Bronquitis/bronquiolitis aguda (J20-J21),35,1,11,10,5,8,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Crisis obstructiva bronquial (J40-J46),4,0,1,1,1,1,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,0,7,0,14,1,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+COVID 19 Sospechoso (U072),391,20,32,91,134,114,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+COVID 19 Confirmado (U071),4,0,0,1,0,3,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,74,17,8,24,17,8,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Infarto agudo miocardio,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Accidente vascular encefálico,3,0,1,2,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Crisis hipertensiva,33,7,2,11,8,5,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Arritmia grave,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Otras causas circulatorias,38,10,5,11,9,3,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,265,42,81,52,53,37,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Accidentes del tránsito,5,0,4,0,1,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Otras causas externas,260,42,77,52,52,37,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),26,0,7,7,7,5,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Ideación Suicida (R458),3,0,1,2,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",22,0,5,5,7,5,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+DIARREA AGUDA (A00-A09),80,13,22,22,15,8,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+TOTAL DEMÁS CAUSAS,1052,273,224,197,199,159,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,-,-,2022,Metropolitano Norte,SUR,SUR Batuco

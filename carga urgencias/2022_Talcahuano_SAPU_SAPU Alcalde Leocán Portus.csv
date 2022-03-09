@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3372,504,491,537,566,554,391,329,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3370,504,491,535,566,554,391,329,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+TOTAL CAUSAS SISTEMA RESPIRATORIO,290,46,30,51,66,58,21,18,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+IRA Alta (J00-J06),231,30,25,39,51,51,18,17,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Neumonía (J12-J18),1,0,0,1,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Bronquitis/bronquiolitis aguda (J20-J21),38,13,1,6,10,5,2,1,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Crisis obstructiva bronquial (J40-J46),9,1,1,3,2,2,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,2,3,2,3,0,1,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+COVID 19 Sospechoso (U072),1269,125,129,157,201,265,212,180,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+COVID 19 Confirmado (U071),6,0,0,0,0,3,1,2,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,8,3,3,2,1,2,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Infarto agudo miocardio,3,2,0,0,1,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Accidente vascular encefálico,2,0,1,1,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Crisis hipertensiva,6,2,1,2,0,0,1,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Otras causas circulatorias,7,3,1,0,1,1,1,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,4,1,0,3,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Otras causas externas,4,1,0,3,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),27,5,6,5,5,2,2,2,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",27,5,6,5,5,2,2,2,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+DIARREA AGUDA (A00-A09),84,25,8,11,21,5,10,4,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+TOTAL DEMÁS CAUSAS,1671,294,315,305,271,220,143,123,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Alcalde Leocán Portus

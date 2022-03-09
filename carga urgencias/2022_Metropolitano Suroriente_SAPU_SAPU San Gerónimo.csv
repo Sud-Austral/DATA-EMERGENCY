@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8563,1140,1147,1245,1572,1523,1412,524,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,7905,1078,1058,1152,1383,1423,1312,499,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,850,166,171,102,87,150,133,41,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+IRA Alta (J00-J06),338,58,71,50,36,53,47,23,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Neumonía (J12-J18),11,0,2,0,1,2,4,2,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Bronquitis/bronquiolitis aguda (J20-J21),35,5,6,8,1,10,1,4,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Crisis obstructiva bronquial (J40-J46),52,10,11,5,13,6,4,3,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",414,93,81,39,36,79,77,9,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+COVID 19 Sospechoso (U072),1,0,0,0,1,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+COVID 19 Confirmado (U071),4046,267,326,590,873,920,760,310,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,111,27,28,15,14,13,11,3,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Infarto agudo miocardio,1,0,1,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Accidente vascular encefálico,8,2,0,0,1,2,3,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Crisis hipertensiva,37,7,12,7,5,5,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Arritmia grave,18,4,3,2,2,0,4,3,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Otras causas circulatorias,47,14,12,6,6,6,3,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,91,15,19,10,15,10,16,6,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Otras causas externas,91,15,19,10,15,10,16,6,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),85,17,17,13,6,14,13,5,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,0,2,1,1,1,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Trastornos del Humor (Afectivos) (F30-F39),1,0,0,0,0,0,1,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",55,13,10,9,3,9,11,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+Otros trastornos mentales no contenidos en las categorías anteriores,23,4,5,3,2,4,0,5,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+DIARREA AGUDA (A00-A09),71,14,22,11,10,6,5,3,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+TOTAL DEMÁS CAUSAS,2650,572,475,411,377,310,374,131,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAPU,SAPU San Gerónimo

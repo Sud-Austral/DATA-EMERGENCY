@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1830,287,277,250,222,264,307,223,2022,Valdivia,SAPU,SAPU Panguipulli
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1627,248,245,220,233,238,259,184,2022,Valdivia,SAPU,SAPU Panguipulli
+TOTAL CAUSAS SISTEMA RESPIRATORIO,214,27,20,34,21,37,60,15,2022,Valdivia,SAPU,SAPU Panguipulli
+IRA Alta (J00-J06),135,19,12,29,17,32,13,13,2022,Valdivia,SAPU,SAPU Panguipulli
+Influenza (J09-J11),8,0,4,1,0,1,1,1,2022,Valdivia,SAPU,SAPU Panguipulli
+Neumonía (J12-J18),2,1,1,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Bronquitis/bronquiolitis aguda (J20-J21),7,1,0,0,4,0,1,1,2022,Valdivia,SAPU,SAPU Panguipulli
+Crisis obstructiva bronquial (J40-J46),14,0,1,1,0,4,8,0,2022,Valdivia,SAPU,SAPU Panguipulli
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",48,6,2,3,0,0,37,0,2022,Valdivia,SAPU,SAPU Panguipulli
+COVID 19 Sospechoso (U072),532,81,83,53,113,65,72,65,2022,Valdivia,SAPU,SAPU Panguipulli
+COVID 19 Confirmado (U071),165,2,2,5,8,57,49,42,2022,Valdivia,SAPU,SAPU Panguipulli
+TOTAL CAUSAS SISTEMA CIRCULATORIO,18,6,3,1,1,4,3,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Crisis hipertensiva,11,5,1,1,0,2,2,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Otras causas circulatorias,7,1,2,0,1,2,1,0,2022,Valdivia,SAPU,SAPU Panguipulli
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,104,21,18,20,7,12,13,13,2022,Valdivia,SAPU,SAPU Panguipulli
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Otras causas externas,104,21,18,20,7,12,13,13,2022,Valdivia,SAPU,SAPU Panguipulli
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),9,1,0,3,3,2,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",8,1,0,3,2,2,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+DIARREA AGUDA (A00-A09),13,1,3,1,3,3,0,2,2022,Valdivia,SAPU,SAPU Panguipulli
+TOTAL DEMÁS CAUSAS,572,109,116,103,77,58,62,47,2022,Valdivia,SAPU,SAPU Panguipulli
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAPU,SAPU Panguipulli

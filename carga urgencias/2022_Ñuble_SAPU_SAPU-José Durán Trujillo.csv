@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3729,542,541,629,495,522,599,401,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3715,541,540,629,495,522,599,389,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,274,96,32,53,20,32,29,12,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+IRA Alta (J00-J06),215,77,25,37,17,27,25,7,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Influenza (J09-J11),5,0,0,5,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Neumonía (J12-J18),1,1,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Bronquitis/bronquiolitis aguda (J20-J21),11,4,2,4,1,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Crisis obstructiva bronquial (J40-J46),13,5,1,3,0,2,0,2,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,9,4,4,2,3,4,3,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+COVID 19 Sospechoso (U072),1272,61,146,148,139,257,300,221,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+COVID 19 Confirmado (U071),143,2,4,22,56,13,46,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,46,8,6,6,5,4,10,7,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Crisis hipertensiva,35,6,3,4,4,3,10,5,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Otras causas circulatorias,11,2,3,2,1,1,0,2,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,193,29,30,33,25,21,39,16,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Otras causas externas,193,29,30,33,25,21,39,16,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),14,2,1,3,2,3,1,2,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",10,2,1,3,2,1,0,1,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,0,0,2,0,1,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+DIARREA AGUDA (A00-A09),8,1,1,4,0,0,1,1,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+TOTAL DEMÁS CAUSAS,1765,342,320,360,248,192,173,130,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-José Durán Trujillo

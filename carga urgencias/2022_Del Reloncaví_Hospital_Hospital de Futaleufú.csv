@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1114,121,161,158,154,210,174,136,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1077,118,156,149,153,201,168,132,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+TOTAL CAUSAS SISTEMA RESPIRATORIO,184,23,11,19,46,42,20,23,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+IRA Alta (J00-J06),155,20,6,14,40,38,17,20,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Neumonía (J12-J18),2,0,0,1,1,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Bronquitis/bronquiolitis aguda (J20-J21),11,1,2,3,0,2,3,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Crisis obstructiva bronquial (J40-J46),3,0,1,0,2,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,2,1,1,3,2,0,3,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+COVID 19 Sospechoso (U072),120,1,3,8,11,36,40,21,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+COVID 19 Confirmado (U071),50,0,0,1,2,26,11,10,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+TOTAL CAUSAS SISTEMA CIRCULATORIO,14,3,3,2,2,0,3,1,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Crisis hipertensiva,6,3,1,0,0,0,2,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Arritmia grave,1,0,0,0,0,0,1,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Otras causas circulatorias,7,0,2,2,2,0,0,1,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,183,27,24,29,25,31,22,25,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Otras causas externas,183,27,24,29,25,31,22,25,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),13,1,5,2,0,1,1,3,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Trastornos del Humor (Afectivos) (F30-F39),3,0,2,1,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",8,0,2,1,0,1,1,3,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+Otros trastornos mentales no contenidos en las categorías anteriores,1,1,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+DIARREA AGUDA (A00-A09),25,3,1,4,3,4,4,6,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+TOTAL DEMÁS CAUSAS,488,60,109,84,64,61,67,43,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,15,1,0,1,13,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- CAUSAS SISTEMA RESPIRATORIO,1,0,0,1,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,1,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+- LAS DEMÁS CAUSAS,13,0,0,0,13,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Futaleufú

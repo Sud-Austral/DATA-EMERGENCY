@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1388,130,167,243,197,234,258,159,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1276,147,134,217,186,230,223,139,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+TOTAL CAUSAS SISTEMA RESPIRATORIO,133,8,21,26,25,19,27,7,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+IRA Alta (J00-J06),98,5,12,17,19,18,24,3,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Neumonía (J12-J18),3,0,1,0,0,1,0,1,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Bronquitis/bronquiolitis aguda (J20-J21),9,1,3,3,1,0,0,1,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Crisis obstructiva bronquial (J40-J46),1,1,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",22,1,5,6,5,0,3,2,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+COVID 19 Sospechoso (U072),421,10,19,63,72,95,99,63,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+COVID 19 Confirmado (U071),7,0,0,1,1,0,4,1,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+TOTAL CAUSAS SISTEMA CIRCULATORIO,25,4,2,7,0,5,0,7,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Accidente vascular encefálico,1,0,0,1,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Crisis hipertensiva,8,1,0,3,0,2,0,2,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Otras causas circulatorias,16,3,2,3,0,3,0,5,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,20,0,0,0,1,3,0,16,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Accidentes del tránsito,3,0,0,0,1,2,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Otras causas externas,17,0,0,0,0,1,0,16,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),4,0,0,0,0,2,2,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,0,0,0,2,1,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+DIARREA AGUDA (A00-A09),3,0,0,0,2,0,0,1,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+TOTAL DEMÁS CAUSAS,663,125,92,120,85,106,91,44,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SUR,SUR Paredones

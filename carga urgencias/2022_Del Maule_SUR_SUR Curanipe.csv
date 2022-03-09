@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,574,72,90,112,108,91,56,45,2022,Del Maule,SUR,SUR Curanipe
+TOTAL CAUSAS SISTEMA RESPIRATORIO,66,13,10,9,12,12,5,5,2022,Del Maule,SUR,SUR Curanipe
+IRA Alta (J00-J06),48,8,9,6,11,9,1,4,2022,Del Maule,SUR,SUR Curanipe
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Neumonía (J12-J18),4,0,0,0,0,2,1,1,2022,Del Maule,SUR,SUR Curanipe
+Bronquitis/bronquiolitis aguda (J20-J21),13,5,1,3,1,0,3,0,2022,Del Maule,SUR,SUR Curanipe
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Curanipe
+COVID 19 Sospechoso (U072),113,5,10,20,21,28,20,9,2022,Del Maule,SUR,SUR Curanipe
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+TOTAL CAUSAS SISTEMA CIRCULATORIO,17,4,1,9,0,2,1,0,2022,Del Maule,SUR,SUR Curanipe
+Infarto agudo miocardio,1,1,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Accidente vascular encefálico,2,0,0,0,0,2,0,0,2022,Del Maule,SUR,SUR Curanipe
+Crisis hipertensiva,10,2,1,6,0,0,1,0,2022,Del Maule,SUR,SUR Curanipe
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Otras causas circulatorias,4,1,0,3,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,2,4,0,1,3,0,1,2022,Del Maule,SUR,SUR Curanipe
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",8,2,3,0,0,2,0,1,2022,Del Maule,SUR,SUR Curanipe
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,0,1,1,0,0,2022,Del Maule,SUR,SUR Curanipe
+DIARREA AGUDA (A00-A09),13,5,2,3,1,0,2,0,2022,Del Maule,SUR,SUR Curanipe
+TOTAL DEMÁS CAUSAS,354,43,63,71,73,46,28,30,2022,Del Maule,SUR,SUR Curanipe
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Curanipe

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1609,208,178,212,249,254,301,207,2022,Atacama,SAPU,SAPU Baquedano
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1609,208,178,212,249,254,301,207,2022,Atacama,SAPU,SAPU Baquedano
+TOTAL CAUSAS SISTEMA RESPIRATORIO,575,66,59,72,64,98,129,87,2022,Atacama,SAPU,SAPU Baquedano
+IRA Alta (J00-J06),517,60,46,68,52,95,114,82,2022,Atacama,SAPU,SAPU Baquedano
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Neumonía (J12-J18),1,0,0,0,0,0,1,0,2022,Atacama,SAPU,SAPU Baquedano
+Bronquitis/bronquiolitis aguda (J20-J21),14,0,2,0,4,1,4,3,2022,Atacama,SAPU,SAPU Baquedano
+Crisis obstructiva bronquial (J40-J46),5,1,2,1,0,1,0,0,2022,Atacama,SAPU,SAPU Baquedano
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",38,5,9,3,8,1,10,2,2022,Atacama,SAPU,SAPU Baquedano
+COVID 19 Sospechoso (U072),56,3,0,6,2,18,4,23,2022,Atacama,SAPU,SAPU Baquedano
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,6,2,3,4,6,1,4,2022,Atacama,SAPU,SAPU Baquedano
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Crisis hipertensiva,21,5,1,2,3,5,1,4,2022,Atacama,SAPU,SAPU Baquedano
+Arritmia grave,1,0,0,0,1,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Otras causas circulatorias,4,1,1,1,0,1,0,0,2022,Atacama,SAPU,SAPU Baquedano
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,121,16,12,24,13,20,22,14,2022,Atacama,SAPU,SAPU Baquedano
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Otras causas externas,121,16,12,24,13,20,22,14,2022,Atacama,SAPU,SAPU Baquedano
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),17,1,0,3,2,4,6,1,2022,Atacama,SAPU,SAPU Baquedano
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Atacama,SAPU,SAPU Baquedano
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,1,0,3,2,3,4,1,2022,Atacama,SAPU,SAPU Baquedano
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,0,0,1,1,0,2022,Atacama,SAPU,SAPU Baquedano
+DIARREA AGUDA (A00-A09),14,1,0,1,8,0,4,0,2022,Atacama,SAPU,SAPU Baquedano
+TOTAL DEMÁS CAUSAS,800,115,105,103,156,108,135,78,2022,Atacama,SAPU,SAPU Baquedano
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Atacama,SAPU,SAPU Baquedano

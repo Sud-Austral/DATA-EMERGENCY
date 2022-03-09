@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,109,-,0,53,46,10,-,0,2022,Iquique,SUR,SUR Tarapacá
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,118,-,0,62,46,10,-,0,2022,Iquique,SUR,SUR Tarapacá
+TOTAL CAUSAS SISTEMA RESPIRATORIO,11,-,0,9,1,1,-,0,2022,Iquique,SUR,SUR Tarapacá
+IRA Alta (J00-J06),10,-,0,8,1,1,-,0,2022,Iquique,SUR,SUR Tarapacá
+Influenza (J09-J11),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Neumonía (J12-J18),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Bronquitis/bronquiolitis aguda (J20-J21),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Crisis obstructiva bronquial (J40-J46),1,-,0,1,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+COVID 19 Sospechoso (U072),26,-,0,8,14,4,-,0,2022,Iquique,SUR,SUR Tarapacá
+COVID 19 Confirmado (U071),37,-,0,23,12,2,-,0,2022,Iquique,SUR,SUR Tarapacá
+TOTAL CAUSAS SISTEMA CIRCULATORIO,1,-,0,1,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Infarto agudo miocardio,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Accidente vascular encefálico,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Crisis hipertensiva,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Arritmia grave,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Otras causas circulatorias,1,-,0,1,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,3,-,0,2,1,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Accidentes del tránsito,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Lesiones autoinfligidas intencionalmente (X60-X84),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Otras causas externas,3,-,0,2,1,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,-,0,0,1,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Ideación Suicida (R458),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Trastornos del Humor (Afectivos) (F30-F39),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+Otros trastornos mentales no contenidos en las categorías anteriores,1,-,0,0,1,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+DIARREA AGUDA (A00-A09),4,-,0,2,2,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+TOTAL DEMÁS CAUSAS,35,-,0,17,15,3,-,0,2022,Iquique,SUR,SUR Tarapacá
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- CAUSAS SISTEMA RESPIRATORIO,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- COVID 19 SOSPECHOSO (U072),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- COVID 19 CONFIRMADO (U071),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- CAUSAS SISTEMA CIRCULATORIO,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+- LAS DEMÁS CAUSAS,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá
+CIRUGÍAS DE URGENCIA,0,-,0,0,0,0,-,0,2022,Iquique,SUR,SUR Tarapacá

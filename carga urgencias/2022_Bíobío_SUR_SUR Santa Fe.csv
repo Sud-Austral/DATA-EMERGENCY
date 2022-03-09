@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Influenza (J09-J11),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Crisis hipertensiva,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Arritmia grave,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Otras causas circulatorias,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Accidentes del tránsito,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Lesiones autoinfligidas intencionalmente (X60-X84),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Otras causas externas,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Ideación Suicida (R458),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Trastornos del Humor (Afectivos) (F30-F39),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+Otros trastornos mentales no contenidos en las categorías anteriores,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- COVID 19 SOSPECHOSO (U072),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- COVID 19 CONFIRMADO (U071),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,2022,Bíobío,SUR,SUR Santa Fe

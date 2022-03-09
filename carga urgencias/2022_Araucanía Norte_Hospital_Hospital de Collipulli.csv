@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3457,207,485,503,552,388,706,616,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3472,322,292,299,567,685,756,551,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+TOTAL CAUSAS SISTEMA RESPIRATORIO,106,19,14,14,16,14,13,16,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+IRA Alta (J00-J06),72,11,11,12,9,11,11,7,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Influenza (J09-J11),2,0,0,0,2,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Neumonía (J12-J18),4,1,0,0,1,1,1,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Bronquitis/bronquiolitis aguda (J20-J21),6,1,1,0,1,1,0,2,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Crisis obstructiva bronquial (J40-J46),7,3,0,0,0,0,1,3,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",15,3,2,2,3,1,0,4,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+COVID 19 Sospechoso (U072),2069,83,95,150,376,495,560,310,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+COVID 19 Confirmado (U071),6,0,3,0,0,3,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+TOTAL CAUSAS SISTEMA CIRCULATORIO,22,1,3,0,5,3,10,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Accidente vascular encefálico,1,0,0,0,1,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Crisis hipertensiva,4,0,0,0,1,1,2,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Arritmia grave,5,0,1,0,0,0,4,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Otras causas circulatorias,12,1,2,0,3,2,4,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,113,13,0,0,17,38,20,25,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Accidentes del tránsito,1,1,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,1,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Otras causas externas,111,12,0,0,17,37,20,25,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),32,6,3,2,3,6,2,10,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,1,0,0,0,0,0,2,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",23,4,3,0,1,6,2,7,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+Otros trastornos mentales no contenidos en las categorías anteriores,6,1,0,2,2,0,0,1,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+DIARREA AGUDA (A00-A09),16,2,2,4,0,3,2,3,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+TOTAL DEMÁS CAUSAS,1059,198,172,129,150,123,149,138,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,37,5,5,6,5,6,7,3,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- CAUSAS SISTEMA RESPIRATORIO,6,0,0,4,1,0,1,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- COVID 19 SOSPECHOSO (U072),19,5,3,1,2,3,3,2,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- COVID 19 CONFIRMADO (U071),4,0,1,0,1,1,0,1,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- TRAUMATISMOS Y ENVENENAMIENTOS,2,0,0,0,0,2,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+- LAS DEMÁS CAUSAS,6,0,1,1,1,0,3,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Norte,Hospital,Hospital de Collipulli

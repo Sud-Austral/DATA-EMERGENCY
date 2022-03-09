@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,296,51,53,49,62,65,16,-,2022,Ñuble,SUR,SUR San Fabián
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,296,51,53,49,62,65,16,-,2022,Ñuble,SUR,SUR San Fabián
+TOTAL CAUSAS SISTEMA RESPIRATORIO,28,4,5,6,4,6,3,-,2022,Ñuble,SUR,SUR San Fabián
+IRA Alta (J00-J06),20,2,4,5,3,5,1,-,2022,Ñuble,SUR,SUR San Fabián
+Influenza (J09-J11),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Neumonía (J12-J18),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Bronquitis/bronquiolitis aguda (J20-J21),1,0,0,0,0,0,1,-,2022,Ñuble,SUR,SUR San Fabián
+Crisis obstructiva bronquial (J40-J46),5,2,1,1,0,0,1,-,2022,Ñuble,SUR,SUR San Fabián
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,0,0,0,1,1,0,-,2022,Ñuble,SUR,SUR San Fabián
+COVID 19 Sospechoso (U072),83,4,7,16,26,27,3,-,2022,Ñuble,SUR,SUR San Fabián
+COVID 19 Confirmado (U071),3,0,0,2,0,1,0,-,2022,Ñuble,SUR,SUR San Fabián
+TOTAL CAUSAS SISTEMA CIRCULATORIO,16,6,3,1,2,4,0,-,2022,Ñuble,SUR,SUR San Fabián
+Infarto agudo miocardio,6,2,1,0,0,3,0,-,2022,Ñuble,SUR,SUR San Fabián
+Accidente vascular encefálico,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Crisis hipertensiva,3,2,0,1,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Arritmia grave,1,0,0,0,0,1,0,-,2022,Ñuble,SUR,SUR San Fabián
+Otras causas circulatorias,6,2,2,0,2,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,36,11,9,4,6,5,1,-,2022,Ñuble,SUR,SUR San Fabián
+Accidentes del tránsito,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Otras causas externas,36,11,9,4,6,5,1,-,2022,Ñuble,SUR,SUR San Fabián
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,0,0,0,1,5,1,-,2022,Ñuble,SUR,SUR San Fabián
+Ideación Suicida (R458),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,0,0,1,2,0,-,2022,Ñuble,SUR,SUR San Fabián
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,0,0,0,3,1,-,2022,Ñuble,SUR,SUR San Fabián
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+DIARREA AGUDA (A00-A09),2,0,2,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+TOTAL DEMÁS CAUSAS,121,26,27,20,23,17,8,-,2022,Ñuble,SUR,SUR San Fabián
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,-,2022,Ñuble,SUR,SUR San Fabián

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5465,734,708,783,967,845,835,593,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4789,665,609,700,796,723,728,568,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+TOTAL CAUSAS SISTEMA RESPIRATORIO,875,151,134,95,164,175,95,61,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+IRA Alta (J00-J06),795,134,116,80,151,167,88,59,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Influenza (J09-J11),1,0,1,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Neumonía (J12-J18),9,4,1,1,1,1,0,1,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Bronquitis/bronquiolitis aguda (J20-J21),52,10,12,8,9,6,6,1,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Crisis obstructiva bronquial (J40-J46),8,1,1,2,2,1,1,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,2,3,4,1,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+COVID 19 Sospechoso (U072),1171,120,150,256,237,149,137,122,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+COVID 19 Confirmado (U071),806,6,18,88,162,179,209,144,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+TOTAL CAUSAS SISTEMA CIRCULATORIO,72,11,9,6,12,16,15,3,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Infarto agudo miocardio,6,2,1,1,0,0,1,1,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Accidente vascular encefálico,3,1,0,0,0,2,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Crisis hipertensiva,33,3,3,3,9,7,7,1,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Arritmia grave,5,0,0,0,0,4,1,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Otras causas circulatorias,25,5,5,2,3,3,6,1,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,271,60,39,29,30,35,42,36,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Otras causas externas,270,60,39,29,30,35,42,35,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),56,18,6,7,10,6,4,5,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,0,1,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Trastornos del Humor (Afectivos) (F30-F39),3,3,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",47,13,6,6,9,5,3,5,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+Otros trastornos mentales no contenidos en las categorías anteriores,4,1,0,1,1,0,1,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+DIARREA AGUDA (A00-A09),36,8,7,1,4,2,9,5,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+TOTAL DEMÁS CAUSAS,1502,291,246,218,177,161,217,192,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Dr. Norman Voulliéme

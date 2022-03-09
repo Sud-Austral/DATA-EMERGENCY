@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,11012,1351,1325,1510,1557,1849,1921,1499,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,10349,1351,1325,1396,1472,1678,1763,1364,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2134,301,260,261,329,319,411,253,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+IRA Alta (J00-J06),1919,264,233,236,300,293,375,218,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Neumonía (J12-J18),22,4,4,1,3,3,3,4,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Bronquitis/bronquiolitis aguda (J20-J21),62,12,13,4,10,3,8,12,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Crisis obstructiva bronquial (J40-J46),84,17,5,10,11,11,14,16,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",47,4,5,10,5,9,11,3,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+COVID 19 Sospechoso (U072),2323,32,129,299,323,580,509,451,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+COVID 19 Confirmado (U071),106,10,6,34,8,16,18,14,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+TOTAL CAUSAS SISTEMA CIRCULATORIO,242,35,39,50,34,31,29,24,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Infarto agudo miocardio,2,2,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Accidente vascular encefálico,14,6,3,3,0,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Crisis hipertensiva,150,17,23,29,26,17,25,13,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Arritmia grave,19,2,4,4,3,5,0,1,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Otras causas circulatorias,57,8,9,14,5,8,4,9,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,883,171,143,116,135,105,117,96,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Otras causas externas,883,171,143,116,135,105,117,96,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),156,29,21,20,20,19,25,22,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,0,2,3,1,0,0,2,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Trastornos del Humor (Afectivos) (F30-F39),4,2,1,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",128,24,15,14,18,15,24,18,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+Otros trastornos mentales no contenidos en las categorías anteriores,16,3,3,3,1,4,0,2,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+DIARREA AGUDA (A00-A09),53,8,11,7,10,4,7,6,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+TOTAL DEMÁS CAUSAS,4452,765,716,609,613,604,647,498,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU-Santa Rosa de Chena

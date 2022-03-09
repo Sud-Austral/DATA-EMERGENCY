@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10987,1488,1427,1397,1595,1738,1927,1415,2022,Del Maule,SAR,SAR San Clemente
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,9921,1394,1340,1306,1440,1533,1618,1290,2022,Del Maule,SAR,SAR San Clemente
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1623,207,200,172,210,272,297,265,2022,Del Maule,SAR,SAR San Clemente
+IRA Alta (J00-J06),1396,165,155,145,170,254,254,253,2022,Del Maule,SAR,SAR San Clemente
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+Neumonía (J12-J18),28,3,3,3,8,3,6,2,2022,Del Maule,SAR,SAR San Clemente
+Bronquitis/bronquiolitis aguda (J20-J21),101,22,22,14,21,9,11,2,2022,Del Maule,SAR,SAR San Clemente
+Crisis obstructiva bronquial (J40-J46),75,13,11,9,10,5,20,7,2022,Del Maule,SAR,SAR San Clemente
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",23,4,9,1,1,1,6,1,2022,Del Maule,SAR,SAR San Clemente
+COVID 19 Sospechoso (U072),1744,136,126,195,328,376,374,209,2022,Del Maule,SAR,SAR San Clemente
+COVID 19 Confirmado (U071),38,3,2,1,5,5,17,5,2022,Del Maule,SAR,SAR San Clemente
+TOTAL CAUSAS SISTEMA CIRCULATORIO,78,11,14,8,16,6,13,10,2022,Del Maule,SAR,SAR San Clemente
+Infarto agudo miocardio,3,0,0,1,0,0,1,1,2022,Del Maule,SAR,SAR San Clemente
+Accidente vascular encefálico,6,2,0,0,1,1,1,1,2022,Del Maule,SAR,SAR San Clemente
+Crisis hipertensiva,13,1,5,2,2,2,0,1,2022,Del Maule,SAR,SAR San Clemente
+Arritmia grave,26,0,6,1,5,1,7,6,2022,Del Maule,SAR,SAR San Clemente
+Otras causas circulatorias,30,8,3,4,8,2,4,1,2022,Del Maule,SAR,SAR San Clemente
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,998,156,178,155,140,140,140,89,2022,Del Maule,SAR,SAR San Clemente
+Accidentes del tránsito,92,10,11,9,8,20,17,17,2022,Del Maule,SAR,SAR San Clemente
+Lesiones autoinfligidas intencionalmente (X60-X84),2,1,0,0,0,0,0,1,2022,Del Maule,SAR,SAR San Clemente
+Otras causas externas,904,145,167,146,132,120,123,71,2022,Del Maule,SAR,SAR San Clemente
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),129,20,13,24,19,16,24,13,2022,Del Maule,SAR,SAR San Clemente
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),15,4,2,3,2,1,3,0,2022,Del Maule,SAR,SAR San Clemente
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",105,14,10,21,16,12,20,12,2022,Del Maule,SAR,SAR San Clemente
+Otros trastornos mentales no contenidos en las categorías anteriores,9,2,1,0,1,3,1,1,2022,Del Maule,SAR,SAR San Clemente
+DIARREA AGUDA (A00-A09),83,18,10,9,17,16,4,9,2022,Del Maule,SAR,SAR San Clemente
+TOTAL DEMÁS CAUSAS,5228,843,797,742,705,702,749,690,2022,Del Maule,SAR,SAR San Clemente
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR San Clemente

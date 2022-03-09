@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4195,408,553,767,853,717,534,363,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3759,453,603,522,667,559,579,376,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1192,164,219,165,234,137,178,95,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+IRA Alta (J00-J06),1070,151,197,149,211,129,153,80,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Influenza (J09-J11),18,0,0,0,0,0,9,9,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Neumonía (J12-J18),7,0,0,2,0,0,3,2,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Bronquitis/bronquiolitis aguda (J20-J21),65,10,13,11,17,4,8,2,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Crisis obstructiva bronquial (J40-J46),20,2,7,2,1,4,3,1,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,1,2,1,5,0,2,1,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+COVID 19 Sospechoso (U072),692,18,42,114,139,167,166,46,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+COVID 19 Confirmado (U071),145,2,3,10,35,35,21,39,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+TOTAL CAUSAS SISTEMA CIRCULATORIO,49,9,12,6,5,3,8,6,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Infarto agudo miocardio,2,0,0,1,0,0,1,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Accidente vascular encefálico,2,0,0,0,0,0,2,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Crisis hipertensiva,23,6,6,3,3,0,1,4,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Arritmia grave,4,1,0,0,1,1,1,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Otras causas circulatorias,18,2,6,2,1,2,3,2,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,277,35,45,33,32,35,41,56,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Accidentes del tránsito,5,1,0,0,0,0,0,4,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Otras causas externas,272,34,45,33,32,35,41,52,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),56,7,11,6,12,9,6,5,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Ideación Suicida (R458),2,0,0,0,0,0,0,2,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,1,2,0,1,0,1,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Trastornos del Humor (Afectivos) (F30-F39),3,0,3,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",31,5,5,3,9,4,4,1,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+Otros trastornos mentales no contenidos en las categorías anteriores,15,1,1,3,2,5,1,2,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+DIARREA AGUDA (A00-A09),16,4,5,3,0,3,0,1,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+TOTAL DEMÁS CAUSAS,1332,214,266,185,210,170,159,128,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Norte,SAPU,SAPU Lucas Sierra

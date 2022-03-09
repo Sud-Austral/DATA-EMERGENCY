@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,334,34,35,51,44,86,56,28,2022,Coquimbo,SUR,SUR Pichasca
+TOTAL CAUSAS SISTEMA RESPIRATORIO,66,4,5,10,2,24,13,8,2022,Coquimbo,SUR,SUR Pichasca
+IRA Alta (J00-J06),41,3,4,4,0,21,9,0,2022,Coquimbo,SUR,SUR Pichasca
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Neumonía (J12-J18),1,0,0,1,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Bronquitis/bronquiolitis aguda (J20-J21),2,0,1,0,0,0,1,0,2022,Coquimbo,SUR,SUR Pichasca
+Crisis obstructiva bronquial (J40-J46),1,1,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",21,0,0,5,2,3,3,8,2022,Coquimbo,SUR,SUR Pichasca
+COVID 19 Sospechoso (U072),79,1,5,5,16,35,14,3,2022,Coquimbo,SUR,SUR Pichasca
+COVID 19 Confirmado (U071),13,0,0,0,2,0,7,4,2022,Coquimbo,SUR,SUR Pichasca
+TOTAL CAUSAS SISTEMA CIRCULATORIO,2,1,0,0,1,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Infarto agudo miocardio,1,1,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Otras causas circulatorias,1,0,0,0,1,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,20,0,0,10,7,3,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Otras causas externas,20,0,0,10,7,3,0,0,2022,Coquimbo,SUR,SUR Pichasca
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+DIARREA AGUDA (A00-A09),20,2,5,4,0,6,3,0,2022,Coquimbo,SUR,SUR Pichasca
+TOTAL DEMÁS CAUSAS,134,26,20,22,16,18,19,13,2022,Coquimbo,SUR,SUR Pichasca
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Coquimbo,SUR,SUR Pichasca

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1809,292,184,276,349,326,257,125,2022,Antofagasta,SAPU,SAPU Corvallis
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1701,259,172,252,332,313,250,123,2022,Antofagasta,SAPU,SAPU Corvallis
+TOTAL CAUSAS SISTEMA RESPIRATORIO,326,100,54,53,49,27,23,20,2022,Antofagasta,SAPU,SAPU Corvallis
+IRA Alta (J00-J06),248,80,48,43,30,20,16,11,2022,Antofagasta,SAPU,SAPU Corvallis
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Neumonía (J12-J18),1,0,0,0,0,1,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Bronquitis/bronquiolitis aguda (J20-J21),21,8,2,2,4,2,3,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Crisis obstructiva bronquial (J40-J46),9,4,2,0,0,0,0,3,2022,Antofagasta,SAPU,SAPU Corvallis
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",47,8,2,8,15,4,4,6,2022,Antofagasta,SAPU,SAPU Corvallis
+COVID 19 Sospechoso (U072),689,32,60,128,202,147,86,34,2022,Antofagasta,SAPU,SAPU Corvallis
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+TOTAL CAUSAS SISTEMA CIRCULATORIO,7,2,1,2,0,1,0,1,2022,Antofagasta,SAPU,SAPU Corvallis
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Accidente vascular encefálico,1,0,1,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Crisis hipertensiva,3,1,0,1,0,0,0,1,2022,Antofagasta,SAPU,SAPU Corvallis
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Otras causas circulatorias,3,1,0,1,0,1,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,83,14,3,10,8,22,19,7,2022,Antofagasta,SAPU,SAPU Corvallis
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Otras causas externas,83,14,3,10,8,22,19,7,2022,Antofagasta,SAPU,SAPU Corvallis
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,2,0,1,0,1,0,1,2022,Antofagasta,SAPU,SAPU Corvallis
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",5,2,0,1,0,1,0,1,2022,Antofagasta,SAPU,SAPU Corvallis
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+DIARREA AGUDA (A00-A09),25,4,5,2,1,4,7,2,2022,Antofagasta,SAPU,SAPU Corvallis
+TOTAL DEMÁS CAUSAS,566,105,49,56,72,111,115,58,2022,Antofagasta,SAPU,SAPU Corvallis
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Antofagasta,SAPU,SAPU Corvallis

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,12469,1364,1306,1675,2015,2141,2184,1784,2022,Del Maule,SAR,SAR Aguas Negras
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,11094,1271,1231,1560,1642,1774,1960,1656,2022,Del Maule,SAR,SAR Aguas Negras
+TOTAL CAUSAS SISTEMA RESPIRATORIO,3186,291,266,415,395,518,693,608,2022,Del Maule,SAR,SAR Aguas Negras
+IRA Alta (J00-J06),3051,260,244,385,383,502,681,596,2022,Del Maule,SAR,SAR Aguas Negras
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+Neumonía (J12-J18),5,0,2,0,1,0,0,2,2022,Del Maule,SAR,SAR Aguas Negras
+Bronquitis/bronquiolitis aguda (J20-J21),70,20,10,18,5,7,6,4,2022,Del Maule,SAR,SAR Aguas Negras
+Crisis obstructiva bronquial (J40-J46),31,5,6,8,2,4,3,3,2022,Del Maule,SAR,SAR Aguas Negras
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",29,6,4,4,4,5,3,3,2022,Del Maule,SAR,SAR Aguas Negras
+COVID 19 Sospechoso (U072),3207,472,469,674,652,446,290,204,2022,Del Maule,SAR,SAR Aguas Negras
+COVID 19 Confirmado (U071),2512,26,68,110,340,581,742,645,2022,Del Maule,SAR,SAR Aguas Negras
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43,10,9,5,4,4,7,4,2022,Del Maule,SAR,SAR Aguas Negras
+Infarto agudo miocardio,3,0,0,0,1,0,1,1,2022,Del Maule,SAR,SAR Aguas Negras
+Accidente vascular encefálico,3,0,0,0,0,1,1,1,2022,Del Maule,SAR,SAR Aguas Negras
+Crisis hipertensiva,16,3,3,5,1,2,2,0,2022,Del Maule,SAR,SAR Aguas Negras
+Arritmia grave,6,2,1,0,1,1,0,1,2022,Del Maule,SAR,SAR Aguas Negras
+Otras causas circulatorias,15,5,5,0,1,0,3,1,2022,Del Maule,SAR,SAR Aguas Negras
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,328,73,74,67,36,30,30,18,2022,Del Maule,SAR,SAR Aguas Negras
+Accidentes del tránsito,9,4,3,0,1,1,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+Lesiones autoinfligidas intencionalmente (X60-X84),2,0,1,0,1,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+Otras causas externas,317,69,70,67,34,29,30,18,2022,Del Maule,SAR,SAR Aguas Negras
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),41,11,9,6,5,2,4,4,2022,Del Maule,SAR,SAR Aguas Negras
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),8,3,1,1,1,0,2,0,2022,Del Maule,SAR,SAR Aguas Negras
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,8,7,5,4,1,1,4,2022,Del Maule,SAR,SAR Aguas Negras
+Otros trastornos mentales no contenidos en las categorías anteriores,3,0,1,0,0,1,1,0,2022,Del Maule,SAR,SAR Aguas Negras
+DIARREA AGUDA (A00-A09),53,13,2,13,13,1,8,3,2022,Del Maule,SAR,SAR Aguas Negras
+TOTAL DEMÁS CAUSAS,1724,375,334,270,197,192,186,170,2022,Del Maule,SAR,SAR Aguas Negras
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SAR,SAR Aguas Negras

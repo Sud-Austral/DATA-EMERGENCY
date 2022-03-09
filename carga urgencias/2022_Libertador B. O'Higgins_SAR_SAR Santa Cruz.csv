@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7197,529,819,960,918,1440,1440,1091,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8071,906,914,1055,1203,1336,1386,1271,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1996,168,223,289,330,315,309,362,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+IRA Alta (J00-J06),1606,128,207,247,311,248,273,192,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Influenza (J09-J11),156,7,1,3,2,18,2,123,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Neumonía (J12-J18),13,1,2,3,2,3,2,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Bronquitis/bronquiolitis aguda (J20-J21),56,7,5,11,5,3,8,17,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Crisis obstructiva bronquial (J40-J46),15,5,1,3,2,1,1,2,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",150,20,7,22,8,42,23,28,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+COVID 19 Sospechoso (U072),737,39,35,76,119,124,162,182,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+COVID 19 Confirmado (U071),1495,5,21,91,241,419,411,307,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+TOTAL CAUSAS SISTEMA CIRCULATORIO,72,17,12,10,8,13,3,9,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Accidente vascular encefálico,5,1,1,0,2,1,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Crisis hipertensiva,37,8,4,6,4,8,2,5,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Arritmia grave,4,0,1,1,1,0,0,1,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Otras causas circulatorias,26,8,6,3,1,4,1,3,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,552,61,92,83,80,58,94,84,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Accidentes del tránsito,5,0,5,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Otras causas externas,547,61,87,83,80,58,94,84,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),75,16,10,4,11,15,11,8,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,2,0,0,2,2,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Trastornos del Humor (Afectivos) (F30-F39),5,0,1,0,0,2,2,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",53,13,7,4,9,9,5,6,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+Otros trastornos mentales no contenidos en las categorías anteriores,11,1,2,0,0,2,4,2,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+DIARREA AGUDA (A00-A09),292,44,47,38,51,36,37,39,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+TOTAL DEMÁS CAUSAS,2852,556,474,464,363,356,359,280,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR Santa Cruz

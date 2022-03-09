@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2146,263,261,300,347,326,384,265,2022,Ñuble,SAPU,SAPU-Ultraestación
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1918,244,242,266,305,289,331,241,2022,Ñuble,SAPU,SAPU-Ultraestación
+TOTAL CAUSAS SISTEMA RESPIRATORIO,328,38,35,36,33,56,77,53,2022,Ñuble,SAPU,SAPU-Ultraestación
+IRA Alta (J00-J06),305,33,31,33,31,52,73,52,2022,Ñuble,SAPU,SAPU-Ultraestación
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Neumonía (J12-J18),2,0,0,0,0,1,0,1,2022,Ñuble,SAPU,SAPU-Ultraestación
+Bronquitis/bronquiolitis aguda (J20-J21),20,5,3,3,2,3,4,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Crisis obstructiva bronquial (J40-J46),1,0,1,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+COVID 19 Sospechoso (U072),477,45,37,76,131,116,37,35,2022,Ñuble,SAPU,SAPU-Ultraestación
+COVID 19 Confirmado (U071),89,0,0,0,7,4,48,30,2022,Ñuble,SAPU,SAPU-Ultraestación
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,0,0,0,1,1,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,1,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,1,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+DIARREA AGUDA (A00-A09),87,23,12,16,4,11,15,6,2022,Ñuble,SAPU,SAPU-Ultraestación
+TOTAL DEMÁS CAUSAS,935,138,158,138,129,101,154,117,2022,Ñuble,SAPU,SAPU-Ultraestación
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Ultraestación

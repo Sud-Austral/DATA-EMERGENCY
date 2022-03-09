@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6662,793,758,861,1053,1172,1194,831,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5723,672,794,768,863,911,1006,709,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+TOTAL CAUSAS SISTEMA RESPIRATORIO,376,59,56,52,39,39,87,44,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+IRA Alta (J00-J06),309,27,41,43,39,31,85,43,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Influenza (J09-J11),6,0,0,0,0,6,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Neumonía (J12-J18),3,0,3,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Bronquitis/bronquiolitis aguda (J20-J21),8,7,1,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Crisis obstructiva bronquial (J40-J46),2,0,0,0,0,0,1,1,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",48,25,11,9,0,2,1,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+COVID 19 Sospechoso (U072),1533,39,84,164,340,330,343,233,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+COVID 19 Confirmado (U071),435,1,1,6,35,111,175,106,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+TOTAL CAUSAS SISTEMA CIRCULATORIO,26,2,3,4,3,3,9,2,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Accidente vascular encefálico,1,0,0,0,0,0,1,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Crisis hipertensiva,22,2,3,4,2,3,7,1,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Arritmia grave,2,0,0,0,1,0,0,1,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Otras causas externas,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),50,6,11,6,3,8,11,5,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+Otros trastornos mentales no contenidos en las categorías anteriores,50,6,11,6,3,8,11,5,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+DIARREA AGUDA (A00-A09),145,36,21,18,18,24,15,13,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+TOTAL DEMÁS CAUSAS,3158,529,618,518,425,396,366,306,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Libertador B. O'Higgins,SAR,SAR San Vicente de Tagua Tagua

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1691,262,193,207,254,277,275,223,2022,Arauco,SUR,SUR Isabel Jiménez
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1149,187,122,129,174,199,184,154,2022,Arauco,SUR,SUR Isabel Jiménez
+TOTAL CAUSAS SISTEMA RESPIRATORIO,167,22,19,11,29,41,20,25,2022,Arauco,SUR,SUR Isabel Jiménez
+IRA Alta (J00-J06),131,14,12,10,25,34,14,22,2022,Arauco,SUR,SUR Isabel Jiménez
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Neumonía (J12-J18),17,4,4,0,1,3,2,3,2022,Arauco,SUR,SUR Isabel Jiménez
+Bronquitis/bronquiolitis aguda (J20-J21),7,3,1,0,1,1,1,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Crisis obstructiva bronquial (J40-J46),5,0,0,1,1,1,2,0,2022,Arauco,SUR,SUR Isabel Jiménez
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,1,2,0,1,2,1,0,2022,Arauco,SUR,SUR Isabel Jiménez
+COVID 19 Sospechoso (U072),188,14,14,23,26,43,44,24,2022,Arauco,SUR,SUR Isabel Jiménez
+COVID 19 Confirmado (U071),22,5,6,2,3,1,3,2,2022,Arauco,SUR,SUR Isabel Jiménez
+TOTAL CAUSAS SISTEMA CIRCULATORIO,34,4,6,2,5,8,3,6,2022,Arauco,SUR,SUR Isabel Jiménez
+Infarto agudo miocardio,2,0,1,0,0,0,1,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Accidente vascular encefálico,4,0,1,0,0,1,0,2,2022,Arauco,SUR,SUR Isabel Jiménez
+Crisis hipertensiva,11,1,3,1,3,1,1,1,2022,Arauco,SUR,SUR Isabel Jiménez
+Arritmia grave,4,0,1,1,0,0,0,2,2022,Arauco,SUR,SUR Isabel Jiménez
+Otras causas circulatorias,13,3,0,0,2,6,1,1,2022,Arauco,SUR,SUR Isabel Jiménez
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,153,27,19,20,21,16,25,25,2022,Arauco,SUR,SUR Isabel Jiménez
+Accidentes del tránsito,1,0,0,1,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Otras causas externas,152,27,19,19,21,16,25,25,2022,Arauco,SUR,SUR Isabel Jiménez
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,7,1,1,2,4,5,2,2022,Arauco,SUR,SUR Isabel Jiménez
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+Trastornos del Humor (Afectivos) (F30-F39),3,0,0,0,1,1,0,1,2022,Arauco,SUR,SUR Isabel Jiménez
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",17,7,1,1,1,2,4,1,2022,Arauco,SUR,SUR Isabel Jiménez
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,0,0,1,1,0,2022,Arauco,SUR,SUR Isabel Jiménez
+DIARREA AGUDA (A00-A09),14,4,3,2,2,1,2,0,2022,Arauco,SUR,SUR Isabel Jiménez
+TOTAL DEMÁS CAUSAS,549,104,54,68,86,85,82,70,2022,Arauco,SUR,SUR Isabel Jiménez
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arauco,SUR,SUR Isabel Jiménez

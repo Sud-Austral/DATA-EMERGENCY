@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1969,205,234,300,351,360,289,230,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1969,205,234,300,351,360,289,230,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,59,8,23,19,6,0,0,3,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+IRA Alta (J00-J06),1,0,1,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Neumonía (J12-J18),1,0,0,1,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Bronquitis/bronquiolitis aguda (J20-J21),8,1,4,3,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Crisis obstructiva bronquial (J40-J46),3,1,1,1,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",46,6,17,14,6,0,0,3,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+COVID 19 Sospechoso (U072),1556,71,120,196,315,360,289,205,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,5,1,1,1,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Crisis hipertensiva,3,1,0,1,1,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Otras causas circulatorias,4,3,1,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,2,0,1,1,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Otras causas externas,2,0,1,1,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),11,6,2,2,1,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Trastornos del Humor (Afectivos) (F30-F39),1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+Otros trastornos mentales no contenidos en las categorías anteriores,10,5,2,2,1,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+DIARREA AGUDA (A00-A09),54,23,17,10,3,0,0,1,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+TOTAL DEMÁS CAUSAS,279,92,70,71,25,0,0,21,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,CEAR,CEAR Rocas de Santo Domingo

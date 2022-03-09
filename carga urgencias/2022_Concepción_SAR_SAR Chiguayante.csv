@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,10286,1731,1024,744,1702,2042,1440,1603,2022,Concepción,SAR,SAR Chiguayante
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,12907,1616,1755,1783,1875,2221,2096,1561,2022,Concepción,SAR,SAR Chiguayante
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1432,230,174,247,164,253,215,149,2022,Concepción,SAR,SAR Chiguayante
+IRA Alta (J00-J06),1039,156,139,143,118,198,173,112,2022,Concepción,SAR,SAR Chiguayante
+Influenza (J09-J11),36,1,0,33,0,0,1,1,2022,Concepción,SAR,SAR Chiguayante
+Neumonía (J12-J18),22,6,4,1,0,4,2,5,2022,Concepción,SAR,SAR Chiguayante
+Bronquitis/bronquiolitis aguda (J20-J21),98,15,7,31,19,7,7,12,2022,Concepción,SAR,SAR Chiguayante
+Crisis obstructiva bronquial (J40-J46),35,5,5,4,7,8,3,3,2022,Concepción,SAR,SAR Chiguayante
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",202,47,19,35,20,36,29,16,2022,Concepción,SAR,SAR Chiguayante
+COVID 19 Sospechoso (U072),3756,238,337,332,711,758,740,640,2022,Concepción,SAR,SAR Chiguayante
+COVID 19 Confirmado (U071),584,11,5,5,3,166,229,165,2022,Concepción,SAR,SAR Chiguayante
+TOTAL CAUSAS SISTEMA CIRCULATORIO,112,14,22,21,15,14,16,10,2022,Concepción,SAR,SAR Chiguayante
+Infarto agudo miocardio,3,0,0,1,0,0,2,0,2022,Concepción,SAR,SAR Chiguayante
+Accidente vascular encefálico,7,0,0,0,2,4,0,1,2022,Concepción,SAR,SAR Chiguayante
+Crisis hipertensiva,62,8,18,12,9,3,10,2,2022,Concepción,SAR,SAR Chiguayante
+Arritmia grave,14,0,2,8,2,0,0,2,2022,Concepción,SAR,SAR Chiguayante
+Otras causas circulatorias,26,6,2,0,2,7,4,5,2022,Concepción,SAR,SAR Chiguayante
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,163,17,37,21,29,23,23,13,2022,Concepción,SAR,SAR Chiguayante
+Accidentes del tránsito,4,0,0,3,0,0,1,0,2022,Concepción,SAR,SAR Chiguayante
+Lesiones autoinfligidas intencionalmente (X60-X84),3,0,0,3,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+Otras causas externas,156,17,37,15,29,23,22,13,2022,Concepción,SAR,SAR Chiguayante
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),270,28,35,78,50,11,50,18,2022,Concepción,SAR,SAR Chiguayante
+Ideación Suicida (R458),8,1,2,1,1,0,1,2,2022,Concepción,SAR,SAR Chiguayante
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),15,1,4,6,0,1,2,1,2022,Concepción,SAR,SAR Chiguayante
+Trastornos del Humor (Afectivos) (F30-F39),3,2,0,1,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",110,13,7,45,12,6,21,6,2022,Concepción,SAR,SAR Chiguayante
+Otros trastornos mentales no contenidos en las categorías anteriores,134,11,22,25,37,4,26,9,2022,Concepción,SAR,SAR Chiguayante
+DIARREA AGUDA (A00-A09),58,5,1,18,6,11,14,3,2022,Concepción,SAR,SAR Chiguayante
+TOTAL DEMÁS CAUSAS,6532,1073,1144,1061,897,985,809,563,2022,Concepción,SAR,SAR Chiguayante
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Concepción,SAR,SAR Chiguayante

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7742,1228,1250,1351,1258,1182,875,598,2022,Arica,SAR,SAR EU Iris Véliz Hume
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6455,924,995,1085,1028,1036,826,561,2022,Arica,SAR,SAR EU Iris Véliz Hume
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1741,341,347,278,272,279,149,75,2022,Arica,SAR,SAR EU Iris Véliz Hume
+IRA Alta (J00-J06),1587,300,320,256,254,261,128,68,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Neumonía (J12-J18),7,1,1,0,0,2,2,1,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Bronquitis/bronquiolitis aguda (J20-J21),100,30,19,16,14,8,10,3,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Crisis obstructiva bronquial (J40-J46),15,3,2,3,1,3,2,1,2022,Arica,SAR,SAR EU Iris Véliz Hume
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",32,7,5,3,3,5,7,2,2022,Arica,SAR,SAR EU Iris Véliz Hume
+COVID 19 Sospechoso (U072),335,38,34,78,73,47,48,17,2022,Arica,SAR,SAR EU Iris Véliz Hume
+COVID 19 Confirmado (U071),1627,82,176,380,423,292,176,98,2022,Arica,SAR,SAR EU Iris Véliz Hume
+TOTAL CAUSAS SISTEMA CIRCULATORIO,68,10,26,7,5,5,9,6,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Infarto agudo miocardio,1,1,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Crisis hipertensiva,27,1,5,4,2,4,6,5,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Arritmia grave,3,1,0,0,1,0,1,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Otras causas circulatorias,37,7,21,3,2,1,2,1,2022,Arica,SAR,SAR EU Iris Véliz Hume
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,458,72,70,39,55,76,88,58,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Otras causas externas,458,72,70,39,55,76,88,58,2022,Arica,SAR,SAR EU Iris Véliz Hume
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),26,0,3,12,1,0,4,6,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,1,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",13,0,2,1,1,0,4,5,2022,Arica,SAR,SAR EU Iris Véliz Hume
+Otros trastornos mentales no contenidos en las categorías anteriores,12,0,0,11,0,0,0,1,2022,Arica,SAR,SAR EU Iris Véliz Hume
+DIARREA AGUDA (A00-A09),189,40,10,19,9,46,32,33,2022,Arica,SAR,SAR EU Iris Véliz Hume
+TOTAL DEMÁS CAUSAS,2011,341,329,272,190,291,320,268,2022,Arica,SAR,SAR EU Iris Véliz Hume
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arica,SAR,SAR EU Iris Véliz Hume

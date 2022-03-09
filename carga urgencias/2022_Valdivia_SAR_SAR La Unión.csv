@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4760,731,698,676,728,764,725,438,2022,Valdivia,SAR,SAR La Unión
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4760,731,698,676,728,764,725,438,2022,Valdivia,SAR,SAR La Unión
+TOTAL CAUSAS SISTEMA RESPIRATORIO,527,74,82,68,89,67,107,40,2022,Valdivia,SAR,SAR La Unión
+IRA Alta (J00-J06),392,52,65,51,76,58,55,35,2022,Valdivia,SAR,SAR La Unión
+Influenza (J09-J11),3,0,0,0,3,0,0,0,2022,Valdivia,SAR,SAR La Unión
+Neumonía (J12-J18),10,3,3,0,1,0,1,2,2022,Valdivia,SAR,SAR La Unión
+Bronquitis/bronquiolitis aguda (J20-J21),46,9,10,10,3,7,5,2,2022,Valdivia,SAR,SAR La Unión
+Crisis obstructiva bronquial (J40-J46),21,4,2,4,5,2,4,0,2022,Valdivia,SAR,SAR La Unión
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",55,6,2,3,1,0,42,1,2022,Valdivia,SAR,SAR La Unión
+COVID 19 Sospechoso (U072),773,83,41,88,133,211,104,113,2022,Valdivia,SAR,SAR La Unión
+COVID 19 Confirmado (U071),340,3,7,10,48,66,140,66,2022,Valdivia,SAR,SAR La Unión
+TOTAL CAUSAS SISTEMA CIRCULATORIO,81,21,9,13,13,11,11,3,2022,Valdivia,SAR,SAR La Unión
+Infarto agudo miocardio,3,1,0,0,0,0,1,1,2022,Valdivia,SAR,SAR La Unión
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+Crisis hipertensiva,37,9,2,7,10,5,4,0,2022,Valdivia,SAR,SAR La Unión
+Arritmia grave,6,0,1,0,1,2,2,0,2022,Valdivia,SAR,SAR La Unión
+Otras causas circulatorias,35,11,6,6,2,4,4,2,2022,Valdivia,SAR,SAR La Unión
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,498,89,95,74,64,69,56,51,2022,Valdivia,SAR,SAR La Unión
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Valdivia,SAR,SAR La Unión
+Otras causas externas,497,89,95,74,64,69,56,50,2022,Valdivia,SAR,SAR La Unión
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),63,12,15,20,5,2,3,6,2022,Valdivia,SAR,SAR La Unión
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),12,3,5,2,1,0,0,1,2022,Valdivia,SAR,SAR La Unión
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",41,8,7,16,3,1,2,4,2022,Valdivia,SAR,SAR La Unión
+Otros trastornos mentales no contenidos en las categorías anteriores,10,1,3,2,1,1,1,1,2022,Valdivia,SAR,SAR La Unión
+DIARREA AGUDA (A00-A09),77,12,11,16,11,11,7,9,2022,Valdivia,SAR,SAR La Unión
+TOTAL DEMÁS CAUSAS,2401,437,438,387,365,327,297,150,2022,Valdivia,SAR,SAR La Unión
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,SAR,SAR La Unión

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3928,528,588,728,659,609,538,278,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3429,480,529,583,548,532,488,269,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+TOTAL CAUSAS SISTEMA RESPIRATORIO,641,99,81,86,112,111,110,42,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+IRA Alta (J00-J06),567,77,68,78,98,105,101,40,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Influenza (J09-J11),5,3,0,0,1,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Neumonía (J12-J18),20,6,2,2,5,1,3,1,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Bronquitis/bronquiolitis aguda (J20-J21),34,10,10,5,6,1,2,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Crisis obstructiva bronquial (J40-J46),10,2,1,1,2,1,3,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",5,1,0,0,0,3,1,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+COVID 19 Sospechoso (U072),757,96,140,197,151,61,78,34,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+COVID 19 Confirmado (U071),498,7,37,81,103,131,96,43,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+TOTAL CAUSAS SISTEMA CIRCULATORIO,52,5,7,4,11,9,9,7,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Infarto agudo miocardio,3,0,1,0,0,2,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Accidente vascular encefálico,2,0,0,1,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Crisis hipertensiva,25,4,3,3,4,2,6,3,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Arritmia grave,4,0,0,0,1,1,0,2,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Otras causas circulatorias,18,1,3,0,6,4,2,2,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,111,14,24,17,14,15,12,15,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Otras causas externas,110,14,24,17,14,14,12,15,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),32,5,6,5,2,8,4,2,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3,0,0,3,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",21,0,6,2,1,8,2,2,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+Otros trastornos mentales no contenidos en las categorías anteriores,8,5,0,0,1,0,2,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+DIARREA AGUDA (A00-A09),22,0,4,2,5,2,4,5,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+TOTAL DEMÁS CAUSAS,1316,254,230,191,150,195,175,121,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Pablo Neruda

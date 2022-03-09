@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3089,401,366,460,529,520,463,350,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3078,401,366,460,529,520,463,339,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+TOTAL CAUSAS SISTEMA RESPIRATORIO,286,57,60,31,21,49,41,27,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+IRA Alta (J00-J06),266,53,55,30,19,47,39,23,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Bronquitis/bronquiolitis aguda (J20-J21),14,3,2,0,2,2,1,4,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Crisis obstructiva bronquial (J40-J46),4,1,1,1,0,0,1,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",2,0,2,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+COVID 19 Sospechoso (U072),1331,136,152,264,276,228,167,108,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+COVID 19 Confirmado (U071),690,11,27,77,161,192,163,59,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+TOTAL CAUSAS SISTEMA CIRCULATORIO,19,8,3,2,1,0,3,2,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Infarto agudo miocardio,2,0,0,0,1,0,1,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Crisis hipertensiva,7,2,1,2,0,0,0,2,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Arritmia grave,2,0,2,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Otras causas circulatorias,8,6,0,0,0,0,2,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,82,24,17,11,8,4,10,8,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,1,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Otras causas externas,81,24,17,11,7,4,10,8,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),8,0,0,1,2,2,2,1,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",7,0,0,1,2,2,1,1,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,0,0,1,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+DIARREA AGUDA (A00-A09),6,0,5,0,0,0,1,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+TOTAL DEMÁS CAUSAS,656,165,102,74,60,45,76,134,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Central,SAPU,SAPU Consultorio Nº1

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7106,942,1072,1056,1173,1152,1029,682,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6755,938,1050,990,1056,1048,1001,672,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1240,155,205,246,193,170,170,101,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+IRA Alta (J00-J06),943,100,177,195,144,111,129,87,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Influenza (J09-J11),5,1,0,0,3,1,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Neumonía (J12-J18),24,4,4,6,3,3,4,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Bronquitis/bronquiolitis aguda (J20-J21),65,23,13,12,5,5,5,2,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Crisis obstructiva bronquial (J40-J46),15,2,5,2,0,2,2,2,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",188,25,6,31,38,48,30,10,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+COVID 19 Sospechoso (U072),1199,57,52,167,338,293,205,87,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+COVID 19 Confirmado (U071),560,13,71,68,82,93,150,83,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+TOTAL CAUSAS SISTEMA CIRCULATORIO,40,9,2,5,8,4,8,4,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Infarto agudo miocardio,2,1,0,0,0,1,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Accidente vascular encefálico,5,0,0,2,2,0,1,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Crisis hipertensiva,10,3,2,0,1,1,1,2,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Arritmia grave,9,3,0,1,1,2,1,1,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Otras causas circulatorias,14,2,0,2,4,0,5,1,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,108,22,17,11,15,14,18,11,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Otras causas externas,108,22,17,11,15,14,18,11,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),48,9,15,7,3,3,7,4,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",18,6,9,1,0,0,2,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+Otros trastornos mentales no contenidos en las categorías anteriores,30,3,6,6,3,3,5,4,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+DIARREA AGUDA (A00-A09),138,39,50,13,16,5,8,7,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+TOTAL DEMÁS CAUSAS,3422,634,638,473,401,466,435,375,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aníbal Ariztía

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,784,130,103,107,120,113,106,105,2022,Del Maule,SUR,SUR Sarmiento
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,777,127,103,106,118,114,104,105,2022,Del Maule,SUR,SUR Sarmiento
+TOTAL CAUSAS SISTEMA RESPIRATORIO,20,3,0,0,4,4,5,4,2022,Del Maule,SUR,SUR Sarmiento
+IRA Alta (J00-J06),13,2,0,0,3,3,3,2,2022,Del Maule,SUR,SUR Sarmiento
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Crisis obstructiva bronquial (J40-J46),7,1,0,0,1,1,2,2,2022,Del Maule,SUR,SUR Sarmiento
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+COVID 19 Sospechoso (U072),23,1,0,6,2,4,6,4,2022,Del Maule,SUR,SUR Sarmiento
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+TOTAL CAUSAS SISTEMA CIRCULATORIO,3,0,0,1,0,1,1,0,2022,Del Maule,SUR,SUR Sarmiento
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Arritmia grave,1,0,0,1,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Otras causas circulatorias,2,0,0,0,0,1,1,0,2022,Del Maule,SUR,SUR Sarmiento
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,50,10,4,11,5,3,10,7,2022,Del Maule,SUR,SUR Sarmiento
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Otras causas externas,50,10,4,11,5,3,10,7,2022,Del Maule,SUR,SUR Sarmiento
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,1,0,1,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",2,1,0,1,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+DIARREA AGUDA (A00-A09),5,2,0,0,3,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+TOTAL DEMÁS CAUSAS,674,110,99,87,104,102,82,90,2022,Del Maule,SUR,SUR Sarmiento
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Sarmiento

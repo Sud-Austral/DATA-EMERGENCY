@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3585,393,487,457,518,649,660,421,2022,Valdivia,Hospital,Hospital de Lanco
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3057,374,443,410,436,525,531,338,2022,Valdivia,Hospital,Hospital de Lanco
+TOTAL CAUSAS SISTEMA RESPIRATORIO,346,66,73,72,21,38,51,25,2022,Valdivia,Hospital,Hospital de Lanco
+IRA Alta (J00-J06),279,54,52,62,17,32,44,18,2022,Valdivia,Hospital,Hospital de Lanco
+Influenza (J09-J11),8,1,4,0,0,0,2,1,2022,Valdivia,Hospital,Hospital de Lanco
+Neumonía (J12-J18),11,3,0,2,2,1,2,1,2022,Valdivia,Hospital,Hospital de Lanco
+Bronquitis/bronquiolitis aguda (J20-J21),30,5,11,7,0,2,2,3,2022,Valdivia,Hospital,Hospital de Lanco
+Crisis obstructiva bronquial (J40-J46),7,0,1,0,2,2,0,2,2022,Valdivia,Hospital,Hospital de Lanco
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,3,5,1,0,1,1,0,2022,Valdivia,Hospital,Hospital de Lanco
+COVID 19 Sospechoso (U072),339,2,28,36,101,59,61,52,2022,Valdivia,Hospital,Hospital de Lanco
+COVID 19 Confirmado (U071),275,4,7,12,10,90,104,48,2022,Valdivia,Hospital,Hospital de Lanco
+TOTAL CAUSAS SISTEMA CIRCULATORIO,47,2,6,6,7,13,8,5,2022,Valdivia,Hospital,Hospital de Lanco
+Infarto agudo miocardio,9,0,1,1,0,4,2,1,2022,Valdivia,Hospital,Hospital de Lanco
+Accidente vascular encefálico,6,0,1,0,0,2,3,0,2022,Valdivia,Hospital,Hospital de Lanco
+Crisis hipertensiva,5,0,0,2,0,2,0,1,2022,Valdivia,Hospital,Hospital de Lanco
+Arritmia grave,7,0,2,1,2,0,2,0,2022,Valdivia,Hospital,Hospital de Lanco
+Otras causas circulatorias,20,2,2,2,5,5,1,3,2022,Valdivia,Hospital,Hospital de Lanco
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,312,34,60,38,39,56,53,32,2022,Valdivia,Hospital,Hospital de Lanco
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Lanco
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Lanco
+Otras causas externas,312,34,60,38,39,56,53,32,2022,Valdivia,Hospital,Hospital de Lanco
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),41,8,9,3,4,7,5,5,2022,Valdivia,Hospital,Hospital de Lanco
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Lanco
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,0,1,1,0,0,2022,Valdivia,Hospital,Hospital de Lanco
+Trastornos del Humor (Afectivos) (F30-F39),5,2,0,1,0,1,0,1,2022,Valdivia,Hospital,Hospital de Lanco
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",32,5,8,2,3,5,5,4,2022,Valdivia,Hospital,Hospital de Lanco
+Otros trastornos mentales no contenidos en las categorías anteriores,2,1,1,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Lanco
+DIARREA AGUDA (A00-A09),96,9,13,16,18,19,9,12,2022,Valdivia,Hospital,Hospital de Lanco
+TOTAL DEMÁS CAUSAS,1601,249,247,227,236,243,240,159,2022,Valdivia,Hospital,Hospital de Lanco
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,85,14,6,9,14,16,14,12,2022,Valdivia,Hospital,Hospital de Lanco
+- CAUSAS SISTEMA RESPIRATORIO,7,2,1,2,0,0,1,1,2022,Valdivia,Hospital,Hospital de Lanco
+- COVID 19 SOSPECHOSO (U072),4,0,0,0,2,0,2,0,2022,Valdivia,Hospital,Hospital de Lanco
+- COVID 19 CONFIRMADO (U071),5,0,0,0,0,1,2,2,2022,Valdivia,Hospital,Hospital de Lanco
+- CAUSAS SISTEMA CIRCULATORIO,14,2,2,0,1,4,3,2,2022,Valdivia,Hospital,Hospital de Lanco
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Lanco
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),7,2,0,0,1,3,1,0,2022,Valdivia,Hospital,Hospital de Lanco
+- LAS DEMÁS CAUSAS,48,8,3,7,10,8,5,7,2022,Valdivia,Hospital,Hospital de Lanco
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valdivia,Hospital,Hospital de Lanco

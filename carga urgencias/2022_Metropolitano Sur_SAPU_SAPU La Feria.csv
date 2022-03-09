@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3283,473,467,486,551,588,437,281,2022,Metropolitano Sur,SAPU,SAPU La Feria
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2972,428,454,406,461,537,412,274,2022,Metropolitano Sur,SAPU,SAPU La Feria
+TOTAL CAUSAS SISTEMA RESPIRATORIO,376,80,102,53,25,59,32,25,2022,Metropolitano Sur,SAPU,SAPU La Feria
+IRA Alta (J00-J06),324,70,94,45,20,52,26,17,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Neumonía (J12-J18),9,1,1,2,0,1,2,2,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Bronquitis/bronquiolitis aguda (J20-J21),17,3,4,3,1,5,0,1,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Crisis obstructiva bronquial (J40-J46),15,3,2,2,2,1,2,3,2022,Metropolitano Sur,SAPU,SAPU La Feria
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,3,1,1,2,0,2,2,2022,Metropolitano Sur,SAPU,SAPU La Feria
+COVID 19 Sospechoso (U072),1098,82,70,202,231,230,183,100,2022,Metropolitano Sur,SAPU,SAPU La Feria
+COVID 19 Confirmado (U071),67,1,1,4,17,20,10,14,2022,Metropolitano Sur,SAPU,SAPU La Feria
+TOTAL CAUSAS SISTEMA CIRCULATORIO,54,10,9,6,4,11,6,8,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Infarto agudo miocardio,6,0,1,4,0,0,1,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Accidente vascular encefálico,8,2,1,0,1,0,1,3,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Crisis hipertensiva,15,1,3,1,1,7,0,2,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Arritmia grave,4,1,1,0,1,0,0,1,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Otras causas circulatorias,21,6,3,1,1,4,4,2,2022,Metropolitano Sur,SAPU,SAPU La Feria
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,197,39,37,22,25,29,28,17,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Lesiones autoinfligidas intencionalmente (X60-X84),1,1,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Otras causas externas,196,38,37,22,25,29,28,17,2022,Metropolitano Sur,SAPU,SAPU La Feria
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),43,10,7,5,4,8,6,3,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),9,2,4,0,1,0,2,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Trastornos del Humor (Afectivos) (F30-F39),3,1,1,0,1,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",28,6,2,3,2,8,4,3,2022,Metropolitano Sur,SAPU,SAPU La Feria
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,2,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+TOTAL DEMÁS CAUSAS,1137,206,228,114,155,180,147,107,2022,Metropolitano Sur,SAPU,SAPU La Feria
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAPU,SAPU La Feria

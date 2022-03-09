@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2937,399,447,460,531,325,461,314,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2919,397,444,459,528,320,457,314,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+TOTAL CAUSAS SISTEMA RESPIRATORIO,443,47,80,87,97,40,47,45,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+IRA Alta (J00-J06),378,39,66,73,83,37,40,40,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Influenza (J09-J11),1,1,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Neumonía (J12-J18),10,2,2,1,3,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Bronquitis/bronquiolitis aguda (J20-J21),13,2,3,4,1,0,2,1,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Crisis obstructiva bronquial (J40-J46),23,3,6,7,2,1,1,3,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",18,0,3,2,8,1,3,1,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+COVID 19 Sospechoso (U072),141,2,10,17,22,20,23,47,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+COVID 19 Confirmado (U071),278,11,40,27,64,43,84,9,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+TOTAL CAUSAS SISTEMA CIRCULATORIO,65,7,11,12,12,5,8,10,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Infarto agudo miocardio,2,0,1,0,0,0,1,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Accidente vascular encefálico,7,1,2,1,1,1,0,1,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Crisis hipertensiva,20,3,4,3,4,2,1,3,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Arritmia grave,4,2,1,0,1,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Otras causas circulatorias,32,1,3,8,6,2,6,6,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,850,111,111,146,171,92,130,89,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Accidentes del tránsito,250,43,36,50,40,31,26,24,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Otras causas externas,600,68,75,96,131,61,104,65,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),55,10,10,5,12,8,3,7,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),20,1,4,0,6,4,0,5,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,9,5,3,6,3,2,2,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,1,2,0,1,1,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+DIARREA AGUDA (A00-A09),119,26,23,14,19,14,12,11,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+TOTAL DEMÁS CAUSAS,968,183,159,151,131,98,150,96,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,60,12,14,7,10,5,9,3,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- CAUSAS SISTEMA RESPIRATORIO,9,1,2,1,2,0,3,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- CAUSAS SISTEMA CIRCULATORIO,9,1,1,1,2,1,1,2,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- TRAUMATISMOS Y ENVENENAMIENTOS,8,1,0,2,3,0,2,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),3,0,0,0,2,1,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+- LAS DEMÁS CAUSAS,31,9,11,3,1,3,3,1,2022,Araucanía Sur,Hospital,Hospital de Gorbea
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital de Gorbea

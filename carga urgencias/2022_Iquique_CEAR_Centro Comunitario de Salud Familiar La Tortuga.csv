@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2621192,354947,365267,388880,425994,423302,399165,263637,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2415172,335782,343797,353841,383780,380934,366781,250257,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL CAUSAS SISTEMA RESPIRATORIO,338638,51928,50832,53441,53866,51006,46961,30604,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+IRA Alta (J00-J06),253885,38365,37836,39633,40851,38774,35303,23123,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Influenza (J09-J11),2548,326,347,374,346,420,386,349,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Neumonía (J12-J18),8378,1342,1252,1176,1126,1228,1355,899,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Bronquitis/bronquiolitis aguda (J20-J21),21085,4394,3902,3661,2961,2399,2205,1563,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Crisis obstructiva bronquial (J40-J46),11418,2255,1967,1738,1576,1423,1374,1085,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",41392,5246,5528,6859,7006,6762,6338,3653,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+COVID 19 Sospechoso (U072),526273,36916,48498,73288,101919,107191,97761,60700,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+COVID 19 Confirmado (U071),130617,3324,6430,11890,24369,32556,30295,21753,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL CAUSAS SISTEMA CIRCULATORIO,43929,7556,7176,6675,6313,5831,6070,4308,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Infarto agudo miocardio,2430,425,360,335,376,300,383,251,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Accidente vascular encefálico,5006,789,779,720,739,717,717,545,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Crisis hipertensiva,11080,1896,1764,1914,1630,1457,1401,1018,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Arritmia grave,3905,653,628,594,523,542,558,407,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Otras causas circulatorias,21510,3793,3645,3112,3045,2815,3011,2089,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,221614,37506,37264,33020,32195,29542,30156,21931,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Accidentes del tránsito,17151,2802,2893,2685,2548,2028,2349,1846,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Lesiones autoinfligidas intencionalmente (X60-X84),1101,184,182,159,160,142,134,140,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Otras causas externas,203367,34520,34189,30176,29487,27372,27673,19950,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),30513,5345,5344,4593,3947,4086,4182,3016,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Ideación Suicida (R458),952,133,167,146,130,131,136,109,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),3688,698,648,541,488,454,511,348,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Trastornos del Humor (Afectivos) (F30-F39),2507,438,388,384,293,391,364,249,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",16699,2998,2992,2465,2228,2128,2260,1628,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+Otros trastornos mentales no contenidos en las categorías anteriores,6667,1078,1149,1057,808,982,911,682,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+DIARREA AGUDA (A00-A09),51725,10044,9292,7750,7269,6505,6246,4619,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+TOTAL DEMÁS CAUSAS,1071537,183163,178961,163184,153902,144217,145110,103000,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,64939,10406,9974,9611,9464,9523,9589,6372,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- CAUSAS SISTEMA RESPIRATORIO,4890,738,717,680,747,736,769,503,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- COVID 19 SOSPECHOSO (U072),2854,462,438,429,403,436,473,213,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- COVID 19 CONFIRMADO (U071),2662,194,172,198,283,587,688,540,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- CAUSAS SISTEMA CIRCULATORIO,7029,1157,1079,1000,1077,1003,976,737,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- TRAUMATISMOS Y ENVENENAMIENTOS,7637,1184,1127,1166,1179,1183,1090,708,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),1986,327,330,293,297,309,243,187,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+- LAS DEMÁS CAUSAS,37881,6344,6111,5845,5478,5269,5350,3484,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga
+CIRUGÍAS DE URGENCIA,8374,1340,1413,1247,1168,1198,1190,818,2022,Iquique,CEAR,Centro Comunitario de Salud Familiar La Tortuga

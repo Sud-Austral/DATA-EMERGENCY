@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7449,1065,1108,1074,1308,1088,1091,715,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6636,999,991,956,1086,971,948,685,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1710,261,249,287,319,252,221,121,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+IRA Alta (J00-J06),1520,231,223,266,289,226,183,102,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Neumonía (J12-J18),3,0,0,0,0,1,1,1,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Bronquitis/bronquiolitis aguda (J20-J21),34,2,8,3,11,5,3,2,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Crisis obstructiva bronquial (J40-J46),35,8,8,4,3,1,9,2,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",118,20,10,14,16,19,25,14,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+COVID 19 Sospechoso (U072),785,45,62,76,203,177,120,102,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+COVID 19 Confirmado (U071),196,1,4,16,27,58,71,19,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+TOTAL CAUSAS SISTEMA CIRCULATORIO,146,24,29,27,21,18,18,9,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Infarto agudo miocardio,2,2,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Accidente vascular encefálico,4,1,2,1,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Crisis hipertensiva,83,9,16,20,14,7,10,7,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Arritmia grave,3,2,1,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Otras causas circulatorias,54,10,10,6,7,11,8,2,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,573,93,110,75,62,88,86,59,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Accidentes del tránsito,8,0,0,2,2,0,4,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Otras causas externas,565,93,110,73,60,88,82,59,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),102,16,19,18,13,12,12,12,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,2,1,0,1,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Trastornos del Humor (Afectivos) (F30-F39),4,0,1,3,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",90,13,17,14,12,12,11,11,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+Otros trastornos mentales no contenidos en las categorías anteriores,3,1,0,1,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+DIARREA AGUDA (A00-A09),69,16,15,11,11,12,4,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+TOTAL DEMÁS CAUSAS,3055,543,503,446,430,354,416,363,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Luis Chavarría

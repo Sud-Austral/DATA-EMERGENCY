@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,4424,569,579,675,718,721,717,445,2022,Del Maule,SUR,SUR Romeral
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3275,476,410,529,552,472,563,273,2022,Del Maule,SUR,SUR Romeral
+TOTAL CAUSAS SISTEMA RESPIRATORIO,606,101,58,106,93,99,105,44,2022,Del Maule,SUR,SUR Romeral
+IRA Alta (J00-J06),510,94,45,92,88,85,64,42,2022,Del Maule,SUR,SUR Romeral
+Influenza (J09-J11),34,0,0,0,0,0,34,0,2022,Del Maule,SUR,SUR Romeral
+Neumonía (J12-J18),2,1,1,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+Bronquitis/bronquiolitis aguda (J20-J21),44,6,8,8,4,11,5,2,2022,Del Maule,SUR,SUR Romeral
+Crisis obstructiva bronquial (J40-J46),12,0,4,4,0,2,2,0,2022,Del Maule,SUR,SUR Romeral
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",4,0,0,2,1,1,0,0,2022,Del Maule,SUR,SUR Romeral
+COVID 19 Sospechoso (U072),733,66,56,140,211,54,156,50,2022,Del Maule,SUR,SUR Romeral
+COVID 19 Confirmado (U071),443,1,6,21,64,127,135,89,2022,Del Maule,SUR,SUR Romeral
+TOTAL CAUSAS SISTEMA CIRCULATORIO,36,6,9,6,5,5,1,4,2022,Del Maule,SUR,SUR Romeral
+Infarto agudo miocardio,2,1,0,0,0,1,0,0,2022,Del Maule,SUR,SUR Romeral
+Accidente vascular encefálico,8,2,1,3,1,1,0,0,2022,Del Maule,SUR,SUR Romeral
+Crisis hipertensiva,10,3,1,3,0,2,0,1,2022,Del Maule,SUR,SUR Romeral
+Arritmia grave,5,0,1,0,3,0,0,1,2022,Del Maule,SUR,SUR Romeral
+Otras causas circulatorias,11,0,6,0,1,1,1,2,2022,Del Maule,SUR,SUR Romeral
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,206,47,31,49,24,27,24,4,2022,Del Maule,SUR,SUR Romeral
+Accidentes del tránsito,17,1,4,6,3,3,0,0,2022,Del Maule,SUR,SUR Romeral
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+Otras causas externas,189,46,27,43,21,24,24,4,2022,Del Maule,SUR,SUR Romeral
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),31,6,7,5,4,4,4,1,2022,Del Maule,SUR,SUR Romeral
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,1,0,0,0,2022,Del Maule,SUR,SUR Romeral
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",28,5,6,5,3,4,4,1,2022,Del Maule,SUR,SUR Romeral
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,1,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+DIARREA AGUDA (A00-A09),15,2,0,4,0,6,0,3,2022,Del Maule,SUR,SUR Romeral
+TOTAL DEMÁS CAUSAS,1205,247,243,198,151,150,138,78,2022,Del Maule,SUR,SUR Romeral
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Maule,SUR,SUR Romeral

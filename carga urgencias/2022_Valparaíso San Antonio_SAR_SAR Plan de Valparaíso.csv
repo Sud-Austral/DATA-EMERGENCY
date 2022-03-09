@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8477,1168,1297,1333,1251,1269,1214,945,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6933,953,953,968,1043,1052,1110,854,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1675,213,256,267,311,326,199,103,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+IRA Alta (J00-J06),1317,128,185,208,277,261,183,75,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Influenza (J09-J11),129,42,18,27,5,36,0,1,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Neumonía (J12-J18),23,11,4,0,3,3,1,1,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Bronquitis/bronquiolitis aguda (J20-J21),134,22,29,24,18,16,9,16,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Crisis obstructiva bronquial (J40-J46),12,0,4,1,2,4,1,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",60,10,16,7,6,6,5,10,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+COVID 19 Sospechoso (U072),158,41,26,21,6,1,52,11,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+COVID 19 Confirmado (U071),1642,36,107,225,356,378,310,230,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+TOTAL CAUSAS SISTEMA CIRCULATORIO,77,13,6,13,10,10,15,10,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Infarto agudo miocardio,6,1,1,2,1,0,0,1,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Accidente vascular encefálico,1,0,0,0,0,0,0,1,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Crisis hipertensiva,38,3,1,8,7,3,11,5,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Arritmia grave,1,1,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Otras causas circulatorias,31,8,4,3,2,7,4,3,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,365,56,58,56,36,48,65,46,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Otras causas externas,364,56,58,56,36,47,65,46,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),62,17,14,10,1,6,6,8,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,0,3,2,1,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",3,0,2,0,0,1,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+Otros trastornos mentales no contenidos en las categorías anteriores,53,17,9,8,0,5,6,8,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+DIARREA AGUDA (A00-A09),183,44,38,35,20,16,18,12,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+TOTAL DEMÁS CAUSAS,2771,533,448,341,303,267,445,434,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Valparaíso San Antonio,SAR,SAR Plan de Valparaíso

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,141,23,-,118,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,109,12,-,97,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+TOTAL CAUSAS SISTEMA RESPIRATORIO,15,0,-,15,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+IRA Alta (J00-J06),14,0,-,14,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Influenza (J09-J11),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Neumonía (J12-J18),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Crisis obstructiva bronquial (J40-J46),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",1,0,-,1,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+COVID 19 Sospechoso (U072),9,0,-,9,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+COVID 19 Confirmado (U071),2,0,-,2,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+TOTAL CAUSAS SISTEMA CIRCULATORIO,1,1,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Infarto agudo miocardio,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Accidente vascular encefálico,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Crisis hipertensiva,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Arritmia grave,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Otras causas circulatorias,1,1,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,17,2,-,15,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Accidentes del tránsito,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Otras causas externas,17,2,-,15,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),1,0,-,1,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Ideación Suicida (R458),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Trastornos del Humor (Afectivos) (F30-F39),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",1,0,-,1,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+DIARREA AGUDA (A00-A09),3,0,-,3,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+TOTAL DEMÁS CAUSAS,61,9,-,52,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- COVID 19 SOSPECHOSO (U072),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- COVID 19 CONFIRMADO (U071),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+- LAS DEMÁS CAUSAS,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui
+CIRUGÍAS DE URGENCIA,0,0,-,0,-,-,-,-,2022,Coquimbo,SUR,SUR Punitaqui

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2595,312,342,361,404,290,488,398,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2159,300,308,345,339,248,352,267,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+TOTAL CAUSAS SISTEMA RESPIRATORIO,478,103,72,77,61,47,64,54,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+IRA Alta (J00-J06),288,60,38,51,40,30,42,27,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Influenza (J09-J11),8,3,0,1,1,0,3,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Neumonía (J12-J18),49,9,8,8,5,3,8,8,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Bronquitis/bronquiolitis aguda (J20-J21),39,9,5,6,7,4,2,6,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Crisis obstructiva bronquial (J40-J46),48,11,12,5,2,4,6,8,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",46,11,9,6,6,6,3,5,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+COVID 19 Sospechoso (U072),695,39,60,114,137,101,127,117,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+COVID 19 Confirmado (U071),41,1,0,2,8,10,14,6,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+TOTAL CAUSAS SISTEMA CIRCULATORIO,42,12,5,4,5,5,5,6,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Infarto agudo miocardio,9,4,0,1,0,1,2,1,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Accidente vascular encefálico,5,2,0,0,1,2,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Crisis hipertensiva,2,0,0,0,0,1,1,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Arritmia grave,3,0,1,1,1,0,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Otras causas circulatorias,23,6,4,2,3,1,2,5,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,212,21,31,23,40,20,60,17,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Accidentes del tránsito,25,3,2,10,3,0,5,2,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Otras causas externas,187,18,29,13,37,20,55,15,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),34,10,8,6,2,3,1,4,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),7,2,2,0,1,1,0,1,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Trastornos del Humor (Afectivos) (F30-F39),4,1,1,1,0,0,0,1,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",19,4,5,4,1,2,1,2,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+Otros trastornos mentales no contenidos en las categorías anteriores,4,3,0,1,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+DIARREA AGUDA (A00-A09),83,16,18,19,6,5,11,8,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+TOTAL DEMÁS CAUSAS,574,98,114,100,80,57,70,55,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,140,29,26,24,23,9,13,16,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- CAUSAS SISTEMA RESPIRATORIO,32,0,6,8,8,2,3,5,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- COVID 19 SOSPECHOSO (U072),2,0,0,1,0,0,0,1,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- COVID 19 CONFIRMADO (U071),8,1,0,0,1,1,4,1,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- CAUSAS SISTEMA CIRCULATORIO,21,7,2,3,4,2,1,2,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- TRAUMATISMOS Y ENVENENAMIENTOS,5,0,0,2,2,0,1,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),9,4,2,2,0,1,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+- LAS DEMÁS CAUSAS,63,17,16,8,8,3,4,7,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,Hospital,Hospital Dr. Abraham Godoy Peña de Lautaro

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1734,257,209,256,235,295,332,150,2022,Ñuble,SAPU,SAPU-Los Volcanes
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1558,236,187,227,207,264,297,140,2022,Ñuble,SAPU,SAPU-Los Volcanes
+TOTAL CAUSAS SISTEMA RESPIRATORIO,117,30,16,19,8,15,17,12,2022,Ñuble,SAPU,SAPU-Los Volcanes
+IRA Alta (J00-J06),87,25,11,12,6,7,15,11,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Neumonía (J12-J18),2,0,0,1,0,1,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Bronquitis/bronquiolitis aguda (J20-J21),13,1,2,3,2,4,0,1,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Crisis obstructiva bronquial (J40-J46),4,0,0,1,0,2,1,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",11,4,3,2,0,1,1,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+COVID 19 Sospechoso (U072),736,38,62,100,126,175,162,73,2022,Ñuble,SAPU,SAPU-Los Volcanes
+COVID 19 Confirmado (U071),33,0,0,0,2,5,26,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+TOTAL CAUSAS SISTEMA CIRCULATORIO,15,5,2,4,1,2,1,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Accidente vascular encefálico,2,1,0,0,0,1,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Crisis hipertensiva,6,3,1,2,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Otras causas circulatorias,7,1,1,2,1,1,1,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,93,13,22,22,8,11,12,5,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Otras causas externas,92,13,22,22,8,10,12,5,2022,Ñuble,SAPU,SAPU-Los Volcanes
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),5,0,1,1,1,0,1,1,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,1,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",4,0,1,1,0,0,1,1,2022,Ñuble,SAPU,SAPU-Los Volcanes
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+DIARREA AGUDA (A00-A09),2,0,0,0,2,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+TOTAL DEMÁS CAUSAS,557,150,84,81,59,56,78,49,2022,Ñuble,SAPU,SAPU-Los Volcanes
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Ñuble,SAPU,SAPU-Los Volcanes

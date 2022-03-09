@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5325,692,732,702,838,898,904,559,2022,Arauco,SAR,SAR Los Álamos
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4951,667,678,663,784,843,829,487,2022,Arauco,SAR,SAR Los Álamos
+TOTAL CAUSAS SISTEMA RESPIRATORIO,131,13,23,22,23,26,14,10,2022,Arauco,SAR,SAR Los Álamos
+IRA Alta (J00-J06),65,5,14,12,9,15,5,5,2022,Arauco,SAR,SAR Los Álamos
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+Neumonía (J12-J18),4,0,1,0,1,0,1,1,2022,Arauco,SAR,SAR Los Álamos
+Bronquitis/bronquiolitis aguda (J20-J21),24,5,3,4,7,3,2,0,2022,Arauco,SAR,SAR Los Álamos
+Crisis obstructiva bronquial (J40-J46),18,0,2,3,2,5,2,4,2022,Arauco,SAR,SAR Los Álamos
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",20,3,3,3,4,3,4,0,2022,Arauco,SAR,SAR Los Álamos
+COVID 19 Sospechoso (U072),1666,125,134,178,276,355,396,202,2022,Arauco,SAR,SAR Los Álamos
+COVID 19 Confirmado (U071),59,3,6,4,12,7,10,17,2022,Arauco,SAR,SAR Los Álamos
+TOTAL CAUSAS SISTEMA CIRCULATORIO,79,15,17,9,12,11,13,2,2022,Arauco,SAR,SAR Los Álamos
+Infarto agudo miocardio,5,0,0,2,0,1,2,0,2022,Arauco,SAR,SAR Los Álamos
+Accidente vascular encefálico,3,1,1,1,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+Crisis hipertensiva,17,6,3,0,2,4,2,0,2022,Arauco,SAR,SAR Los Álamos
+Arritmia grave,12,1,2,3,2,2,1,1,2022,Arauco,SAR,SAR Los Álamos
+Otras causas circulatorias,42,7,11,3,8,4,8,1,2022,Arauco,SAR,SAR Los Álamos
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,600,84,87,103,99,88,86,53,2022,Arauco,SAR,SAR Los Álamos
+Accidentes del tránsito,3,1,0,0,0,1,1,0,2022,Arauco,SAR,SAR Los Álamos
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,1,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+Otras causas externas,596,83,86,103,99,87,85,53,2022,Arauco,SAR,SAR Los Álamos
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),49,8,9,6,11,7,5,3,2022,Arauco,SAR,SAR Los Álamos
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),6,0,0,0,2,1,1,2,2022,Arauco,SAR,SAR Los Álamos
+Trastornos del Humor (Afectivos) (F30-F39),4,1,0,0,1,0,1,1,2022,Arauco,SAR,SAR Los Álamos
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",30,5,6,5,7,5,2,0,2022,Arauco,SAR,SAR Los Álamos
+Otros trastornos mentales no contenidos en las categorías anteriores,9,2,3,1,1,1,1,0,2022,Arauco,SAR,SAR Los Álamos
+DIARREA AGUDA (A00-A09),119,12,11,10,8,61,14,3,2022,Arauco,SAR,SAR Los Álamos
+TOTAL DEMÁS CAUSAS,2248,407,391,331,343,288,291,197,2022,Arauco,SAR,SAR Los Álamos
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Arauco,SAR,SAR Los Álamos

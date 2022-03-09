@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5218,693,845,960,860,729,674,457,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4870,622,750,883,801,706,666,442,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+TOTAL CAUSAS SISTEMA RESPIRATORIO,369,69,96,50,55,33,33,33,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+IRA Alta (J00-J06),315,57,90,43,47,24,26,28,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Neumonía (J12-J18),7,1,1,0,1,1,1,2,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Bronquitis/bronquiolitis aguda (J20-J21),16,3,1,1,1,4,4,2,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Crisis obstructiva bronquial (J40-J46),19,4,2,4,4,3,1,1,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",12,4,2,2,2,1,1,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+COVID 19 Sospechoso (U072),2205,205,293,479,438,320,291,179,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+COVID 19 Confirmado (U071),422,2,88,103,52,86,67,24,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+TOTAL CAUSAS SISTEMA CIRCULATORIO,61,8,8,10,12,11,8,4,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Infarto agudo miocardio,1,0,0,0,0,1,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Crisis hipertensiva,38,4,6,6,10,7,2,3,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Otras causas circulatorias,21,3,2,4,2,3,6,1,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,328,41,44,49,50,57,48,39,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Accidentes del tránsito,1,0,0,0,0,1,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Otras causas externas,327,41,44,49,50,56,48,39,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),24,4,5,3,2,2,8,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",20,4,5,1,2,2,6,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+Otros trastornos mentales no contenidos en las categorías anteriores,4,0,0,2,0,0,2,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+DIARREA AGUDA (A00-A09),38,7,3,2,9,7,4,6,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+TOTAL DEMÁS CAUSAS,1423,286,213,187,183,190,207,157,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Magallanes,SAR,SAR Dr. Juan Damianovic

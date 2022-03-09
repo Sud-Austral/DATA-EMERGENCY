@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,11928,1713,1690,1709,1762,1975,1841,1238,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,8679,1294,1240,1367,1314,1406,1229,829,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1184,158,130,171,167,215,210,133,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+IRA Alta (J00-J06),807,104,85,101,101,151,162,103,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Influenza (J09-J11),31,2,7,3,8,6,5,0,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Neumonía (J12-J18),81,9,7,19,15,16,9,6,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Bronquitis/bronquiolitis aguda (J20-J21),79,12,12,14,10,10,15,6,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Crisis obstructiva bronquial (J40-J46),68,11,6,13,16,8,7,7,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",118,20,13,21,17,24,12,11,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+COVID 19 Sospechoso (U072),261,12,12,20,57,86,48,26,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+COVID 19 Confirmado (U071),92,12,10,9,12,22,16,11,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+TOTAL CAUSAS SISTEMA CIRCULATORIO,482,89,61,72,69,69,75,47,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Infarto agudo miocardio,37,11,4,5,4,5,2,6,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Accidente vascular encefálico,93,20,16,9,11,12,14,11,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Crisis hipertensiva,8,3,0,1,2,0,1,1,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Arritmia grave,52,5,5,11,7,11,8,5,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Otras causas circulatorias,292,50,36,46,45,41,50,24,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,1645,219,276,279,252,257,216,146,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Accidentes del tránsito,69,3,14,18,13,10,8,3,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Lesiones autoinfligidas intencionalmente (X60-X84),12,4,3,0,0,2,2,1,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Otras causas externas,1564,212,259,261,239,245,206,142,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),350,55,49,75,56,69,29,17,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),35,8,5,7,5,6,1,3,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Trastornos del Humor (Afectivos) (F30-F39),59,8,11,12,7,15,4,2,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",53,6,4,13,13,11,5,1,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+Otros trastornos mentales no contenidos en las categorías anteriores,203,33,29,43,31,37,19,11,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+DIARREA AGUDA (A00-A09),387,58,64,67,60,60,49,29,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+TOTAL DEMÁS CAUSAS,4278,691,638,674,641,628,586,420,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,2070,350,311,323,287,306,292,201,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- CAUSAS SISTEMA RESPIRATORIO,154,20,18,28,26,28,21,13,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- COVID 19 SOSPECHOSO (U072),33,6,1,3,3,5,9,6,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- COVID 19 CONFIRMADO (U071),54,10,8,8,3,10,6,9,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- CAUSAS SISTEMA CIRCULATORIO,325,66,39,47,44,47,49,33,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- TRAUMATISMOS Y ENVENENAMIENTOS,246,31,35,44,42,37,32,25,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),121,19,22,21,16,22,13,8,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+- LAS DEMÁS CAUSAS,1137,198,188,172,153,157,162,107,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,Hospital,Hospital de Puerto Montt

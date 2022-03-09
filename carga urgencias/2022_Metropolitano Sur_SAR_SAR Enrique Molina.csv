@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5266,695,857,829,833,847,719,486,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,4885,663,768,748,768,785,685,468,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+TOTAL CAUSAS SISTEMA RESPIRATORIO,646,147,128,126,79,41,83,42,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+IRA Alta (J00-J06),542,125,105,114,66,28,70,34,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Influenza (J09-J11),6,0,1,0,0,3,0,2,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Neumonía (J12-J18),9,1,4,0,0,3,0,1,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Bronquitis/bronquiolitis aguda (J20-J21),31,6,9,7,2,2,3,2,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Crisis obstructiva bronquial (J40-J46),31,7,8,3,6,3,4,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",27,8,1,2,5,2,6,3,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+COVID 19 Sospechoso (U072),1665,114,203,301,337,368,209,133,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+COVID 19 Confirmado (U071),99,0,0,2,15,39,24,19,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+TOTAL CAUSAS SISTEMA CIRCULATORIO,58,3,16,8,8,7,8,8,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Infarto agudo miocardio,4,0,1,0,0,0,3,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Accidente vascular encefálico,3,0,3,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Crisis hipertensiva,18,2,4,4,1,1,1,5,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Arritmia grave,3,1,1,0,0,0,0,1,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Otras causas circulatorias,30,0,7,4,7,6,4,2,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,415,58,76,42,71,53,67,48,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Accidentes del tránsito,1,0,1,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Otras causas externas,414,58,75,42,71,53,67,48,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),52,8,9,10,7,10,6,2,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,0,0,0,0,1,1,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",45,7,8,8,6,9,5,2,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+Otros trastornos mentales no contenidos en las categorías anteriores,5,1,1,2,1,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+DIARREA AGUDA (A00-A09),29,8,2,0,6,6,4,3,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+TOTAL DEMÁS CAUSAS,1921,325,334,259,245,261,284,213,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Sur,SAR,SAR Enrique Molina

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,8192,1003,1010,888,1241,1514,1570,966,2022,Del Reloncaví,SAR,SAR Puerto Varas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6663,845,883,924,961,1059,1199,792,2022,Del Reloncaví,SAR,SAR Puerto Varas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1081,179,124,194,161,201,141,81,2022,Del Reloncaví,SAR,SAR Puerto Varas
+IRA Alta (J00-J06),877,141,99,167,132,171,110,57,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Influenza (J09-J11),4,0,0,2,0,1,1,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Neumonía (J12-J18),53,6,6,6,6,7,14,8,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Bronquitis/bronquiolitis aguda (J20-J21),84,16,7,14,15,15,7,10,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Crisis obstructiva bronquial (J40-J46),39,9,8,3,5,3,6,5,2022,Del Reloncaví,SAR,SAR Puerto Varas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",24,7,4,2,3,4,3,1,2022,Del Reloncaví,SAR,SAR Puerto Varas
+COVID 19 Sospechoso (U072),1831,67,73,161,246,352,588,344,2022,Del Reloncaví,SAR,SAR Puerto Varas
+COVID 19 Confirmado (U071),182,2,14,10,23,78,33,22,2022,Del Reloncaví,SAR,SAR Puerto Varas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,50,9,11,11,8,4,4,3,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Infarto agudo miocardio,4,1,0,1,2,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Accidente vascular encefálico,6,2,2,0,0,0,2,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Crisis hipertensiva,9,1,2,3,2,1,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Arritmia grave,7,0,1,2,2,1,0,1,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Otras causas circulatorias,24,5,6,5,2,2,2,2,2022,Del Reloncaví,SAR,SAR Puerto Varas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,686,123,125,97,99,91,75,76,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Accidentes del tránsito,2,0,0,0,0,1,1,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Otras causas externas,684,123,125,97,99,90,74,76,2022,Del Reloncaví,SAR,SAR Puerto Varas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),88,12,18,17,12,10,11,8,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),9,2,3,1,1,1,1,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,1,1,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",70,8,14,16,9,8,9,6,2022,Del Reloncaví,SAR,SAR Puerto Varas
+Otros trastornos mentales no contenidos en las categorías anteriores,7,2,1,0,1,0,1,2,2022,Del Reloncaví,SAR,SAR Puerto Varas
+DIARREA AGUDA (A00-A09),134,12,5,76,12,13,11,5,2022,Del Reloncaví,SAR,SAR Puerto Varas
+TOTAL DEMÁS CAUSAS,2611,441,513,358,400,310,336,253,2022,Del Reloncaví,SAR,SAR Puerto Varas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAR,SAR Puerto Varas

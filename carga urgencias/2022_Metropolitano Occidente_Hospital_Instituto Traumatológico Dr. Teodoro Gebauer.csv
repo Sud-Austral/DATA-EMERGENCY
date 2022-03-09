@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,6134,988,935,888,949,899,897,578,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5895,941,899,867,901,866,864,557,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+TOTAL CAUSAS SISTEMA RESPIRATORIO,4,0,0,0,0,0,4,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+IRA Alta (J00-J06),4,0,0,0,0,0,4,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Bronquitis/bronquiolitis aguda (J20-J21),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Crisis obstructiva bronquial (J40-J46),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+COVID 19 Sospechoso (U072),103,2,3,6,28,28,23,13,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+COVID 19 Confirmado (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+TOTAL CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Crisis hipertensiva,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Otras causas circulatorias,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,3919,611,603,556,612,549,589,399,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Accidentes del tránsito,24,1,6,5,4,1,2,5,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Otras causas externas,3895,610,597,551,608,548,587,394,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+DIARREA AGUDA (A00-A09),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+TOTAL DEMÁS CAUSAS,1869,328,293,305,261,289,248,145,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,182,38,22,25,28,22,27,20,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- TRAUMATISMOS Y ENVENENAMIENTOS,182,38,22,25,28,22,27,20,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer
+CIRUGÍAS DE URGENCIA,103,19,16,15,16,10,19,8,2022,Metropolitano Occidente,Hospital,Instituto Traumatológico Dr. Teodoro Gebauer

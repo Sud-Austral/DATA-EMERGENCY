@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,12510,1376,1601,1782,2213,2306,1850,1382,2022,Talcahuano,SAR,SAR Hualpencillo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,12093,1508,1510,1596,1939,1928,1760,1852,2022,Talcahuano,SAR,SAR Hualpencillo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,2327,401,379,407,422,313,201,204,2022,Talcahuano,SAR,SAR Hualpencillo
+IRA Alta (J00-J06),1942,320,288,326,360,262,156,230,2022,Talcahuano,SAR,SAR Hualpencillo
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Neumonía (J12-J18),49,6,11,12,8,5,6,1,2022,Talcahuano,SAR,SAR Hualpencillo
+Bronquitis/bronquiolitis aguda (J20-J21),301,54,61,54,44,33,26,29,2022,Talcahuano,SAR,SAR Hualpencillo
+Crisis obstructiva bronquial (J40-J46),64,17,9,9,5,10,6,8,2022,Talcahuano,SAR,SAR Hualpencillo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",40,4,10,6,5,3,6,6,2022,Talcahuano,SAR,SAR Hualpencillo
+COVID 19 Sospechoso (U072),1657,11,14,64,307,349,708,204,2022,Talcahuano,SAR,SAR Hualpencillo
+COVID 19 Confirmado (U071),1135,14,24,78,240,294,42,443,2022,Talcahuano,SAR,SAR Hualpencillo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,139,25,26,25,21,17,16,9,2022,Talcahuano,SAR,SAR Hualpencillo
+Infarto agudo miocardio,8,1,1,1,0,2,2,1,2022,Talcahuano,SAR,SAR Hualpencillo
+Accidente vascular encefálico,9,3,2,1,1,2,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Crisis hipertensiva,63,12,9,11,11,9,7,4,2022,Talcahuano,SAR,SAR Hualpencillo
+Arritmia grave,19,2,5,6,3,1,2,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Otras causas circulatorias,43,7,9,6,6,3,5,7,2022,Talcahuano,SAR,SAR Hualpencillo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,9,2,4,1,1,1,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Lesiones autoinfligidas intencionalmente (X60-X84),6,1,2,1,1,1,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Otras causas externas,3,1,2,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),146,23,25,18,22,21,24,13,2022,Talcahuano,SAR,SAR Hualpencillo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),19,3,4,0,1,3,5,3,2022,Talcahuano,SAR,SAR Hualpencillo
+Trastornos del Humor (Afectivos) (F30-F39),2,0,0,0,0,1,1,0,2022,Talcahuano,SAR,SAR Hualpencillo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",112,18,21,15,20,15,14,9,2022,Talcahuano,SAR,SAR Hualpencillo
+Otros trastornos mentales no contenidos en las categorías anteriores,13,2,0,3,1,2,4,1,2022,Talcahuano,SAR,SAR Hualpencillo
+DIARREA AGUDA (A00-A09),411,50,98,69,66,46,45,37,2022,Talcahuano,SAR,SAR Hualpencillo
+TOTAL DEMÁS CAUSAS,6063,982,940,934,860,887,724,736,2022,Talcahuano,SAR,SAR Hualpencillo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAR,SAR Hualpencillo

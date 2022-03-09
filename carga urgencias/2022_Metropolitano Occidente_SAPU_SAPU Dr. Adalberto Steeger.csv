@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3023,485,519,554,515,398,353,199,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2577,403,434,448,444,354,318,176,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+TOTAL CAUSAS SISTEMA RESPIRATORIO,460,150,107,74,56,27,32,14,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+IRA Alta (J00-J06),386,119,89,66,51,23,27,11,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Neumonía (J12-J18),3,2,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Bronquitis/bronquiolitis aguda (J20-J21),46,23,11,4,4,1,2,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Crisis obstructiva bronquial (J40-J46),15,1,6,2,0,3,1,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,5,1,2,1,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+COVID 19 Sospechoso (U072),508,24,69,140,167,68,27,13,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+COVID 19 Confirmado (U071),131,3,5,27,10,36,38,12,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+TOTAL CAUSAS SISTEMA CIRCULATORIO,55,12,8,5,14,6,4,6,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Accidente vascular encefálico,2,2,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Crisis hipertensiva,29,3,4,4,10,4,3,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Arritmia grave,1,0,0,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Otras causas circulatorias,23,7,4,1,4,2,1,4,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,182,25,25,26,33,24,25,24,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Accidentes del tránsito,1,0,0,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Otras causas externas,181,25,25,26,33,24,25,23,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),28,5,5,5,3,3,5,2,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,0,1,0,0,2,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Trastornos del Humor (Afectivos) (F30-F39),2,0,1,0,0,0,0,1,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",21,5,3,4,3,3,3,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,1,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+DIARREA AGUDA (A00-A09),4,2,0,1,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+TOTAL DEMÁS CAUSAS,1209,182,215,170,161,190,186,105,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Dr. Adalberto Steeger

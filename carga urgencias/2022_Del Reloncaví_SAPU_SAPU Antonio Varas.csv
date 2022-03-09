@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2447,393,276,340,347,494,298,299,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2603,365,318,381,421,461,377,280,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+TOTAL CAUSAS SISTEMA RESPIRATORIO,446,74,50,78,64,76,61,43,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+IRA Alta (J00-J06),317,54,36,47,55,51,45,29,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Influenza (J09-J11),1,0,0,0,0,0,1,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Neumonía (J12-J18),22,5,0,1,0,7,3,6,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Bronquitis/bronquiolitis aguda (J20-J21),44,9,10,8,4,6,4,3,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Crisis obstructiva bronquial (J40-J46),36,4,4,6,3,10,5,4,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",26,2,0,16,2,2,3,1,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+COVID 19 Sospechoso (U072),740,56,42,72,129,194,144,103,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+COVID 19 Confirmado (U071),26,1,1,0,20,1,0,3,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+TOTAL CAUSAS SISTEMA CIRCULATORIO,45,4,10,11,4,7,4,5,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Infarto agudo miocardio,5,1,1,1,0,2,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Accidente vascular encefálico,2,0,0,1,0,0,1,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Crisis hipertensiva,7,1,2,1,1,1,0,1,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Arritmia grave,4,0,1,1,0,1,1,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Otras causas circulatorias,27,2,6,7,3,3,2,4,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,218,42,32,29,46,26,27,16,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Accidentes del tránsito,4,0,0,0,4,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Otras causas externas,214,42,32,29,42,26,27,16,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),22,2,8,1,6,1,3,1,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),1,0,0,0,0,0,1,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Trastornos del Humor (Afectivos) (F30-F39),1,0,1,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,1,6,0,4,1,2,1,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+Otros trastornos mentales no contenidos en las categorías anteriores,5,1,1,1,2,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+DIARREA AGUDA (A00-A09),23,1,4,9,6,1,1,1,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+TOTAL DEMÁS CAUSAS,1083,185,171,181,146,155,137,108,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Del Reloncaví,SAPU,SAPU Antonio Varas

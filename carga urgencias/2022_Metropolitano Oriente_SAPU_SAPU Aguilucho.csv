@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2930,291,383,483,589,526,410,248,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2672,270,351,445,503,482,392,229,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+TOTAL CAUSAS SISTEMA RESPIRATORIO,210,46,62,33,27,17,14,11,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+IRA Alta (J00-J06),152,32,48,24,17,10,13,8,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Influenza (J09-J11),3,0,2,0,0,0,0,1,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Neumonía (J12-J18),5,1,2,0,1,1,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Bronquitis/bronquiolitis aguda (J20-J21),33,11,7,6,5,2,0,2,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Crisis obstructiva bronquial (J40-J46),8,1,2,2,0,2,1,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",9,1,1,1,4,2,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+COVID 19 Sospechoso (U072),1447,58,122,289,322,317,226,113,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+COVID 19 Confirmado (U071),126,8,4,10,12,38,38,16,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+TOTAL CAUSAS SISTEMA CIRCULATORIO,31,10,8,4,3,2,1,3,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Infarto agudo miocardio,1,1,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Accidente vascular encefálico,2,1,1,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Crisis hipertensiva,10,2,3,3,0,1,0,1,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Arritmia grave,4,0,2,0,1,0,0,1,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Otras causas circulatorias,14,6,2,1,2,1,1,1,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,185,43,31,19,35,21,21,15,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Otras causas externas,185,43,31,19,35,21,21,15,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),15,3,4,1,3,2,0,2,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",14,3,3,1,3,2,0,2,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,1,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+DIARREA AGUDA (A00-A09),13,2,2,3,2,2,1,1,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+TOTAL DEMÁS CAUSAS,645,100,118,86,99,83,91,68,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAPU,SAPU Aguilucho

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1024,203,-,-,-,-,168,653,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1024,203,-,-,-,-,168,653,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+TOTAL CAUSAS SISTEMA RESPIRATORIO,28,6,-,-,-,-,4,18,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+IRA Alta (J00-J06),25,5,-,-,-,-,3,17,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Influenza (J09-J11),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Neumonía (J12-J18),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Bronquitis/bronquiolitis aguda (J20-J21),1,1,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Crisis obstructiva bronquial (J40-J46),2,0,-,-,-,-,1,1,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+COVID 19 Sospechoso (U072),515,73,-,-,-,-,86,356,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+COVID 19 Confirmado (U071),22,1,-,-,-,-,17,4,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,8,-,-,-,-,0,5,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Infarto agudo miocardio,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Accidente vascular encefálico,1,0,-,-,-,-,0,1,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Crisis hipertensiva,7,5,-,-,-,-,0,2,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Arritmia grave,1,0,-,-,-,-,0,1,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Otras causas circulatorias,4,3,-,-,-,-,0,1,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,82,16,-,-,-,-,16,50,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Accidentes del tránsito,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Otras causas externas,82,16,-,-,-,-,16,50,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),7,0,-,-,-,-,0,7,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Ideación Suicida (R458),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Trastornos del Humor (Afectivos) (F30-F39),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",6,0,-,-,-,-,0,6,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,-,-,-,-,0,1,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+DIARREA AGUDA (A00-A09),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+TOTAL DEMÁS CAUSAS,357,99,-,-,-,-,45,213,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- CAUSAS SISTEMA RESPIRATORIO,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- COVID 19 SOSPECHOSO (U072),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- COVID 19 CONFIRMADO (U071),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- CAUSAS SISTEMA CIRCULATORIO,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+- LAS DEMÁS CAUSAS,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria
+CIRUGÍAS DE URGENCIA,0,0,-,-,-,-,0,0,2022,Ñuble,SAR,SAR Dra. Michelle Bachelet Jeria

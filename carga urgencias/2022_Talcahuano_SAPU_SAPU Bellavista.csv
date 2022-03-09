@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,2993,325,307,414,349,702,503,393,2022,Talcahuano,SAPU,SAPU Bellavista
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,2694,319,293,395,324,600,436,327,2022,Talcahuano,SAPU,SAPU Bellavista
+TOTAL CAUSAS SISTEMA RESPIRATORIO,262,43,22,35,11,90,22,39,2022,Talcahuano,SAPU,SAPU Bellavista
+IRA Alta (J00-J06),233,36,17,27,9,86,21,37,2022,Talcahuano,SAPU,SAPU Bellavista
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Neumonía (J12-J18),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Bronquitis/bronquiolitis aguda (J20-J21),15,3,3,5,1,1,0,2,2022,Talcahuano,SAPU,SAPU Bellavista
+Crisis obstructiva bronquial (J40-J46),4,2,0,1,1,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",10,2,2,2,0,3,1,0,2022,Talcahuano,SAPU,SAPU Bellavista
+COVID 19 Sospechoso (U072),1417,87,98,179,199,332,310,212,2022,Talcahuano,SAPU,SAPU Bellavista
+COVID 19 Confirmado (U071),63,0,0,1,15,9,31,7,2022,Talcahuano,SAPU,SAPU Bellavista
+TOTAL CAUSAS SISTEMA CIRCULATORIO,13,4,2,2,2,0,1,2,2022,Talcahuano,SAPU,SAPU Bellavista
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Accidente vascular encefálico,1,1,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Crisis hipertensiva,3,0,0,2,0,0,0,1,2022,Talcahuano,SAPU,SAPU Bellavista
+Arritmia grave,4,1,1,0,1,0,1,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Otras causas circulatorias,5,2,1,0,1,0,0,1,2022,Talcahuano,SAPU,SAPU Bellavista
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,14,2,3,5,0,1,3,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Otras causas externas,14,2,3,5,0,1,3,0,2022,Talcahuano,SAPU,SAPU Bellavista
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),21,7,3,3,3,4,0,1,2022,Talcahuano,SAPU,SAPU Bellavista
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,2,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+Trastornos del Humor (Afectivos) (F30-F39),2,1,1,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",15,4,2,3,2,3,0,1,2022,Talcahuano,SAPU,SAPU Bellavista
+Otros trastornos mentales no contenidos en las categorías anteriores,2,0,0,0,1,1,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+DIARREA AGUDA (A00-A09),50,1,12,7,2,18,1,9,2022,Talcahuano,SAPU,SAPU Bellavista
+TOTAL DEMÁS CAUSAS,854,175,153,163,92,146,68,57,2022,Talcahuano,SAPU,SAPU Bellavista
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Talcahuano,SAPU,SAPU Bellavista

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,3652,443,483,494,582,704,715,231,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,3187,418,433,450,507,571,605,203,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+TOTAL CAUSAS SISTEMA RESPIRATORIO,286,42,46,43,64,43,42,6,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+IRA Alta (J00-J06),229,31,30,36,56,38,33,5,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Influenza (J09-J11),2,0,2,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Neumonía (J12-J18),4,0,2,1,0,1,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Bronquitis/bronquiolitis aguda (J20-J21),11,3,2,3,2,0,1,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Crisis obstructiva bronquial (J40-J46),21,4,5,1,4,1,6,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",19,4,5,2,2,3,2,1,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+COVID 19 Sospechoso (U072),755,35,60,99,133,180,173,75,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+COVID 19 Confirmado (U071),103,3,5,21,27,17,18,12,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+TOTAL CAUSAS SISTEMA CIRCULATORIO,51,10,14,12,0,4,8,3,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Infarto agudo miocardio,2,0,2,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Accidente vascular encefálico,5,0,3,1,0,0,1,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Crisis hipertensiva,12,1,1,5,0,1,1,3,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Arritmia grave,5,1,0,2,0,0,2,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Otras causas circulatorias,27,8,8,4,0,3,4,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,424,79,74,57,64,61,56,33,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Accidentes del tránsito,5,0,3,2,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,0,1,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Otras causas externas,418,79,71,55,64,61,56,32,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),36,5,6,4,9,3,6,3,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),4,0,1,1,2,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Trastornos del Humor (Afectivos) (F30-F39),4,0,2,0,0,0,1,1,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",22,3,3,2,6,3,3,2,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+Otros trastornos mentales no contenidos en las categorías anteriores,6,2,0,1,1,0,2,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+DIARREA AGUDA (A00-A09),44,12,5,9,4,5,7,2,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+TOTAL DEMÁS CAUSAS,1488,232,223,205,206,258,295,69,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,32,12,5,1,6,6,1,1,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- CAUSAS SISTEMA RESPIRATORIO,10,4,3,0,1,1,0,1,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- COVID 19 SOSPECHOSO (U072),8,1,0,0,4,3,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- COVID 19 CONFIRMADO (U071),3,0,0,0,0,2,1,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- CAUSAS SISTEMA CIRCULATORIO,2,2,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- TRAUMATISMOS Y ENVENENAMIENTOS,1,1,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+- LAS DEMÁS CAUSAS,8,4,2,1,1,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,Hospital,Hospital San José de Maipo

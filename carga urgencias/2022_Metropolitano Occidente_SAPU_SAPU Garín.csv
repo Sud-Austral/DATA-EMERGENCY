@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,5299,711,834,841,941,852,785,335,2022,Metropolitano Occidente,SAPU,SAPU Garín
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5121,690,810,819,906,834,772,290,2022,Metropolitano Occidente,SAPU,SAPU Garín
+TOTAL CAUSAS SISTEMA RESPIRATORIO,148,36,25,24,30,15,9,9,2022,Metropolitano Occidente,SAPU,SAPU Garín
+IRA Alta (J00-J06),104,28,19,18,23,6,6,4,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Influenza (J09-J11),1,0,0,0,1,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Neumonía (J12-J18),5,0,0,1,1,0,2,1,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Bronquitis/bronquiolitis aguda (J20-J21),4,1,2,1,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Crisis obstructiva bronquial (J40-J46),20,2,2,3,2,8,1,2,2022,Metropolitano Occidente,SAPU,SAPU Garín
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",14,5,2,1,3,1,0,2,2022,Metropolitano Occidente,SAPU,SAPU Garín
+COVID 19 Sospechoso (U072),2314,259,393,424,424,416,255,143,2022,Metropolitano Occidente,SAPU,SAPU Garín
+COVID 19 Confirmado (U071),669,2,0,46,219,144,236,22,2022,Metropolitano Occidente,SAPU,SAPU Garín
+TOTAL CAUSAS SISTEMA CIRCULATORIO,100,19,14,16,16,7,23,5,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Infarto agudo miocardio,2,0,1,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Accidente vascular encefálico,6,2,1,0,2,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Crisis hipertensiva,46,6,6,13,7,5,5,4,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Arritmia grave,6,1,0,1,0,2,2,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Otras causas circulatorias,40,10,6,2,7,0,14,1,2022,Metropolitano Occidente,SAPU,SAPU Garín
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,329,60,54,71,46,36,51,11,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Accidentes del tránsito,8,1,0,5,0,1,1,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Lesiones autoinfligidas intencionalmente (X60-X84),1,0,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Otras causas externas,320,59,54,66,46,35,49,11,2022,Metropolitano Occidente,SAPU,SAPU Garín
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),44,6,6,8,8,10,6,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),2,1,0,0,0,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",37,5,6,6,6,10,4,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+Otros trastornos mentales no contenidos en las categorías anteriores,5,0,0,2,2,0,1,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+DIARREA AGUDA (A00-A09),8,0,2,0,4,1,0,1,2022,Metropolitano Occidente,SAPU,SAPU Garín
+TOTAL DEMÁS CAUSAS,1509,308,316,230,159,205,192,99,2022,Metropolitano Occidente,SAPU,SAPU Garín
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Occidente,SAPU,SAPU Garín

@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+TOTAL CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+IRA Alta (J00-J06),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Influenza (J09-J11),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Neumonía (J12-J18),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Bronquitis/bronquiolitis aguda (J20-J21),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Crisis obstructiva bronquial (J40-J46),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+COVID 19 Sospechoso (U072),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+COVID 19 Confirmado (U071),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+TOTAL CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Infarto agudo miocardio,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Accidente vascular encefálico,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Crisis hipertensiva,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Arritmia grave,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Otras causas circulatorias,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Accidentes del tránsito,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Lesiones autoinfligidas intencionalmente (X60-X84),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Otras causas externas,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Ideación Suicida (R458),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Trastornos del Humor (Afectivos) (F30-F39),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+Otros trastornos mentales no contenidos en las categorías anteriores,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+DIARREA AGUDA (A00-A09),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+TOTAL DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- CAUSAS SISTEMA RESPIRATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- COVID 19 SOSPECHOSO (U072),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- COVID 19 CONFIRMADO (U071),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- CAUSAS SISTEMA CIRCULATORIO,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- TRAUMATISMOS Y ENVENENAMIENTOS,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+- LAS DEMÁS CAUSAS,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón
+CIRUGÍAS DE URGENCIA,-,-,-,-,-,-,-,-,2022,Viña Del Mar Quillota,SAPU,SAPU Concón

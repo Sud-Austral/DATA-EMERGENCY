@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,1037,176,176,146,136,145,142,116,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,1011,170,175,143,136,140,131,116,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+TOTAL CAUSAS SISTEMA RESPIRATORIO,228,42,27,34,20,42,25,38,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+IRA Alta (J00-J06),176,23,18,29,18,34,19,35,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Influenza (J09-J11),12,5,3,0,0,2,2,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Neumonía (J12-J18),4,1,0,0,0,1,1,1,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Bronquitis/bronquiolitis aguda (J20-J21),22,9,4,1,2,4,1,1,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Crisis obstructiva bronquial (J40-J46),7,2,1,2,0,0,1,1,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",7,2,1,2,0,1,1,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+COVID 19 Sospechoso (U072),109,9,14,14,17,16,24,15,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+COVID 19 Confirmado (U071),4,0,0,0,1,0,1,2,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+TOTAL CAUSAS SISTEMA CIRCULATORIO,8,1,2,2,1,1,1,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Infarto agudo miocardio,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Accidente vascular encefálico,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Crisis hipertensiva,2,1,0,1,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Arritmia grave,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Otras causas circulatorias,6,0,2,1,1,1,1,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,145,24,32,18,18,16,18,19,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Accidentes del tránsito,104,15,22,15,12,12,16,12,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Otras causas externas,41,9,10,3,6,4,2,7,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),13,4,3,2,3,1,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),5,1,2,0,1,1,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",7,3,1,2,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+Otros trastornos mentales no contenidos en las categorías anteriores,1,0,0,0,1,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+DIARREA AGUDA (A00-A09),54,9,11,6,5,10,8,5,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+TOTAL DEMÁS CAUSAS,450,81,86,67,71,54,54,37,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Araucanía Sur,SAPU,SAPU Villa Alegre

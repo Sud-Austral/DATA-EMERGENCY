@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,5994,883,864,607,990,897,1113,640,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+TOTAL CAUSAS SISTEMA RESPIRATORIO,1088,163,205,127,135,147,206,105,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+IRA Alta (J00-J06),332,19,69,30,17,48,96,53,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Influenza (J09-J11),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Neumonía (J12-J18),21,1,1,3,4,2,7,3,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Bronquitis/bronquiolitis aguda (J20-J21),26,3,4,5,1,5,5,3,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Crisis obstructiva bronquial (J40-J46),11,0,5,0,2,1,0,3,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",698,140,126,89,111,91,98,43,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+COVID 19 Sospechoso (U072),1223,60,120,124,344,270,242,63,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+COVID 19 Confirmado (U071),228,15,9,11,43,14,97,39,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+TOTAL CAUSAS SISTEMA CIRCULATORIO,119,17,19,12,14,19,23,15,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Infarto agudo miocardio,4,0,0,0,2,0,1,1,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Accidente vascular encefálico,2,0,0,0,0,0,1,1,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Crisis hipertensiva,52,8,6,4,8,9,13,4,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Arritmia grave,5,2,0,0,0,1,2,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Otras causas circulatorias,56,7,13,8,4,9,6,9,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,312,47,68,24,19,25,69,60,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Accidentes del tránsito,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Otras causas externas,312,47,68,24,19,25,69,60,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+Otros trastornos mentales no contenidos en las categorías anteriores,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+DIARREA AGUDA (A00-A09),26,2,2,5,2,2,3,10,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+TOTAL DEMÁS CAUSAS,2998,579,441,304,433,420,473,348,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Suroriente,SAR,SAR La Bandera

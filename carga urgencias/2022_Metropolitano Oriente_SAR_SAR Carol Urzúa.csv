@@ -1,0 +1,39 @@
+Urgencia,Total,1,2,3,4,5,6,7,Fecha,Region,Tipo Establecimiento,Nombre establecimiento
+TOTAL DEMANDA,7145,1059,995,1061,1191,1196,1061,582,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+SECCIÓN 1 TOTAL ATENCIONES DE URGENCIA,6555,935,944,988,1087,1069,976,556,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+TOTAL CAUSAS SISTEMA RESPIRATORIO,636,80,66,141,63,104,100,82,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+IRA Alta (J00-J06),579,68,61,134,54,97,92,73,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Influenza (J09-J11),2,1,0,1,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Neumonía (J12-J18),5,1,0,0,2,0,0,2,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Bronquitis/bronquiolitis aguda (J20-J21),18,4,2,2,2,3,1,4,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Crisis obstructiva bronquial (J40-J46),2,2,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+"Otra causa respiratoria (J22, J30-J39, J47, J60-J98)",30,4,3,4,5,4,7,3,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+COVID 19 Sospechoso (U072),1175,122,164,186,305,170,208,20,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+COVID 19 Confirmado (U071),595,9,23,39,70,158,187,109,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+TOTAL CAUSAS SISTEMA CIRCULATORIO,24,5,0,0,0,8,5,6,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Infarto agudo miocardio,1,0,0,0,0,0,1,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Accidente vascular encefálico,3,0,0,0,0,2,1,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Crisis hipertensiva,8,4,0,0,0,2,0,2,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Arritmia grave,2,0,0,0,0,0,1,1,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Otras causas circulatorias,10,1,0,0,0,4,2,3,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+TOTAL TRAUMATISMOS Y ENVENENAMIENTO,170,35,17,28,25,7,39,19,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Accidentes del tránsito,33,8,3,7,3,5,3,4,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Lesiones autoinfligidas intencionalmente (X60-X84),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Otras causas externas,137,27,14,21,22,2,36,15,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+TOTAL CAUSAS DE TRASTORNOS MENTALES (F00-F99),2,2,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Ideación Suicida (R458),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Trastornos mentales y del comportamiento debidos al uso de sustancias psicoactivas (F10-F19),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Trastornos del Humor (Afectivos) (F30-F39),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos (F40-F48) Incluído el trastorno de pánico (F410)",0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+Otros trastornos mentales no contenidos en las categorías anteriores,2,2,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+DIARREA AGUDA (A00-A09),287,47,42,59,42,20,39,38,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+TOTAL DEMÁS CAUSAS,3666,635,632,535,582,602,398,282,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+SECCIÓN 2 TOTAL DE HOSPITALIZACIONES,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- CAUSAS SISTEMA RESPIRATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- COVID 19 SOSPECHOSO (U072),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- COVID 19 CONFIRMADO (U071),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- CAUSAS SISTEMA CIRCULATORIO,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- TRAUMATISMOS Y ENVENENAMIENTOS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- CAUSAS POR TRASTORNOS MENTALES (F00-F99),0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+- LAS DEMÁS CAUSAS,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
+CIRUGÍAS DE URGENCIA,0,0,0,0,0,0,0,0,2022,Metropolitano Oriente,SAR,SAR Carol Urzúa
